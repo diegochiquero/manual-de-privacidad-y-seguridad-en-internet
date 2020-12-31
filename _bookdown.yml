@@ -1,4 +1,5 @@
-book_filename: "bookdown-demo"
+book_filename: "manual-de-privacidad-y-seguridad-en-internet"
+output_dir: "docs"
 language:
   ui:
     chapter_name: "Chapter "
