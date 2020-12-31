@@ -1,6 +1,8 @@
 book_filename: "manual-de-privacidad-y-seguridad-en-internet"
 output_dir: "docs"
+edit: https://github.com/diegochiquero/manual-de-privacidad-y-seguridad-en-internet/edit/master/%s
+view: https://github.com/diegochiquero/manual-de-privacidad-y-seguridad-en-internet/blob/master/%s
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Unidad "
 delete_merged_file: true
