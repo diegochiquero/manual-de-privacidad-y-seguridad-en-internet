@@ -3,14 +3,18 @@ title: "Manual de privacidad y seguridad en internet"
 author: "Diego Chiquero Mena"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output:
+  html_document: default
+  pdf_document: default
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Manual de lectura recomendado para conecer los ciberdelitos a los que nos exponemos y cómo evitarlos."
 ---
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)  
+```
 # Privacidad y seguridad en internet
 ## Introducción
 
