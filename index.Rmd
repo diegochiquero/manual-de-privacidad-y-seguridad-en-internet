@@ -1,32 +1,61 @@
 --- 
 title: "Manual de privacidad y seguridad en internet"
 author: "Diego Chiquero Mena"
-date: "`r Sys.Date()`"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+geometry:
+- top=1in
+- bottom=1in
+- right=1in
+- left=1in
+graphics: yes
+lang: es
 site: bookdown::bookdown_site
-output:
-  html_document: default
-  pdf_document: default
+output: bookdown::gitbook
 documentclass: book
-bibliography: [book.bib, packages.bib]
+classoption: openany
+papersize: a4
+bibliography: [book.bib, article.bib, manual.bib]
 biblio-style: apalike
 link-citations: yes
+linkcolor: blue
+ontsize: 11pt
+fontfamily: bookman
 description: "Manual de lectura recomendado para conecer los ciberdelitos a los que nos exponemos y cómo evitarlos."
+keywords: "seguridad,privacidad, ciberdelitos, ciberdelincuentes,internet"
+cover-image: images/cover.png
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)  
 ```
-# Privacidad y seguridad en internet
-## Introducción
+# Prólogo {-}
 
-En los últimos años...
+```{asis, echo=identical(knitr:::pandoc_to(), 'html')}
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<p style="text-align: center;"><img src="images/cover.png" alt="The R Markdown book cover" /></p>
+```
+Este manual aglutina de manera filtrada y tamizada una amplia y detallada parte del conocimiento e información de relevancia que puedes encontrar en la web sobre privacidad y seguridad en internet, de forma ordenada y estructura. Además encontrarás en la bibliografía todas las fuentes que han hecho posible la elaboración y documentación de este manual, para que puedas contrastar por ti mismo dichas fuentes.
 
-## Privacidad
+Entenderás las diferencias entre los conceptos de privacidad y seguridad en internet, para que de este modo puedas hacer una buena configuración y uso de éstas.
 
-La privacidad es aquello...
+Aprenderás buenas prácticas en la gestión de la privacidad, así como la manera más adecuada de gestionar la seguridad tanto en los equipos (PC, tables, smartphones, etc.), como en la red de datos.
 
-## Seguridad
+Conocerás las principales amenazas que existen en el uso de las tecnologías y el mundo digital.
 
-La seguridad en internet...
+Y por último, pero no por ello menos importante, se abordarán otros conceptos relacionados con los ciberdelitos, la huella digital, la importancia de ser selectivos con la información online y otros aspectos más.
+
+Para concluir, también encontrarás a lo largo del manual multitud de enlaces que te llevarán a más información ampliada sobre las temáticas, así como una extensa lista de recursos y herramientas para que puedas llevar tu privacidad y seguridad en internet al siguiente nivel.
+
+Si quieres contribuir y ayudar a  nutrir de más contenido de valor este manual, por favor, no lo dudes y ponte en contacto conmigo, estaré encantado que colaboremos. Encontrarás mis datos de contacto en el siguiente apartado *sobre el autor*.
+
+Este manual está disponible en el repositorio Github: [diegochiquero/manual-de-privacidad-y-seguridad-en-internet](https://github.com/diegochiquero/manual-de-privacidad-y-seguridad-en-internet). Y ha sido escrito en [R-Markdown](http://rmarkdown.rstudio.com) empleando el paquete [`bookdown`](https://bookdown.org/) cuya guia encontrarás en [@R-bookdown].
+
+Imagen portada [@freepik]
+
+Esta obra está bajo la [licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).  
+
+```{r echo=FALSE, fig.align='left'}
+knitr::include_graphics("images/by-nc-sa-88x31.png")
+```
 
 
 ```{r include=FALSE}
