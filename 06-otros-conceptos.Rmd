@@ -1,0 +1,14 @@
+# Otro
+
+Esta es la última unidad
+
+For example, we are using the **bookdown** package [@R-bookdown] in this sample book
+
+Ejemplos de este tipo de libros^[Los libros de Hadley [Advanced R](http://adv-r.had.co.nz) y [R packages](http://r-pkgs.had.co.nz)
+serían ejemplos con una versión "preliminar" de este paquete.] se tienen en https://bookdown.org (el listado completo está disponible [aquí](https://bookdown.org/home/archive/)).
+
+Y en Linux^[Aunque el autor del paquete `bookdown` recomienda instalar [TinyTeX](https://yihui.name/tinytex).].
+
+```
+You can add text to your text as follows.
+```

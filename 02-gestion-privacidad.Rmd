@@ -1,0 +1,34 @@
+# Gestión de la privacidad
+
+## Gestionando la privacidad
+
+Este es otro ejemplo de índice^[Esta es la explicación sin más].
+
+## Datos personales sensibles
+
+Hiperlink de ejemplo [Google](https://www.google.com)
+
+## Oversharing
+
+Esto es un texto normal que contiene una nota[^nombreDeTuNota]. Puedes escribir tanto como necesites.
+
+## Privacidad en tus cuentas
+
+Cuentas
+
+## Navegación privada
+
+La navegación
+
+## Cookies
+
+La cookies son ...
+
+## La nube
+
+Que pasa en la nube
+
+Incluso crear varios párrafos, ya que la nota siempre irá al final del documento. En este caso, si haces click serás dirigido al final del artículo (pero puedes volver al punto de lectura fácilmente, ¡haz la prueba!)
+
+[^nombreDeTuNota]: Aquí irá el texto de tu nota.
+
