@@ -1,5 +1,5 @@
 bookdown::gitbook:
-  css: style.css
+  css: css/style.css
   # split_by: section
   toc_depth: 4
   config:
