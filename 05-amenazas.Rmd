@@ -1,5 +1,66 @@
 # Amenazas {#amenazas}
 
+## Principales amenazas
+
 We have finished a nice book.
 
-You can write citations, too. For example, we are using the **bookdown** package in this sample book, which was built on top of R Markdown and **knitr**.
+## Virus
+
+virus
+
+## Gusanos informáticos
+
+gusanos
+
+## Troyanos
+
+troyanos
+
+## Spyware o software espía
+
+sypeware
+
+## Phishing / pharming / typosquatting
+
+phishing
+
+## Vishing
+
+vishing
+
+## Smishing
+
+smishing
+
+## Spam o correo malicioso
+
+span
+
+## Toolbars
+
+tool
+
+## Usurpación de identidad
+
+usurpación
+
+## Vulnerabilidades
+
+vulnerabilidades
+
+## Cryptohacking
+
+crypto
+
+## Plugins maliciosos
+
+plugins
+
+## SIM Swaping
+
+sim
+
+## Shoulder surfing
+
+Shoulder
+

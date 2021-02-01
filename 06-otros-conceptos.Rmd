@@ -1,14 +1,34 @@
-# Otro
+# Otros conceptos relacionados
+
+##  Otros conceptos que debemos conocewr
 
 Esta es la última unidad
 
-For example, we are using the **bookdown** package [@R-bookdown] in this sample book
 
-Ejemplos de este tipo de libros^[Los libros de Hadley [Advanced R](http://adv-r.had.co.nz) y [R packages](http://r-pkgs.had.co.nz)
-serían ejemplos con una versión "preliminar" de este paquete.] se tienen en https://bookdown.org (el listado completo está disponible [aquí](https://bookdown.org/home/archive/)).
+## Metadatos
 
-Y en Linux^[Aunque el autor del paquete `bookdown` recomienda instalar [TinyTeX](https://yihui.name/tinytex).].
+For example, we are using the
 
-```
-You can add text to your text as follows.
-```
+## Huella digital o reputación online
+
+huella
+
+## Eliminar el historial de busquedas
+
+eliminar
+
+## Constastar la información
+
+Y en Linux
+
+## Otras utilidades
+
+otras
+
+## INCIBE (Instituto nacional de ciberseguridad)
+
+incibe
+
+## OSI (Oficina de seguridad del internauta)
+
+osi

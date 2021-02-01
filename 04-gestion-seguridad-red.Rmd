@@ -1,17 +1,35 @@
-# Applicaciones
+# Gestión de la seguridad en la red
+
+## Gestionando la seguridad en la red
 
 Some _significant_ applications are demonstrated in this chapter.
 
-## Segundo nivel
+## Contraseñas
 
 Segundo nivel
 
-### Tercer nivel
+## Protocolo https
 
 Tercer nivel
 
-#### Cuarto nivel
+## Compras y transacciones
 
 Cuarto nivel
 
-## Segundo nivel B
+## Wi-Fi
+
+hola
+
+## Plugins o extensiones
+
+hola
+
+## Descargas
+
+descargas
+
+## Cierre de sesiones
+
+cierre
+
+

@@ -102,7 +102,7 @@
 
 \title{Manual de privacidad y seguridad en internet}
 \author{Diego Chiquero Mena}
-\date{26 enero 2021}
+\date{01 febrero 2021}
 
 \begin{document}
 \maketitle
@@ -321,16 +321,20 @@ Ordenados de menor a mayor grado de cifrado:
 \begin{itemize}
 \tightlist
 \item
-  WEP (Wired Equivalent Privacy)
+  \href{https://es.wikipedia.org/wiki/Wired_Equivalent_Privacy}{WEP} (Wired Equivalent Privacy)
 \item
-  WPA (Wi-Fi Protected Access)
+  \href{https://es.wikipedia.org/wiki/Wi-Fi_Protected_Access}{WPA} (Wi-Fi Protected Access)
 \item
-  WPA2 (Wi-Fi Protected Access 2)
+  \href{https://es.wikipedia.org/wiki/WPA2}{WPA2} (Wi-Fi Protected Access 2)
+\item
+  \href{https://es.wikipedia.org/wiki/WPA3}{WPA3} (Wi-Fi Protected Access 3)
 \end{itemize}
 
-Es importante que cambies la clave que el router trae por defecto y uses el nivel de seguridad WPA2 con el que vas a poder establecer una contraseña de hasta 63 caracteres en lugar de los máximos 29 de la WEP.1
+Es importante que cambies la clave que el router trae por defecto y uses el nivel de seguridad WPA2 con el que vas a poder establecer una contraseña de hasta 63 caracteres en lugar de los máximos 29 de la WEP.
 
-Para establecer una capa más de seguridad puedes realizar un filtrado MAC (Media Access Control). Un filtra MAC consiste en la creación de una lista de dispositivos que tienen permiso para acceder al router, a pesar de que un tercero haya podido obtener la clave wifi.
+Para establecer una capa más de seguridad puedes realizar un \href{https://es.wikipedia.org/wiki/Filtrado_MAC}{filtrado MAC} (Media Access Control). Un filtra MAC consiste en la creación de una lista de dispositivos que tienen permiso para acceder al router, a pesar de que un tercero haya podido obtener la clave wifi.
+
+Este enlace te llevará a un \href{https://bandaancha.eu/generador-claves-wifi}{generador de claves Wi-Fi} donde podras crear de forma automática una clave Wi-Fi segura y robusta.
 
 \hypertarget{actualizaciones}{%
 \section{Actualizaciones}\label{actualizaciones}}
@@ -341,20 +345,22 @@ Tener actualizados los dispositivos es una medida más de seguridad. Para ello d
 
 Las actualizaciones no solo corresponden al Hardware (ordenadores, smartphones, etc.), sino que también han de ser realizados en el software (programas), navegadores, antivirus, etc.
 
+La principal función de las actulizaciones son las de mejorar tanto la funcionalidad como la seguridad de los dispositivos o software \citep{OSI-actualizaciones}.
+
 \hypertarget{antivirus-antimalware-antispyware-y-firewall}{%
 \section{Antivirus, antimalware, antispyware y firewall}\label{antivirus-antimalware-antispyware-y-firewall}}
 
-Aunque a priori pudiese parecer lo mismo, los antivirus, antimalware, antispyware y firewall, cumple funciones diferentes, pero con un mismo fin, mantener la seguridad de nuestros equipos. La mayoría de estos tipos de software los puedes encontrar en dos modalidades: gratuita y de pago.1
+Aunque a priori pudiese parecer lo mismo, los antivirus, antimalware, antispyware y firewall, cumple funciones diferentes, pero con un mismo fin, mantener la seguridad de nuestros equipos. La mayoría de estos tipos de software los puedes encontrar en dos modalidades: gratuita y de pago \citep{software-seguridad}.
 
 \begin{itemize}
 \item
-  Antivirus: Es un programa que detecta la presencia de virus informáticos (software malicioso que altera el funcionamiento normal del ordenador sin que el usuario lo sepa o consienta) y los elimina o repara. Algunos ejemplos de antivirus son: Avira, Avast, AVG, Virus Total (online), entre muchos más.
+  Antivirus: Es un programa que detecta la presencia de virus informáticos (software malicioso que altera el funcionamiento normal del ordenador sin que el usuario lo sepa o consienta) y los elimina o repara. Algunos ejemplos de antivirus son: \href{https://www.avira.com/es}{Avira}, \href{https://www.avast.com/es-es/index\#pc}{Avast}, \href{https://www.avg.com/es-es/homepage\#pc}{AVG}, \href{https://www.virustotal.com/gui/}{Virus Total} (online), entre muchos más.
 \item
-  Firewall o cortafuegos: Es una parte de la red o el sistema que se realiza para bloquear accesos no autorizados y permitiendo los que sí lo están. Se pueden hacer por medio de software o hardware, y permiten una mayor protección a las redes, especialmente importante en empresas que cuentan con datos que han de ser bien protegidos. El firewall más conocido es el Windows.
+  Firewall o cortafuegos: Es una parte de la red o el sistema que se realiza para bloquear accesos no autorizados y permitiendo los que sí lo están. Se pueden hacer por medio de software o hardware, y permiten una mayor protección a las redes, especialmente importante en empresas que cuentan con datos que han de ser bien protegidos. El \href{https://en.wikipedia.org/wiki/Windows_Firewall}{firewall} más conocido es el Windows.
 \item
-  Antispyware: Es un conjunto de herramientas que sirven para prevenir y eliminar Spywares (espías o programas que recopilan información del ordenador para transmitirla a otras personas sin el consentimiento ni conocimiento del propietario del ordenador). Algunos ejemplos de antispyware son: SpyBot, SuperAntiSpyware, SpywareBlaster.
+  Antispyware: Es un conjunto de herramientas que sirven para prevenir y eliminar Spywares (espías o programas que recopilan información del ordenador para transmitirla a otras personas sin el consentimiento ni conocimiento del propietario del ordenador). Algunos ejemplos de antispyware son: \href{https://www.safer-networking.org/}{SpyBot}, \href{https://www.superantispyware.com/}{SuperAntiSpyware}, \href{https://www.brightfort.com/spywareblaster.html}{SpywareBlaster}.
 \item
-  Antimalware: Es un software encargado de eliminar el software malicioso (malicious-software, malware) del ordenador tras un minucioso análisis del sistema. Algunos ejemplos de antimalware son: HiJackThis, Anti-malware.
+  Antimalware: Es un software encargado de eliminar el software malicioso (malicious-software, malware) del ordenador tras un minucioso análisis del sistema. Algunos ejemplos de antimalware son: \href{https://www.infospyware.com/antimalware/hijackthis/}{HiJackThis}, \href{https://www.malwarebytes.com/}{Anti-malware}.
 \end{itemize}
 
 Dependiendo de las necesidades pueden ser usados uno o varios, ya que son complementarios entre sí.
@@ -362,13 +368,13 @@ Dependiendo de las necesidades pueden ser usados uno o varios, ya que son comple
 \hypertarget{copias-de-seguridad}{%
 \section{Copias de seguridad}\label{copias-de-seguridad}}
 
-Una copia de seguridad o backup en informática es una copia de los datos originales que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida. Las copias de seguridad son útiles ante distintos eventos y usos: recuperar los sistemas informáticos y los datos de una catástrofe informática, natural o ataque; restaurar una pequeña cantidad de archivos que pueden haberse eliminado accidentalmente, corrompido, infectado por un virus informático u otras causas.1
+Una copia de seguridad o backup en informática es una copia de los datos originales que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida. Las copias de seguridad son útiles ante distintos eventos y usos: recuperar los sistemas informáticos y los datos de una catástrofe informática, natural o ataque; restaurar una pequeña cantidad de archivos que pueden haberse eliminado accidentalmente, corrompido, infectado por un virus informático u otras causas \citep{copias-seguridad}.
 
 Simplificando el sistema de copias de seguridad que en algunas ocasiones puede llegar a ser complejo, están los siguiente:
 
 \begin{itemize}
 \item
-  Completas: Del sistema operativo completo, de esta forma al restaurar la copia, dispondremos de nuevo de toda la configuración a nivel de S.O., software instalado, carpetas y archivos. Para este cometido vamos a necesitar de programas de terceros, algunos de ellos con versiones gratuitas y de pago, ejemplo de estos son: Acronis, AOMEI, EaseUS.
+  Completas: Del sistema operativo completo, de esta forma al restaurar la copia, dispondremos de nuevo de toda la configuración a nivel de S.O., software instalado, carpetas y archivos. Para este cometido vamos a necesitar de programas de terceros, algunos de ellos con versiones gratuitas y de pago, ejemplo de estos son: \href{https://www.acronis.com/}{Acronis}, \href{https://www.aomeitech.com/}{AOMEI}, \href{https://www.easeus.com/}{EaseUS}.
 \item
   Parciales: En este escenario lo que se hace es salvaguardar las carpetas y archivos personales. Como por ejemplo, carpetas con fotografías, documentos personales y demás.
 \end{itemize}
@@ -379,56 +385,179 @@ Y las copias pueden ser mantenidas:
 \item
   En almacenamientos externos: Tales como disco duros externos, DVD, entre otros. De esta forma podemos custodiarlos a buen recaudo.
 \item
-  En la nube: Estos son servicios de terceros accesibles online, ejemplo de ello son: BackBlaze, Carbonite, siendo estos especializados en backups. Pero si tus copias de seguridad se limitan a tus carpetas y archivos personales puedes usar un servicio en la nube, como Google Drive, Onedrive o Dropbox.
+  En la nube: Estos son servicios de terceros accesibles online, ejemplo de ello son: \href{https://www.backblaze.com/home-1.html}{BackBlaze}, \href{https://www.carbonite.com/}{Carbonite}, siendo estos especializados en backups. Pero si tus copias de seguridad se limitan a tus carpetas y archivos personales puedes usar un servicio en la nube, como \href{https://www.google.com/intl/en_in/drive/}{Google Drive}, \href{https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage}{Onedrive} o \href{https://www.dropbox.com/}{Dropbox}.
 \end{itemize}
 
-Las copias de seguridad debes realizarlas con la frecuencia que sea necesaria para garantizar tu nivel de seguridad.
+Las copias de seguridad debes realizarlas con la frecuencia que sea necesaria para garantizar tu nivel de seguridad \citep{tipos-copia-seguridad}.
 
-\hypertarget{applicaciones}{%
-\chapter{Applicaciones}\label{applicaciones}}
+\hypertarget{gestiuxf3n-de-la-seguridad-en-la-red}{%
+\chapter{Gestión de la seguridad en la red}\label{gestiuxf3n-de-la-seguridad-en-la-red}}
+
+\hypertarget{gestionando-la-seguridad-en-la-red}{%
+\section{Gestionando la seguridad en la red}\label{gestionando-la-seguridad-en-la-red}}
 
 Some \emph{significant} applications are demonstrated in this chapter.
 
-\hypertarget{segundo-nivel}{%
-\section{Segundo nivel}\label{segundo-nivel}}
+\hypertarget{contraseuxf1as}{%
+\section{Contraseñas}\label{contraseuxf1as}}
 
 Segundo nivel
 
-\hypertarget{tercer-nivel}{%
-\subsection{Tercer nivel}\label{tercer-nivel}}
+\hypertarget{protocolo-https}{%
+\section{Protocolo https}\label{protocolo-https}}
 
 Tercer nivel
 
-\hypertarget{cuarto-nivel}{%
-\subsubsection{Cuarto nivel}\label{cuarto-nivel}}
+\hypertarget{compras-y-transacciones}{%
+\section{Compras y transacciones}\label{compras-y-transacciones}}
 
 Cuarto nivel
 
-\hypertarget{segundo-nivel-b}{%
-\section{Segundo nivel B}\label{segundo-nivel-b}}
+\hypertarget{wi-fi}{%
+\section{Wi-Fi}\label{wi-fi}}
+
+hola
+
+\hypertarget{plugins-o-extensiones}{%
+\section{Plugins o extensiones}\label{plugins-o-extensiones}}
+
+hola
+
+\hypertarget{descargas}{%
+\section{Descargas}\label{descargas}}
+
+descargas
+
+\hypertarget{cierre-de-sesiones}{%
+\section{Cierre de sesiones}\label{cierre-de-sesiones}}
+
+cierre
 
 \hypertarget{amenazas}{%
 \chapter{Amenazas}\label{amenazas}}
 
+\hypertarget{principales-amenazas}{%
+\section{Principales amenazas}\label{principales-amenazas}}
+
 We have finished a nice book.
 
-You can write citations, too. For example, we are using the \textbf{bookdown} package in this sample book, which was built on top of R Markdown and \textbf{knitr}.
+\hypertarget{virus}{%
+\section{Virus}\label{virus}}
 
-\hypertarget{otro}{%
-\chapter{Otro}\label{otro}}
+virus
+
+\hypertarget{gusanos-informuxe1ticos}{%
+\section{Gusanos informáticos}\label{gusanos-informuxe1ticos}}
+
+gusanos
+
+\hypertarget{troyanos}{%
+\section{Troyanos}\label{troyanos}}
+
+troyanos
+
+\hypertarget{spyware-o-software-espuxeda}{%
+\section{Spyware o software espía}\label{spyware-o-software-espuxeda}}
+
+sypeware
+
+\hypertarget{phishing-pharming-typosquatting}{%
+\section{Phishing / pharming / typosquatting}\label{phishing-pharming-typosquatting}}
+
+phishing
+
+\hypertarget{vishing}{%
+\section{Vishing}\label{vishing}}
+
+vishing
+
+\hypertarget{smishing}{%
+\section{Smishing}\label{smishing}}
+
+smishing
+
+\hypertarget{spam-o-correo-malicioso}{%
+\section{Spam o correo malicioso}\label{spam-o-correo-malicioso}}
+
+span
+
+\hypertarget{toolbars}{%
+\section{Toolbars}\label{toolbars}}
+
+tool
+
+\hypertarget{usurpaciuxf3n-de-identidad}{%
+\section{Usurpación de identidad}\label{usurpaciuxf3n-de-identidad}}
+
+usurpación
+
+\hypertarget{vulnerabilidades}{%
+\section{Vulnerabilidades}\label{vulnerabilidades}}
+
+vulnerabilidades
+
+\hypertarget{cryptohacking}{%
+\section{Cryptohacking}\label{cryptohacking}}
+
+crypto
+
+\hypertarget{plugins-maliciosos}{%
+\section{Plugins maliciosos}\label{plugins-maliciosos}}
+
+plugins
+
+\hypertarget{sim-swaping}{%
+\section{SIM Swaping}\label{sim-swaping}}
+
+sim
+
+\hypertarget{shoulder-surfing}{%
+\section{Shoulder surfing}\label{shoulder-surfing}}
+
+Shoulder
+
+\hypertarget{otros-conceptos-relacionados}{%
+\chapter{Otros conceptos relacionados}\label{otros-conceptos-relacionados}}
+
+\hypertarget{otros-conceptos-que-debemos-conocewr}{%
+\section{Otros conceptos que debemos conocewr}\label{otros-conceptos-que-debemos-conocewr}}
 
 Esta es la última unidad
 
+\hypertarget{metadatos}{%
+\section{Metadatos}\label{metadatos}}
+
 For example, we are using the \textbf{bookdown} package \citep{R-bookdown} in this sample book
 
-Ejemplos de este tipo de libros\footnote{Los libros de Hadley \href{http://adv-r.had.co.nz}{Advanced R} y \href{http://r-pkgs.had.co.nz}{R packages}
-  serían ejemplos con una versión ``preliminar'' de este paquete.} se tienen en \url{https://bookdown.org} (el listado completo está disponible \href{https://bookdown.org/home/archive/}{aquí}).
+\hypertarget{huella-digital-o-reputaciuxf3n-online}{%
+\section{Huella digital o reputación online}\label{huella-digital-o-reputaciuxf3n-online}}
 
-Y en Linux\footnote{Aunque el autor del paquete \texttt{bookdown} recomienda instalar \href{https://yihui.name/tinytex}{TinyTeX}.}.
+huella
 
-\begin{verbatim}
-You can add text to your text as follows.
-\end{verbatim}
+\hypertarget{eliminar-el-historial-de-busquedas}{%
+\section{Eliminar el historial de busquedas}\label{eliminar-el-historial-de-busquedas}}
+
+eliminar
+
+\hypertarget{constastar-la-informaciuxf3n}{%
+\section{Constastar la información}\label{constastar-la-informaciuxf3n}}
+
+Y en Linux
+
+\hypertarget{otras-utilidades}{%
+\section{Otras utilidades}\label{otras-utilidades}}
+
+otras
+
+\hypertarget{incibe-instituto-nacional-de-ciberseguridad}{%
+\section{INCIBE (Instituto nacional de ciberseguridad)}\label{incibe-instituto-nacional-de-ciberseguridad}}
+
+incibe
+
+\hypertarget{osi-oficina-de-seguridad-del-internauta}{%
+\section{OSI (Oficina de seguridad del internauta)}\label{osi-oficina-de-seguridad-del-internauta}}
+
+osi
 
   \bibliography{book.bib,article.bib,manual.bib}
 
