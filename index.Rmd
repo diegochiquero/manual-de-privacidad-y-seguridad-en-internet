@@ -20,6 +20,7 @@ link-citations: yes
 linkcolor: blue
 ontsize: 11pt
 fontfamily: bookman
+github-repo: diegochiquero/manual-de-privacidad-y-seguridad-en-internet
 description: "Manual de lectura recomendado para conecer los ciberdelitos a los que nos exponemos y cómo evitarlos."
 keywords: "seguridad,privacidad, ciberdelitos, ciberdelincuentes,internet"
 cover-image: images/cover.png
@@ -55,12 +56,4 @@ Esta obra está bajo la [licencia Creative Commons Atribución-NoComercial-Compa
 
 ```{r echo=FALSE, fig.align='left'}
 knitr::include_graphics("images/by-nc-sa-88x31.png")
-```
-
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
 ```
