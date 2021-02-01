@@ -25,13 +25,16 @@ Dispone de varios niveles de seguridad y estándares de cifrado, para que nadie 
 
 Ordenados de menor a mayor grado de cifrado:
 
-- WEP (Wired Equivalent Privacy)
-- WPA (Wi-Fi Protected Access)
-- WPA2 (Wi-Fi Protected Access 2)
+- [WEP](https://es.wikipedia.org/wiki/Wired_Equivalent_Privacy) (Wired Equivalent Privacy)
+- [WPA](https://es.wikipedia.org/wiki/Wi-Fi_Protected_Access) (Wi-Fi Protected Access)
+- [WPA2](https://es.wikipedia.org/wiki/WPA2) (Wi-Fi Protected Access 2)
+- [WPA3](https://es.wikipedia.org/wiki/WPA3) (Wi-Fi Protected Access 3)
 
-Es importante que cambies la clave que el router trae por defecto y uses el nivel de seguridad WPA2 con el que vas a poder establecer una contraseña de hasta 63 caracteres en lugar de los máximos 29 de la WEP.1
+Es importante que cambies la clave que el router trae por defecto y uses el nivel de seguridad WPA2 con el que vas a poder establecer una contraseña de hasta 63 caracteres en lugar de los máximos 29 de la WEP.
 
-Para establecer una capa más de seguridad puedes realizar un filtrado MAC (Media Access Control). Un filtra MAC consiste en la creación de una lista de dispositivos que tienen permiso para acceder al router, a pesar de que un tercero haya podido obtener la clave wifi.
+Para establecer una capa más de seguridad puedes realizar un [filtrado MAC](https://es.wikipedia.org/wiki/Filtrado_MAC) (Media Access Control). Un filtra MAC consiste en la creación de una lista de dispositivos que tienen permiso para acceder al router, a pesar de que un tercero haya podido obtener la clave wifi.
+
+Este enlace te llevará a un [generador de claves Wi-Fi](https://bandaancha.eu/generador-claves-wifi) donde podras crear de forma automática una clave Wi-Fi segura y robusta.
 
 ## Actualizaciones
 
@@ -41,27 +44,29 @@ Tener actualizados los dispositivos es una medida más de seguridad. Para ello d
 
 Las actualizaciones no solo corresponden al Hardware (ordenadores, smartphones, etc.), sino que también han de ser realizados en el software (programas), navegadores, antivirus, etc.
 
+La principal función de las actulizaciones son las de mejorar tanto la funcionalidad como la seguridad de los dispositivos o software [@OSI-actualizaciones].
+
 ## Antivirus, antimalware, antispyware y firewall
 
-Aunque a priori pudiese parecer lo mismo, los antivirus, antimalware, antispyware y firewall, cumple funciones diferentes, pero con un mismo fin, mantener la seguridad de nuestros equipos. La mayoría de estos tipos de software los puedes encontrar en dos modalidades: gratuita y de pago.1
+Aunque a priori pudiese parecer lo mismo, los antivirus, antimalware, antispyware y firewall, cumple funciones diferentes, pero con un mismo fin, mantener la seguridad de nuestros equipos. La mayoría de estos tipos de software los puedes encontrar en dos modalidades: gratuita y de pago [@software-seguridad].
 
-- Antivirus: Es un programa que detecta la presencia de virus informáticos (software malicioso que altera el funcionamiento normal del ordenador sin que el usuario lo sepa o consienta) y los elimina o repara. Algunos ejemplos de antivirus son: Avira, Avast, AVG, Virus Total (online), entre muchos más.
+- Antivirus: Es un programa que detecta la presencia de virus informáticos (software malicioso que altera el funcionamiento normal del ordenador sin que el usuario lo sepa o consienta) y los elimina o repara. Algunos ejemplos de antivirus son: [Avira](https://www.avira.com/es), [Avast](https://www.avast.com/es-es/index#pc), [AVG](https://www.avg.com/es-es/homepage#pc), [Virus Total](https://www.virustotal.com/gui/) (online), entre muchos más.
 
-- Firewall o cortafuegos: Es una parte de la red o el sistema que se realiza para bloquear accesos no autorizados y permitiendo los que sí lo están. Se pueden hacer por medio de software o hardware, y permiten una mayor protección a las redes, especialmente importante en empresas que cuentan con datos que han de ser bien protegidos. El firewall más conocido es el Windows.
+- Firewall o cortafuegos: Es una parte de la red o el sistema que se realiza para bloquear accesos no autorizados y permitiendo los que sí lo están. Se pueden hacer por medio de software o hardware, y permiten una mayor protección a las redes, especialmente importante en empresas que cuentan con datos que han de ser bien protegidos. El [firewall](https://en.wikipedia.org/wiki/Windows_Firewall) más conocido es el Windows.
  
-- Antispyware: Es un conjunto de herramientas que sirven para prevenir y eliminar Spywares (espías o programas que recopilan información del ordenador para transmitirla a otras personas sin el consentimiento ni conocimiento del propietario del ordenador). Algunos ejemplos de antispyware son: SpyBot, SuperAntiSpyware, SpywareBlaster.
+- Antispyware: Es un conjunto de herramientas que sirven para prevenir y eliminar Spywares (espías o programas que recopilan información del ordenador para transmitirla a otras personas sin el consentimiento ni conocimiento del propietario del ordenador). Algunos ejemplos de antispyware son: [SpyBot](https://www.safer-networking.org/), [SuperAntiSpyware](https://www.superantispyware.com/), [SpywareBlaster](https://www.brightfort.com/spywareblaster.html).
 
-- Antimalware: Es un software encargado de eliminar el software malicioso (malicious-software, malware) del ordenador tras un minucioso análisis del sistema. Algunos ejemplos de antimalware son: HiJackThis, Anti-malware.
+- Antimalware: Es un software encargado de eliminar el software malicioso (malicious-software, malware) del ordenador tras un minucioso análisis del sistema. Algunos ejemplos de antimalware son: [HiJackThis](https://www.infospyware.com/antimalware/hijackthis/), [Anti-malware](https://www.malwarebytes.com/).
 
 Dependiendo de las necesidades pueden ser usados uno o varios, ya que son complementarios entre sí.
 
 ## Copias de seguridad
 
-Una copia de seguridad o backup en informática es una copia de los datos originales que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida. Las copias de seguridad son útiles ante distintos eventos y usos: recuperar los sistemas informáticos y los datos de una catástrofe informática, natural o ataque; restaurar una pequeña cantidad de archivos que pueden haberse eliminado accidentalmente, corrompido, infectado por un virus informático u otras causas.1
+Una copia de seguridad o backup en informática es una copia de los datos originales que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida. Las copias de seguridad son útiles ante distintos eventos y usos: recuperar los sistemas informáticos y los datos de una catástrofe informática, natural o ataque; restaurar una pequeña cantidad de archivos que pueden haberse eliminado accidentalmente, corrompido, infectado por un virus informático u otras causas [@copias-seguridad].
 
 Simplificando el sistema de copias de seguridad que en algunas ocasiones puede llegar a ser complejo, están los siguiente:
 	
-- Completas: Del sistema operativo completo, de esta forma al restaurar la copia, dispondremos de nuevo de toda la configuración a nivel de S.O., software instalado, carpetas y archivos. Para este cometido vamos a necesitar de programas de terceros, algunos de ellos con versiones gratuitas y de pago, ejemplo de estos son: Acronis, AOMEI, EaseUS.
+- Completas: Del sistema operativo completo, de esta forma al restaurar la copia, dispondremos de nuevo de toda la configuración a nivel de S.O., software instalado, carpetas y archivos. Para este cometido vamos a necesitar de programas de terceros, algunos de ellos con versiones gratuitas y de pago, ejemplo de estos son: [Acronis](https://www.acronis.com/), [AOMEI](https://www.aomeitech.com/), [EaseUS](https://www.easeus.com/).
 
 - Parciales: En este escenario lo que se hace es salvaguardar las carpetas y archivos personales. Como por ejemplo, carpetas con fotografías, documentos personales y demás.
 
@@ -69,8 +74,8 @@ Y las copias pueden ser mantenidas:
 
 - En almacenamientos externos: Tales como disco duros externos, DVD, entre otros. De esta forma podemos custodiarlos a buen recaudo.
 
-- En la nube: Estos son servicios de terceros accesibles online, ejemplo de ello son: BackBlaze, Carbonite, siendo estos especializados en backups. Pero si tus copias de seguridad se limitan a tus carpetas y archivos personales puedes usar un servicio en la nube, como Google Drive, Onedrive o Dropbox. 
+- En la nube: Estos son servicios de terceros accesibles online, ejemplo de ello son: [BackBlaze](https://www.backblaze.com/home-1.html), [Carbonite](https://www.carbonite.com/), siendo estos especializados en backups. Pero si tus copias de seguridad se limitan a tus carpetas y archivos personales puedes usar un servicio en la nube, como [Google Drive](https://www.google.com/intl/en_in/drive/), [Onedrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage) o [Dropbox](https://www.dropbox.com/). 
 
-Las copias de seguridad debes realizarlas con la frecuencia que sea necesaria para garantizar tu nivel de seguridad.
+Las copias de seguridad debes realizarlas con la frecuencia que sea necesaria para garantizar tu nivel de seguridad [@tipos-copia-seguridad].
 
 
