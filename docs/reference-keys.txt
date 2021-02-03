@@ -1,4 +1,5 @@
-fig:rmarkdown
+fig:unnamed-chunk-4
+fig:unnamed-chunk-5
 privacidad-y-seguridad-en-internet
 introducción
 privacidad
@@ -8,7 +9,7 @@ aviso-legal-política-de-privacidad-y-política-de-cookies
 gestión-de-la-privacidad
 gestionando-la-privacidad
 datos-personales-sensibles
-oversharing
+oversharing-o-sobreexposición
 privacidad-en-tus-cuentas
 navegación-privada
 cookies

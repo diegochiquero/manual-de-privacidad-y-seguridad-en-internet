@@ -14,7 +14,7 @@ Las pautas de seguridad que vas a ver a continuación te van a ser útil, tanto 
 
 Todos los equipos informáticos funcionan con una cuenta de usuario, única y personal. Luego una vez, hayas creado la tuya, solo tú debes hacer uso y disfrute de ella.  En los ordenadores personales existe la posibilidad de crear varias cuentas de usuarios. Una vez éstas están creadas solo son accesibles mediante contraseña y aunque solo sirva para no olvidarlo, nunca debes de compartida.
 
-```{r rmarkdown, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Cuenta de usuario windows 10.'}
+```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Cuenta de usuario windows 10.'}
 knitr::include_graphics("images/cuenta-usuario-windows-10.png")
 ```
 ## Router
@@ -62,7 +62,7 @@ Dependiendo de las necesidades pueden ser usados uno o varios, ya que son comple
 
 ## Copias de seguridad
 
-Una copia de seguridad o backup en informática es una copia de los datos originales que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida. Las copias de seguridad son útiles ante distintos eventos y usos: recuperar los sistemas informáticos y los datos de una catástrofe informática, natural o ataque; restaurar una pequeña cantidad de archivos que pueden haberse eliminado accidentalmente, corrompido, infectado por un virus informático u otras causas [@copias-seguridad].
+Una copia de seguridad o backup en informática es una copia de los datos originales que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida. Las copias de seguridad son útiles ante distintos eventos y usos: recuperar los sistemas informáticos y los datos de una catástrofe informática, natural o ataque; restaurar una pequeña cantidad de archivos que pueden haberse eliminado accidentalmente, corrompido, infectado por un virus informático u otras causas [@WIKI-copias-seguridad].
 
 Simplificando el sistema de copias de seguridad que en algunas ocasiones puede llegar a ser complejo, están los siguiente:
 	

@@ -2,33 +2,74 @@
 
 ## Gestionando la privacidad
 
-Este es otro ejemplo de índice^[Esta es la explicación sin más].
+La privacidad en Internet se refiere al control de la información personal que posee un determinado usuario que se conecta a Internet, interactuando por medio de diversos servicios en línea con los que intercambia datos durante la navegación. Por ello en esta unidad vas a tratar de aprender a gestionar la privacidad de manera inteligente para así evitar males mayores [@WIKI-privacidad].
 
 ## Datos personales sensibles
 
-Hiperlink de ejemplo [Google](https://www.google.com)
+Cuando se habla de datos personales sensibles en la red, se refiere a aquellos datos, que están revelando información privada, como, por ejemplo, el domicilio, o cualquier otra información de carácter privado, costumbres o hábitos. Así como acciones que ubican o determinan a una persona en posibles situaciones futuras que pudiesen abrir una brecha de vulnerabilidad en la vida privada de ésta. Ejemplo: subir a la red que te vas de vacaciones, de manera que estás diciendo a los ciberdelincuentes que tu casa está vacía.
 
-## Oversharing
+Entrando en un terreno más técnico los datos sensibles son aquellos que, de difundirse indebidamente, podrían afectar la esfera más íntima del ser humano. Ejemplos de este tipo de datos son: el origen racial o étnico, el estado de salud, la información genética, las creencias religiosas, filosóficas y morales, la afiliación sindical, las opiniones políticas y las preferencias sexuales.
 
-Esto es un texto normal que contiene una nota[^nombreDeTuNota]. Puedes escribir tanto como necesites.
+Por ello, aporta solo los datos necesarios y no te expongas.
+
+## Oversharing o sobreexposición
+
+El Oversharing es la sobreexposición de información personal en internet y en su mayoría en los Medios Sociales a través de tus perfiles sociales. Este hecho se presenta continuamente en la actualidad, donde los jóvenes y no tan jóvenes, publican constantemente imágenes o información personal. 
+
+De esta manera, tu vida quedan totalmente expuesta y, aunque el propósito de ello sea totalmente lícito e incluso plausible, estos datos, imágenes o información pueden volverse en tu contra por un uso indebido o ilícito por parte de terceros.
+
+Este exceso de información que se puede facilitar en internet, sumado al comportamiento malicioso de otros usuarios, supone un grave riesgo que se corre cada día al señalar tu ubicación, comentar información personal o privada, colgar una imagen o video comprometedores, etc.
+
+Esto no supone un delito en cuestión, pero puede dar lugar al chantaje, ciberacoso o robo de información personal a través de algún tipo de técnica. Además de exponerte al riesgo de un posible robo y/o suplantación de identidad [@AEPD-oversharing].
 
 ## Privacidad en tus cuentas
 
-Cuentas
+Prácticamente todo el mundo en menor o mayor medida dispone de cuentas de usuarios en todas sus aplicaciones o servicios en la red. Una de las más conocidas es la cuenta de [Google](https://www.google.com/account/about/?hl=es), entre otras, así como la de [Microsoft](https://account.microsoft.com/account/privacy).
+
+En lo que respecta a las redes sociales como, [Facebook](https://es-la.facebook.com/help/325807937506242), [Twitter](https://help.twitter.com/es/safety-and-security#ads-and-data-privacy) o [Instagram](https://es-es.facebook.com/help/instagram/196883487377501/?helpref=hc_fnav&bc[0]=Ayuda%20de%20Instagram&bc[1]=Administrar%20tu%20cuenta), entre otras muchas más, no debes olvidar que también disponen opciones de privacidad y que en éste escenario está en juego tus datos más personales, luego el mejor consejo es establecer una configuración privada en lugar de pública. Ya que estas redes sociales no tienen, por defecto, los niveles más elevados en cuanto a la protección y a la seguridad.
+
+Con referencia a todo lo expuesto, puedes dejar la configuración de privacidad que la cuenta trae por defecto o acomodarla a tus necesidades o preferencias. Dentro de cada cuenta se encuentran todas las opciones de privacidad, como, por ejemplo, historial de búsquedas, actividad de ubicación entre otras. 
 
 ## Navegación privada
 
-La navegación
+La navegación privada es una función de privacidad que conocerás como modo incógnito o modo privado. Su principal característica es que permite a los navegadores web no almacenar información sobre la página en que navegamos.
+
+La navegación privada te ofrece una sesión temporal que no comparte datos con el navegador, que no guarda información sobre páginas web, ni historial de navegación, caché web, contraseñas, información de formularios, cookies u otros datos de sitios web, borrando éstas y otros archivos temporales cuando finalizamos la sesión [@navegacion-privada].
+
+```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Navegación privada navegar Google Chrome.'}
+knitr::include_graphics('images/navegacion-privada.jpg')
+```
+
+Ten en cuenta que no es lo mismo navegar privadamente que navegar de forma anónima por Internet, lo que requiere de otras herramientas como [TOR](https://www.torproject.org/).
+
+El uso de la navegación privada resulta conveniente en los siguientes supuestos:
+
+- Transacciones económicas.
+- Utilización de un ordenador de terceros.
+- Resultados “puros” del motor de búsquedas.
+ 
+También existen navegadores que protegen tu privacidad sin necesidad de activar la navegación privada, como por ejemplo, [Epic](https://www.epicbrowser.com/), [Brave](https://brave.com/es/) e incluso buscadores como [DuckDuckGo](https://duckduckgo.com/). 
+
+Dentro de la navegación tienes además otra herramienta para proteger tu privacidad y se trata de un VPN (son las siglas de Virtual Private Network) [@WIKI-vpn].
+
+Las VPN, son una tecnología de red que permiten una extensión de tu conexión local o LAN, permitiendo conectar varios dispositivos como si se encontrasen físicamente en el mismo lugar. Entre sus ventajas está la de ofrecer una mayor privacidad al ocultar tu localización, pero también, y este el caso que nos compete, el que parezca que tu conexión esté realizándose en otro país concreto, con lo que uno se puede saltar censuras o acceder a contenidos de servicios locales.
+
+Las VPN suelen ser aplicaciones o extensiones de terceros, aunque el navegador [OPERA](https://www.opera.com/es) lo trae por defecto, lo único que tendrás que hacer es activarla desde sus opciones, y se creará una conexión cifrada entre tu dispositivo y un servidor VPN para esconder tu ubicación real.
 
 ## Cookies
 
-La cookies son ...
+Una cookie es una pequeña información enviada por un sitio web y almacenado en el navegador del usuario, de manera que el sitio web puede consultar la actividad previa del navegador.
+
+Su propósito principal es identificar al usuario almacenando su historial de actividad de un sitio web específico, de manera que se le pueda ofrecer el contenido más apropiado según sus hábitos. Esto quiere decir que cada vez que visitas una página web por primera vez, se guarda una cookie en el navegador con un poco de información. Luego, cuando visitas nuevamente la misma página, el servidor pide la misma cookie para arreglar la configuración del sitio y hacer la visita del usuario tan personalizada como sea posible [@cookies-navegador].
+
+Existe la opción de navegar sin cookies gracias a las sesiones privadas que tienen los distintos navegadores, como has podido ver en el apartado anterior. De esta forma no se almacenará ningún tipo de información en tu ordenador cuando navegues en una web y del mismo modo tampoco recordará nada después al volver a navegar de nuevo.
+
+Es importante que con frecuencia elimines las cookies, ya que como ya sabes manejan información privada y además ocupan espacio en tu dispositivo. Esto lo puedes hacer de dos maneras. Manualmente desde el menú de opciones del navegador o con software específico para tal cometido, como por ejemplo [Ccleaner](https://www.ccleaner.com/es-es).
+
+Por otro lado si quieres deshacerte de la incómoda notificación de cookies de las web, puedes instalar en el navegador el plugin [I don’t care about cookies](https://www.i-dont-care-about-cookies.eu/).
 
 ## La nube
 
-Que pasa en la nube
+Como ya sabrás el almacenamiento en la nube, es el almacenamiento de datos basado en redes de computadoras, donde los datos están alojados en espacios de almacenamiento virtualizados, también conocidos como servidores y por lo general aportados por terceros. Algunos de estos servicios más conocidos son [Google drive](https://www.google.com/intl/en_in/drive/),[One drive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage) o [Dropbox](https://www.dropbox.com/) entre otros.
 
-Incluso crear varios párrafos, ya que la nota siempre irá al final del documento. En este caso, si haces click serás dirigido al final del artículo (pero puedes volver al punto de lectura fácilmente, ¡haz la prueba!)
-
-[^nombreDeTuNota]: Aquí irá el texto de tu nota.
-
+Con respecto a esto, debes tener en cuenta que solo es recomendable compartirlo con personas de confianza, ya que de lo contrario podrían hacer un mal uso de ello, o simplemente una mala gestión que provoque la pérdida de la información.
