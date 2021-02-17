@@ -1,28 +1,156 @@
-# Amenazas {#amenazas}
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Amenazas
 
-## Principales amenazas
+## Principales amenazas 
 
-We have finished a nice book.
+En lo referente a la seguridad de nuestros dispositivos debes tener en cuenta la diversidad de amenazas que existen, tales como virus, spywares, troyanos, gusanos y que pueden comprometer tus dispositivos y toda la información que en ellos contengas.
+
+La mayoría de éstos están catalogado como Malware. Un Malware es un tipo de software malicioso con un primer objetivo inicial de infiltrarse en un equipo o sistema informático sin el consentimiento del usuario, para posteriormente actuar sobre él [@WIKI-malware]. 
+
+En este punto es importante que sepas cuáles son todas y cada una de las amenazas a las que estas expuesto, si no tienes las herramientas y no adoptas una actitud prudente en el uso de los dispositivos y la red.
+
+En unidades anteriores viste que precauciones y herramientas debes adoptar para no correr riesgos. En esta unidad verás cuáles son estas amenazas y como llegan a tus dispositivos.
+
+Las amenazas vienen de la mano de perfiles a los que conoces como hacker, ciberdelicuente, pirata informático, etc. Pero cabe destacar que estos conceptos no son lo mismo. Por lo tanto:
+
+- Hacker: Es un perfil técnico especializado en seguridad informática, y cuyo propósito es investigar y solucionar fallos de seguridad a los fabricantes de dispositivos y software.
+
+- Ciberdelincuente o pirata informática: Es también un perfil técnico como el anterior, pero que en este caso aprovecha las vulnerabilidades de los dispositivos para su propio beneficio a través de actividades delictivas. Su principal actividad suele ser el fraude electrónico utilizando técnicas de phishing o spam.
 
 ## Virus
 
-virus
+Un virus es un programa informático diseñado para infectar archivos u ocasionar efectos molestos, destructivos e incluso irreparables en tu ordenador, dañando hardware, software y archivos [@PANDA-virus].
 
+Los virus tienen diferentes vías de entrada a tus equipos, como por ejemplo: 
+
+- Utilización de una memoria USB previamente infectada.
+
+- Descarga de contenidos mediante redes de compartición P2P, u otras fuentes poco fiables.
+
+- Apertura de algún fichero adjunto en un correo electrónico.
+
+- Al visitar a una web maliciosa y pulsar sobre alguna dirección acortada que se publican en redes sociales y que en realidad no sabes a qué páginas web te puede llevar.
+	
 ## Gusanos informáticos
 
-gusanos
+Los gusanos son en realidad una subclase de virus, por lo que comparten características similares [@PANDA-gusano].
+
+El principal objetivo de los gusanos es propagarse y afectar al mayor número de dispositivos posible, colapsar los ordenadores y las redes informáticas e impidiendo así el trabajo a los usuarios. 
+
+A diferencia de un virus, un gusano no necesita realizar cambios en los archivos de programas, sino que se aloja en diferentes ubicaciones del ordenador, principalmente la memoria RAM, para seguidamente clonarse a sí mismo y usar tus contactos y otros recursos del dispositivo para auto enviarse, a través del correo electrónico o programas P2P entre otros. Por lo que tienen la capacidad de propagarse sin la ayuda de una persona.
+
+Los gusanos tienen diferentes vías de entrada a nuestros equipos, como, por ejemplo: 
+
+- Utilización de una memoria USB previamente infectada.
+
+- Descarga de contenidos mediante redes de compartición P2P u otras fuentes poco fiables.
+
+- Apertura de algún fichero adjunto en un correo electrónico.
+
+- Visitar a una web maliciosa, al pulsar sobre alguna dirección acortada que se publican en redes sociales y que en verdad no sabemos a qué páginas web nos llevarán
 
 ## Troyanos
 
-troyanos
+Un Troyano o también llamado Caballo de Troya es una clase de malware que normalmente se camufla como software legítimo. Los ciberladrones utilizan este software malicioso para acceder en tus equipos y una vez dentro campar a sus anchas [@KASPER-troyano].
+
+Uno de los más peligrosos son los Keylogger es un tipo de software o un dispositivo hardware específico que se encarga de registrar las pulsaciones que realizas a través de tu teclado. Posteriormente son guardarlas en un fichero y remitido a través de la red a los ciberdelincuentes.
+
+Pudiendo llegar también como virus o gusanos. Una vez activados, los troyanos pueden permitir a los cibercriminales espiarte, robar tus datos confidenciales y obtener acceso por una puerta trasera a tu sistema.
+
+Los métodos más comunes de infección de un troyano suelen ser:
+
+- La descarga de programas piratas o [crackeados](https://es.wikipedia.org/wiki/Cracking_(software)).
+
+- Descarga de programas gratuitos desconocidos (juegos, salvapantallas y aplicaciones sencillas relacionadas con el entretenimiento).
+
+- Abrir archivos adjuntos infectados.
+
+- Abrir una imagen o cualquier otro tipo de archivo que sea en realidad un ejecutable con extensión modificada.
+
+- Visitar sitios web trampa, es decir, sitios que por ejemplo que podamos ver los vídeos sea necesario descargar un códec que en realidad es el troyano.
+
+- Visitar un sitio web previamente infectado sin las nuestro sistema actualizado o las debidas medidas de seguridad básica correspondiente.
+
+- Descarga de contenidos mediante redes de compartición P2P u otras fuentes poco fiables.
+
+## Ransomware o programa rescate
+
+El Programa rescate o ransomware, está dentro del conjunto de software malicioso que también se conoce como malware y que impiden utilizar el equipo mientras el usuario no pague una cierta cantidad de dinero. El virus bloquea o cifra la información o datos del equipo  [@WIKI-ransomware].
+
+Para intimidar y engañar a las víctimas les hacen creer que han incurrido en algún tipo de actividad delictiva, como incitación al odio, terrorismo, pederastia, entre otros. 
+
+Comparte junto con el resto de malware como son los virus, gusanos, troyanos, spyware y demás, la mismas vías de entrada. De modo que puedes verlo en dichos apartados de esta misma unidad.
+
+En la actualidad estos son unos de los ataques más virulentos. Según un estudio realizado por la compañía [Panda Security](https://www.pandasecurity.com/es/mediacenter/seguridad/2019-tsunami-del-ransomware/) en el 2019 este delitito tuvo un incremento con respecto al año 2018 del 500%.
+
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Ransomware (Malware).'}
+knitr::include_graphics("images/ransomware.jpg")
+```
 
 ## Spyware o software espía
 
-sypeware
+El spyware es un otro tipo de malware que se mantiene oculto mientras mientras recopila información en secreto, que después transmite a una entidad externa sin el conocimiento o el consentimiento del propietario del dispositivo [@AVAST-spyware].
+
+Puede supervisar y copiar todo lo que escribes, cargas, descargas y almacena. Algunas cepas de spyware también son capaces de activar cámaras y micrófonos sin que te des cuenta.
+
+Un spyware típico se auto instala en el sistema afectado de forma que se ejecuta cada vez que se pone en marcha el ordenador (utilizando CPU y memoria RAM, reduciendo la estabilidad del ordenador), y funciona todo el tiempo, controlando el uso que se hace de Internet e incluso algunos muestran anuncios relacionados.
+
+Sin embargo, a diferencia de los virus, no se intenta replicar en otros ordenadores, por lo que funciona como un parásito.
+
+El spyware tiene diferentes vías de entrada a nuestros equipos, muy parecidas a los virus y gusanos: 
+
+- Descarga de contenidos mediante redes de compartición P2P u otras fuentes poco fiables.
+
+- Apertura de algún fichero adjunto en un correo electrónico.
+
+- Visitar a una web maliciosa, al pulsar sobre alguna dirección acortada que se publican en redes sociales y que en verdad no sabemos a qué páginas web nos llevarán.
 
 ## Phishing / pharming / typosquatting
 
-phishing
+El término Phishing es utilizado para referirse a uno de los métodos más utilizados por delincuentes cibernéticos para estafar y obtener información confidencial de forma fraudulenta como puede ser una contraseña o información detallada sobre tarjetas de crédito u otra información bancaria de la víctima [@INFOSPY-phishing].
+
+El estafador, conocido como phisher, se vale de técnicas de [ingeniería social](https://es.wikipedia.org/wiki/Ingeniería_social_(seguridad_informática)), haciéndose pasar por una persona o empresa de confianza en una aparente comunicación oficial electrónica, por lo general un correo electrónico, redes sociales, SMS, etc., a raíz de un malware o incluso utilizando también llamadas telefónicas.
+
+Los métodos de phishing más usados por lo ciberdelincuentes:
+
+- Correos electrónicos de carácter corporativo.
+
+- Mensajería instantánea.
+
+- Redes sociales.
+
+- Webs corporativas (Bancos, pasarelas de pago, tiendas online, etc.)
+
+- SMS.
+
+Para poder detectar si estas siendo víctima de uno de estos fraudes debes estar atento a lo siguiente:
+
+- La dirección web o URL: Fíjate muy bien en la URL a la que te remite el enlace que te envían. Insistir en que hay que fijarse muy bien porque en algunas ocasiones las diferencias son inapreciables y se centran incluso en caracteres que se copian o se alteran (una l minúscula por una i mayúscula; un punto situado en un lugar poco visible y otras estrategias).
+
+- Ortografía: Forma en la que está redactado el mensaje. Los ciberatacantes en algunos casos no tienen tu misma nacionalidad ni hablan tu mismalengua y, en muchas ocasiones traducen los textos automáticamente y contienen faltas de ortografía, errores gramaticales o un tratamiento o forma de dirigirse a ti que ninguna comunicación oficial de tu banco, organismos o empresas contendría.
+
+- Cuidado con el remitente y lo que solicitan: Correo electrónico de tu banco, de la Agencia Tributaria, de Amazon u otra empresa. Lo primero que debes mirar es el remitente y comprobar que esa dirección es la que está vinculada a esos servicios. De la misma manera, si el correo te ha llegado a la carpeta de spam ya es un signo inequívoco de que el remitente es sospechoso. ¿Qué te piden en el correo? Ten muy presente que los bancos y las empresas u organismos no reclaman jamás que introduzcas tus datos personales o que los reingreses en una web para reactivar tu cuenta. No lo reclaman jamás.
+
+- Desconfía de los cupones promocionales y las encuestas: Esta modalidad de phishing ha sido una de las que más éxito ha tenido en los últimos años y ha afectado a todas las grandes marcas. Existen ejemplos de phishing a Mercadona, Ikea, a El Corte Inglés, a Zara, a Lidl… Y todo a través de cupones promocionales en los que te prometen una compra o un vale descuento a cambio de que accedas a un enlace y rellenes tus datos personales.
+
+- Descarga archivos adjuntos: Salvo que hayas comprobado todos los pasos anteriores y estés completamente seguro de la identidad del remitente, así como del objeto del mensaje, no descargues documentos adjuntos sin antes pasarlos por un buen antivirus.
+
+- Usa el sentido común y desconfía siempre: Este consejo es válido para detectar el phishing o cualquier otra amenaza en Internet. ¿Quién va a regalar gafas Ray-Ban o a venderlas un 75% por debajo de su precio?.
+
+```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Phishing banco Santander.'}
+knitr::include_graphics("images/phishing.jpg")
+```
+ 
+El Pharming es la explotación de una vulnerabilidad en el software de los servidores DNS (Domain Name System) o en el de los equipos de los propios usuarios, que permite a un atacante redirigir un nombre de dominio (domain name) a otra máquina distinta. De esta forma, un usuario que introduzca un determinado nombre de dominio que haya sido redirigido, accederá en su explorador de internet a la página web que el atacante haya especificado para ese nombre de dominio [@WIKI-pharming].
+
+El Typosquatting, también conocido como URL hijacking, sting site, o fake URL. Está basada en los errores tipográficos cometidos por usuarios de internet cuando introducen la dirección de un sitio web en un navegador. Cuando esto sucede la dirección puede llevarlos a un sitio alternativo propiedad de un cybersquatter [@WIKI-typosquatting].
+
+- Ejemplo: https://wikiepdia.org 
+
 
 ## Vishing
 
@@ -34,33 +162,179 @@ smishing
 
 ## Spam o correo malicioso
 
-span
+Los términos spam o correo malicioso hacen referencia a los mensajes no solicitados, no deseados o con remitente no conocido (correo anónimo), habitualmente de tipo publicitario, generalmente son enviados en grandes cantidades (incluso masivas) que perjudican de alguna o varias maneras al receptor [@WIKI-spam].
+
+Su finalidad suele ser con motivos comerciales, pero también pueden contener enlaces peligros como el Phishing, solicitar datos sensibles o contener descargas que sean un riesgo para nuestra privacidad y seguridad: 
+
+- E-Mails Spam con fines comerciales
+
+- Envíos masivos / Avisos de virus
+
+- E-Mails con ofertas o regalos
+ 
+- Correos Phishing
+
+Si recibes un email de carácter sospechoso, no lo abras y márcalo directamente como spam, para que así tu gestor de correos lo identifique para los sucesivos.
 
 ## Toolbars
 
-tool
+Las Toolbars son barras de herramientas que aparecen en la parte superior de los navegadores. Generalmente sirven para tener enlaces más rápidos a servicios, por ejemplo Windows Live Toolbars da acceso al correo y búsqueda entre otras funcionalidades. Regularmente los navegadores tienen las suyas propias.
+ 
+Pero puede ocurrir que a través de una instalación de software, normalmente gratuito puedan ser instaladas. Debes tener en cuenta que algunas de estas son muy molestas y en algunos casos pueden llegar a bombardearte con publicidad no deseada y que además en ocasiones llegan a ser muy difíciles de eliminar. Aunque cada vez son memos frecuentes.
 
-## Usurpación de identidad
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Toolbar.'}
+knitr::include_graphics("images/toolbar.jpg")
+```
 
-usurpación
+Normalmente, se instalan como un añadido al instalar aplicaciones gratuitas en el ordenador. Si no tienes cuidado durante el proceso de instalación y pulsamos siempre "Siguiente-Siguiente-Siguiente" las toolbars acaban en nuestro navegador. Para evitarlo no debes instalar una aplicación dando a "Siguiente-Siguiente-Siguiente" sin leer lo que nos están indicando. Para evitar este supuesto, recuerda que lo mejor es descargar programas solo de las webs oficiales.
+
+En el caso de haber instalado alguna toolbars por descuido existen algunas herramientas para desinstalarlas fácilmente, entre ellas esta [Malwarebytes](https://es.malwarebytes.com/adwcleaner/).
+
+## Usurpación o robo de identidad
+
+El robo de identidad o usurpación de identidad es la apropiación de la identidad de una persona: hacerse pasar por esa persona, asumir su identidad ante otras personas en público o en privado, en general para acceder a ciertos recursos o la obtención de créditos y otros beneficios en nombre de esa persona. Esto que sucede en el mundo analógico también ocurre en el mundo digital [@WIKI-usurpacion].
+
+La manera que tienen los ciberdelincuentes de usurpar la identidad suele ser a través de los siguientes:
+
+- Robo masivo de cuentas de email por medio de métodos de hacking.
+
+- Por medio de Phishing.
+
+- Dejando tú cuenta abierta en sitios públicos.
+
+- Usando Wi-Fi de terceros creadas para ese fin.
+
+La usurpación de identidad permite a los delincuentes hacerse con información personal de sus víctimas, para luego con ella interceptar aún más datos de otros perfiles, a quienes engañan con el fin de extorsionar u obtener lucro económico e incluso a veces realizar actividades delictivas.
+En caso de ser víctima de esta amenaza debes tener en cuenta lo siguiente:
+
+- Guarda los mensajes de texto e emails que recibas.
+
+- Haz capturas de pantalla.
+
+- Revisa todas tus redes sociales.
+
+- Avisa a tus contactos sobre el perfil falso.
+
+- Infórmalo dentro de la aplicación.
+
+- Si es de carácter grave denúncialo a las autoridades.
+
+- Si es posible cancela cuenta.
+
+## Estafas en compras online y otros engaños
+
+Compra de un producto que nunca llega
+
+Pago del envio por una venta de segunda mano, etc
 
 ## Vulnerabilidades
 
-vulnerabilidades
+Una vulnerabilidad en términos de informática es una debilidad o fallo en un sistema de información que pone en riesgo la seguridad de la información pudiendo permitir que un atacante pueda comprometer la integridad, disponibilidad o confidencialidad de la misma. Estas vulnerabilidades pueden tener distintos orígenes como por ejemplo: fallos de diseño, errores de configuración o carencias de procedimientos [@INCI-vulnerabilidad].
 
-## Cryptohacking
+Los fallos de vulnerabilidad les corresponde corregirlos a las terceras partes implicadas lo a veces con lleva la dificultad de que escapan a nuestro control. Pero para protegernos de tales, debemos tener actualizados todos nuestros sistemas y software. 
 
-crypto
+Un ejemplo de vulnerabilidad muy conocido fuero el [Meltdown](https://es.wikipedia.org/wiki/Meltdown_(vulnerabilidad)) y [Spectre](https://es.wikipedia.org/wiki/Spectre_(vulnerabilidad)), relacionadas con los procesadores informáticos, que existen desde mediados de los noventa, pero que han sido descubiertas solamente ahora.
+
+## Cryptojacking
+
+El cryptojacking, también llamado minería de criptomonedas malicioso, consiste en un tipo de software fraudulento que se oculta en un ordenador o en un dispositivo móvil, y utiliza los recursos de la máquina para extraer diversas formas de monedas digitales conocidas como [criptomonedas](https://es.wikipedia.org/wiki/Criptomoneda). Hay que aclarar que no está tan focalizado en el robo directo de estas, sino, que se centra en el robo o secuestro de dispositivos de terceros con el fin de utilizarlos para minar estas criptomonedas, y a los que se le conocen también como dispositivos zombies [@cryptojacking].
+
+Se trata de una amenaza reciente que se hace con el control del navegadores web, y de este modo, comprometen todo tipo de dispositivos, desde ordenadores de escritorio y portátiles hasta teléfonos inteligentes e incluso servidores de red.
+
+Existen recursos y herramientas para saber si estamos siendo víctimas de cryptojacking:
+
+- Te puede pasar que el ordenador se recaliente, que empiecen a sonar los ventiladores de pronto y se mantengan encendidos por más tiempo de lo que consideras normal.
+
+- El sistema operativo se pondrá lento, incluso se puede llegar a colgar el navegador o todo el sistema constantemente.
+
+- Comprueb el administrador de tareas en Windows, o el Monitor de actividad en MacOS. Fíjate en los procesos que estén ocupando el mayor porcentaje de CPU. En circunstancias normales un solo proceso no debe pasar de 10%, rara vez sobrepasan el 20% al menos que se trate de software muy complejo como el de edición de vídeo, juegos, o el mismo sistema actualizando. Pero que te aparezca el navegador en números absurdos como 70-90 y hasta 100% es una alarma clara.
+
+Las vías de contagios son las mismas que la mayoría de malware tales como los virus, gusanos, troyanos, spyware y demás. Por lo que puedes verlo en dichos apartados de esta misma unidad. Aunque en la mayoría de los casos te llega a través de una web, haciendo uso del navegador por lo que existen webs y plugin que comprueban si estas siendo víctima de este ciberdelito y algunas de estas son:
+
+- [CoinEater](https://github.com/fhstp/CoinEater) 
+
+- [Minerblock](https://github.com/xd4rker/MinerBlock)
+
+- [Not mining](https://notmining.es)
 
 ## Plugins maliciosos
 
-plugins
+En primer lugar, es importante tener claro qué es un plugin. Así pues, se trata de un software o aplicación que actúa como complemento para ampliar las funcionalidades del programa principal al que complementa. Dicho esto, algunos ciberdelicuentes usan esta funcionalidad para sus actividades delictivas, como espiar o recopilar datos sensibles e incluso el robo de criptomonedas. [@WIKI-plugin].
+
+Instalar un plugin suele ser una acción muy sencilla, y te puede servir para finalidades muy diversas, un claro ejemplo ello, es el plugin de [Google drive](https://drive.googleblog.com/2012/12/introducing-save-to-drive-extension.html) o [Adblock](https://getadblock.com/) para el bloqueo de publicidad, etc. Es por esto que debes tener siempre algunas consideraciones, como verás a continuación.
+
+Sin embargo, a pesar de ser programas muy útiles que la inmensa mayoría utiliza, no todos son conscientes del riesgo que conlleva el simple hecho de instalar un plugin. El problema suele venir por no tener actualizado un buen sistema de seguridad.
+
+A veces, el simple hecho de que el plugin este disponible no significa garantía ninguna. Tanto es así que aquí podemos ver uno de los que recientemente ha sido retirado de WordPress hasta en cuatro ocasiones. Un programa capaz de recopilar datos de los navegantes con el correspondiente riesgo a nivel de Reglamento General de Protección de Datos que esto conlleva, así como de publicar entradas no deseadas y prácticas de spam. De otra lado Google esta continuamente retirando plugins maliciosos de su plataforma.
+
+Los puntos más importantes a tener en cuenta a la hora de protegernos son:
+
+- Infórmate del desarrollo del plugin así como posibles variaciones.
+
+- No descarges plugins sospechosos.
+
+- Utiliza preferiblemente aquellos plugins de referencia, con fama y garantía reconocidas.
 
 ## SIM Swaping
 
-sim
+El SIM swapping,es la técnica que usan últimamente los ladrones digitales que se basa en duplicar la tarjeta SIM del móvil de sus víctimas. Así, pueden acceder a toda su información personal y, sobre todo, pueden usarlas en la verificación a través de un SMS por medio del móvil que suelen pedir los bancos cuando se opera a través de Internet y algunas otras plataformas online.
+
+Por ello, aunque la mayoría de las apps de los bancos son muy seguras, con protocolos complejos para las claves de acceso, cifrado de las comunicaciones y teclados virtuales, los timadores digitales son capaces de saltarse la seguridad por medio de una técnica llamada [ingeniería social](https://es.wikipedia.org/wiki/Ingeniería_social_(seguridad_informática)), que consiste en el engaño a través de técnicas de persuasión y manipulación psicológica. Sin embargo, en lugar de timar directamente a las víctimas, el SIM swapping se consigue por medio de un engaño a los dependientes de las tiendas de telefonía.
+
+Por lo tanto, una vez que el ciberdelicuente se hace con tus credenciales del tipo que sea, tales como contraseñas bancarias o de perfiles sociales, como Facebook, Instagram, etc o cualquier otra credencial privada, no va a tener problemas para obtener el SMS de verificación.
+
+Cabe destacar que cuando se es víctima de este asalto digital, al obtener la duplicación de la SIM por parte del atacante, tu tarjeta queda sin uso, por lo tanto pierdes la cobertura de llamadas y la conexión de internet [@PANDA-sim].
+
+Por lo tanto, es importante que sigas estas recomendaciones para no ser víctimas del SIM Swapping:
+
+- Utiliza una contraseña adicional o [doble autentificación](https://www.osi.es/es/actualidad/blog/2019/02/27/el-factor-de-autenticacion-doble-y-multiple): reconocimiento facial, por voz, PIN adicional, [Google authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=es&gl=US), etc.
+
+- No compartas demasiada información en Internet. Cuantos más datos haya sobre ti en la web, más fácil será para los malos chantajearte, timarte o conseguir otras cosas tuyas, como contraseñas, cuentas bancarias, etc.
+
+- No almacenes todo en tu móvil, no es una caja fuerte. Es un dispositivo electrónico que no es 100% seguro.
+
+- Exige a tu operador móvil que refuerce sus sistemas de seguridad cuando se trate de operaciones en tu nombre.
+
+- Los mensajes a través de aplicaciones de mensajería tipo WhatsApp, Telegram, Line, etc. son más seguros que los SMS, ya que están encriptados y éstos últimos no, haciéndolos más susceptibles.
+
+- No vincules tus cuentas bancarias a tu cuenta o teléfono.
+
+- No le des nunca a nadie tu código PIN. ¡Nunca!.
+
+- Instala un antivirus o solución de seguridad para evitar que puedan robar o acceder a tus datos personales.
+
+Qué hacer en caso de que ya te hayan robado tu dispositivo móvil:
+
+- Pide a tu operadora que bloquee el IMEI de tu teléfono.
+
+- Búscalo con el localizador para [android](https://myaccount.google.com/intro/find-your-phone?hl=es-ES) para [apple](https://www.apple.com/es/icloud/find-my/).
+
+- Anula la SIM y pide duplicado de la misma.
+
+- Cambia todas tus contraseñas. ¡Todas!.
+
+- Denúncialo a la Policía.
+
+- Denúncialo a tu operadora
+
+- Avisa a tus contactos. Sí, a todos.
+
+- Bloquea el dispositivo y borra el contenido que puedas de forma remota.
+
+- Comprueba tu cuenta bancaria y ponte en contacto con tu banco.
+
+Ve este [video](https://www.youtube.com/watch?v=fIaodow_nxw) del [Instituto nacional de Ciberseguridad](https://www.incibe.es/)
+
+
 
 ## Shoulder surfing
 
 Shoulder
 
+## Ciberacoso
+
+acoso
+
+## Ciberextorsión
+
+que es la ciberextorsión

@@ -1,16 +1,16 @@
-# Privacidad y Seguridad en Internet
+# Privacidad y Seguridad en Internet 
 
 ## Introducción
 
-En estos últimos años hemos podido ver como la evolución de las IT (Tecnologías de la información) y el paso de la Web1.0. a la Web 2.0., nos ha permitido a muchos de nosotros como usuarios interactuar los unos con los otros subiendo y compartiendo todo tipo de contenidos. La aparición de las Redes sociales ha traído con ellas, la posibilidad de  publicar fotos, videos, información, comentarios, reseñas, etc.  a través de cualquier dispositivo, ya sea un PC, tablet o smartphone. Y no solo eso, sino que además, también nos ha abrierto un amplio abanico de posibilidades con las que podemos  gestionar cuentas bancarias, hacer compras online, trámites telemáticos y un sinfín  de gestiones que hasta hace tan solo unos años atrás eran difíciles de imaginar.
+En estos últimos años hemos podido ver como la evolución de las IT (Tecnologías de la información) y el paso de la Web1.0. a la Web 2.0., nos ha permitido a muchos de nosotros como usuarios interactuar los unos con los otros subiendo y compartiendo todo tipo de contenidos. La aparición de las Redes sociales ha traído con ellas, la posibilidad de  publicar fotos, videos, información, comentarios, reseñas, etc.  a través de cualquier dispositivo, ya sea un PC, tablet o smartphone. Y no solo eso, sino que además, también nos ha abierto un amplio abanico de posibilidades con las que podemos  gestionar cuentas bancarias, hacer compras online, trámites telemáticos y un sinfín  de gestiones que hasta hace tan solo unos años atrás eran difíciles de imaginar.
 
 Como consecuencia de ello, el enorme conglomerado de información sensible que se encuentra disponible en internet, hace que nosotros como usuarios estemos en el punto de mira de ciberdelincuentes y expuestos a todo tipo de ciberataques. En esta línea, este manual contribuye a enseñarte, aconsejarte y proveerte de herramientas necesarias para  prevenir, evitar y paliar  en la medida de lo posible todos los  riesgos y peligros a los que estamos expuestos  en nuestro uso diario de las tecnologías.
 
 Por lo tanto, en lo sucesivo iras viendo el porqué de la importancia de velar de manera activa por tu privacidad y seguridad en internet haciendo una buena gestión de éstas. También te ayudará a conocer y reconocer la amplia lista de ciberdelitos que actualmente están más extendidos. 
 
-En estás [estadísticas](https://oedi.es/estadisticas/) públicadas por el  Obsevatorio Español de Delitos informáticos [@oedi] puedes ver el porqué de cuidar tu privacidad y seguridad en internet. En ellas se expone una  exhaustiva lista de ciberdelitos  y sus recurrencias cronológicas.
+En estás [estadísticas](https://oedi.es/estadisticas/) públicadas por el  Observatorio Español de Delitos informáticos [@oedi] puedes ver el porqué de cuidar tu privacidad y seguridad en internet. En ellas se expone una  exhaustiva lista de ciberdelitos  y sus recurrencias cronológicas.
 
-## Privacidad
+## Privacidad 
 
 La privacidad es aquello que se lleva a cabo en un ámbito reservado; en Internet podría entenderse como el  control que ejercemos sobre nuestra información  para limitar la cantidad de personas autorizadas a verla, así como la cantidad de contenido expuesto. Esto incluye datos personales, fotografías, documentos, etc. 
 
@@ -24,7 +24,7 @@ Por todo lo que se ha mencionado en éstas últimas líneas, es de suma importan
 
 La seguridad en internet son todas aquellas precauciones que son tomadas para proteger todos los dispositivos informáticos, así como la red de internet que pueden ser afectados por delincuentes cibernéticos. Además de ser una rama de la seguridad informática que se dedica a identificar y prevenir todas las amenazas que afectan a la red de redes, siendo una de las herramientas más conocidas los antivirus [@seguridad].
 
-Entre los peligros más habituales de no hacer un buen uso de la seguridad en la red, nos encontramos, robo de datos bancarios o personales, virus informáticos, phishing, spam, etc. Una lista amplia y exhaustiva será vista la unidad \@ref(amenazas) Amenazas.
+Entre los peligros más habituales de no hacer un buen uso de la seguridad en la red, nos encontramos, robo de datos bancarios o personales, virus informáticos, phishing, spam, etc. Pero estos no son losúnicos riesgos que asechan en internet, como verás más adelante.
 
 ## RGPD (Reglamento general de protección de datos)
 

@@ -2,34 +2,142 @@
 
 ## Gestionando la seguridad en la red
 
-Some _significant_ applications are demonstrated in this chapter.
+Como ya viste en la unidad de privacidad y seguridad, la seguridad en internet son todas aquellas precauciones que deben ser tomadas para proteger todos los dispositivos informáticos, así como la red de internet que pueden ser afectados por delincuentes cibernéticos.
+
+Más adelante verás de qué situaciones y amenazas te estás protegiendo si sigues todas estas recomendaciones.
 
 ## Contraseñas
 
-Segundo nivel
+Una contraseña, clave o password es una forma de autentificación que utiliza información secreta para controlar el acceso hacia algún recurso. La contraseña debe mantenerse en secreto ante aquellos a quien no se le permite el acceso [@WIKI-password]. 
+
+Y su utilidad consiste en que a aquellos que desean acceder a la información se les solicita una clave o contraseña, si conocen dicha contraseña se les concede el acceso y si no la conocen, se les niega el acceso a la información.
+
+Estas deben ser lo más seguras posibles, para ello deben crearlas bajo las siguientes [@OSI-contraseñas]:
+
+- Debes incluir números.
+
+- Utiliza una combinación de letras mayúsculas y minúsculas.
+
+- Incluye caracteres especiales. Ejemplos: * ? ! @ # $ / () {} = . , ; : 
+
+- Una longitud mayor o igual a 8 caracteres.
+
+- No debes incluir espacios en blanco.
+
+También es recomendable que la cambies cada cierto tiempo, al menos aquellas que sean de mayor importancia.
+
+A su vez también han de ser fáciles de recordar, pero debes de huir de patrones poco seguros y fáciles de adivinar. A continuación, algunos ejemplos de contraseñas que nunca debes utilizar:
+
+- Qwerty
+
+- 1234
+
+- Asdfg
+
+- Password
+
+- 11111 
+
+- Usar datos personales como la fecha de nacimiento, nombre mascota, etc.
+
+Algunas reglas y ejemplos para que las contraseñas sean fáciles de recordar los encontrás en estos enlaces:
+
+- [Trucos para crear contraseñas seguras](https://www.pandasecurity.com/es/mediacenter/seguridad/10-trucos-para-crear-contrasenas-seguras/)
+
+- [Consejos para crear contraseñas seguras](https://www.genbeta.com/seguridad/especial-contrasenas-seguras-consejos-para-mejorar-la-seguridad-de-tus-contrasenas)
+
+Otras recomendaciones que debes a tener siempre presente son:
+ 
+- No las compartas con nadie.
+
+- No uses la misma contraseña en diferentes servicios.
+
+- No las almacenes en el navegador.
+
+- Usa la [verificación en dos pasos](https://www.osi.es/es/actualidad/blog/2019/02/27/el-factor-de-autenticacion-doble-y-multiple) también conocida como autenticación doble.
+
+- Usar [security keys](https://cloud.google.com/titan-security-key/?hl=es).
+
+- Gestores de contraseñas:
+
+    - [Bitwarden](https://bitwarden.com/) 
+    - [LastPass](https://www.lastpass.com/es/) 
+    - [Google passwords](https://passwords.google.com/)
+
+Para acabar con este apartado puedes comprobar la seguridad y robustez de tu contraseña, con los siguientes recursos online: 
+
+- [How Secure Is My Password](https://www.security.org/how-secure-is-my-password/)
+
+- [Password Check](https://password.kaspersky.com/) 
 
 ## Protocolo https
 
-Tercer nivel
+El Protocolo seguro de transferencia de hipertexto (en inglés: Hypertext Transfer Protocol Secure o HTTPS), es un protocolo de aplicación basado en el protocolo HTTP, destinado a la transferencia segura de datos de Hipertexto, es decir, es la versión segura de HTTP [@WIKI-https].
+
+El sistema HTTPS utiliza un cifrado basado en la seguridad de textos SSL/TLS para crear un canal cifrado.
+
+De este modo se consigue que la información sensible (usuario y claves de paso normalmente) no pueda ser usada por un atacante que haya conseguido interceptar la transferencia de datos de la conexión, ya que lo único que obtendrá será un flujo de datos cifrados que le resultará imposible de descifrar.
+
+Identificar si el protocolo https está activado en el navegador es muy sencillo. Sólo debes fijarte en la parte superior izquierda de tu navegador. Si tu URL inicia con https: //, o bien, antes de la dirección se muestra un candado, estarás navegando con seguridad bajo el protocolo https.
+
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Protocolo https vs http.'}
+knitr::include_graphics("images/protocolo-https-http.jpg")
+```
 
 ## Compras y transacciones
 
-Cuarto nivel
+Para comprar por Internet debes tomar cuantas más precauciones mejor para evitar cualquier tipo de fraude. Los factores a tener en cuenta son los siguientes:
+
+- Evita sitios webs que no te inspiren confianza: Por ello solo debes compras a través de webs y aplicaciones oficiales. Además de buscar valoraciones y opiniones, utilizar plataformas que valoran la reputación online de un portal, como [Scamadviser](https://www.scamadviser.com/).
+
+- Usa solo plataformas con protocolo HTTPS: Visto en el apartado anterior.
+
+- Utiliza navegación privada: Así evitarás que se registre el historial de navegación.
+
+- Haz comprobaciones adicionales: Comprueba que la web está adherida a alguna plataforma de confianza online, como, por ejemplo, [Confianza Online](https://www.confianzaonline.es/). Se trata del único sello de calidad que cuenta con los reconocimientos de la Comisión Europea, el Instituto Nacional de Consumo o la Agencia Española de Protección de datos, además de estar respaldado por el Ministerio de Industria, Energía y Turismo.
+
+- Trata de usar pasarelas de pago: Evita en lo posible el uso de tarjetas de crédito y opta por una pasarela de pago, como puede ser [PayPal](https://www.paypal.com/es/home), te estarás garantizando la compra, además de disponer de protocolos de devolución del importe muy efectivos.
 
 ## Wi-Fi
 
-hola
+Con respecto a la Wi-Fi nos encontramos ante dos escenarios: Wi-Fi propia y Wi-Fi ajena.
+
+Uno de los peligros a los que más expuestos estas con tus equipos portátiles ya sean ordenadores, smartphones, etc., es el de buscar puntos Wi-Fi ajenos. Ya que por lo general suelen ser puntos de accesos a la red gratuitos. En este escenario, existe el riesgo que aun tratándose de una red confiable puede haber sido hackeada por un tercero o que en primera instancia no provenga ni si quiera de una red de confianza. En cualquiera de los dos supuestos, tus dispositivos quedan expuestos y con ello, toda tu información sensible, a merced de ser espiado, robado o extorsionado.
+
+Es por ello que debes tener la precaución de no hacer transacciones de ningún tipo, ni enviar datos sensibles. Es decir, usarla solo en caso de no te quede otra opción o en caso de tener que hacer cualquier búsqueda de carácter trivial.
+
+Es de suponer que si estas en casa con Wi-Fi propia, estas recomendaciones no son tan necesarias.
 
 ## Plugins o extensiones
 
-hola
+En informática, un complemento o plug-in es una aplicación (o programa informático) que se relaciona con otra para agregarle una función nueva y generalmente muy específica. Esta aplicación adicional es ejecutada por la aplicación principal e interactúan por medio de la interfaz de programación de aplicaciones. Complemento y plug-in se diferencian en que los complementos son desarrollados por empresas reconocidas y tienen certificado de seguridad y los plug-in pueden ser desarrollados por cualquiera [@WIKI-plugin].
+
+Existen una infinidad de plug-in de diferente naturaleza y para multitud de propósitos. En esta ocasión nos vamos a centrar en los usados por los navegadores, un ejemplo de estos es el archiconocido [adBlock](https://getadblock.com/), cuya función es la eliminar esos molestos anuncios de algunos portales webs.
+
+Estos pueden estar desarrollados por terceros con intenciones de controlar la información que manejamos en nuestro dispositivo. De ahí que deban proceder de fuentes fiables y que estén configurados para actualizaciones automáticas.
+
+Por último, cada navegador dispone de repositorio de plug-ins o extensiones, que pueden ser consultados y desde donde los puedes instalar y comprobar su fiabilidad, así como consultar las valoraciones.
+
+```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Plugin traductor de Google seguido de otros plugin con diferentes funcionalidades.'}
+knitr::include_graphics("images/plugin-navegador.png")
+```
 
 ## Descargas
 
-descargas
+Debes de tener muy en cuenta que las aplicaciones o programas deben ser descargadas desde sus sitios oficiales, y no desde otros. Es importante tener siempre presente que, incluso en ocasiones ni si quiera los antivirus reconocen algunas aplicaciones o programas que pudieran contener alguna vulnerabilidad, algún virus o gusano que afecte tu ordenador.
+
+Existen también multitud de webs que en apariencia, ofrecen programas muy mediáticos o de mucha popularidad y que pueden haber sido previamente infectados con algún tipo de código malicioso mediante la modificación o alteración del mismo. Por ello, lo más aconsejable es que descarges las aplicaciones desde las webs oficiales [@software-alterado].
+
+Dentro de todos los tipos de archivos que pueden contener malware, uno de los más comunes es el .EXE. Incluso a la hora de descargar archivos de este tipo nuestro antivirus puede saltar aunque no se trate de una amenaza. Cuando queremos mandar un EXE por e-mail tampoco nos dejan. Es todo un clásico, ya que se trata de un archivo ejecutable que podría instalar software malicioso en nuestro sistema. Hay que tener mucho ojo siempre que gestionemos un archivo de este tipo [@exe].
+
+Es una buena práctica huir de portales de terceros, ya con los instaladores muchso de ellos descargan malware y molestas toolbars.
 
 ## Cierre de sesiones
 
-cierre
+Cuando hagas uso de algún servicio en internet, como por ejemplo, Facebook, Gmail o cualquier otro, lo primero que tienes que hacer es iniciar sesión con tus credenciales. 
+
+Si estas en tu dispositivo no pasaría nada si una vez abierta la sesión no la cierras después de haber usado el servicio, pero si por el contrario estas usando un dispositivo ajeno, el servicio quedaría abierto y tus datos expuestos.
+
+Por la razón antes expuesta, es importante que no dejes ninguna sesión abierta.
 
 

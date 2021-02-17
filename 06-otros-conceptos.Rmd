@@ -1,34 +1,146 @@
 # Otros conceptos relacionados
 
-##  Otros conceptos que debemos conocewr
+##  Otros conceptos que te pueden ayudar
 
-Esta es la última unidad
-
+En esta última unidad podrás ver otros aspectos relacionados con la privacidad y seguridad en internet que también te pueden ayudar a abordar todos estos temas.
 
 ## Metadatos
 
-For example, we are using the
+Los metadatos pueden ser descritos de varias formas posibles, pero de forma resumida son un conjunto de datos que proporciona información de un recurso. Datos como pueden ser un archivo de imagen o un documento de texto, siendo algunos de éstos metadatos la fecha de creación, la de última modificación o la resolución en el caso de una imagen [@WIKI-meta].
+
+La función principal de los metadatos es la de ampliar con información adicional la contenida en el recurso del que forman parte con el fin de mejorar la calidad y efectividad de las búsquedas realizadas, no solo a la hora de realizar una búsqueda de un archivo perdido en nuestro sistema operativo, sino que esto afecta incluso al posicionamiento web.
+
+En ciertas ocasiones éstos datos pueden provocar problemas, algunos de ellos de seguridad como puede ocurrir por ejemplo por alguno de los dos motivos siguientes:
+
+- Suele ocurrir que algunas cámaras fotográficas incluyan las coordenadas geográficas desde las que se realiza la fotografía entre los metadatos en los archivos de imágenes, pudiéndose localizar la posición en la que la imagen fue tomada.
+
+- Puede determinarse la versión del software con la que fue guardado un archivo, por lo que si trabajas en una empresa y no tienes la licencia de dicho programa, los metadatos pueden generarte problemas.
 
 ## Huella digital o reputación online
 
-huella
+La huella digital o reputación online es la fama o prestigio que una persona o una empresa tiene en el mundo digital. Realmente la reputación digital no difiere mucho de la reputación tradicional, ya que en cierto modo ambas están conectadas, por lo que deben ser coherentes la una con la otra.
+
+Cabe destacar que la variante digital ha tomado gran importancia, ya que cuando una persona o compañía quiere saber de ti, uno de los mecanismos que va a utilizar es buscarte en internet, y es, en este punto donde radica la importancia de contar con una buena reputación online [@huella-digital].
+
+En este sentido es importante en un primer momento, conocer si tu huella digital goza de una buena salud y para ello lo más recomendable es que hagas un ejercicio de búsqueda, para ver si los resultados que obtienes son buenos. Puedes usar algunas de la siguientes herramientas para este propósito:
+
+- Buscar directamente en google o otros buscadores. Puedes apoyarte en las [búsquedas avanzadas de google](https://support.google.com/websearch/answer/2466433?hl=es).
+
+- Crear alertas de [Google alert](https://www.google.es/alerts). Este rcurso también te servira para estar al día de lo que se publica sobre ti.
+
+- [Hootsuite](https://www.hootsuite.com/). Esta herramienta te buscará entre las principales redes sociales, como Facebook, twitter, etc. es usada en su mayoría en el mundo corporativo.
+
+Si los resultados obtenidos no son de tu agrado, algunas plataformas te permiten solicita la eliminación de dicho contenido o simplemente puedes gestionar tu esa información desde la propia plataforma.
+
+Crear una buena huella digital requiere de tiempo y debes ser cuidadoso con la manera en que interactuas en la red. Existen decálogos que te guían para crear una excelente reputación online, así como videos tutoriales y herramientas para llevarlo a cabo. Nos obstante aquí tienes las mejores recomendaciones para cuando quieras compartir, comentar, valorar o opinar en cualquiera de los medios sociales como Facebook, Instagram o cualquier otra, hacer una reseña en google o participar en algún foro [@decalogo-digital].
+
+- Presencia y actualización sistemática.
+
+- Cuidar la imagen mostrando transparencia.
+
+- Aportar contenido de calidad.
+
+- Respetar siempre la opinión ajena.
+
+- Identificar los canales apropiados con los que interactuar.
+
+- Tener en cuenta las reglas de urbanidad digital, esto consiste en una redacción cuidada y usos de negritas o enlaces de interés.
+
+- Diferenciar entre lo público y lo privado.
+
+Estas últimas puedes tenerlas en cuenta si quieres llevar tu huella digital a un nivel más profesional.
+
+- Disponer de un blog personal.
+
+- Mantener una actitud en la red activa.
+
+- Permanecer atento a las nuevas redes y formas de difusión.
 
 ## Eliminar el historial de busquedas
 
-eliminar
+Cualquier navegador, salvo que usemos una navegación privada, almacena un registro de las páginas que hemos visitado, una información que podemos borrar si queremos o conservar en el caso de querer localizar más tarde alguna página que no recordemos. Es muy útil en este segundo caso, pero puede llegar a ser embarazoso si no queremos que nadie pueda ver las webs que hemos visitado.
+
+Cada navegador ofrece la posibilidad de borrar toda esta información y para ello accederemos desde los menús de estos. Cada navegador tiene una forma diferente de realizar este borrado, aunque normalmente suele estar en la opción/pestaña herramientas. No obstante el siguiente enlace te llevará a la web del antivirus [AVG](https://www.avg.com/es/signal/how-to-clear-your-browsing-and-search-history), desde donde te enlazará a los diferentes tutoriales de cómo borrar el historial de navegación y de búsquedas de los navegadores más populares, como Google Chrome, Firefox o Microsoft Edge entre otros.
 
 ## Constastar la información
 
-Y en Linux
+Contrastar es sacar la información más relevante de los diferentes lugares en los que la encontramos, ya que es una idea principal de aquello que necesitamos comprender o aplicar. Hoy en día la información en más rápida de encontrar, por lo cual hay que saberla escoger, porque en muchos casos son cosas irrelevantes que las personas ponen solo para confundir o simplemente por falta de conocimiento o criterio.
 
-## Otras utilidades
+Al contrastar información debes hacer un análisis de todas aquellas fuentes de información que encuentras, ya que los resultados de búsquedas en los navegadores es muy abundante y la información a veces es efímera y puede llegar a no estar totalmente actualizada, con lo que eso conlleva.
 
-otras
+No debemos conformarnos con dar por buena la primera versión de una información en Internet, empobrece nuestra experiencia como usuarios, nos perjudica a nosotros los lectores. Por ello hay que tener presente el compromiso ético, por mucho que las prisas sean las que mandes en algunas ocasiones, siempre debemos cuidar nuestra ética al trabajar y contrastar muy bien toda información y fuente [@contrastar-informacion].
+   
+## Otras utilidades interesantes
 
-## INCIBE (Instituto nacional de ciberseguridad)
+Aparte de todo lo visto en el manual existen muchas otras herramientas para ayudarnos a salvaguardar nuestra privacidad y seguridad en la red, algunas de estas son:
 
-incibe
+- Emails temporales: [Temporay email](https://temp-mail.org/es/). Si solo necesitas regístrarte en una web para un recurso puntual, como por ejemplo descargarte un eBook, puedes hacer uso de este servicio. Y si usas el navegador Firefox, podrás tener este mismo servicio integrado en el propio navegador con solo la instalación de un plugin [Relay firefox](https://relay.firefox.com). 
 
-## OSI (Oficina de seguridad del internauta)
+- Escaneo de URLs maliciosas: [UrlScan](https://urlscan.io/). Esta plataforma detecta las direcciones webs fraudulentas.
 
-osi
+- Comprobar y mejorar tu privacidad y seguridad en internet: [Lista de verificación de seguridad](https://securitycheckli.st/). Esta web esta en inglés pero abarca un amplio espectro de herramientas y recursos diseñados para mejorar tu privacidad, seguridad y protección online y siempre dispones del traductor en línea de google.
+
+- Derecho al olvido: [AEPD](https://www.aepd.es/areas/internet/derecho-al-olvido.html). Desde este servicio te facilitarán los enlaces para que puedas solicitar el derecho al olvido en [Google](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&visit_id=637490694757326412-3626204680&hl=es&rd=1), [Bing](https://www.bing.com/webmaster/tools/eu-privacy-request), [Yahoo](https://es.ayuda.yahoo.com/kb/Solicitud-para-bloquear-resultados-de-b%C3%BAsqueda-en-Yahoo-Search-Recursos-para-Residentes-Europeos-sln28252.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYWVwZC5lcy8&guce_referrer_sig=AQAAAIRquvv_VPnIiAOniwOvZi_iVodzBg6yn2C0sGApxESxJWBR6RMqeNq89qO01lmI0UdIKSr3ivLxST8cTDrgIMQRF9FIda60jZQ16f8q85f-eqLvvviA02B_fephtV40QIGV7aQ8Uw0M7f_poDUONOrmeKQzbahKvnuKZCoBDBFQ), aunque desde estos últimos enlaces ya puedes acceder directamente.
+
+- Eliminar cuentas en Redes Sociales: [Deseat](https://www.deseat.me/).  Con esta plataforma podrás tener instantáneamente una lista de todas tus cuentas y eliminar las que no estés usando o las que te apetezcan. 
+ 
+- Números de teléfono de usar y tirar: [Hushed](https://hushed.com). Se trata de un servicio premiun pero de coste muy económico. Solo es cuestión de ver si te compensa. 
+
+- Nombres y direcciones desechables: [Generador de nombres falsos](https://www.fakenamegenerator.com). Como en el caso de los emails temporales este servicio puede ser un buen recurso.
+
+## Entidades e instuciones de ayuda al ciudadano
+
+**INSTITUTO NACIONAL DE CIBERSEGURIDAD** [INCIBE](https://www.incibe.es/)
+
+El Instituto Nacional de Ciberseguridad de España (INCIBE), es una sociedad dependiente del Ministerio de Economía y Empresa a través de la Secretaría de Estado para el Avance Digital y consolidada como entidad de referencia para el desarrollo de la ciberseguridad y de la confianza digital de ciudadanos, red académica y de investigación, profesionales, empresas y especialmente para sectores estratégicos.
+
+La misión de INCIBE es por tanto reforzar la ciberseguridad, la confianza y la protección de la información y privacidad en los servicios de la Sociedad de la Información, aportando valor a ciudadanos, empresas, Administración, red académica y de investigación española, sector de las tecnologías de la información y las comunicaciones y sectores estratégicos en general. Aunándolo es estas tres siguientes líneas de actuación:
+
+- Al internauta.
+
+- Al menor.
+
+- A la empresa.
+
+Informan entre otros sobre: 
+
+- Protección de redes, equipos y sistemas.
+
+- Cumplimiento de obligaciones relativas a la seguridad de la información.
+
+- Diferentes tipos de incidentes de seguridad.
+
+- Seguridad en las conexiones y redes wifi.
+
+-  Configuración de la privacidad en dispositivos y servicios de internet.
+
+- Situaciones de infección por virus.
+
+- Contenidos inadecuados para menores y comunidades peligrosas en línea.
+
+- Ciberacoso escolar.
+
+- Controles parentales.
+
+Dispone de un teléfono gratuito 017.    
+
+**OFICINA DE SEGURIDAD DEL INTERNAUTA** [OSI](https://www.osi.es/es)
+
+Hola
+
+**AGENCIA ESPAÑOLA DE PROTECCIÓN DE DATOS** [AEPD](https://www.aepd.es/es)
+
+Hola
+
+En caso de tratarse de menores
+
+**PANTALLAS AMIGAS** [Pantallasamigas.net](https://www.pantallasamigas.net/)
+
+Para menores
+
+**INTERNET SEGURA PARA NIÑOS** [is4k](https://www.is4k.es/)
+
+Para niños
+
+
+
