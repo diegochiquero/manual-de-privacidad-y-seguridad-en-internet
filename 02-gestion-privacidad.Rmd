@@ -64,12 +64,37 @@ Su propósito principal es identificar al usuario almacenando su historial de ac
 
 Existe la opción de navegar sin cookies gracias a las sesiones privadas que tienen los distintos navegadores, como has podido ver en el apartado anterior. De esta forma no se almacenará ningún tipo de información en tu ordenador cuando navegues en una web y del mismo modo tampoco recordará nada después al volver a navegar de nuevo.
 
-Es importante que con frecuencia elimines las cookies, ya que como ya sabes manejan información privada y además ocupan espacio en tu dispositivo. Esto lo puedes hacer de dos maneras. Manualmente desde el menú de opciones del navegador o con software específico para tal cometido, como por ejemplo [Ccleaner](https://www.ccleaner.com/es-es).
+Es importante que con frecuencia elimines las cookies, ya que como ya sabes manejan información privada y además ocupan espacio en tu dispositivo. Existen dos formas manuales de hacerlo. La primera de ellas es desde el menú de opciones del propio navegador y la otra es con un software específico para tal cometido, como por ejemplo [Ccleaner](https://www.ccleaner.com/es-es). Pero si quieres automatizar esta tarea, practicamente todos los navegadores disponen de una configuración para que una vez  cierres el navegador se realice una limpieza de manera automática. La siguiente imagen te muestra la opción que debes buscar en el navegador Google Chrome, para ello ve al Menu del navegador entra en Configuracíón luego Privacidad y seguridad a continuación Cookies y finalmente Borrar las cookies y los datos de sitios al salir de Chrome, pero debes tener en cuenta que las ubicaciones pueden variar con las actualizaciones. Si usas otro navegador puede ser que varíe la ruta de acceso, pero a grandes rasgos suelen ser muy parecidas y también se acceden a ellas a través del menú de opciones.
 
-Por otro lado si quieres deshacerte de la incómoda notificación de cookies de las web, puedes instalar en el navegador el plugin [I don’t care about cookies](https://www.i-dont-care-about-cookies.eu/).
+```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Eliminar cookies automáticamente al cerrar Google Chrome.'}
+knitr::include_graphics('images/delete-cookies-when-leave-chrome-browser.png')
+```
+
+Por otro lado si quieres deshacerte de la incómoda notificación de cookies de las web, puedes instalar en el navegador el plugin [I don’t care about cookies](https://www.i-dont-care-about-cookies.eu/) o este otro [Ninja cookie](https://ninja-cookie.com/), elige el que más te guste.
+
+## Permisos cámara, micrófono y localización.
+
+Una práctica muy saludable en el uso de la cámara o webCam e incluso el micrófono, es tenerla tapada cuando no la estés usando y si no fijate en la foto que le tomaron a Mark Zuckerberg.
+
+```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='WebCam y micrófono del ordenador tapados.'}
+knitr::include_graphics('images/webca-mark-zuckerberg.png')
+```
+
+Para tener el control total sobre las funcionalidades de cámara, micrófono y ubicación, debes establecer los permisos en la opción de Preguntar, lo verás más claramente en la siguiente imagen. Para establecer estos parámetros existen dos maneras de hacerlo, uno de ellas es a través de la opciones que te da el menú de configuración del propio navegador, y para ello debes ir a  Menú navegador, buscar Configuracíón, después Privacidad y seguridad, a continuación Configuración de sitios web y finalmente Permisos y como ya se indicó en el caso de borrado de cookies automático, debes tener en cuenta que las ubicaciones pueden variar con las actualizaciones que reciba el navegador.
+
+```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Ajustes permisos cámara, micrófono y ubicación desde el menú de opciones del navegador.'}
+knitr::include_graphics('images/permition-settings.png')
+```
+
+La otra forma es más sencilla e incluso te permite cambiar los permisos directamente desde el navegador sin tener que ir al menú de opciones y esto lo tienes haciendo click en el candado de la barra de direcciones. Se trata del mismo candado que nos acredita que estamos ante una web segura. Puedes verlo en la siguiente imagen.
+
+```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Ajustes permisos cámara, micrófono y ubicación desde el candado de la barra de direcciones.'}
+knitr::include_graphics('images/permitions-setting-from-browser.png')
+```
 
 ## La nube
 
 Como ya sabrás el almacenamiento en la nube, es el almacenamiento de datos basado en redes de computadoras, donde los datos están alojados en espacios de almacenamiento virtualizados, también conocidos como servidores y por lo general aportados por terceros. Algunos de estos servicios más conocidos son [Google drive](https://www.google.com/intl/en_in/drive/),[One drive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage) o [Dropbox](https://www.dropbox.com/) entre otros.
 
 Con respecto a esto, debes tener en cuenta que solo es recomendable compartirlo con personas de confianza, ya que de lo contrario podrían hacer un mal uso de ello, o simplemente una mala gestión que provoque la pérdida de la información.
+

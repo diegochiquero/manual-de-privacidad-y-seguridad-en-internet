@@ -19,7 +19,7 @@ Las amenazas vienen de la mano de perfiles a los que conoces como hacker, ciberd
 
 - Hacker: Es un perfil técnico especializado en seguridad informática, y cuyo propósito es investigar y solucionar fallos de seguridad a los fabricantes de dispositivos y software.
 
-- Ciberdelincuente o pirata informática: Es también un perfil técnico como el anterior, pero que en este caso aprovecha las vulnerabilidades de los dispositivos para su propio beneficio a través de actividades delictivas. Su principal actividad suele ser el fraude electrónico utilizando técnicas de phishing o spam.
+- Ciberdelincuente o pirata informático: Es también un perfil técnico como el anterior, pero que en este caso aprovecha las vulnerabilidades de los dispositivos para su propio beneficio a través de actividades delictivas. Su principal actividad suele ser el fraude electrónico utilizando técnicas de phishing o spam.
 
 ## Virus
 
@@ -222,8 +222,6 @@ En caso de ser víctima de esta amenaza debes tener en cuenta lo siguiente:
 - Si es posible cancela cuenta.
 
 ## Estafas en compras online y otros engaños
-
-Compra de un producto que nunca llega
 
 Pago del envio por una venta de segunda mano, etc
 
