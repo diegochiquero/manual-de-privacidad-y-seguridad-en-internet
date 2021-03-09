@@ -5,12 +5,17 @@ fig:unnamed-chunk-7
 fig:unnamed-chunk-8
 fig:unnamed-chunk-9
 fig:unnamed-chunk-10
+fig:unnamed-chunk-11
+fig:unnamed-chunk-12
+fig:unnamed-chunk-13
+fig:unnamed-chunk-14
 privacidad-y-seguridad-en-internet
 introducción
 privacidad
 seguridad
 rgpd-reglamento-general-de-protección-de-datos
 aviso-legal-política-de-privacidad-y-política-de-cookies
+derechos-arco
 gestión-de-la-privacidad
 gestionando-la-privacidad
 datos-personales-sensibles
@@ -18,6 +23,7 @@ oversharing-o-sobreexposición
 privacidad-en-tus-cuentas
 navegación-privada
 cookies
+permisos-cámara-micrófono-y-localización.
 la-nube
 gestión-de-la-seguridad-en-equipos-físicos
 gestionando-la-seguridad-en-los-equipos
