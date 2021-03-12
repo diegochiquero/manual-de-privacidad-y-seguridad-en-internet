@@ -30,11 +30,17 @@ Ordenados de menor a mayor grado de cifrado:
 - [WPA2](https://es.wikipedia.org/wiki/WPA2) (Wi-Fi Protected Access 2)
 - [WPA3](https://es.wikipedia.org/wiki/WPA3) (Wi-Fi Protected Access 3)
 
-Es importante que cambies la clave que el router trae por defecto y uses el nivel de seguridad WPA2 con el que vas a poder establecer una contraseña de hasta 63 caracteres en lugar de los máximos 29 de la WEP.
+Es importante que uses un  nivel de seguridad WPA2 como mínimo, con el que vas a poder establecer una contraseña de hasta 63 caracteres en lugar de los máximos 29 de la WEP.
 
 Para establecer una capa más de seguridad puedes realizar un [filtrado MAC](https://es.wikipedia.org/wiki/Filtrado_MAC) (Media Access Control). Un filtra MAC consiste en la creación de una lista de dispositivos que tienen permiso para acceder al router, a pesar de que un tercero haya podido obtener la clave wifi.
 
-Este enlace te llevará a un [generador de claves Wi-Fi](https://bandaancha.eu/generador-claves-wifi) donde podras crear de forma automática una clave Wi-Fi segura y robusta.
+Es igualmente importante que cambies la clave que el router trae por defecto. Este enlace te llevará a un [generador de claves Wi-Fi](https://bandaancha.eu/generador-claves-wifi) donde podras crear de forma automática una clave Wi-Fi segura y robusta. 
+
+También es una buena práctica cambiar el nombre que la Wi-Fi trae por defecto, esto despistará a aquellos que puedan tener una lista de claves de acceso de las diferentes operadoras que existen en el mercado.
+
+Otro aspecto a tener en cuenta es deshabilitar la opción [WPS](https://es.wikipedia.org/wiki/Wi-Fi_Protected_Setup) (Wifi Protected Setup) en el router. Esta función te permite conectar el ordenador o dispositivo a la Wi-Fi del router sin tener que escribir la contraseña cuando eliges tu red Wi-Fi desde el dispositivo. Se trata de un botón físico que traen algunos router y que al pulsarlo conecta el dispositivo de forma automática. Esta funcionalidad es muy práctica pero conlleva el riesgo de que cuando pulsas este botón estás abriendo la Wi-Fi, lo que significa que inhabilitas todas las medidas de seguridad que tengas configuradas para la conexión. Si decides deshabilitarla puedes hacerlo desde la configuración de tu router y normalmente vas a encontrarlo en los apartados Wireless o Network de la interfaz web [@wps]. 
+
+Para realizar cualquiera de las configuraciones propuestas en este apartado va a necesitar acceder a la interfaz de tu router y para ello, consulta la dirección IP de acceso al router de tu operador. 
 
 ## Actualizaciones
 
@@ -60,6 +66,8 @@ Aunque a priori pudiese parecer lo mismo, los antivirus, antimalware, antispywar
 
 Dependiendo de las necesidades pueden ser usados uno o varios, ya que son complementarios entre sí.
 
+Antes de decidir que herramientas de las anteriormente expuestas va a usar, puedes hacer una búsqueda e informarte sobre las opciones disponibles, ya que existen soluciones de todo tipo y para todos los gustos, gratuitas, de pago, para ordenadores, para smartphones. Pero no olvides nunca de asegurarte muy bien que estás ante un producto legítimo y descargarlas siempre de las web oficiales. 
+
 ## Copias de seguridad
 
 Una copia de seguridad o backup en informática es una copia de los datos originales que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida. Las copias de seguridad son útiles ante distintos eventos y usos: recuperar los sistemas informáticos y los datos de una catástrofe informática, natural o ataque; restaurar una pequeña cantidad de archivos que pueden haberse eliminado accidentalmente, corrompido, infectado por un virus informático u otras causas [@WIKI-copias-seguridad].
@@ -78,4 +86,22 @@ Y las copias pueden ser mantenidas:
 
 Las copias de seguridad debes realizarlas con la frecuencia que sea necesaria para garantizar tu nivel de seguridad [@tipos-copia-seguridad].
 
+## Cifrado o encriptado de unidades de almacenamiento
 
+Cifrar o encriptar tus discos duros ya sean externos o internos del ordenador o el encriptado de un simple Pendrive o USB es cada día más necesario para protegernos contra los amigos de lo ajeno, ya que aunque te sustrayecen el ordenador o cualquier otro dispositivo, no podrían acceder a la información puesto que se encuentra bajo esta capa de seguridad robusta que es la encriptación.
+
+El cifrado de dispositivos es una tecnología que cifra todos los datos almacenado en discos duros o cualquier otro dispositivo de almacenamiento externo, con sofisticadas funciones matemáticas recogidas en lo que se conoce como [criptografía](https://es.wikipedia.org/wiki/Criptografía). De manera que para poder acceder a la información almacenada en el disco duro o pendrive  en necesario tener la contraseña o clave de acceso [@cifrado]. 
+
+Exiten varias herramientas en el mercado para este cometido como las detalladas a continuación:
+
+- [BitLocker](https://docs.microsoft.com/es-es/windows/security/information-protection/bitlocker/bitlocker-overview). Software nativo del sistema operativo Windows.
+
+- [FileVault](https://support.apple.com/es-es/HT204837). Software nativo del sistema opera de macOS.
+
+- [Veracrypt](https://www.veracrypt.fr).
+
+- [Diskcryptor](https://diskcryptor.org/).
+
+- [Comodo Disk Encryption](https://www.comodo.com/home/internet-security/disk-encryption.php).
+
+También tienes a tu dispoción el siguiente enlace que te llevará a la revista digital [Computerhoy](https://computerhoy.com/tutoriales/tecnologia/como-cifrar-disco-duro-memoria-externa-nadie-pueda-acceder-ella-386434) donde te explican como encriptar tu ordenador windows o mac. 
