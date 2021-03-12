@@ -32,6 +32,7 @@ router
 actualizaciones
 antivirus-antimalware-antispyware-y-firewall
 copias-de-seguridad
+cifrado-o-encriptado-de-unidades-de-almacenamiento
 gestión-de-la-seguridad-en-la-red
 gestionando-la-seguridad-en-la-red
 contraseñas

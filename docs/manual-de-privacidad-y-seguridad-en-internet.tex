@@ -102,7 +102,7 @@
 
 \title{Manual de privacidad y seguridad en internet}
 \author{Diego Chiquero Mena}
-\date{09 marzo 2021}
+\date{11 marzo 2021}
 
 \begin{document}
 \maketitle
@@ -370,7 +370,7 @@ Por otro lado si quieres deshacerte de la incómoda notificación de cookies de 
 \hypertarget{permisos-cuxe1mara-micruxf3fono-y-localizaciuxf3n.}{%
 \section{Permisos cámara, micrófono y localización.}\label{permisos-cuxe1mara-micruxf3fono-y-localizaciuxf3n.}}
 
-Una práctica muy saludable en el uso de la cámara o webCam e incluso el micrófono, es tenerla tapada cuando no la estés usando y si no fijate en la foto que le tomaron a Mark Zuckerberg.
+Una práctica muy saludable en el uso de la cámara o webCam e incluso el micrófono, es tenerla tapada cuando no la estés usando y si no fijate en la foto se muestra a continuación que le tomaron a Mark Zuckerberg.
 
 \begin{figure}
 
@@ -378,10 +378,10 @@ Una práctica muy saludable en el uso de la cámara o webCam e incluso el micró
 
 }
 
-\caption{WebCam y micrófonos del ordenador tapados.}\label{fig:unnamed-chunk-6}
+\caption{WebCam y micrófono del ordenador tapados.}\label{fig:unnamed-chunk-6}
 \end{figure}
 
-Para tener el control total sobre las funcionalidades de cámara, micrófono y ubicación, debes establecer los permisos en la opción de Preguntar, lo verás más claramente en la siguiente imagen. Para establecer estos parámetros existen dos maneras de hacerlo, uno de ellas es a través de la opciones que te da el menú de configuración del propio navegador, y para ello debes ir a Menú navegador, buscar Configuracíón, después Privacidad y seguridad, a continuación Configuración de sitios web y finalmente Permisos y como ya se indicó en el caso de borrado de cookies automático, debes tener en cuenta que las ubicaciones pueden variar con las actualizaciones que reciba el navegador.
+Para tener el control total sobre las funcionalidades de cámara, micrófono y ubicación, debes establecer los permisos en la opción de Preguntar, lo verás más claramente en la imagen que se muestra más abajo. Para establecer estos parámetros existen dos maneras de hacerlo, uno de ellas es a través de la opciones que te da el menú de configuración del propio navegador, y para ello debes ir a Menú navegador, buscar Configuracíón, después Privacidad y seguridad, a continuación Configuración de sitios web y finalmente Permisos y como ya se indicó en el caso de borrado de cookies automático, debes tener en cuenta que las ubicaciones pueden variar con las actualizaciones que reciba el navegador.
 
 \begin{figure}
 
@@ -459,11 +459,17 @@ Ordenados de menor a mayor grado de cifrado:
   \href{https://es.wikipedia.org/wiki/WPA3}{WPA3} (Wi-Fi Protected Access 3)
 \end{itemize}
 
-Es importante que cambies la clave que el router trae por defecto y uses el nivel de seguridad WPA2 con el que vas a poder establecer una contraseña de hasta 63 caracteres en lugar de los máximos 29 de la WEP.
+Es importante que uses un nivel de seguridad WPA2 como mínimo, con el que vas a poder establecer una contraseña de hasta 63 caracteres en lugar de los máximos 29 de la WEP.
 
 Para establecer una capa más de seguridad puedes realizar un \href{https://es.wikipedia.org/wiki/Filtrado_MAC}{filtrado MAC} (Media Access Control). Un filtra MAC consiste en la creación de una lista de dispositivos que tienen permiso para acceder al router, a pesar de que un tercero haya podido obtener la clave wifi.
 
-Este enlace te llevará a un \href{https://bandaancha.eu/generador-claves-wifi}{generador de claves Wi-Fi} donde podras crear de forma automática una clave Wi-Fi segura y robusta.
+Es igualmente importante que cambies la clave que el router trae por defecto. Este enlace te llevará a un \href{https://bandaancha.eu/generador-claves-wifi}{generador de claves Wi-Fi} donde podras crear de forma automática una clave Wi-Fi segura y robusta.
+
+También es una buena práctica cambiar el nombre que la Wi-Fi trae por defecto, esto despistará a aquellos que puedan tener una lista de claves de acceso de las diferentes operadoras que existen en el mercado.
+
+Otro aspecto a tener en cuenta es deshabilitar la opción \href{https://es.wikipedia.org/wiki/Wi-Fi_Protected_Setup}{WPS} (Wifi Protected Setup) en el router. Esta función te permite conectar el ordenador o dispositivo a la Wi-Fi del router sin tener que escribir la contraseña cuando eliges tu red Wi-Fi desde el dispositivo. Se trata de un botón físico que traen algunos router y que al pulsarlo conecta el dispositivo de forma automática. Esta funcionalidad es muy práctica pero conlleva el riesgo de que cuando pulsas este botón estás abriendo la Wi-Fi, lo que significa que inhabilitas todas las medidas de seguridad que tengas configuradas para la conexión. Si decides deshabilitarla puedes hacerlo desde la configuración de tu router y normalmente vas a encontrarlo en los apartados Wireless o Network de la interfaz web \citep{wps}.
+
+Para realizar cualquiera de las configuraciones propuestas en este apartado va a necesitar acceder a la interfaz de tu router y para ello, consulta la dirección IP de acceso al router de tu operador.
 
 \hypertarget{actualizaciones}{%
 \section{Actualizaciones}\label{actualizaciones}}
@@ -494,6 +500,8 @@ Aunque a priori pudiese parecer lo mismo, los antivirus, antimalware, antispywar
 
 Dependiendo de las necesidades pueden ser usados uno o varios, ya que son complementarios entre sí.
 
+Antes de decidir que herramientas de las anteriormente expuestas va a usar, puedes hacer una búsqueda e informarte sobre las opciones disponibles, ya que existen soluciones de todo tipo y para todos los gustos, gratuitas, de pago, para ordenadores, para smartphones. Pero no olvides nunca de asegurarte muy bien que estás ante un producto legítimo y descargarlas siempre de las web oficiales.
+
 \hypertarget{copias-de-seguridad}{%
 \section{Copias de seguridad}\label{copias-de-seguridad}}
 
@@ -518,6 +526,30 @@ Y las copias pueden ser mantenidas:
 \end{itemize}
 
 Las copias de seguridad debes realizarlas con la frecuencia que sea necesaria para garantizar tu nivel de seguridad \citep{tipos-copia-seguridad}.
+
+\hypertarget{cifrado-o-encriptado-de-unidades-de-almacenamiento}{%
+\section{Cifrado o encriptado de unidades de almacenamiento}\label{cifrado-o-encriptado-de-unidades-de-almacenamiento}}
+
+Cifrar o encriptar tus discos duros ya sean externos o internos del ordenador o el encriptado de un simple Pendrive o USB es cada día más necesario para protegernos contra los amigos de lo ajeno, ya que aunque te sustrayecen el ordenador o cualquier otro dispositivo, no podrían acceder a la información puesto que se encuentra bajo esta capa de seguridad robusta que es la encriptación.
+
+El cifrado de dispositivos es una tecnología que cifra todos los datos almacenado en discos duros o cualquier otro dispositivo de almacenamiento externo, con sofisticadas funciones matemáticas recogidas en lo que se conoce como \href{https://es.wikipedia.org/wiki/Criptografía}{criptografía}. De manera que para poder acceder a la información almacenada en el disco duro o pendrive en necesario tener la contraseña o clave de acceso \citep{cifrado}.
+
+Exiten varias herramientas en el mercado para este cometido como las detalladas a continuación:
+
+\begin{itemize}
+\item
+  \href{https://docs.microsoft.com/es-es/windows/security/information-protection/bitlocker/bitlocker-overview}{BitLocker}. Software nativo del sistema operativo Windows.
+\item
+  \href{https://support.apple.com/es-es/HT204837}{FileVault}. Software nativo del sistema opera de macOS.
+\item
+  \href{https://www.veracrypt.fr}{Veracrypt}.
+\item
+  \href{https://diskcryptor.org/}{Diskcryptor}.
+\item
+  \href{https://www.comodo.com/home/internet-security/disk-encryption.php}{Comodo Disk Encryption}.
+\end{itemize}
+
+También tienes a tu dispoción el siguiente enlace que te llevará a la revista digital \href{https://computerhoy.com/tutoriales/tecnologia/como-cifrar-disco-duro-memoria-externa-nadie-pueda-acceder-ella-386434}{Computerhoy} donde te explican como encriptar tu ordenador windows o mac.
 
 \hypertarget{gestiuxf3n-de-la-seguridad-en-la-red}{%
 \chapter{Gestión de la seguridad en la red}\label{gestiuxf3n-de-la-seguridad-en-la-red}}
