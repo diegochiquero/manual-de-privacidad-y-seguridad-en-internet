@@ -74,13 +74,13 @@ Por otro lado si quieres deshacerte de la incómoda notificación de cookies de 
 
 ## Permisos cámara, micrófono y localización.
 
-Una práctica muy saludable en el uso de la cámara o webCam e incluso el micrófono, es tenerla tapada cuando no la estés usando y si no fijate en la foto que le tomaron a Mark Zuckerberg.
+Una práctica muy saludable en el uso de la cámara o webCam e incluso el micrófono, es tenerla tapada cuando no la estés usando y si no fijate en la foto se muestra a continuación  que le tomaron a Mark Zuckerberg.
 
 ```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='WebCam y micrófono del ordenador tapados.'}
 knitr::include_graphics('images/webca-mark-zuckerberg.png')
 ```
 
-Para tener el control total sobre las funcionalidades de cámara, micrófono y ubicación, debes establecer los permisos en la opción de Preguntar, lo verás más claramente en la siguiente imagen. Para establecer estos parámetros existen dos maneras de hacerlo, uno de ellas es a través de la opciones que te da el menú de configuración del propio navegador, y para ello debes ir a  Menú navegador, buscar Configuracíón, después Privacidad y seguridad, a continuación Configuración de sitios web y finalmente Permisos y como ya se indicó en el caso de borrado de cookies automático, debes tener en cuenta que las ubicaciones pueden variar con las actualizaciones que reciba el navegador.
+Para tener el control total sobre las funcionalidades de cámara, micrófono y ubicación, debes establecer los permisos en la opción de Preguntar, lo verás más claramente en la imagen que se muestra más abajo. Para establecer estos parámetros existen dos maneras de hacerlo, uno de ellas es a través de la opciones que te da el menú de configuración del propio navegador, y para ello debes ir a  Menú navegador, buscar Configuracíón, después Privacidad y seguridad, a continuación Configuración de sitios web y finalmente Permisos y como ya se indicó en el caso de borrado de cookies automático, debes tener en cuenta que las ubicaciones pueden variar con las actualizaciones que reciba el navegador.
 
 ```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Ajustes permisos cámara, micrófono y ubicación desde el menú de opciones del navegador.'}
 knitr::include_graphics('images/permition-settings.png')
