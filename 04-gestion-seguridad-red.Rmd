@@ -12,7 +12,7 @@ Una contraseña, clave o password es una forma de autentificación que utiliza i
 
 Y su utilidad consiste en que a aquellos que desean acceder a la información se les solicita una clave o contraseña, si conocen dicha contraseña se les concede el acceso y si no la conocen, se les niega el acceso a la información.
 
-Estas deben ser lo más seguras posibles, para ello deben crearlas bajo las siguientes [@OSI-contraseñas]:
+Estas deben ser lo más seguras posibles, para ello deben crearlas bajo las siguientes:
 
 - Debes incluir números.
 
@@ -23,6 +23,20 @@ Estas deben ser lo más seguras posibles, para ello deben crearlas bajo las sigu
 - Una longitud mayor o igual a 8 caracteres.
 
 - No debes incluir espacios en blanco.
+
+Una modalidad de crear contraseñas robustas y fáciles de recordar es la siguiente [@OSI-contraseñas]:
+
+1. Elige una extensión de más de 8 caracteres. Ejemplo : Mi cuenta segura
+
+2. Pon la primera mayúscula y elimina los espacios en blanco. Ejemplo: MicuentaSegura 
+
+3. Cambia las letras por números. Ejemplo: M1Cu3nt4S3gur4
+
+4. Añade caracteres especiales. Ejemplo: M1Cu3nt4S3gur4!
+
+5. Personaliza la clave para cada servicio. Toma las dos primeras letras del servicio, para el caso de Facebook son la F y la A y colocalas una delante y otra detrás. Ejemplo: FM1Cu3nt4S3gur4!A
+
+En la [Oficina de Seguridad del Internauta](https://www.osi.es/es) tienes toda una suit de recursos para crearte la mejor de las contraseñas posible. Accede desde este enlace [Contraseñas seguras](https://www.osi.es/es/campanas/contrasenas-seguras).
 
 También es recomendable que la cambies cada cierto tiempo, al menos aquellas que sean de mayor importancia.
 
@@ -39,6 +53,8 @@ A su vez también han de ser fáciles de recordar, pero debes de huir de patrone
 - 11111 
 
 - Usar datos personales como la fecha de nacimiento, nombre mascota, etc.
+
+En el siguiente enlace encontrás una lista de las [contraseñas más comunes](https://nordpass.com/most-common-passwords-list/) que jamás deberías utilizar. Echale un vistazo por si alguna de esas se parece a la tuya.
 
 Algunas reglas y ejemplos para que las contraseñas sean fáciles de recordar los encontrás en estos enlaces:
 
@@ -63,12 +79,15 @@ Otras recomendaciones que debes a tener siempre presente son:
     - [Bitwarden](https://bitwarden.com/) 
     - [LastPass](https://www.lastpass.com/es/) 
     - [Google passwords](https://passwords.google.com/)
+    - [NordPass](https://nordpass.com/homepage/)
 
 Para acabar con este apartado puedes comprobar la seguridad y robustez de tu contraseña, con los siguientes recursos online: 
 
 - [How Secure Is My Password](https://www.security.org/how-secure-is-my-password/)
 
 - [Password Check](https://password.kaspersky.com/) 
+
+Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google llamado [Password Checkout](https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/) con el que podrás averiguar si tu contraseña ha sido comprometida.
 
 ## Protocolo https
 
