@@ -22,9 +22,11 @@ datos-personales-sensibles
 oversharing-o-sobreexposición
 privacidad-en-tus-cuentas
 navegación-privada
+vpn-red-privada-virtual
 cookies
 permisos-cámara-micrófono-y-localización.
 la-nube
+correo-electrónico-y-apps-de-mensajería
 gestión-de-la-seguridad-en-equipos-físicos
 gestionando-la-seguridad-en-los-equipos
 equipo-local-y-dispositivos-móviles

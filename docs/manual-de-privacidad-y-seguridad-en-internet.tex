@@ -102,7 +102,7 @@
 
 \title{Manual de privacidad y seguridad en internet}
 \author{Diego Chiquero Mena}
-\date{11 marzo 2021}
+\date{23 marzo 2021}
 
 \begin{document}
 \maketitle
@@ -339,16 +339,21 @@ El uso de la navegación privada resulta conveniente en los siguientes supuestos
 
 También existen navegadores que protegen tu privacidad sin necesidad de activar la navegación privada, como por ejemplo, \href{https://www.epicbrowser.com/}{Epic}, \href{https://brave.com/es/}{Brave} e incluso buscadores como \href{https://duckduckgo.com/}{DuckDuckGo}.
 
-Dentro de la navegación tienes además otra herramienta para proteger tu privacidad y se trata de un VPN (son las siglas de Virtual Private Network) \citep{WIKI-vpn}.
+\hypertarget{vpn-red-privada-virtual}{%
+\section{VPN (Red privada virtual)}\label{vpn-red-privada-virtual}}
+
+Otra manera más de proteger tu privacidad, es hacer uso de una VPN (son las siglas de Virtual Private Network) \citep{AVAST-vpn}.
 
 Las VPN, son una tecnología de red que permiten una extensión de tu conexión local o LAN, permitiendo conectar varios dispositivos como si se encontrasen físicamente en el mismo lugar. Entre sus ventajas está la de ofrecer una mayor privacidad al ocultar tu localización, pero también, y este el caso que nos compete, el que parezca que tu conexión esté realizándose en otro país concreto, con lo que uno se puede saltar censuras o acceder a contenidos de servicios locales.
+
+Su principal particularidad es que se trata de una conexión segura y cifrada. Esto hace que no sea posible conocer la información que viaja en la petición que se realiza, así como tampoco la IP pública que identifica nuestro dispositivo, ya que la conexión se realiza a través de los muchos router VPN.
 
 Las VPN suelen ser aplicaciones o extensiones de terceros, aunque el navegador \href{https://www.opera.com/es}{OPERA} lo trae por defecto, lo único que tendrás que hacer es activarla desde sus opciones, y se creará una conexión cifrada entre tu dispositivo y un servidor VPN para esconder tu ubicación real.
 
 \hypertarget{cookies}{%
 \section{Cookies}\label{cookies}}
 
-Una cookie es una pequeña información enviada por un sitio web y almacenado en el navegador del usuario, de manera que el sitio web puede consultar la actividad previa del navegador.
+Una cookie es un fichero que guarda nuestro navegador, donde se almacenan pequeñas cantidades de datos, de manera que el sitio web puede consultar la actividad previa del navegador.
 
 Su propósito principal es identificar al usuario almacenando su historial de actividad de un sitio web específico, de manera que se le pueda ofrecer el contenido más apropiado según sus hábitos. Esto quiere decir que cada vez que visitas una página web por primera vez, se guarda una cookie en el navegador con un poco de información. Luego, cuando visitas nuevamente la misma página, el servidor pide la misma cookie para arreglar la configuración del sitio y hacer la visita del usuario tan personalizada como sea posible \citep{cookies-navegador}.
 
@@ -366,6 +371,8 @@ Es importante que con frecuencia elimines las cookies, ya que como ya sabes mane
 \end{figure}
 
 Por otro lado si quieres deshacerte de la incómoda notificación de cookies de las web, puedes instalar en el navegador el plugin \href{https://www.i-dont-care-about-cookies.eu/}{I don't care about cookies} o este otro \href{https://ninja-cookie.com/}{Ninja cookie}, elige el que más te guste.
+
+Si quieres más información detallada sobre las cookies visita este enlace \href{https://www.osi.es/es/actualidad/blog/2019/09/11/por-que-borrar-las-cookies-del-navegador}{por qué borrar las cookies} y este otro \href{https://www.osi.es/es/actualidad/blog/2018/07/18/entre-cookies-y-privacidad}{tipos de cookies, cofiguración y consejos} de la Oficina de Seguridad del Internauta donde las analizan con más detalle.
 
 \hypertarget{permisos-cuxe1mara-micruxf3fono-y-localizaciuxf3n.}{%
 \section{Permisos cámara, micrófono y localización.}\label{permisos-cuxe1mara-micruxf3fono-y-localizaciuxf3n.}}
@@ -392,6 +399,8 @@ Para tener el control total sobre las funcionalidades de cámara, micrófono y u
 \caption{Ajustes permisos cámara, micrófono y ubicación desde el menú de opciones del navegador.}\label{fig:unnamed-chunk-7}
 \end{figure}
 
+Aunque estos permisos son los más importantes cuando navegas por internet, si te fijas en la figura 2.4 verás que no son los únicos y que entre éstos se encuentran los de notificaciones o los de ventanas emergentes entre otros.
+
 La otra forma es más sencilla e incluso te permite cambiar los permisos directamente desde el navegador sin tener que ir al menú de opciones y esto lo tienes haciendo click en el candado de la barra de direcciones. Se trata del mismo candado que nos acredita que estamos ante una web segura. Puedes verlo en la siguiente imagen.
 
 \begin{figure}
@@ -403,12 +412,47 @@ La otra forma es más sencilla e incluso te permite cambiar los permisos directa
 \caption{Ajustes permisos cámara, micrófono y ubicación desde el candado de la barra de direcciones.}\label{fig:unnamed-chunk-8}
 \end{figure}
 
+Para concluir, no debes olvidar que con las aplicaciones móviles sucede lo mismo, y que puedes gestionarlos de igual manera desde ajustes del dispositivo. Visita los siguientes enlaces dependiendo de tu smartphone, \href{https://support.google.com/android/answer/9431959?hl=es}{cambiar los permisos de las aplicaciones en teléfonos Android} o \href{https://support.apple.com/es-es/guide/iphone/iph251e92810/ios}{controlar el acceso a la información en las apps en el iPhone}. En el siguiente enlace, \href{https://www.osi.es/sites/default/files/docs/c5-eg-permisos-apps-riesgos.pdf}{permisos aplicaciones móviles} encontrarás una tabla con los permisos y los riesgos que entrañan.
+
 \hypertarget{la-nube}{%
 \section{La nube}\label{la-nube}}
 
-Como ya sabrás el almacenamiento en la nube, es el almacenamiento de datos basado en redes de computadoras, donde los datos están alojados en espacios de almacenamiento virtualizados, también conocidos como servidores y por lo general aportados por terceros. Algunos de estos servicios más conocidos son \href{https://www.google.com/intl/en_in/drive/}{Google drive},\href{https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage}{One drive} o \href{https://www.dropbox.com/}{Dropbox} entre otros.
+Como ya sabrás el almacenamiento en la nube, es el almacenamiento de datos en servidores por lo general aportados por terceros y que gracias a esto, puedes disponer de ellos desde cualquier lugar y dispositivo, con solo tener conexión a internet y conectarte al servicio donde están alojados tus datos. De esta manera ya no es necesario llevar contigo el dispositivo físico donde tienes almacenada tu información. Algunos de estos servicios más conocidos son \href{https://www.google.com/intl/en_in/drive/}{Google drive},\href{https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage}{One drive} o \href{https://www.dropbox.com/}{Dropbox} entre otros.
 
-Con respecto a esto, debes tener en cuenta que solo es recomendable compartirlo con personas de confianza, ya que de lo contrario podrían hacer un mal uso de ello, o simplemente una mala gestión que provoque la pérdida de la información.
+Antes de decidirte por cuál de los proveedor de servicio en la nube debes decantarte, ten en cuenta los siguientes:
+
+\begin{itemize}
+\item
+  Donde va a estar ubicada tu información. Esto te permitirá conocer la legislación y
+  garantías de protección de tus datos en el país donde se encuentren.
+\item
+  Saber si la plataforma comparte información con terceros o no.
+\item
+  Si la web cuenta con certificado digital y es accesible mediante https.
+\item
+  Mecanismos de cifrado, ya que éstos maximizan la seguridad de los datos.
+\item
+  Políticas de privacidad.
+\end{itemize}
+
+De otro lado también puedes tomar tus propias medidas de seguridad cifrando tu datos antes de subirlos. Para ello puedes usar esta herramienta llamada \href{https://cryptomator.org/}{cryptomator}.
+
+En este enlace encontrarás un estudio completo de los diferentes \href{https://www.osi.es/sites/default/files/docs/osi_servicios_nube.pdf}{servicios de almacenamiento en la nube} y sus características.
+
+A la hora de compartir tus datos alojados en la nube debes tener en cuenta que solo es recomendable compartirlos con personas de confianza, ya que de lo contrario podrían hacer un mal uso de ello, o simplemente una mala gestión que provoque la pérdida de la información.
+
+\hypertarget{correo-electruxf3nico-y-apps-de-mensajeruxeda}{%
+\section{Correo electrónico y apps de mensajería}\label{correo-electruxf3nico-y-apps-de-mensajeruxeda}}
+
+El correo electrónico es uno de los servicios web que más se suele utilizar. Es por ello que debes saber que muchos de lo gestores de emails que son utilizados a diario, no aplican estrictas políticas de privacidad, por lo que tus correos podrías ser leídos y rastreados no solo por terceros con intenciones poco saludables sino también por éstos mismos servicios de correo.
+
+Esto no tiene por que ser un inconveniente si no envías información sensible, pero si no es el caso quizá preferirías usar un gestor de correos que sí te garantice una privacidad completa en tus envíos. De ser este tu caso puedes usar \href{https://protonmail.com/}{Protonmail} o \href{https://tutanota.com/es/}{Tutanota} que si tienen en cuenta este aspecto, aunque no son los únicos. En el siguiente enlace tienes una lista de otras \href{https://blogthinkbig.com/alternativas-gratuitas-gmail-outlook-privacidad}{alternativas de emails privadas}.
+
+Si por el contrario prefieres ser tu quien gestiones esa capa de privacidad adicional, puedes optar por hacer uso de otras herramientas de encriptado que podrás ver en este artículo de \href{https://www.osi.es/es/actualidad/blog/2019/07/31/como-encriptar-y-proteger-tu-correo-electronico}{cómo encriptar y proteger tu correo electrónico}.
+
+Si además quieres saber si tu cuenta de correo ha sido comprometida, puedes saberlo a través de la siguiente plataforma \href{https://haveibeenpwned.com/}{haveibeenpwned}.
+
+Con respecto a las aplicaciones de mensajería instantánea debes tener en cuenta que sucede lo mismo que con los correos electrónicos. A pesar que la mayoría de ellas, incluida la más popular de todas (whatsApp) disponen de capas de privacidad que la hacen confiable, a veces no podemos estar totalmente seguros de no estar sometidos a un seguimiento por parte de estas. Es por ello que las aplicaciones como \href{https://telegram.org/}{telegram} y \href{https://signal.org/es/}{signal} nacen con el propósito de no inmiscuirse en el uso que haces de la aplicación.
 
 \hypertarget{gestiuxf3n-de-la-seguridad-en-equipos-fuxedsicos}{%
 \chapter{Gestión de la seguridad en equipos físicos}\label{gestiuxf3n-de-la-seguridad-en-equipos-fuxedsicos}}
@@ -568,7 +612,7 @@ Una contraseña, clave o password es una forma de autentificación que utiliza i
 
 Y su utilidad consiste en que a aquellos que desean acceder a la información se les solicita una clave o contraseña, si conocen dicha contraseña se les concede el acceso y si no la conocen, se les niega el acceso a la información.
 
-Estas deben ser lo más seguras posibles, para ello deben crearlas bajo las siguientes \citep{OSI-contraseñas}:
+Estas deben ser lo más seguras posibles, para ello deben crearlas bajo las siguientes:
 
 \begin{itemize}
 \item
@@ -582,6 +626,24 @@ Estas deben ser lo más seguras posibles, para ello deben crearlas bajo las sigu
 \item
   No debes incluir espacios en blanco.
 \end{itemize}
+
+Una modalidad de crear contraseñas robustas y fáciles de recordar es la siguiente \citep{OSI-contraseñas}:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Elige una extensión de más de 8 caracteres. Ejemplo : Mi cuenta segura
+\item
+  Pon la primera mayúscula y elimina los espacios en blanco. Ejemplo: MicuentaSegura
+\item
+  Cambia las letras por números. Ejemplo: M1Cu3nt4S3gur4
+\item
+  Añade caracteres especiales. Ejemplo: M1Cu3nt4S3gur4!
+\item
+  Personaliza la clave para cada servicio. Toma las dos primeras letras del servicio, para el caso de Facebook son la F y la A y colocalas una delante y otra detrás. Ejemplo: FM1Cu3nt4S3gur4!A
+\end{enumerate}
+
+En la \href{https://www.osi.es/es}{Oficina de Seguridad del Internauta} tienes toda una suit de recursos para crearte la mejor de las contraseñas posible. Accede desde este enlace \href{https://www.osi.es/es/campanas/contrasenas-seguras}{Contraseñas seguras}.
 
 También es recomendable que la cambies cada cierto tiempo, al menos aquellas que sean de mayor importancia.
 
@@ -601,6 +663,8 @@ A su vez también han de ser fáciles de recordar, pero debes de huir de patrone
 \item
   Usar datos personales como la fecha de nacimiento, nombre mascota, etc.
 \end{itemize}
+
+En el siguiente enlace encontrás una lista de las \href{https://nordpass.com/most-common-passwords-list/}{contraseñas más comunes} que jamás deberías utilizar. Echale un vistazo por si alguna de esas se parece a la tuya.
 
 Algunas reglas y ejemplos para que las contraseñas sean fáciles de recordar los encontrás en estos enlaces:
 
@@ -635,6 +699,8 @@ Otras recomendaciones que debes a tener siempre presente son:
     \href{https://www.lastpass.com/es/}{LastPass}
   \item
     \href{https://passwords.google.com/}{Google passwords}
+  \item
+    \href{https://nordpass.com/homepage/}{NordPass}
   \end{itemize}
 \end{itemize}
 
@@ -646,6 +712,8 @@ Para acabar con este apartado puedes comprobar la seguridad y robustez de tu con
 \item
   \href{https://password.kaspersky.com/}{Password Check}
 \end{itemize}
+
+Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google llamado \href{https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/}{Password Checkout} con el que podrás averiguar si tu contraseña ha sido comprometida.
 
 \hypertarget{protocolo-https}{%
 \section{Protocolo https}\label{protocolo-https}}
