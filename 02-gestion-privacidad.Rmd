@@ -50,15 +50,19 @@ El uso de la navegación privada resulta conveniente en los siguientes supuestos
  
 También existen navegadores que protegen tu privacidad sin necesidad de activar la navegación privada, como por ejemplo, [Epic](https://www.epicbrowser.com/), [Brave](https://brave.com/es/) e incluso buscadores como [DuckDuckGo](https://duckduckgo.com/). 
 
-Dentro de la navegación tienes además otra herramienta para proteger tu privacidad y se trata de un VPN (son las siglas de Virtual Private Network) [@WIKI-vpn].
+## VPN (Red privada virtual)
 
-Las VPN, son una tecnología de red que permiten una extensión de tu conexión local o LAN, permitiendo conectar varios dispositivos como si se encontrasen físicamente en el mismo lugar. Entre sus ventajas está la de ofrecer una mayor privacidad al ocultar tu localización, pero también, y este el caso que nos compete, el que parezca que tu conexión esté realizándose en otro país concreto, con lo que uno se puede saltar censuras o acceder a contenidos de servicios locales.
+Otra manera más de proteger tu privacidad, es hacer uso de una VPN (son las siglas de Virtual Private Network) [@AVAST-vpn].
+  
+Las VPN, son una tecnología de red que permiten una extensión de tu conexión local o LAN, permitiendo conectar varios dispositivos como si se encontrasen físicamente en el mismo lugar. Entre sus ventajas está la de ofrecer una mayor privacidad al ocultar tu localización, pero también, y este el caso que nos compete, el que parezca que tu conexión esté realizándose en otro país concreto, con lo que uno se puede saltar censuras o acceder a contenidos de servicios locales. 
+
+Su principal particularidad es que se trata de una conexión segura y cifrada. Esto hace que no sea posible conocer la información que viaja en la petición que se realiza, así como tampoco la IP pública que identifica nuestro dispositivo, ya que la conexión se realiza a través de los muchos router VPN.
 
 Las VPN suelen ser aplicaciones o extensiones de terceros, aunque el navegador [OPERA](https://www.opera.com/es) lo trae por defecto, lo único que tendrás que hacer es activarla desde sus opciones, y se creará una conexión cifrada entre tu dispositivo y un servidor VPN para esconder tu ubicación real.
 
 ## Cookies
 
-Una cookie es una pequeña información enviada por un sitio web y almacenado en el navegador del usuario, de manera que el sitio web puede consultar la actividad previa del navegador.
+Una cookie es un fichero que guarda nuestro navegador, donde se almacenan pequeñas cantidades de datos, de manera que el sitio web puede consultar la actividad previa del navegador.
 
 Su propósito principal es identificar al usuario almacenando su historial de actividad de un sitio web específico, de manera que se le pueda ofrecer el contenido más apropiado según sus hábitos. Esto quiere decir que cada vez que visitas una página web por primera vez, se guarda una cookie en el navegador con un poco de información. Luego, cuando visitas nuevamente la misma página, el servidor pide la misma cookie para arreglar la configuración del sitio y hacer la visita del usuario tan personalizada como sea posible [@cookies-navegador].
 
@@ -71,6 +75,8 @@ knitr::include_graphics('images/delete-cookies-when-leave-chrome-browser.png')
 ```
 
 Por otro lado si quieres deshacerte de la incómoda notificación de cookies de las web, puedes instalar en el navegador el plugin [I don’t care about cookies](https://www.i-dont-care-about-cookies.eu/) o este otro [Ninja cookie](https://ninja-cookie.com/), elige el que más te guste.
+
+Si quieres más información detallada sobre las cookies visita este enlace [por qué borrar las cookies](https://www.osi.es/es/actualidad/blog/2019/09/11/por-que-borrar-las-cookies-del-navegador) y este otro [tipos de cookies, cofiguración y consejos](https://www.osi.es/es/actualidad/blog/2018/07/18/entre-cookies-y-privacidad) de la Oficina de Seguridad del Internauta donde las analizan con más detalle. 
 
 ## Permisos cámara, micrófono y localización.
 
@@ -86,15 +92,47 @@ Para tener el control total sobre las funcionalidades de cámara, micrófono y u
 knitr::include_graphics('images/permition-settings.png')
 ```
 
+Aunque estos permisos son los más importantes cuando navegas por internet, si te fijas en la  figura 2.4 verás que no son los únicos  y que entre éstos se encuentran los de notificaciones o los de ventanas emergentes entre otros.
+
 La otra forma es más sencilla e incluso te permite cambiar los permisos directamente desde el navegador sin tener que ir al menú de opciones y esto lo tienes haciendo click en el candado de la barra de direcciones. Se trata del mismo candado que nos acredita que estamos ante una web segura. Puedes verlo en la siguiente imagen.
 
 ```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Ajustes permisos cámara, micrófono y ubicación desde el candado de la barra de direcciones.'}
 knitr::include_graphics('images/permitions-setting-from-browser.png')
 ```
 
+Para concluir, no debes olvidar que con las aplicaciones móviles sucede lo mismo, y que puedes gestionarlos de igual manera desde ajustes del dispositivo. Visita los siguientes enlaces dependiendo de tu smartphone, [cambiar los permisos de las aplicaciones en teléfonos Android](https://support.google.com/android/answer/9431959?hl=es) o [controlar el acceso a la información en las apps en el iPhone](https://support.apple.com/es-es/guide/iphone/iph251e92810/ios). En el siguiente enlace, [permisos aplicaciones  móviles](https://www.osi.es/sites/default/files/docs/c5-eg-permisos-apps-riesgos.pdf) encontrarás una tabla con los permisos y los riesgos que entrañan.
+
 ## La nube
 
-Como ya sabrás el almacenamiento en la nube, es el almacenamiento de datos basado en redes de computadoras, donde los datos están alojados en espacios de almacenamiento virtualizados, también conocidos como servidores y por lo general aportados por terceros. Algunos de estos servicios más conocidos son [Google drive](https://www.google.com/intl/en_in/drive/),[One drive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage) o [Dropbox](https://www.dropbox.com/) entre otros.
+Como ya sabrás el almacenamiento en la nube, es el almacenamiento de datos en servidores por lo general aportados por terceros y que gracias a esto, puedes disponer de ellos desde cualquier lugar y dispositivo, con solo tener conexión a internet y conectarte al servicio donde están alojados tus datos. De esta manera ya no es necesario llevar contigo el dispositivo físico donde tienes almacenada tu información. Algunos de estos servicios más conocidos son [Google drive](https://www.google.com/intl/en_in/drive/),[One drive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage) o [Dropbox](https://www.dropbox.com/) entre otros.
 
-Con respecto a esto, debes tener en cuenta que solo es recomendable compartirlo con personas de confianza, ya que de lo contrario podrían hacer un mal uso de ello, o simplemente una mala gestión que provoque la pérdida de la información.
+Antes de decidirte por cuál de los proveedor de servicio en la nube debes decantarte, ten en cuenta los siguientes:
 
+- Donde va a estar ubicada tu información. Esto te permitirá conocer la legislación y
+garantías de protección de tus datos en el país donde se encuentren.
+
+- Saber si la plataforma comparte información con terceros o no.
+
+- Si la web cuenta con certificado digital y es accesible mediante https.
+
+- Mecanismos de cifrado, ya que éstos maximizan la seguridad de los datos.
+
+- Políticas de privacidad.
+
+De otro lado también puedes tomar tus propias medidas de seguridad cifrando tu datos antes de subirlos. Para ello puedes usar esta herramienta llamada  [cryptomator](https://cryptomator.org/).
+
+En este enlace encontrarás un estudio completo de los diferentes [servicios de almacenamiento en la nube](https://www.osi.es/sites/default/files/docs/osi_servicios_nube.pdf) y sus características.
+
+A la hora de compartir tus datos alojados en la nube debes tener en cuenta que solo es recomendable compartirlos con personas de confianza, ya que de lo contrario podrían hacer un mal uso de ello, o simplemente una mala gestión que provoque la pérdida de la información.
+
+## Correo electrónico y apps de mensajería
+
+El correo electrónico es uno de los servicios web que más se suele utilizar. Es por ello que debes saber que muchos de lo gestores de emails que son utilizados a diario, no aplican estrictas políticas de privacidad, por lo que tus correos podrías ser leídos y rastreados no solo por terceros con intenciones poco saludables sino también por éstos mismos servicios de correo.
+
+Esto no tiene por que ser un inconveniente si no envías información sensible, pero si no es el caso quizá preferirías usar un gestor de correos que sí te garantice una privacidad completa en tus envíos. De ser este tu caso puedes usar  [Protonmail](https://protonmail.com/) o [Tutanota](https://tutanota.com/es/) que si tienen en cuenta este aspecto, aunque no son los únicos. En el siguiente enlace tienes una lista de otras [alternativas de emails privadas](https://blogthinkbig.com/alternativas-gratuitas-gmail-outlook-privacidad).
+
+Si por el contrario prefieres ser tu quien gestiones esa capa de privacidad adicional, puedes optar por hacer uso de otras herramientas de encriptado que podrás ver en este artículo de [cómo encriptar y proteger tu correo electrónico](https://www.osi.es/es/actualidad/blog/2019/07/31/como-encriptar-y-proteger-tu-correo-electronico).
+
+Si además quieres saber si tu cuenta de correo ha sido comprometida, puedes saberlo a través de la siguiente plataforma [haveibeenpwned](https://haveibeenpwned.com/).
+
+Con respecto a las aplicaciones de mensajería instantánea debes tener en cuenta que sucede lo mismo que con los correos electrónicos. A pesar que la mayoría de ellas, incluida la más popular de todas (whatsApp) disponen de capas de privacidad que la hacen confiable, a veces no podemos estar totalmente seguros de no estar sometidos a un seguimiento por parte de éstas. Es por ello que las aplicaciones como [telegram](https://telegram.org/) y [signal](https://signal.org/es/) nacen con el propósito de no inmiscuirse en el uso que haces de la aplicación.
