@@ -9,6 +9,8 @@ fig:unnamed-chunk-11
 fig:unnamed-chunk-12
 fig:unnamed-chunk-13
 fig:unnamed-chunk-14
+fig:unnamed-chunk-15
+fig:unnamed-chunk-16
 privacidad-y-seguridad-en-internet
 introducción
 privacidad
@@ -44,6 +46,11 @@ wi-fi
 plugins-o-extensiones
 descargas
 cierre-de-sesiones
+sv-two-step-verification-o-verificación-en-dos-pasos
+mfa-multi-factor-authentication-o-autenticación-de-factores-múltiples
+cifrado-o-encriptación-de-datos
+antibotnet
+bluetooth-y-nfc
 amenazas
 principales-amenazas
 virus
@@ -73,3 +80,4 @@ eliminar-el-historial-de-busquedas
 constastar-la-información
 otras-utilidades-interesantes
 entidades-e-instuciones-de-ayuda-al-ciudadano
+fig:unnamed-chunk-2

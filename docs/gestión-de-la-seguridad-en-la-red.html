@@ -113,6 +113,11 @@
 <li class="chapter" data-level="4.6" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#plugins-o-extensiones"><i class="fa fa-check"></i><b>4.6</b> Plugins o extensiones</a></li>
 <li class="chapter" data-level="4.7" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#descargas"><i class="fa fa-check"></i><b>4.7</b> Descargas</a></li>
 <li class="chapter" data-level="4.8" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#cierre-de-sesiones"><i class="fa fa-check"></i><b>4.8</b> Cierre de sesiones</a></li>
+<li class="chapter" data-level="4.9" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#sv-two-step-verification-o-verificación-en-dos-pasos"><i class="fa fa-check"></i><b>4.9</b> 2SV (Two Step Verification) o Verificación en Dos Pasos</a></li>
+<li class="chapter" data-level="4.10" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#mfa-multi-factor-authentication-o-autenticación-de-factores-múltiples"><i class="fa fa-check"></i><b>4.10</b> MFA (Multi-Factor Authentication) o Autenticación de Factores Múltiples</a></li>
+<li class="chapter" data-level="4.11" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#cifrado-o-encriptación-de-datos"><i class="fa fa-check"></i><b>4.11</b> Cifrado o encriptación de datos</a></li>
+<li class="chapter" data-level="4.12" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#antibotnet"><i class="fa fa-check"></i><b>4.12</b> AntiBotnet</a></li>
+<li class="chapter" data-level="4.13" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#bluetooth-y-nfc"><i class="fa fa-check"></i><b>4.13</b> Bluetooth y NFC</a></li>
 </ul></li>
 <li class="chapter" data-level="5" data-path="amenazas.html"><a href="amenazas.html"><i class="fa fa-check"></i><b>5</b> Amenazas</a>
 <ul>
@@ -217,6 +222,7 @@
 <li><p>No las compartas con nadie.</p></li>
 <li><p>No uses la misma contraseña en diferentes servicios.</p></li>
 <li><p>No las almacenes en el navegador.</p></li>
+<li><p>Evita usarlas en dispositivos públicos.</p></li>
 <li><p>Usa la <a href="https://www.osi.es/es/actualidad/blog/2019/02/27/el-factor-de-autenticacion-doble-y-multiple">verificación en dos pasos</a> también conocida como autenticación doble.</p></li>
 <li><p>Usar <a href="https://cloud.google.com/titan-security-key/?hl=es">security keys</a>.</p></li>
 <li><p>Gestores de contraseñas:</p>
@@ -225,6 +231,7 @@
 <li><a href="https://www.lastpass.com/es/">LastPass</a></li>
 <li><a href="https://passwords.google.com/">Google passwords</a></li>
 <li><a href="https://nordpass.com/homepage/">NordPass</a></li>
+<li><a href="https://www.dropbox.com/es_ES/features/security/passwords">Dropbox passwords</a></li>
 </ul></li>
 </ul>
 <p>Para acabar con este apartado puedes comprobar la seguridad y robustez de tu contraseña, con los siguientes recursos online:</p>
@@ -232,7 +239,7 @@
 <li><p><a href="https://www.security.org/how-secure-is-my-password/">How Secure Is My Password</a></p></li>
 <li><p><a href="https://password.kaspersky.com/">Password Check</a></p></li>
 </ul>
-<p>Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google llamado <a href="https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/">Password Checkout</a> con el que podrás averiguar si tu contraseña ha sido comprometida.</p>
+<p>Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google llamado <a href="https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/">Password Checkout</a> o este otro llamado <a href="https://haveibeenpwned.com/Passwords">Haveibeenpwned Passwords</a> para averiguar si alguna de tus contraseñas ha sido comprometida.</p>
 </div>
 <div id="protocolo-https" class="section level2" number="4.3">
 <h2><span class="header-section-number">4.3</span> Protocolo https</h2>
@@ -246,6 +253,8 @@
 Figure 4.1: Protocolo https vs http.
 </p>
 </div>
+<p>Si haces click en el candado, éste te mostrará que se trata de conexión es segura, así como el certificado, cookies y configuración de sitios.</p>
+<p>IMPORTANTE: Tener el candado no garantiza que la web sea legítima. Ya que los certificados de cifrado seguro los emiten terceros y los ciberestafadores pueden hacerse igualmente con uno.</p>
 </div>
 <div id="compras-y-transacciones" class="section level2" number="4.4">
 <h2><span class="header-section-number">4.4</span> Compras y transacciones</h2>
@@ -254,29 +263,43 @@ Figure 4.1: Protocolo https vs http.
 <li><p>Evita sitios webs que no te inspiren confianza: Por ello solo debes compras a través de webs y aplicaciones oficiales. Además de buscar valoraciones y opiniones, utilizar plataformas que valoran la reputación online de un portal, como <a href="https://www.scamadviser.com/">Scamadviser</a>.</p></li>
 <li><p>Usa solo plataformas con protocolo HTTPS: Visto en el apartado anterior.</p></li>
 <li><p>Utiliza navegación privada: Así evitarás que se registre el historial de navegación.</p></li>
-<li><p>Haz comprobaciones adicionales: Comprueba que la web está adherida a alguna plataforma de confianza online, como, por ejemplo, <a href="https://www.confianzaonline.es/">Confianza Online</a>. Se trata del único sello de calidad que cuenta con los reconocimientos de la Comisión Europea, el Instituto Nacional de Consumo o la Agencia Española de Protección de datos, además de estar respaldado por el Ministerio de Industria, Energía y Turismo.</p></li>
 <li><p>Trata de usar pasarelas de pago: Evita en lo posible el uso de tarjetas de crédito y opta por una pasarela de pago, como puede ser <a href="https://www.paypal.com/es/home">PayPal</a>, te estarás garantizando la compra, además de disponer de protocolos de devolución del importe muy efectivos.</p></li>
+<li><p>Haz comprobaciones adicionales:</p>
+<ul>
+<li><p>Comprueba que la web está adherida a alguna plataforma de confianza online, como, por ejemplo, <a href="https://www.confianzaonline.es/">Confianza Online</a>. Se trata del único sello de calidad que cuenta con los reconocimientos de la Comisión Europea, el Instituto Nacional de Consumo o la Agencia Española de Protección de datos, además de estar respaldado por el Ministerio de Industria, Energía y Turismo. Y acredita que se cumple con los estándares de privacidad y protección de datos de los usuarios entre otros. También existe el <a href="https://www.aenor.com/certificacion/tecnologias-de-la-informacion/buenas-practicas-comercio-electronico">Certificado de comercio electrónico</a> expedido por Aenor.</p></li>
+<li><p>Verifica que reciben nálisis de seguridad periódicos realizados por plataformas como <a href="https://www.mcafeesecure.com/certification">McAfee Secure</a>.</p></li>
+<li><p>Asegúrate que disponen de certificados de autenticidad de la web y seguridad de las transacciones como los que ofrece <a href="https://es.norton.com/internet-security">Norton secured</a> o <a href="https://www.comodo.com/home/internet-security/secure-shopping.php">Comodo secure</a>.</p></li>
+<li><p>Estos sellos y certificados los encontrarás normalmente en la parte inferior de la web en forma de logos y debes hacer click en ellos para obtener más información sobre la entidad que los expide y la vigencia de éstos, ya que muchas web fraudulentas utilizan sellos falsos.</p></li>
+</ul></li>
 </ul>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-11"></span>
+<img src="images/sellos-de-confianza-online.jpg" alt="Sellos y certificados de comercio online." width="75%" />
+<p class="caption">
+Figure 4.2: Sellos y certificados de comercio online.
+</p>
+</div>
 </div>
 <div id="wi-fi" class="section level2" number="4.5">
 <h2><span class="header-section-number">4.5</span> Wi-Fi</h2>
 <p>Con respecto a la Wi-Fi nos encontramos ante dos escenarios: Wi-Fi propia y Wi-Fi ajena.</p>
 <p>Uno de los peligros a los que más expuestos estas con tus equipos portátiles ya sean ordenadores, smartphones, etc., es el de buscar puntos Wi-Fi ajenos. Ya que por lo general suelen ser puntos de accesos a la red gratuitos. En este escenario, existe el riesgo que aun tratándose de una red confiable puede haber sido hackeada por un tercero o que en primera instancia no provenga ni si quiera de una red de confianza. En cualquiera de los dos supuestos, tus dispositivos quedan expuestos y con ello, toda tu información sensible, a merced de ser espiado, robado o extorsionado.</p>
 <p>Es por ello que debes tener la precaución de no hacer transacciones de ningún tipo, ni enviar datos sensibles. Es decir, usarla solo en caso de no te quede otra opción o en caso de tener que hacer cualquier búsqueda de carácter trivial.</p>
-<p>Es de suponer que si estas en casa con Wi-Fi propia, estas recomendaciones no son tan necesarias.</p>
+<p>Es de suponer que si estas en casa con Wi-Fi propia, estas recomendaciones no son tan necesarias. Pero si que sería muy recomendable por tu parte, que tuvieses muy en cuenta las recomendaciones que tienes a tu disposición en el apartado de Router en este manual. Además es conveniente que si no has establecido las capas de seguridad que se recomiendan en ese apartado, hagas una revisión de tu conexión Wi-Fi, por si tienes algún intruso y de ser así poder eliminarlo. Para ello tienes a tu disposición en el <a href="https://www.osi.es/es/actualidad/blog">blog de la Oficina de Seguridad de Internauta</a> un recurso llamado <a href="https://www.osi.es/es/actualidad/blog/2019/09/25/descubre-y-elimina-los-intrusos-de-tu-red-wifi">descubre y elimina a los intrusos de tu red wifi</a>.</p>
+<p>Lo más recomendable es que siempre que puedas navegues con cable en lugar de Wi-Fi.</p>
 </div>
 <div id="plugins-o-extensiones" class="section level2" number="4.6">
 <h2><span class="header-section-number">4.6</span> Plugins o extensiones</h2>
 <p>En informática, un complemento o plug-in es una aplicación (o programa informático) que se relaciona con otra para agregarle una función nueva y generalmente muy específica. Esta aplicación adicional es ejecutada por la aplicación principal e interactúan por medio de la interfaz de programación de aplicaciones. Complemento y plug-in se diferencian en que los complementos son desarrollados por empresas reconocidas y tienen certificado de seguridad y los plug-in pueden ser desarrollados por cualquiera <span class="citation">(<a href="referencias.html#ref-WIKI-plugin" role="doc-biblioref">Wikipedia 2021g</a>)</span>.</p>
 <p>Existen una infinidad de plug-in de diferente naturaleza y para multitud de propósitos. En esta ocasión nos vamos a centrar en los usados por los navegadores, un ejemplo de estos es el archiconocido <a href="https://getadblock.com/">adBlock</a>, cuya función es la eliminar esos molestos anuncios de algunos portales webs.</p>
 <p>Estos pueden estar desarrollados por terceros con intenciones de controlar la información que manejamos en nuestro dispositivo. De ahí que deban proceder de fuentes fiables y que estén configurados para actualizaciones automáticas.</p>
-<p>Por último, cada navegador dispone de repositorio de plug-ins o extensiones, que pueden ser consultados y desde donde los puedes instalar y comprobar su fiabilidad, así como consultar las valoraciones.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-11"></span>
+<p>Cada navegador dispone de repositorio de plug-ins o extensiones, que pueden ser consultados y desde donde los puedes instalar y comprobar su fiabilidad, así como consultar las valoraciones.</p>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-12"></span>
 <img src="images/plugin-navegador.png" alt="Plugin traductor de Google seguido de otros plugin con diferentes funcionalidades." width="100%" />
 <p class="caption">
-Figure 4.2: Plugin traductor de Google seguido de otros plugin con diferentes funcionalidades.
+Figure 4.3: Plugin traductor de Google seguido de otros plugin con diferentes funcionalidades.
 </p>
 </div>
+<p>Si quieres ampliar tu conocimiento y saber más de plugins y extensiones pasate por el <a href="https://www.osi.es/es/actualidad/blog">blog de la Oficina de Seguridad de Internauta</a> y lee esta entrada sobre <a href="https://www.osi.es/es/actualidad/blog/2019/11/20/extensiones-superpoderes-para-los-navegadores">extensiones: Superpoderes para los navegadores</a>.</p>
 </div>
 <div id="descargas" class="section level2" number="4.7">
 <h2><span class="header-section-number">4.7</span> Descargas</h2>
@@ -290,6 +313,41 @@ Figure 4.2: Plugin traductor de Google seguido de otros plugin con diferentes fu
 <p>Cuando hagas uso de algún servicio en internet, como por ejemplo, Facebook, Gmail o cualquier otro, lo primero que tienes que hacer es iniciar sesión con tus credenciales.</p>
 <p>Si estas en tu dispositivo no pasaría nada si una vez abierta la sesión no la cierras después de haber usado el servicio, pero si por el contrario estas usando un dispositivo ajeno, el servicio quedaría abierto y tus datos expuestos.</p>
 <p>Por la razón antes expuesta, es importante que no dejes ninguna sesión abierta.</p>
+</div>
+<div id="sv-two-step-verification-o-verificación-en-dos-pasos" class="section level2" number="4.9">
+<h2><span class="header-section-number">4.9</span> 2SV (Two Step Verification) o Verificación en Dos Pasos</h2>
+<p>La mayoría de cuentas a día de hoy están configuradas para soportar lo que se conoce como SFA (Single Factor Authetication) o Factor de autenticación Simple. Se trata del acceso a cuentas o servicios con el solo uso del usuario y una contraseña, algo que todo el mundo viene haciendo desde hace tiempo. Esto se ha vuelto en gran medida un gran riesgo, ya que si un tercero consigue hacerse con tu contraseña no tendrá ninguna dificultad para tomar el control.</p>
+<p>Es por este motivo que cada vez más servicios están implementando lo que se conoce como 2SV (Two Step Verification) o Verificación en Dos Pasos. Este sistema consiste en un código adicional, que suele ser enviado por correo electrónico, SMS, llamada telefónica o App de verificación en dos pasos, justo después de iniciar sesión con tu usuario y contraseña y el cual debe ser ingresado dentro de un determinado lapso de tiempo, (ya que el código expira en poco tiempo), para poder acceder al servicio.</p>
+<p>Como puedes ver, los dos pasos son:</p>
+<ol style="list-style-type: decimal">
+<li>Usuario y contraseña: Que solo tú conoces.</li>
+<li>Código adicional: Enviado por correo electrónico, SMS, llamada telefónica o App de verificación en dos pasos.</li>
+</ol>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-13"></span>
+<img src="images/two-step-verification.png" alt="Verificación en dos pasos." width="40%" />
+<p class="caption">
+Figure 4.4: Verificación en dos pasos.
+</p>
+</div>
+<p>De esta manera para que los ciberdelicuentes puedan acceder a tu servicio necesitarán la contraseña y el código adicional.</p>
+<p>Algunos servicios como la <a href="https://www.google.com/landing/2step/?hl=es">verificación en dos pasos de google</a> viene de manera nativa y tan solo tienes que activarla. Otros son gestionados a través de correo electrónico, SMS o llamadas telefónicas, como es el caso de algunas entidades bancarias. Y en otros supuestos, aunque la plataforma disponga de dicho servicio necesitarás una aplicación externa como <a href="https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&amp;hl=es-419">Google Autenticator</a> o <a href="https://www.microsoft.com/es-es/account/authenticator">Microsoft autenticator</a> entre otras y que se trata de una App de verificación en dos pasos, que te genera el código adicional.</p>
+<p>Es extremadamente recomendable que uses este sistema de verificación en la medida que puedas. Recuerda que de un modo u otro la mayoría de servicios y plataformas disponen de esta capa de seguridad. Normalmente las encontrarás en Ajustes y Seguridad. Si quieres más información, en este enlace sobre <a href="https://www.osi.es/es/actualidad/blog/2017/01/17/verificacion-en-dos-pasos-que-es-y-como-me-puede-ayudar">verificación en dos pasos</a> encontrarás más detalles, además de enlaces hacia las distintas plataformas y redes sociales más populares para que puedas implementarlo.</p>
+</div>
+<div id="mfa-multi-factor-authentication-o-autenticación-de-factores-múltiples" class="section level2" number="4.10">
+<h2><span class="header-section-number">4.10</span> MFA (Multi-Factor Authentication) o Autenticación de Factores Múltiples</h2>
+<p>La autenticación de factores múltiples …</p>
+</div>
+<div id="cifrado-o-encriptación-de-datos" class="section level2" number="4.11">
+<h2><span class="header-section-number">4.11</span> Cifrado o encriptación de datos</h2>
+<p>Encriptación de datos …</p>
+</div>
+<div id="antibotnet" class="section level2" number="4.12">
+<h2><span class="header-section-number">4.12</span> AntiBotnet</h2>
+<p>Los antibotnet son…</p>
+</div>
+<div id="bluetooth-y-nfc" class="section level2" number="4.13">
+<h2><span class="header-section-number">4.13</span> Bluetooth y NFC</h2>
+<p>El bluetooth …</p>
 
 </div>
 </div>

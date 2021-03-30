@@ -102,7 +102,7 @@
 
 \title{Manual de privacidad y seguridad en internet}
 \author{Diego Chiquero Mena}
-\date{23 marzo 2021}
+\date{30 marzo 2021}
 
 \begin{document}
 \maketitle
@@ -452,7 +452,7 @@ Si por el contrario prefieres ser tu quien gestiones esa capa de privacidad adic
 
 Si además quieres saber si tu cuenta de correo ha sido comprometida, puedes saberlo a través de la siguiente plataforma \href{https://haveibeenpwned.com/}{haveibeenpwned}.
 
-Con respecto a las aplicaciones de mensajería instantánea debes tener en cuenta que sucede lo mismo que con los correos electrónicos. A pesar que la mayoría de ellas, incluida la más popular de todas (whatsApp) disponen de capas de privacidad que la hacen confiable, a veces no podemos estar totalmente seguros de no estar sometidos a un seguimiento por parte de estas. Es por ello que las aplicaciones como \href{https://telegram.org/}{telegram} y \href{https://signal.org/es/}{signal} nacen con el propósito de no inmiscuirse en el uso que haces de la aplicación.
+Con respecto a las aplicaciones de mensajería instantánea debes tener en cuenta que sucede lo mismo que con los correos electrónicos. A pesar que la mayoría de ellas, incluida la más popular de todas (whatsApp) disponen de capas de privacidad que la hacen confiable, a veces no podemos estar totalmente seguros de no estar sometidos a un seguimiento por parte de éstas. Es por ello que las aplicaciones como \href{https://telegram.org/}{telegram} y \href{https://signal.org/es/}{signal} nacen con el propósito de no inmiscuirse en el uso que haces de la aplicación.
 
 \hypertarget{gestiuxf3n-de-la-seguridad-en-equipos-fuxedsicos}{%
 \chapter{Gestión de la seguridad en equipos físicos}\label{gestiuxf3n-de-la-seguridad-en-equipos-fuxedsicos}}
@@ -472,6 +472,22 @@ Una cuenta de usuario es el conjunto de información perteneciente a un usuario 
 Las pautas de seguridad que vas a ver a continuación te van a ser útil, tanto para ordenadores como cualquier tipo de dispositivo móvil, smartwatch y demás.
 
 Todos los equipos informáticos funcionan con una cuenta de usuario, única y personal. Luego una vez, hayas creado la tuya, solo tú debes hacer uso y disfrute de ella. En los ordenadores personales existe la posibilidad de crear varias cuentas de usuarios. Una vez éstas están creadas solo son accesibles mediante contraseña y aunque solo sirva para no olvidarlo, nunca debes de compartida.
+
+Desde aquí podrás acceder a cómo \href{https://support.microsoft.com/es-es/windows/crear-una-cuenta-de-administrador-o-de-usuario-local-en-windows-10-20de74e0-ac7f-3502-a866-32915af2a34d}{crear cuenta de usuario en windows} y \href{https://support.apple.com/es-es/guide/mac-help/mtusr001/mac\#:~:text=A\%C3\%B1adir\%20un\%20usuario,en\%20\%E2\%80\%9CUsuarios\%20y\%20grupos\%E2\%80\%9D.\&text=Si\%20el\%20candado\%20situado\%20en,bajo\%20la\%20lista\%20de\%20usuarios}{crear cuenta de usuario en Mac}.
+
+Si tu equipo es compartido con varias personas, puede que te interese crear distintas cuentas de usuarios con distintos niveles de privilegios. Si no las gestionas
+adecuadamente, corres el riesgo de:
+
+\begin{itemize}
+\item
+  Que terceros puedan acceder a tus archivos y eliminar/modificar información personal, como imágenes, música, documentos importantes, etc.
+\item
+  Modificar configuraciones de seguridad o usabilidad de tu sistema, como, por ejemplo, desactivar el antivirus o firewall.
+\item
+  Conectarse a determinados servicios con tus credenciales, como el correo electrónico o red social.
+\end{itemize}
+
+Además puedes gestionar las \href{https://support.microsoft.com/es-es/windows/las-opciones-de-inicio-de-sesi\%C3\%B3n-de-windows-10-y-la-protecci\%C3\%B3n-de-la-cuenta-7b34d4cf-794f-f6bd-ddcc-e73cdf1a6fbf}{opciones de inicio de sesión en windows} y las \href{https://support.apple.com/es-es/guide/mac-help/mtusr005/mac}{opciones de inicio de sesión en Mac} lo que te permitirá tener un mayor control sobre tu inicio de sesión.
 
 \begin{figure}
 
@@ -513,7 +529,9 @@ También es una buena práctica cambiar el nombre que la Wi-Fi trae por defecto,
 
 Otro aspecto a tener en cuenta es deshabilitar la opción \href{https://es.wikipedia.org/wiki/Wi-Fi_Protected_Setup}{WPS} (Wifi Protected Setup) en el router. Esta función te permite conectar el ordenador o dispositivo a la Wi-Fi del router sin tener que escribir la contraseña cuando eliges tu red Wi-Fi desde el dispositivo. Se trata de un botón físico que traen algunos router y que al pulsarlo conecta el dispositivo de forma automática. Esta funcionalidad es muy práctica pero conlleva el riesgo de que cuando pulsas este botón estás abriendo la Wi-Fi, lo que significa que inhabilitas todas las medidas de seguridad que tengas configuradas para la conexión. Si decides deshabilitarla puedes hacerlo desde la configuración de tu router y normalmente vas a encontrarlo en los apartados Wireless o Network de la interfaz web \citep{wps}.
 
-Para realizar cualquiera de las configuraciones propuestas en este apartado va a necesitar acceder a la interfaz de tu router y para ello, consulta la dirección IP de acceso al router de tu operador.
+Para realizar cualquiera de las configuraciones propuestas en este apartado va a necesitar acceder a la interfaz de tu router y para ello, necesitarás saber la dirección IP de acceso. Esta te será facilitada por tu operador.
+
+Si quieres una buena guía para conocer a fondo los entresijos del router pasate por \href{https://www.osi.es/sites/default/files/docs/guia_router/osi-guia-tu-router-tu-castillo.pdf}{tu router tu castillo}.
 
 \hypertarget{actualizaciones}{%
 \section{Actualizaciones}\label{actualizaciones}}
@@ -544,7 +562,7 @@ Aunque a priori pudiese parecer lo mismo, los antivirus, antimalware, antispywar
 
 Dependiendo de las necesidades pueden ser usados uno o varios, ya que son complementarios entre sí.
 
-Antes de decidir que herramientas de las anteriormente expuestas va a usar, puedes hacer una búsqueda e informarte sobre las opciones disponibles, ya que existen soluciones de todo tipo y para todos los gustos, gratuitas, de pago, para ordenadores, para smartphones. Pero no olvides nunca de asegurarte muy bien que estás ante un producto legítimo y descargarlas siempre de las web oficiales.
+Antes de decidir que herramientas de las anteriormente expuestas va a usar, puedes hacer una búsqueda e informarte sobre las opciones disponibles, ya que existen soluciones de todo tipo y para todos los gustos, gratuitas, de pago, para ordenadores, para smartphones. Desde la \href{https://www.osi.es}{Oficina de Seguridad del Internauta} ponen a tu disposición este \href{https://www.osi.es/es/herramientas-gratuitas?herramienta_selec\%5B0\%5D=115}{listado de Antivirus gratuitos}, para que puedas elegir el que mejor se adapte a tus necesidades. Pero no olvides nunca de asegurarte muy bien que estás ante un producto legítimo y descargarlo siempre de la web oficial.
 
 \hypertarget{copias-de-seguridad}{%
 \section{Copias de seguridad}\label{copias-de-seguridad}}
@@ -555,7 +573,7 @@ Simplificando el sistema de copias de seguridad que en algunas ocasiones puede l
 
 \begin{itemize}
 \item
-  Completas: Del sistema operativo completo, de esta forma al restaurar la copia, dispondremos de nuevo de toda la configuración a nivel de S.O., software instalado, carpetas y archivos. Para este cometido vamos a necesitar de programas de terceros, algunos de ellos con versiones gratuitas y de pago, ejemplo de estos son: \href{https://www.acronis.com/}{Acronis}, \href{https://www.aomeitech.com/}{AOMEI}, \href{https://www.easeus.com/}{EaseUS}.
+  Completas: Del sistema operativo completo, de esta forma al restaurar la copia, dispondremos de nuevo de toda la configuración a nivel de S.O., software instalado, carpetas y archivos. Para este cometido vamos a necesitar de programas de terceros, algunos de ellos con versiones gratuitas y de pago, ejemplo de estos son: \href{https://www.acronis.com/}{Acronis}, \href{https://www.aomeitech.com/}{AOMEI}, \href{https://www.easeus.com/}{EaseUS}. Aunque más abajo verás que también pueden hacerse nativamente.
 \item
   Parciales: En este escenario lo que se hace es salvaguardar las carpetas y archivos personales. Como por ejemplo, carpetas con fotografías, documentos personales y demás.
 \end{itemize}
@@ -570,6 +588,23 @@ Y las copias pueden ser mantenidas:
 \end{itemize}
 
 Las copias de seguridad debes realizarlas con la frecuencia que sea necesaria para garantizar tu nivel de seguridad \citep{tipos-copia-seguridad}.
+
+Puedes crear una copia de seguridad de tu sistema fácilmente ya que tanto Windows como Mac traen esta opción de forma nativa, solo necesitaras disponer de un dispositivo externo de almacenamiento en el que puedas guardar la copia con espacio de almacenamiento suficiente.
+
+Para Windows tienes a información en \href{https://support.microsoft.com/es-es/windows/realizar-y-restaurar-una-copia-de-seguridad-del-pc-ac359b36-7015-4694-de9a-c5eac1ce9d9c}{realizar y restaurar una copia de seguridad del PC}. Y en dispositivos Apple existe la opción de \href{https://support.apple.com/es-es/mac-backup}{cómo hacer copias de seguridad en Mac}.
+
+Una práctica muy recomendable a la hora de hacer copias de seguridad es seguir la estrategia 3-2-1 \citep{INCI-copia-3-2-1} y que consiste en:
+
+\begin{itemize}
+\item
+  Mantener 3 copias de seguridad: una principal con la que trabajar y dos de backups.
+\item
+  Mantener la información en 2 tipos de almacenamiento distintos, por ejemplo, en un disco duro y en la nube.
+\item
+  Mantener 1 copia de seguridad fuera de nuestra casa.
+\end{itemize}
+
+Las copias de seguridad no son solo exclusivas de los PCs o portátiles, sino que también debes contemplarlas en tus dispositivos móviles. Android pone a tu dispoción el recurso de cómo \href{https://support.google.com/android/answer/2819582?hl=es\&visit_id=637514255756661953-3969236140\&rd=1}{crear copias de seguridad o restaurar datos de un dispositivo Android} y Apple el de \href{https://support.apple.com/es-es/HT203977}{cómo hacer una copia de seguridad del iPhone, iPad y iPod touch}.
 
 \hypertarget{cifrado-o-encriptado-de-unidades-de-almacenamiento}{%
 \section{Cifrado o encriptado de unidades de almacenamiento}\label{cifrado-o-encriptado-de-unidades-de-almacenamiento}}
@@ -685,6 +720,8 @@ Otras recomendaciones que debes a tener siempre presente son:
 \item
   No las almacenes en el navegador.
 \item
+  Evita usarlas en dispositivos públicos.
+\item
   Usa la \href{https://www.osi.es/es/actualidad/blog/2019/02/27/el-factor-de-autenticacion-doble-y-multiple}{verificación en dos pasos} también conocida como autenticación doble.
 \item
   Usar \href{https://cloud.google.com/titan-security-key/?hl=es}{security keys}.
@@ -701,6 +738,8 @@ Otras recomendaciones que debes a tener siempre presente son:
     \href{https://passwords.google.com/}{Google passwords}
   \item
     \href{https://nordpass.com/homepage/}{NordPass}
+  \item
+    \href{https://www.dropbox.com/es_ES/features/security/passwords}{Dropbox passwords}
   \end{itemize}
 \end{itemize}
 
@@ -713,7 +752,7 @@ Para acabar con este apartado puedes comprobar la seguridad y robustez de tu con
   \href{https://password.kaspersky.com/}{Password Check}
 \end{itemize}
 
-Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google llamado \href{https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/}{Password Checkout} con el que podrás averiguar si tu contraseña ha sido comprometida.
+Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google llamado \href{https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/}{Password Checkout} o este otro llamado \href{https://haveibeenpwned.com/Passwords}{Haveibeenpwned Passwords} para averiguar si alguna de tus contraseñas ha sido comprometida.
 
 \hypertarget{protocolo-https}{%
 \section{Protocolo https}\label{protocolo-https}}
@@ -735,6 +774,10 @@ Identificar si el protocolo https está activado en el navegador es muy sencillo
 \caption{Protocolo https vs http.}\label{fig:unnamed-chunk-10}
 \end{figure}
 
+Si haces click en el candado, éste te mostrará que se trata de conexión es segura, así como el certificado, cookies y configuración de sitios.
+
+IMPORTANTE: Tener el candado no garantiza que la web sea legítima. Ya que los certificados de cifrado seguro los emiten terceros y los ciberestafadores pueden hacerse igualmente con uno.
+
 \hypertarget{compras-y-transacciones}{%
 \section{Compras y transacciones}\label{compras-y-transacciones}}
 
@@ -748,10 +791,30 @@ Para comprar por Internet debes tomar cuantas más precauciones mejor para evita
 \item
   Utiliza navegación privada: Así evitarás que se registre el historial de navegación.
 \item
-  Haz comprobaciones adicionales: Comprueba que la web está adherida a alguna plataforma de confianza online, como, por ejemplo, \href{https://www.confianzaonline.es/}{Confianza Online}. Se trata del único sello de calidad que cuenta con los reconocimientos de la Comisión Europea, el Instituto Nacional de Consumo o la Agencia Española de Protección de datos, además de estar respaldado por el Ministerio de Industria, Energía y Turismo.
-\item
   Trata de usar pasarelas de pago: Evita en lo posible el uso de tarjetas de crédito y opta por una pasarela de pago, como puede ser \href{https://www.paypal.com/es/home}{PayPal}, te estarás garantizando la compra, además de disponer de protocolos de devolución del importe muy efectivos.
+\item
+  Haz comprobaciones adicionales:
+
+  \begin{itemize}
+  \item
+    Comprueba que la web está adherida a alguna plataforma de confianza online, como, por ejemplo, \href{https://www.confianzaonline.es/}{Confianza Online}. Se trata del único sello de calidad que cuenta con los reconocimientos de la Comisión Europea, el Instituto Nacional de Consumo o la Agencia Española de Protección de datos, además de estar respaldado por el Ministerio de Industria, Energía y Turismo. Y acredita que se cumple con los estándares de privacidad y protección de datos de los usuarios entre otros. También existe el \href{https://www.aenor.com/certificacion/tecnologias-de-la-informacion/buenas-practicas-comercio-electronico}{Certificado de comercio electrónico} expedido por Aenor.
+  \item
+    Verifica que reciben nálisis de seguridad periódicos realizados por plataformas como \href{https://www.mcafeesecure.com/certification}{McAfee Secure}.
+  \item
+    Asegúrate que disponen de certificados de autenticidad de la web y seguridad de las transacciones como los que ofrece \href{https://es.norton.com/internet-security}{Norton secured} o \href{https://www.comodo.com/home/internet-security/secure-shopping.php}{Comodo secure}.
+  \item
+    Estos sellos y certificados los encontrarás normalmente en la parte inferior de la web en forma de logos y debes hacer click en ellos para obtener más información sobre la entidad que los expide y la vigencia de éstos, ya que muchas web fraudulentas utilizan sellos falsos.
+  \end{itemize}
 \end{itemize}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/sellos-de-confianza-online} 
+
+}
+
+\caption{Sellos y certificados de comercio online.}\label{fig:unnamed-chunk-11}
+\end{figure}
 
 \hypertarget{wi-fi}{%
 \section{Wi-Fi}\label{wi-fi}}
@@ -762,7 +825,9 @@ Uno de los peligros a los que más expuestos estas con tus equipos portátiles y
 
 Es por ello que debes tener la precaución de no hacer transacciones de ningún tipo, ni enviar datos sensibles. Es decir, usarla solo en caso de no te quede otra opción o en caso de tener que hacer cualquier búsqueda de carácter trivial.
 
-Es de suponer que si estas en casa con Wi-Fi propia, estas recomendaciones no son tan necesarias.
+Es de suponer que si estas en casa con Wi-Fi propia, estas recomendaciones no son tan necesarias. Pero si que sería muy recomendable por tu parte, que tuvieses muy en cuenta las recomendaciones que tienes a tu disposición en el apartado de Router en este manual. Además es conveniente que si no has establecido las capas de seguridad que se recomiendan en ese apartado, hagas una revisión de tu conexión Wi-Fi, por si tienes algún intruso y de ser así poder eliminarlo. Para ello tienes a tu disposición en el \href{https://www.osi.es/es/actualidad/blog}{blog de la Oficina de Seguridad de Internauta} un recurso llamado \href{https://www.osi.es/es/actualidad/blog/2019/09/25/descubre-y-elimina-los-intrusos-de-tu-red-wifi}{descubre y elimina a los intrusos de tu red wifi}.
+
+Lo más recomendable es que siempre que puedas navegues con cable en lugar de Wi-Fi.
 
 \hypertarget{plugins-o-extensiones}{%
 \section{Plugins o extensiones}\label{plugins-o-extensiones}}
@@ -773,7 +838,7 @@ Existen una infinidad de plug-in de diferente naturaleza y para multitud de prop
 
 Estos pueden estar desarrollados por terceros con intenciones de controlar la información que manejamos en nuestro dispositivo. De ahí que deban proceder de fuentes fiables y que estén configurados para actualizaciones automáticas.
 
-Por último, cada navegador dispone de repositorio de plug-ins o extensiones, que pueden ser consultados y desde donde los puedes instalar y comprobar su fiabilidad, así como consultar las valoraciones.
+Cada navegador dispone de repositorio de plug-ins o extensiones, que pueden ser consultados y desde donde los puedes instalar y comprobar su fiabilidad, así como consultar las valoraciones.
 
 \begin{figure}
 
@@ -781,8 +846,10 @@ Por último, cada navegador dispone de repositorio de plug-ins o extensiones, qu
 
 }
 
-\caption{Plugin traductor de Google seguido de otros plugin con diferentes funcionalidades.}\label{fig:unnamed-chunk-11}
+\caption{Plugin traductor de Google seguido de otros plugin con diferentes funcionalidades.}\label{fig:unnamed-chunk-12}
 \end{figure}
+
+Si quieres ampliar tu conocimiento y saber más de plugins y extensiones pasate por el \href{https://www.osi.es/es/actualidad/blog}{blog de la Oficina de Seguridad de Internauta} y lee esta entrada sobre \href{https://www.osi.es/es/actualidad/blog/2019/11/20/extensiones-superpoderes-para-los-navegadores}{extensiones: Superpoderes para los navegadores}.
 
 \hypertarget{descargas}{%
 \section{Descargas}\label{descargas}}
@@ -803,6 +870,59 @@ Cuando hagas uso de algún servicio en internet, como por ejemplo, Facebook, Gma
 Si estas en tu dispositivo no pasaría nada si una vez abierta la sesión no la cierras después de haber usado el servicio, pero si por el contrario estas usando un dispositivo ajeno, el servicio quedaría abierto y tus datos expuestos.
 
 Por la razón antes expuesta, es importante que no dejes ninguna sesión abierta.
+
+\hypertarget{sv-two-step-verification-o-verificaciuxf3n-en-dos-pasos}{%
+\section{2SV (Two Step Verification) o Verificación en Dos Pasos}\label{sv-two-step-verification-o-verificaciuxf3n-en-dos-pasos}}
+
+La mayoría de cuentas a día de hoy están configuradas para soportar lo que se conoce como SFA (Single Factor Authetication) o Factor de autenticación Simple. Se trata del acceso a cuentas o servicios con el solo uso del usuario y una contraseña, algo que todo el mundo viene haciendo desde hace tiempo. Esto se ha vuelto en gran medida un gran riesgo, ya que si un tercero consigue hacerse con tu contraseña no tendrá ninguna dificultad para tomar el control.
+
+Es por este motivo que cada vez más servicios están implementando lo que se conoce como 2SV (Two Step Verification) o Verificación en Dos Pasos. Este sistema consiste en un código adicional, que suele ser enviado por correo electrónico, SMS, llamada telefónica o App de verificación en dos pasos, justo después de iniciar sesión con tu usuario y contraseña y el cual debe ser ingresado dentro de un determinado lapso de tiempo, (ya que el código expira en poco tiempo), para poder acceder al servicio.
+
+Como puedes ver, los dos pasos son:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Usuario y contraseña: Que solo tú conoces.
+\item
+  Código adicional: Enviado por correo electrónico, SMS, llamada telefónica o App de verificación en dos pasos.
+\end{enumerate}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.4\linewidth]{images/two-step-verification} 
+
+}
+
+\caption{Verificación en dos pasos.}\label{fig:unnamed-chunk-13}
+\end{figure}
+
+De esta manera para que los ciberdelicuentes puedan acceder a tu servicio necesitarán la contraseña y el código adicional.
+
+Algunos servicios como la \href{https://www.google.com/landing/2step/?hl=es}{verificación en dos pasos de google} viene de manera nativa y tan solo tienes que activarla. Otros son gestionados a través de correo electrónico, SMS o llamadas telefónicas, como es el caso de algunas entidades bancarias. Y en otros supuestos, aunque la plataforma disponga de dicho servicio necesitarás una aplicación externa como \href{https://support.google.com/accounts/answer/1066447?co=GENIE.Platform\%3DAndroid\&hl=es-419}{Google Autenticator} o \href{https://www.microsoft.com/es-es/account/authenticator}{Microsoft autenticator} entre otras y que se trata de una App de verificación en dos pasos, que te genera el código adicional.
+
+Es extremadamente recomendable que uses este sistema de verificación en la medida que puedas. Recuerda que de un modo u otro la mayoría de servicios y plataformas disponen de esta capa de seguridad. Normalmente las encontrarás en Ajustes y Seguridad. Si quieres más información, en este enlace sobre \href{https://www.osi.es/es/actualidad/blog/2017/01/17/verificacion-en-dos-pasos-que-es-y-como-me-puede-ayudar}{verificación en dos pasos} encontrarás más detalles, además de enlaces hacia las distintas plataformas y redes sociales más populares para que puedas implementarlo.
+
+\hypertarget{mfa-multi-factor-authentication-o-autenticaciuxf3n-de-factores-muxfaltiples}{%
+\section{MFA (Multi-Factor Authentication) o Autenticación de Factores Múltiples}\label{mfa-multi-factor-authentication-o-autenticaciuxf3n-de-factores-muxfaltiples}}
+
+La autenticación de factores múltiples \ldots{}
+
+\hypertarget{cifrado-o-encriptaciuxf3n-de-datos}{%
+\section{Cifrado o encriptación de datos}\label{cifrado-o-encriptaciuxf3n-de-datos}}
+
+Encriptación de datos \ldots{}
+
+\hypertarget{antibotnet}{%
+\section{AntiBotnet}\label{antibotnet}}
+
+Los antibotnet son\ldots{}
+
+\hypertarget{bluetooth-y-nfc}{%
+\section{Bluetooth y NFC}\label{bluetooth-y-nfc}}
+
+El bluetooth \ldots{}
 
 \hypertarget{amenazas}{%
 \chapter{Amenazas}\label{amenazas}}
@@ -912,7 +1032,7 @@ En la actualidad estos son unos de los ataques más virulentos. Según un estudi
 
 }
 
-\caption{Ransomware (Malware).}\label{fig:unnamed-chunk-12}
+\caption{Ransomware (Malware).}\label{fig:unnamed-chunk-14}
 \end{figure}
 
 \hypertarget{spyware-o-software-espuxeda}{%
@@ -982,7 +1102,7 @@ Para poder detectar si estas siendo víctima de uno de estos fraudes debes estar
 
 }
 
-\caption{Phishing banco Santander.}\label{fig:unnamed-chunk-13}
+\caption{Phishing banco Santander.}\label{fig:unnamed-chunk-15}
 \end{figure}
 
 El Pharming es la explotación de una vulnerabilidad en el software de los servidores DNS (Domain Name System) o en el de los equipos de los propios usuarios, que permite a un atacante redirigir un nombre de dominio (domain name) a otra máquina distinta. De esta forma, un usuario que introduzca un determinado nombre de dominio que haya sido redirigido, accederá en su explorador de internet a la página web que el atacante haya especificado para ese nombre de dominio \citep{WIKI-pharming}.
@@ -1038,7 +1158,7 @@ Pero puede ocurrir que a través de una instalación de software, normalmente gr
 
 }
 
-\caption{Toolbar.}\label{fig:unnamed-chunk-14}
+\caption{Toolbar.}\label{fig:unnamed-chunk-16}
 \end{figure}
 
 Normalmente, se instalan como un añadido al instalar aplicaciones gratuitas en el ordenador. Si no tienes cuidado durante el proceso de instalación y pulsamos siempre ``Siguiente-Siguiente-Siguiente'' las toolbars acaban en nuestro navegador. Para evitarlo no debes instalar una aplicación dando a ``Siguiente-Siguiente-Siguiente'' sin leer lo que nos están indicando. Para evitar este supuesto, recuerda que lo mejor es descargar programas solo de las webs oficiales.

@@ -113,6 +113,11 @@
 <li class="chapter" data-level="4.6" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#plugins-o-extensiones"><i class="fa fa-check"></i><b>4.6</b> Plugins o extensiones</a></li>
 <li class="chapter" data-level="4.7" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#descargas"><i class="fa fa-check"></i><b>4.7</b> Descargas</a></li>
 <li class="chapter" data-level="4.8" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#cierre-de-sesiones"><i class="fa fa-check"></i><b>4.8</b> Cierre de sesiones</a></li>
+<li class="chapter" data-level="4.9" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#sv-two-step-verification-o-verificación-en-dos-pasos"><i class="fa fa-check"></i><b>4.9</b> 2SV (Two Step Verification) o Verificación en Dos Pasos</a></li>
+<li class="chapter" data-level="4.10" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#mfa-multi-factor-authentication-o-autenticación-de-factores-múltiples"><i class="fa fa-check"></i><b>4.10</b> MFA (Multi-Factor Authentication) o Autenticación de Factores Múltiples</a></li>
+<li class="chapter" data-level="4.11" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#cifrado-o-encriptación-de-datos"><i class="fa fa-check"></i><b>4.11</b> Cifrado o encriptación de datos</a></li>
+<li class="chapter" data-level="4.12" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#antibotnet"><i class="fa fa-check"></i><b>4.12</b> AntiBotnet</a></li>
+<li class="chapter" data-level="4.13" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#bluetooth-y-nfc"><i class="fa fa-check"></i><b>4.13</b> Bluetooth y NFC</a></li>
 </ul></li>
 <li class="chapter" data-level="5" data-path="amenazas.html"><a href="amenazas.html"><i class="fa fa-check"></i><b>5</b> Amenazas</a>
 <ul>
@@ -177,10 +182,19 @@
 </div>
 <div id="equipo-local-y-dispositivos-móviles" class="section level2" number="3.2">
 <h2><span class="header-section-number">3.2</span> Equipo local y dispositivos móviles</h2>
-<p>Una cuenta de usuario es el conjunto de información perteneciente a un usuario concreto. De esta forma indica al sistema operativo los archivos y carpetas a los que dicho usuario tiene acceso así como la posibilidad de realizar cambios y configuraciones personales <span class="citation">(<a href="referencias.html#ref-OSI-cuentas" role="doc-biblioref">OSI 2021c</a>)</span>.</p>
+<p>Una cuenta de usuario es el conjunto de información perteneciente a un usuario concreto. De esta forma indica al sistema operativo los archivos y carpetas a los que dicho usuario tiene acceso así como la posibilidad de realizar cambios y configuraciones personales <span class="citation">(<a href="referencias.html#ref-OSI-cuentas" role="doc-biblioref">OSI 2021b</a>)</span>.</p>
 <p>Las pautas de seguridad que vas a ver a continuación te van a ser útil, tanto para ordenadores como cualquier tipo de dispositivo móvil, smartwatch y demás.</p>
 <p>Todos los equipos informáticos funcionan con una cuenta de usuario, única y personal. Luego una vez, hayas creado la tuya, solo tú debes hacer uso y disfrute de ella. En los ordenadores personales existe la posibilidad de crear varias cuentas de usuarios. Una vez éstas están creadas solo son accesibles mediante contraseña y aunque solo sirva para no olvidarlo, nunca debes de compartida.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-9"></span>
+<p>Desde aquí podrás acceder a cómo <a href="https://support.microsoft.com/es-es/windows/crear-una-cuenta-de-administrador-o-de-usuario-local-en-windows-10-20de74e0-ac7f-3502-a866-32915af2a34d">crear cuenta de usuario en windows</a> y <a href="https://support.apple.com/es-es/guide/mac-help/mtusr001/mac#:~:text=A%C3%B1adir%20un%20usuario,en%20%E2%80%9CUsuarios%20y%20grupos%E2%80%9D.&amp;text=Si%20el%20candado%20situado%20en,bajo%20la%20lista%20de%20usuarios">crear cuenta de usuario en Mac</a>.</p>
+<p>Si tu equipo es compartido con varias personas, puede que te interese crear distintas cuentas de usuarios con distintos niveles de privilegios. Si no las gestionas
+adecuadamente, corres el riesgo de:</p>
+<ul>
+<li><p>Que terceros puedan acceder a tus archivos y eliminar/modificar información personal, como imágenes, música, documentos importantes, etc.</p></li>
+<li><p>Modificar configuraciones de seguridad o usabilidad de tu sistema, como, por ejemplo, desactivar el antivirus o firewall.</p></li>
+<li><p>Conectarse a determinados servicios con tus credenciales, como el correo electrónico o red social.</p></li>
+</ul>
+<p>Además puedes gestionar las <a href="https://support.microsoft.com/es-es/windows/las-opciones-de-inicio-de-sesi%C3%B3n-de-windows-10-y-la-protecci%C3%B3n-de-la-cuenta-7b34d4cf-794f-f6bd-ddcc-e73cdf1a6fbf">opciones de inicio de sesión en windows</a> y las <a href="https://support.apple.com/es-es/guide/mac-help/mtusr005/mac">opciones de inicio de sesión en Mac</a> lo que te permitirá tener un mayor control sobre tu inicio de sesión.</p>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-2"></span>
 <img src="images/cuenta-usuario-windows-10.png" alt="Cuenta de usuario windows 10." width="100%" />
 <p class="caption">
 Figure 3.1: Cuenta de usuario windows 10.
@@ -203,7 +217,8 @@ Figure 3.1: Cuenta de usuario windows 10.
 <p>Es igualmente importante que cambies la clave que el router trae por defecto. Este enlace te llevará a un <a href="https://bandaancha.eu/generador-claves-wifi">generador de claves Wi-Fi</a> donde podras crear de forma automática una clave Wi-Fi segura y robusta.</p>
 <p>También es una buena práctica cambiar el nombre que la Wi-Fi trae por defecto, esto despistará a aquellos que puedan tener una lista de claves de acceso de las diferentes operadoras que existen en el mercado.</p>
 <p>Otro aspecto a tener en cuenta es deshabilitar la opción <a href="https://es.wikipedia.org/wiki/Wi-Fi_Protected_Setup">WPS</a> (Wifi Protected Setup) en el router. Esta función te permite conectar el ordenador o dispositivo a la Wi-Fi del router sin tener que escribir la contraseña cuando eliges tu red Wi-Fi desde el dispositivo. Se trata de un botón físico que traen algunos router y que al pulsarlo conecta el dispositivo de forma automática. Esta funcionalidad es muy práctica pero conlleva el riesgo de que cuando pulsas este botón estás abriendo la Wi-Fi, lo que significa que inhabilitas todas las medidas de seguridad que tengas configuradas para la conexión. Si decides deshabilitarla puedes hacerlo desde la configuración de tu router y normalmente vas a encontrarlo en los apartados Wireless o Network de la interfaz web <span class="citation">(<a href="referencias.html#ref-wps" role="doc-biblioref">Opción WPS router 2021</a>)</span>.</p>
-<p>Para realizar cualquiera de las configuraciones propuestas en este apartado va a necesitar acceder a la interfaz de tu router y para ello, consulta la dirección IP de acceso al router de tu operador.</p>
+<p>Para realizar cualquiera de las configuraciones propuestas en este apartado va a necesitar acceder a la interfaz de tu router y para ello, necesitarás saber la dirección IP de acceso. Esta te será facilitada por tu operador.</p>
+<p>Si quieres una buena guía para conocer a fondo los entresijos del router pasate por <a href="https://www.osi.es/sites/default/files/docs/guia_router/osi-guia-tu-router-tu-castillo.pdf">tu router tu castillo</a>.</p>
 </div>
 <div id="actualizaciones" class="section level2" number="3.4">
 <h2><span class="header-section-number">3.4</span> Actualizaciones</h2>
@@ -222,14 +237,14 @@ Figure 3.1: Cuenta de usuario windows 10.
 <li><p>Antimalware: Es un software encargado de eliminar el software malicioso (malicious-software, malware) del ordenador tras un minucioso análisis del sistema. Algunos ejemplos de antimalware son: <a href="https://www.infospyware.com/antimalware/hijackthis/">HiJackThis</a>, <a href="https://www.malwarebytes.com/">Anti-malware</a>.</p></li>
 </ul>
 <p>Dependiendo de las necesidades pueden ser usados uno o varios, ya que son complementarios entre sí.</p>
-<p>Antes de decidir que herramientas de las anteriormente expuestas va a usar, puedes hacer una búsqueda e informarte sobre las opciones disponibles, ya que existen soluciones de todo tipo y para todos los gustos, gratuitas, de pago, para ordenadores, para smartphones. Pero no olvides nunca de asegurarte muy bien que estás ante un producto legítimo y descargarlas siempre de las web oficiales.</p>
+<p>Antes de decidir que herramientas de las anteriormente expuestas va a usar, puedes hacer una búsqueda e informarte sobre las opciones disponibles, ya que existen soluciones de todo tipo y para todos los gustos, gratuitas, de pago, para ordenadores, para smartphones. Desde la <a href="https://www.osi.es">Oficina de Seguridad del Internauta</a> ponen a tu disposición este <a href="https://www.osi.es/es/herramientas-gratuitas?herramienta_selec%5B0%5D=115">listado de Antivirus gratuitos</a>, para que puedas elegir el que mejor se adapte a tus necesidades. Pero no olvides nunca de asegurarte muy bien que estás ante un producto legítimo y descargarlo siempre de la web oficial.</p>
 </div>
 <div id="copias-de-seguridad" class="section level2" number="3.6">
 <h2><span class="header-section-number">3.6</span> Copias de seguridad</h2>
-<p>Una copia de seguridad o backup en informática es una copia de los datos originales que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida. Las copias de seguridad son útiles ante distintos eventos y usos: recuperar los sistemas informáticos y los datos de una catástrofe informática, natural o ataque; restaurar una pequeña cantidad de archivos que pueden haberse eliminado accidentalmente, corrompido, infectado por un virus informático u otras causas <span class="citation">(<a href="referencias.html#ref-WIKI-copias-seguridad" role="doc-biblioref">Wikipedia 2021c</a>)</span>.</p>
+<p>Una copia de seguridad o backup en informática es una copia de los datos originales que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida. Las copias de seguridad son útiles ante distintos eventos y usos: recuperar los sistemas informáticos y los datos de una catástrofe informática, natural o ataque; restaurar una pequeña cantidad de archivos que pueden haberse eliminado accidentalmente, corrompido, infectado por un virus informático u otras causas <span class="citation">(<a href="referencias.html#ref-WIKI-copias-seguridad" role="doc-biblioref">Wikipedia 2021</a>)</span>.</p>
 <p>Simplificando el sistema de copias de seguridad que en algunas ocasiones puede llegar a ser complejo, están los siguiente:</p>
 <ul>
-<li><p>Completas: Del sistema operativo completo, de esta forma al restaurar la copia, dispondremos de nuevo de toda la configuración a nivel de S.O., software instalado, carpetas y archivos. Para este cometido vamos a necesitar de programas de terceros, algunos de ellos con versiones gratuitas y de pago, ejemplo de estos son: <a href="https://www.acronis.com/">Acronis</a>, <a href="https://www.aomeitech.com/">AOMEI</a>, <a href="https://www.easeus.com/">EaseUS</a>.</p></li>
+<li><p>Completas: Del sistema operativo completo, de esta forma al restaurar la copia, dispondremos de nuevo de toda la configuración a nivel de S.O., software instalado, carpetas y archivos. Para este cometido vamos a necesitar de programas de terceros, algunos de ellos con versiones gratuitas y de pago, ejemplo de estos son: <a href="https://www.acronis.com/">Acronis</a>, <a href="https://www.aomeitech.com/">AOMEI</a>, <a href="https://www.easeus.com/">EaseUS</a>. Aunque más abajo verás que también pueden hacerse nativamente.</p></li>
 <li><p>Parciales: En este escenario lo que se hace es salvaguardar las carpetas y archivos personales. Como por ejemplo, carpetas con fotografías, documentos personales y demás.</p></li>
 </ul>
 <p>Y las copias pueden ser mantenidas:</p>
@@ -238,6 +253,15 @@ Figure 3.1: Cuenta de usuario windows 10.
 <li><p>En la nube: Estos son servicios de terceros accesibles online, ejemplo de ello son: <a href="https://www.backblaze.com/home-1.html">BackBlaze</a>, <a href="https://www.carbonite.com/">Carbonite</a>, siendo estos especializados en backups. Pero si tus copias de seguridad se limitan a tus carpetas y archivos personales puedes usar un servicio en la nube, como <a href="https://www.google.com/intl/en_in/drive/">Google Drive</a>, <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage">Onedrive</a> o <a href="https://www.dropbox.com/">Dropbox</a>.</p></li>
 </ul>
 <p>Las copias de seguridad debes realizarlas con la frecuencia que sea necesaria para garantizar tu nivel de seguridad <span class="citation">(<a href="referencias.html#ref-tipos-copia-seguridad" role="doc-biblioref">Media Cloud 2021</a>)</span>.</p>
+<p>Puedes crear una copia de seguridad de tu sistema fácilmente ya que tanto Windows como Mac traen esta opción de forma nativa, solo necesitaras disponer de un dispositivo externo de almacenamiento en el que puedas guardar la copia con espacio de almacenamiento suficiente.</p>
+<p>Para Windows tienes a información en <a href="https://support.microsoft.com/es-es/windows/realizar-y-restaurar-una-copia-de-seguridad-del-pc-ac359b36-7015-4694-de9a-c5eac1ce9d9c">realizar y restaurar una copia de seguridad del PC</a>. Y en dispositivos Apple existe la opción de <a href="https://support.apple.com/es-es/mac-backup">cómo hacer copias de seguridad en Mac</a>.</p>
+<p>Una práctica muy recomendable a la hora de hacer copias de seguridad es seguir la estrategia 3-2-1 <span class="citation">(<a href="referencias.html#ref-INCI-copia-3-2-1" role="doc-biblioref">INCIBE 2021</a>)</span> y que consiste en:</p>
+<ul>
+<li><p>Mantener 3 copias de seguridad: una principal con la que trabajar y dos de backups.</p></li>
+<li><p>Mantener la información en 2 tipos de almacenamiento distintos, por ejemplo, en un disco duro y en la nube.</p></li>
+<li><p>Mantener 1 copia de seguridad fuera de nuestra casa.</p></li>
+</ul>
+<p>Las copias de seguridad no son solo exclusivas de los PCs o portátiles, sino que también debes contemplarlas en tus dispositivos móviles. Android pone a tu dispoción el recurso de cómo <a href="https://support.google.com/android/answer/2819582?hl=es&amp;visit_id=637514255756661953-3969236140&amp;rd=1">crear copias de seguridad o restaurar datos de un dispositivo Android</a> y Apple el de <a href="https://support.apple.com/es-es/HT203977">cómo hacer una copia de seguridad del iPhone, iPad y iPod touch</a>.</p>
 </div>
 <div id="cifrado-o-encriptado-de-unidades-de-almacenamiento" class="section level2" number="3.7">
 <h2><span class="header-section-number">3.7</span> Cifrado o encriptado de unidades de almacenamiento</h2>
