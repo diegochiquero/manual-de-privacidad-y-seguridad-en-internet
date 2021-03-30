@@ -70,6 +70,8 @@ Otras recomendaciones que debes a tener siempre presente son:
 
 - No las almacenes en el navegador.
 
+- Evita usarlas en dispositivos públicos.
+
 - Usa la [verificación en dos pasos](https://www.osi.es/es/actualidad/blog/2019/02/27/el-factor-de-autenticacion-doble-y-multiple) también conocida como autenticación doble.
 
 - Usar [security keys](https://cloud.google.com/titan-security-key/?hl=es).
@@ -80,14 +82,15 @@ Otras recomendaciones que debes a tener siempre presente son:
     - [LastPass](https://www.lastpass.com/es/) 
     - [Google passwords](https://passwords.google.com/)
     - [NordPass](https://nordpass.com/homepage/)
-
+    - [Dropbox passwords](https://www.dropbox.com/es_ES/features/security/passwords)
+    
 Para acabar con este apartado puedes comprobar la seguridad y robustez de tu contraseña, con los siguientes recursos online: 
 
 - [How Secure Is My Password](https://www.security.org/how-secure-is-my-password/)
 
 - [Password Check](https://password.kaspersky.com/) 
 
-Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google llamado [Password Checkout](https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/) con el que podrás averiguar si tu contraseña ha sido comprometida.
+Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google  llamado [Password Checkout](https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/) o este otro llamado [Haveibeenpwned Passwords](https://haveibeenpwned.com/Passwords) para averiguar si alguna de tus contraseñas ha sido comprometida.
 
 ## Protocolo https
 
@@ -103,6 +106,10 @@ Identificar si el protocolo https está activado en el navegador es muy sencillo
 knitr::include_graphics("images/protocolo-https-http.jpg")
 ```
 
+Si haces click en el candado, éste te mostrará que se trata de conexión es segura, así como el certificado, cookies y configuración de sitios.
+
+IMPORTANTE: Tener el candado no garantiza que la web sea legítima. Ya que los certificados de cifrado seguro los emiten terceros y los ciberestafadores pueden hacerse igualmente con uno.
+
 ## Compras y transacciones
 
 Para comprar por Internet debes tomar cuantas más precauciones mejor para evitar cualquier tipo de fraude. Los factores a tener en cuenta son los siguientes:
@@ -113,9 +120,22 @@ Para comprar por Internet debes tomar cuantas más precauciones mejor para evita
 
 - Utiliza navegación privada: Así evitarás que se registre el historial de navegación.
 
-- Haz comprobaciones adicionales: Comprueba que la web está adherida a alguna plataforma de confianza online, como, por ejemplo, [Confianza Online](https://www.confianzaonline.es/). Se trata del único sello de calidad que cuenta con los reconocimientos de la Comisión Europea, el Instituto Nacional de Consumo o la Agencia Española de Protección de datos, además de estar respaldado por el Ministerio de Industria, Energía y Turismo.
-
 - Trata de usar pasarelas de pago: Evita en lo posible el uso de tarjetas de crédito y opta por una pasarela de pago, como puede ser [PayPal](https://www.paypal.com/es/home), te estarás garantizando la compra, además de disponer de protocolos de devolución del importe muy efectivos.
+
+- Haz comprobaciones adicionales: 
+
+    - Comprueba que la web está adherida a alguna plataforma de confianza online, como, por ejemplo, [Confianza Online](https://www.confianzaonline.es/). Se trata del único sello de calidad que cuenta con los reconocimientos de la Comisión Europea, el Instituto Nacional de Consumo o la Agencia Española de Protección de datos, además de estar respaldado por el Ministerio de Industria, Energía y Turismo. Y acredita que se cumple con los estándares de privacidad y protección de datos de los usuarios entre otros. También existe el [Certificado de comercio electrónico](https://www.aenor.com/certificacion/tecnologias-de-la-informacion/buenas-practicas-comercio-electronico) expedido por Aenor. 
+
+    - Verifica que reciben nálisis de seguridad periódicos realizados por plataformas como [McAfee Secure](https://www.mcafeesecure.com/certification).
+
+    - Asegúrate que disponen de certificados de autenticidad de la web y seguridad de las transacciones como los que ofrece [Norton secured](https://es.norton.com/internet-security) o [Comodo secure](https://www.comodo.com/home/internet-security/secure-shopping.php).
+    
+    - Estos sellos y certificados los encontrarás normalmente en la parte inferior de la web en forma de logos y debes hacer click en ellos para obtener más información sobre la entidad que los expide y la vigencia de éstos, ya que muchas web fraudulentas utilizan sellos falsos.
+
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Sellos y certificados de comercio online.'}
+knitr::include_graphics("images/sellos-de-confianza-online.jpg")
+```
+
 
 ## Wi-Fi
 
@@ -125,7 +145,9 @@ Uno de los peligros a los que más expuestos estas con tus equipos portátiles y
 
 Es por ello que debes tener la precaución de no hacer transacciones de ningún tipo, ni enviar datos sensibles. Es decir, usarla solo en caso de no te quede otra opción o en caso de tener que hacer cualquier búsqueda de carácter trivial.
 
-Es de suponer que si estas en casa con Wi-Fi propia, estas recomendaciones no son tan necesarias.
+Es de suponer que si estas en casa con Wi-Fi propia, estas recomendaciones no son tan necesarias. Pero si que sería muy recomendable por tu parte, que tuvieses muy en cuenta las recomendaciones que tienes a tu disposición en el apartado de Router en este manual. Además es conveniente que si no has establecido las capas de seguridad que se recomiendan en ese apartado, hagas una revisión de tu conexión Wi-Fi, por si tienes algún intruso y de ser así poder eliminarlo. Para ello tienes a tu disposición en el [blog de la Oficina de Seguridad de Internauta](https://www.osi.es/es/actualidad/blog) un recurso llamado [descubre y elimina a los intrusos de tu red wifi](https://www.osi.es/es/actualidad/blog/2019/09/25/descubre-y-elimina-los-intrusos-de-tu-red-wifi).
+
+Lo más recomendable es que siempre que puedas navegues con cable en lugar de Wi-Fi.
 
 ## Plugins o extensiones
 
@@ -135,11 +157,13 @@ Existen una infinidad de plug-in de diferente naturaleza y para multitud de prop
 
 Estos pueden estar desarrollados por terceros con intenciones de controlar la información que manejamos en nuestro dispositivo. De ahí que deban proceder de fuentes fiables y que estén configurados para actualizaciones automáticas.
 
-Por último, cada navegador dispone de repositorio de plug-ins o extensiones, que pueden ser consultados y desde donde los puedes instalar y comprobar su fiabilidad, así como consultar las valoraciones.
+Cada navegador dispone de repositorio de plug-ins o extensiones, que pueden ser consultados y desde donde los puedes instalar y comprobar su fiabilidad, así como consultar las valoraciones. 
 
 ```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Plugin traductor de Google seguido de otros plugin con diferentes funcionalidades.'}
 knitr::include_graphics("images/plugin-navegador.png")
 ```
+
+Si quieres ampliar tu conocimiento y saber más de plugins y extensiones pasate por el [blog de la Oficina de Seguridad de Internauta](https://www.osi.es/es/actualidad/blog) y lee esta entrada sobre [extensiones: Superpoderes para los navegadores](https://www.osi.es/es/actualidad/blog/2019/11/20/extensiones-superpoderes-para-los-navegadores).
 
 ## Descargas
 
@@ -159,4 +183,40 @@ Si estas en tu dispositivo no pasaría nada si una vez abierta la sesión no la 
 
 Por la razón antes expuesta, es importante que no dejes ninguna sesión abierta.
 
+## 2SV (Two Step Verification) o Verificación en Dos Pasos
+
+La mayoría de cuentas a día de hoy están configuradas para soportar lo que se conoce como SFA (Single Factor Authetication) o Factor de autenticación Simple. Se trata del acceso a cuentas o servicios con el solo uso del usuario y una contraseña, algo que todo el mundo viene haciendo desde hace tiempo. Esto se ha vuelto en gran medida un gran riesgo, ya que si un tercero consigue hacerse con tu contraseña no tendrá ninguna dificultad para tomar el control. 
+
+Es por este motivo que cada vez más servicios están implementando lo que se conoce como 2SV (Two Step Verification) o Verificación en Dos Pasos. Este sistema consiste en un código adicional, que suele ser enviado por correo electrónico, SMS, llamada telefónica o App de verificación en dos pasos, justo después de iniciar sesión con tu usuario y contraseña y el cual debe ser ingresado dentro de un determinado lapso de tiempo, (ya que el código expira en poco tiempo), para poder acceder al servicio. 
+
+Como puedes ver, los dos pasos son: 
+
+1. Usuario y contraseña: Que solo tú conoces. 
+2. Código adicional: Enviado por correo electrónico, SMS, llamada telefónica o App de verificación en dos pasos.
+
+```{r, echo=FALSE, out.width='40%', fig.align='center', fig.cap='Verificación en dos pasos.'}
+knitr::include_graphics("images/two-step-verification.png")
+```
+
+De esta manera para que los ciberdelicuentes puedan acceder a tu servicio necesitarán la contraseña y el código adicional. 
+
+Algunos servicios como la [verificación en dos pasos de google](https://www.google.com/landing/2step/?hl=es) viene de manera nativa y tan solo tienes que activarla. Otros son gestionados a través de correo electrónico, SMS o llamadas telefónicas, como es el caso de algunas entidades bancarias. Y  en otros supuestos, aunque la plataforma disponga de dicho servicio necesitarás una aplicación externa como [Google Autenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=es-419) o [Microsoft autenticator](https://www.microsoft.com/es-es/account/authenticator) entre otras y que se trata de una App de verificación en dos pasos, que te genera el código adicional.
+
+Es extremadamente recomendable que uses este sistema de verificación en la medida que puedas. Recuerda que de un modo u otro la mayoría de servicios y plataformas disponen de esta capa de seguridad. Normalmente las encontrarás en Ajustes y Seguridad. Si quieres más información, en este enlace sobre [verificación en dos pasos](https://www.osi.es/es/actualidad/blog/2017/01/17/verificacion-en-dos-pasos-que-es-y-como-me-puede-ayudar) encontrarás más detalles, además de enlaces hacia las distintas plataformas y redes sociales más populares para que puedas implementarlo.
+
+## MFA (Multi-Factor Authentication) o Autenticación de Factores Múltiples
+
+La autenticación de factores múltiples ...
+
+## Cifrado o encriptación de datos
+
+Encriptación de datos ...
+
+## AntiBotnet
+
+Los antibotnet son...
+
+## Bluetooth y NFC
+
+El bluetooth ...
 
