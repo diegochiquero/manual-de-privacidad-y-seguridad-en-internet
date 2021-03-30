@@ -14,9 +14,23 @@ Las pautas de seguridad que vas a ver a continuación te van a ser útil, tanto 
 
 Todos los equipos informáticos funcionan con una cuenta de usuario, única y personal. Luego una vez, hayas creado la tuya, solo tú debes hacer uso y disfrute de ella.  En los ordenadores personales existe la posibilidad de crear varias cuentas de usuarios. Una vez éstas están creadas solo son accesibles mediante contraseña y aunque solo sirva para no olvidarlo, nunca debes de compartida.
 
+Desde aquí podrás acceder a cómo [crear cuenta de usuario en windows](https://support.microsoft.com/es-es/windows/crear-una-cuenta-de-administrador-o-de-usuario-local-en-windows-10-20de74e0-ac7f-3502-a866-32915af2a34d) y [crear cuenta de usuario en Mac](https://support.apple.com/es-es/guide/mac-help/mtusr001/mac#:~:text=A%C3%B1adir%20un%20usuario,en%20%E2%80%9CUsuarios%20y%20grupos%E2%80%9D.&text=Si%20el%20candado%20situado%20en,bajo%20la%20lista%20de%20usuarios).
+
+Si tu equipo es compartido con varias personas, puede que te interese crear distintas cuentas de usuarios con distintos niveles de privilegios. Si no las gestionas
+adecuadamente, corres el riesgo de:
+
+- Que terceros puedan acceder a tus archivos y eliminar/modificar información personal, como imágenes, música, documentos importantes, etc.
+
+- Modificar configuraciones de seguridad o usabilidad de tu sistema, como, por ejemplo, desactivar el antivirus o firewall.
+
+- Conectarse a determinados servicios con tus credenciales, como el correo electrónico o red social.
+
+Además puedes gestionar las [opciones de inicio de sesión en windows](https://support.microsoft.com/es-es/windows/las-opciones-de-inicio-de-sesi%C3%B3n-de-windows-10-y-la-protecci%C3%B3n-de-la-cuenta-7b34d4cf-794f-f6bd-ddcc-e73cdf1a6fbf) y las [opciones de inicio de sesión en Mac](https://support.apple.com/es-es/guide/mac-help/mtusr005/mac) lo que te permitirá tener un mayor control sobre tu inicio de sesión.
+
 ```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Cuenta de usuario windows 10.'}
 knitr::include_graphics("images/cuenta-usuario-windows-10.png")
 ```
+
 ## Router
 
 Un router es un dispositivo que proporciona conectividad a nivel de red. Su función principal consiste en enviar o encaminar paquetes de datos de una red a otra, es decir, interconectar subredes, entendiendo por subred un conjunto de máquinas IP que se pueden comunicar. Además de ser el dispositivo que nos proporciona un punto de acceso Wi-Fi
@@ -40,7 +54,9 @@ También es una buena práctica cambiar el nombre que la Wi-Fi trae por defecto,
 
 Otro aspecto a tener en cuenta es deshabilitar la opción [WPS](https://es.wikipedia.org/wiki/Wi-Fi_Protected_Setup) (Wifi Protected Setup) en el router. Esta función te permite conectar el ordenador o dispositivo a la Wi-Fi del router sin tener que escribir la contraseña cuando eliges tu red Wi-Fi desde el dispositivo. Se trata de un botón físico que traen algunos router y que al pulsarlo conecta el dispositivo de forma automática. Esta funcionalidad es muy práctica pero conlleva el riesgo de que cuando pulsas este botón estás abriendo la Wi-Fi, lo que significa que inhabilitas todas las medidas de seguridad que tengas configuradas para la conexión. Si decides deshabilitarla puedes hacerlo desde la configuración de tu router y normalmente vas a encontrarlo en los apartados Wireless o Network de la interfaz web [@wps]. 
 
-Para realizar cualquiera de las configuraciones propuestas en este apartado va a necesitar acceder a la interfaz de tu router y para ello, consulta la dirección IP de acceso al router de tu operador. 
+Para realizar cualquiera de las configuraciones propuestas en este apartado va a necesitar acceder a la interfaz de tu router y para ello, necesitarás saber la dirección IP de acceso. Esta te será facilitada por tu operador. 
+
+Si quieres una buena guía para conocer a fondo los entresijos del router pasate por [tu router tu castillo](https://www.osi.es/sites/default/files/docs/guia_router/osi-guia-tu-router-tu-castillo.pdf).
 
 ## Actualizaciones
 
@@ -66,7 +82,7 @@ Aunque a priori pudiese parecer lo mismo, los antivirus, antimalware, antispywar
 
 Dependiendo de las necesidades pueden ser usados uno o varios, ya que son complementarios entre sí.
 
-Antes de decidir que herramientas de las anteriormente expuestas va a usar, puedes hacer una búsqueda e informarte sobre las opciones disponibles, ya que existen soluciones de todo tipo y para todos los gustos, gratuitas, de pago, para ordenadores, para smartphones. Pero no olvides nunca de asegurarte muy bien que estás ante un producto legítimo y descargarlas siempre de las web oficiales. 
+Antes de decidir que herramientas de las anteriormente expuestas va a usar, puedes hacer una búsqueda e informarte sobre las opciones disponibles, ya que existen soluciones de todo tipo y para todos los gustos, gratuitas, de pago, para ordenadores, para smartphones. Desde la [Oficina de Seguridad del Internauta](https://www.osi.es) ponen a tu disposición este [listado de Antivirus gratuitos](https://www.osi.es/es/herramientas-gratuitas?herramienta_selec%5B0%5D=115), para que puedas elegir el que mejor se adapte a tus necesidades. Pero no olvides nunca de asegurarte muy bien que estás ante un producto legítimo y descargarlo siempre de la web oficial. 
 
 ## Copias de seguridad
 
@@ -74,7 +90,7 @@ Una copia de seguridad o backup en informática es una copia de los datos origin
 
 Simplificando el sistema de copias de seguridad que en algunas ocasiones puede llegar a ser complejo, están los siguiente:
 	
-- Completas: Del sistema operativo completo, de esta forma al restaurar la copia, dispondremos de nuevo de toda la configuración a nivel de S.O., software instalado, carpetas y archivos. Para este cometido vamos a necesitar de programas de terceros, algunos de ellos con versiones gratuitas y de pago, ejemplo de estos son: [Acronis](https://www.acronis.com/), [AOMEI](https://www.aomeitech.com/), [EaseUS](https://www.easeus.com/).
+- Completas: Del sistema operativo completo, de esta forma al restaurar la copia, dispondremos de nuevo de toda la configuración a nivel de S.O., software instalado, carpetas y archivos. Para este cometido vamos a necesitar de programas de terceros, algunos de ellos con versiones gratuitas y de pago, ejemplo de estos son: [Acronis](https://www.acronis.com/), [AOMEI](https://www.aomeitech.com/), [EaseUS](https://www.easeus.com/). Aunque más abajo verás que también pueden hacerse nativamente.
 
 - Parciales: En este escenario lo que se hace es salvaguardar las carpetas y archivos personales. Como por ejemplo, carpetas con fotografías, documentos personales y demás.
 
@@ -85,6 +101,20 @@ Y las copias pueden ser mantenidas:
 - En la nube: Estos son servicios de terceros accesibles online, ejemplo de ello son: [BackBlaze](https://www.backblaze.com/home-1.html), [Carbonite](https://www.carbonite.com/), siendo estos especializados en backups. Pero si tus copias de seguridad se limitan a tus carpetas y archivos personales puedes usar un servicio en la nube, como [Google Drive](https://www.google.com/intl/en_in/drive/), [Onedrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage) o [Dropbox](https://www.dropbox.com/). 
 
 Las copias de seguridad debes realizarlas con la frecuencia que sea necesaria para garantizar tu nivel de seguridad [@tipos-copia-seguridad].
+
+Puedes crear una copia de seguridad de tu sistema fácilmente ya que tanto Windows como Mac traen esta opción de forma nativa, solo necesitaras disponer de un dispositivo externo de almacenamiento en el que puedas guardar la copia con espacio de almacenamiento suficiente. 
+
+Para Windows tienes a información en [realizar y restaurar una copia de seguridad del PC](https://support.microsoft.com/es-es/windows/realizar-y-restaurar-una-copia-de-seguridad-del-pc-ac359b36-7015-4694-de9a-c5eac1ce9d9c). Y en dispositivos Apple existe la opción de [cómo hacer copias de seguridad en Mac](https://support.apple.com/es-es/mac-backup).
+
+Una práctica muy recomendable a la hora de hacer copias de seguridad es seguir la estrategia 3-2-1 [@INCI-copia-3-2-1] y que consiste en:
+
+- Mantener 3 copias de seguridad: una principal con la que trabajar y dos de backups.
+
+- Mantener la información en 2 tipos de almacenamiento distintos, por ejemplo, en un disco duro y en la nube.
+
+- Mantener 1 copia de seguridad fuera de nuestra casa.
+
+Las copias de seguridad no son solo exclusivas de los PCs o portátiles, sino que también debes contemplarlas en tus dispositivos móviles. Android pone a tu dispoción el recurso de cómo [crear copias de seguridad o restaurar datos de un dispositivo Android](https://support.google.com/android/answer/2819582?hl=es&visit_id=637514255756661953-3969236140&rd=1) y Apple el de [cómo hacer una copia de seguridad del iPhone, iPad y iPod touch](https://support.apple.com/es-es/HT203977).
 
 ## Cifrado o encriptado de unidades de almacenamiento
 
