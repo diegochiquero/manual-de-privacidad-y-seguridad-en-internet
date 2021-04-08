@@ -48,13 +48,13 @@ Si una web va a realizar transacciones comerciales de la naturaleza que sea, va 
 
 - Aviso Legal: Se trata de un documento donde se recogen tanto el cumplimiento por parte de la entidad o empresa, conforme a las leyes vigentes en el desarrollo de su actividad, así como los datos referentes a los administradores de la misma.
 
-  Todo proyecto de base digital u online con ánimo de lucro, ya sea a través de modelos de patrocinio, publicitarios o compra-venta  de productos o servicios, requieren de un aviso legal visiblemente expuesto y a disposición de todos los usuarios. Este            requerimiento está recogido en la legislación española en la Ley 34/2002 de Servicios de la Sociedad de la Información y el        Comercio Electrónico [@legal].
+  Todo proyecto de base digital u online con ánimo de lucro, ya sea a través de modelos de patrocinio, publicitarios o compra-venta  de productos o servicios, requieren de un aviso legal visiblemente expuesto y a disposición de todos los usuarios. Este            requerimiento está recogido en la legislación española en la Ley 34/2002 de Servicios de la Sociedad de la Información y el        Comercio Electrónico [@IONOS-legal].
 
-- Política de privacidad: El reglamento general de Protección de Datos de carácter personal, establece que cualquier página web que incluya un formulario de carácter personal que deban rellenar los usuarios, que incluya un correo de contacto o utilice las redes sociales desde las cuales se puede obtener información de los usuarios, está obligada a disponer de una política de privacidad [@p-privacidad].
+- Política de privacidad: El reglamento general de Protección de Datos de carácter personal, establece que cualquier página web que incluya un formulario de carácter personal que deban rellenar los usuarios, que incluya un correo de contacto o utilice las redes sociales desde las cuales se puede obtener información de los usuarios, está obligada a disponer de una política de privacidad [@IONOS-privacidad].
 
   La política de privacidad se creó con la finalidad de proteger y preservar los derechos del espacio privado de las personas. 
 
-- Política de cookies: Una cookie es una pequeña información enviada por un sitio web y almacenado en el navegador del usuario, de manera que el sitio web puede consultar la actividad previa del navegador. Su propósito principal es identificar al usuario almacenando su historial de actividad en un sitio web específico, de manera que se le pueda ofrecer el contenido más apropiado según sus hábitos [@cookies].
+- Política de cookies: Una cookie es una pequeña información enviada por un sitio web y almacenado en el navegador del usuario, de manera que el sitio web puede consultar la actividad previa del navegador. Su propósito principal es identificar al usuario almacenando su historial de actividad en un sitio web específico, de manera que se le pueda ofrecer el contenido más apropiado según sus hábitos [@IONOS-cookies].
 
   Toda web que haga uso de cookies está obligada ponerlo en conocimiento de los usuarios y a solicitar su aceptación.
   

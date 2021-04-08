@@ -36,7 +36,7 @@ La navegación privada es una función de privacidad que conocerás como modo in
 
 La navegación privada te ofrece una sesión temporal que no comparte datos con el navegador, que no guarda información sobre páginas web, ni historial de navegación, caché web, contraseñas, información de formularios, cookies u otros datos de sitios web, borrando éstas y otros archivos temporales cuando finalizamos la sesión [@navegacion-privada].
 
-```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Navegación privada navegar Google Chrome.'}
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Navegación privada navegar Google Chrome.'}
 knitr::include_graphics('images/navegacion-privada.jpg')
 ```
 
@@ -70,8 +70,8 @@ Existe la opción de navegar sin cookies gracias a las sesiones privadas que tie
 
 Es importante que con frecuencia elimines las cookies, ya que como ya sabes manejan información privada y además ocupan espacio en tu dispositivo. Existen dos formas manuales de hacerlo. La primera de ellas es desde el menú de opciones del propio navegador y la otra es con un software específico para tal cometido, como por ejemplo [Ccleaner](https://www.ccleaner.com/es-es). Pero si quieres automatizar esta tarea, practicamente todos los navegadores disponen de una configuración para que una vez  cierres el navegador se realice una limpieza de manera automática. La siguiente imagen te muestra la opción que debes buscar en el navegador Google Chrome, para ello ve al Menu del navegador entra en Configuracíón luego Privacidad y seguridad a continuación Cookies y finalmente Borrar las cookies y los datos de sitios al salir de Chrome, pero debes tener en cuenta que las ubicaciones pueden variar con las actualizaciones. Si usas otro navegador puede ser que varíe la ruta de acceso, pero a grandes rasgos suelen ser muy parecidas y también se acceden a ellas a través del menú de opciones.
 
-```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Eliminar cookies automáticamente al cerrar Google Chrome.'}
-knitr::include_graphics('images/delete-cookies-when-leave-chrome-browser.png')
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Eliminar cookies automáticamente al cerrar Google Chrome.'}
+knitr::include_graphics('images/borrado-cookies-cierre-navegador.png')
 ```
 
 Por otro lado si quieres deshacerte de la incómoda notificación de cookies de las web, puedes instalar en el navegador el plugin [I don’t care about cookies](https://www.i-dont-care-about-cookies.eu/) o este otro [Ninja cookie](https://ninja-cookie.com/), elige el que más te guste.
@@ -82,22 +82,22 @@ Si quieres más información detallada sobre las cookies visita este enlace [por
 
 Una práctica muy saludable en el uso de la cámara o webCam e incluso el micrófono, es tenerla tapada cuando no la estés usando y si no fijate en la foto se muestra a continuación  que le tomaron a Mark Zuckerberg.
 
-```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='WebCam y micrófono del ordenador tapados.'}
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='WebCam y micrófono del ordenador tapados.'}
 knitr::include_graphics('images/webca-mark-zuckerberg.png')
 ```
 
 Para tener el control total sobre las funcionalidades de cámara, micrófono y ubicación, debes establecer los permisos en la opción de Preguntar, lo verás más claramente en la imagen que se muestra más abajo. Para establecer estos parámetros existen dos maneras de hacerlo, uno de ellas es a través de la opciones que te da el menú de configuración del propio navegador, y para ello debes ir a  Menú navegador, buscar Configuracíón, después Privacidad y seguridad, a continuación Configuración de sitios web y finalmente Permisos y como ya se indicó en el caso de borrado de cookies automático, debes tener en cuenta que las ubicaciones pueden variar con las actualizaciones que reciba el navegador.
 
-```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Ajustes permisos cámara, micrófono y ubicación desde el menú de opciones del navegador.'}
-knitr::include_graphics('images/permition-settings.png')
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Ajustes permisos cámara, micrófono y ubicación desde el menú de opciones del navegador.'}
+knitr::include_graphics('images/ajuste-permisos.png')
 ```
 
 Aunque estos permisos son los más importantes cuando navegas por internet, si te fijas en la  figura 2.4 verás que no son los únicos  y que entre éstos se encuentran los de notificaciones o los de ventanas emergentes entre otros.
 
 La otra forma es más sencilla e incluso te permite cambiar los permisos directamente desde el navegador sin tener que ir al menú de opciones y esto lo tienes haciendo click en el candado de la barra de direcciones. Se trata del mismo candado que nos acredita que estamos ante una web segura. Puedes verlo en la siguiente imagen.
 
-```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Ajustes permisos cámara, micrófono y ubicación desde el candado de la barra de direcciones.'}
-knitr::include_graphics('images/permitions-setting-from-browser.png')
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Ajustes permisos cámara, micrófono y ubicación desde el candado de la barra de direcciones.'}
+knitr::include_graphics('images/ajuste-permisos-desde-navegador.png')
 ```
 
 Para concluir, no debes olvidar que con las aplicaciones móviles sucede lo mismo, y que puedes gestionarlos de igual manera desde ajustes del dispositivo. Visita los siguientes enlaces dependiendo de tu smartphone, [cambiar los permisos de las aplicaciones en teléfonos Android](https://support.google.com/android/answer/9431959?hl=es) o [controlar el acceso a la información en las apps en el iPhone](https://support.apple.com/es-es/guide/iphone/iph251e92810/ios). En el siguiente enlace, [permisos aplicaciones  móviles](https://www.osi.es/sites/default/files/docs/c5-eg-permisos-apps-riesgos.pdf) encontrarás una tabla con los permisos y los riesgos que entrañan.
@@ -133,6 +133,6 @@ Esto no tiene por que ser un inconveniente si no envías información sensible, 
 
 Si por el contrario prefieres ser tu quien gestiones esa capa de privacidad adicional, puedes optar por hacer uso de otras herramientas de encriptado que podrás ver en este artículo de [cómo encriptar y proteger tu correo electrónico](https://www.osi.es/es/actualidad/blog/2019/07/31/como-encriptar-y-proteger-tu-correo-electronico).
 
-Si además quieres saber si tu cuenta de correo ha sido comprometida, puedes saberlo a través de la siguiente plataforma [haveibeenpwned](https://haveibeenpwned.com/).
+Si además quieres saber si tu cuenta de correo o tu número de teléfono han sido comprometidos, puedes saberlo a través de la siguiente plataforma [haveibeenpwned](https://haveibeenpwned.com/).
 
 Con respecto a las aplicaciones de mensajería instantánea debes tener en cuenta que sucede lo mismo que con los correos electrónicos. A pesar que la mayoría de ellas, incluida la más popular de todas (whatsApp) disponen de capas de privacidad que la hacen confiable, a veces no podemos estar totalmente seguros de no estar sometidos a un seguimiento por parte de éstas. Es por ello que las aplicaciones como [telegram](https://telegram.org/) y [signal](https://signal.org/es/) nacen con el propósito de no inmiscuirse en el uso que haces de la aplicación.

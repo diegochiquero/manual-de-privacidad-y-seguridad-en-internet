@@ -27,7 +27,7 @@ adecuadamente, corres el riesgo de:
 
 Además puedes gestionar las [opciones de inicio de sesión en windows](https://support.microsoft.com/es-es/windows/las-opciones-de-inicio-de-sesi%C3%B3n-de-windows-10-y-la-protecci%C3%B3n-de-la-cuenta-7b34d4cf-794f-f6bd-ddcc-e73cdf1a6fbf) y las [opciones de inicio de sesión en Mac](https://support.apple.com/es-es/guide/mac-help/mtusr005/mac) lo que te permitirá tener un mayor control sobre tu inicio de sesión.
 
-```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Cuenta de usuario windows 10.'}
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Cuenta de usuario windows 10.'}
 knitr::include_graphics("images/cuenta-usuario-windows-10.png")
 ```
 

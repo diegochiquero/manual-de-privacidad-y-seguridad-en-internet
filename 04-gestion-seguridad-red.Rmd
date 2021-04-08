@@ -151,7 +151,7 @@ Lo más recomendable es que siempre que puedas navegues con cable en lugar de Wi
 
 ## Plugins o extensiones
 
-En informática, un complemento o plug-in es una aplicación (o programa informático) que se relaciona con otra para agregarle una función nueva y generalmente muy específica. Esta aplicación adicional es ejecutada por la aplicación principal e interactúan por medio de la interfaz de programación de aplicaciones. Complemento y plug-in se diferencian en que los complementos son desarrollados por empresas reconocidas y tienen certificado de seguridad y los plug-in pueden ser desarrollados por cualquiera [@WIKI-plugin].
+En informática, un complemento o plug-in es una aplicación (o programa informático) que se relaciona con otra para agregarle una función nueva y generalmente muy específica. Esta aplicación adicional es ejecutada por la aplicación principal e interactúan por medio de la interfaz de programación de aplicaciones. Complemento y plug-in se diferencian en que los complementos son desarrollados por empresas reconocidas y tienen certificado de seguridad y los plug-in pueden ser desarrollados por cualquiera [@IONOS-plugin].
 
 Existen una infinidad de plug-in de diferente naturaleza y para multitud de propósitos. En esta ocasión nos vamos a centrar en los usados por los navegadores, un ejemplo de estos es el archiconocido [adBlock](https://getadblock.com/), cuya función es la eliminar esos molestos anuncios de algunos portales webs.
 
@@ -159,7 +159,7 @@ Estos pueden estar desarrollados por terceros con intenciones de controlar la in
 
 Cada navegador dispone de repositorio de plug-ins o extensiones, que pueden ser consultados y desde donde los puedes instalar y comprobar su fiabilidad, así como consultar las valoraciones. 
 
-```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Plugin traductor de Google seguido de otros plugin con diferentes funcionalidades.'}
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Plugin traductor de Google seguido de otros plugin con diferentes funcionalidades.'}
 knitr::include_graphics("images/plugin-navegador.png")
 ```
 
@@ -185,38 +185,68 @@ Por la razón antes expuesta, es importante que no dejes ninguna sesión abierta
 
 ## 2SV (Two Step Verification) o Verificación en Dos Pasos
 
-La mayoría de cuentas a día de hoy están configuradas para soportar lo que se conoce como SFA (Single Factor Authetication) o Factor de autenticación Simple. Se trata del acceso a cuentas o servicios con el solo uso del usuario y una contraseña, algo que todo el mundo viene haciendo desde hace tiempo. Esto se ha vuelto en gran medida un gran riesgo, ya que si un tercero consigue hacerse con tu contraseña no tendrá ninguna dificultad para tomar el control. 
+La mayoría de cuentas a día de hoy están configuradas para soportar lo que se conoce como SFA (Single Factor Authetication) o Factor de autenticación Simple. Se trata del acceso a cuentas o servicios con el solo uso del usuario y una contraseña, algo que todo el mundo viene haciendo desde hace tiempo. Esto se ha vuelto en gran medida un gran riesgo, ya que si un tercero consigue hacerse con tu contraseña no tendrá ninguna dificultad para tomar el control.
 
-Es por este motivo que cada vez más servicios están implementando lo que se conoce como 2SV (Two Step Verification) o Verificación en Dos Pasos. Este sistema consiste en un código adicional, que suele ser enviado por correo electrónico, SMS, llamada telefónica o App de verificación en dos pasos, justo después de iniciar sesión con tu usuario y contraseña y el cual debe ser ingresado dentro de un determinado lapso de tiempo, (ya que el código expira en poco tiempo), para poder acceder al servicio. 
+Es por este motivo que cada vez más servicios están implementando lo que se conoce como 2SV (Two Step Verification) o Verificación en Dos Pasos. Este sistema funciona de la siguiente manera, justo después de introducir tu contraseña, se te envía una notificación de forma segura al dispositivo en el que hayas iniciado sesión, de manera que solo tienes que aprobar la notificación para realizar el inicio sesión. Algunos servicios como la [verificación en dos pasos de google](https://support.google.com/accounts/answer/185839?co=GENIE.Platform%3DDesktop&hl=es) viene de manera nativa y tan solo tienes que activarla.
 
-Como puedes ver, los dos pasos son: 
+Como puedes ver, los dos pasos son:
 
-1. Usuario y contraseña: Que solo tú conoces. 
-2. Código adicional: Enviado por correo electrónico, SMS, llamada telefónica o App de verificación en dos pasos.
+1. Usuario y contraseña: Que solo tú conoces.
+2. Notificación: Recibes un aviso en tu dispositivo.
 
-```{r, echo=FALSE, out.width='40%', fig.align='center', fig.cap='Verificación en dos pasos.'}
-knitr::include_graphics("images/two-step-verification.png")
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Verificación en dos pasos.'}
+knitr::include_graphics("images/verificación-dos-pasos.jpg")
 ```
 
-De esta manera para que los ciberdelicuentes puedan acceder a tu servicio necesitarán la contraseña y el código adicional. 
+Según la fuente que uses para informarte  puede ser que termines sin comprenderlo del todo, ya que algunos medios también entienden la verificación en dos pasos (2SV) como un 2FA (segundo factor de autenticación). La diferencia es tan sutil que a veces es difícil de discernir, pero podría entenderse si ves el 2SV como una notificación que recibes y que apruebas sin más y la 2FA como un código que has de introducir. No obstante si quieres más información, en este enlace sobre [verificación en dos pasos](https://www.osi.es/es/actualidad/blog/2017/01/17/verificacion-en-dos-pasos-que-es-y-como-me-puede-ayudar) encontrarás más detalles, además de enlaces hacia las distintas plataformas y redes sociales más populares para que puedas implementarlo.
 
-Algunos servicios como la [verificación en dos pasos de google](https://www.google.com/landing/2step/?hl=es) viene de manera nativa y tan solo tienes que activarla. Otros son gestionados a través de correo electrónico, SMS o llamadas telefónicas, como es el caso de algunas entidades bancarias. Y  en otros supuestos, aunque la plataforma disponga de dicho servicio necesitarás una aplicación externa como [Google Autenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=es-419) o [Microsoft autenticator](https://www.microsoft.com/es-es/account/authenticator) entre otras y que se trata de una App de verificación en dos pasos, que te genera el código adicional.
-
-Es extremadamente recomendable que uses este sistema de verificación en la medida que puedas. Recuerda que de un modo u otro la mayoría de servicios y plataformas disponen de esta capa de seguridad. Normalmente las encontrarás en Ajustes y Seguridad. Si quieres más información, en este enlace sobre [verificación en dos pasos](https://www.osi.es/es/actualidad/blog/2017/01/17/verificacion-en-dos-pasos-que-es-y-como-me-puede-ayudar) encontrarás más detalles, además de enlaces hacia las distintas plataformas y redes sociales más populares para que puedas implementarlo.
+Es extremadamente recomendable que uses este sistema de verificación en la medida que puedas. Recuerda que de un modo u otro la mayoría de servicios y plataformas disponen de esta capa de seguridad. Normalmente las encontrarás en Ajustes y Seguridad.
 
 ## MFA (Multi-Factor Authentication) o Autenticación de Factores Múltiples
 
-La autenticación de factores múltiples ...
+La autenticación de factor múltiple es una forma eficaz de aumentar la protección de las cuentas de usuario contra las amenazas más comunes como los ataques de phishing, apropiación de cuentas, etc. Y se trata un método de control de acceso informático en el que a un usuario se le concede acceso al sistema solo después de que presente dos o más pruebas o factores diferentes de que es quien dice ser. Estas pruebas pueden ser diversas, como una contraseña, clave secundaria rotativa, un certificado digital instalado en el equipo, un token físico, etc. entre otros y son éstos lo que se conocen como factores de autenticación [@WIKI-multiple-factor]. 
+
+Son tres los tipos de factores de autenticación:
+
+- Algo que sabes: Factor de conocimiento (contraseña, respuesta a una pregunta, un PIN).
+- Algo que tienes: Factor de posesión (tarjeta, smartphone, token hardware como las Security keys).
+- Algo que eres: Factor biométrico (huellas dactilares, escaneos de retina, reconocimiento facial, reconocimiento de voz o el comportamiento de un usuario).
+
+```{r, echo=FALSE, out.width='50%', fig.align='center', fig.cap='Autenticación de factores múltiples.'}
+knitr::include_graphics("images/autenticación-factor-múltiple.jpg")
+```
+
+Un de los ejemplo de autenticación en dos factores más común es la acción que realizas cuando vas a sacar dinero de un cajero. Por un lado metes la tarjeta (algo que tienes) y luego pones el PIN (algo que sabes). Esto es lo que se conoce como la autenticación en dos pasos o 2FA (segundo factor de autenticación) y que a veces tiende a confundirse con la verificación en dos pasos 2SV (Two Step Verification) que puedes verla en esta misma unidad.
+
+Otro ejemplo son los inicios de sesión en los que se necesita un código adicional que es gestionado a través de correo electrónico, SMS o llamadas telefónicas, como es el caso de algunas entidades bancarias. Y  en otros supuestos, aunque la plataforma disponga de dicho servicio necesitarás una aplicación externa como [Google Autenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=es-419) o [Microsoft autenticator](https://www.microsoft.com/es-es/account/authenticator) entre otras y que se trata de una App de autenticación en dos pasos, que te genera el código adicional, que ha de ser utilizado inmediatamente ya que éste expira con el tiemplo.
+
+En la mayoría de los casos solo se combinan dos de estos tres factores, aunque existe la posibilidad de implementar los tres si se viene necesario. Más información en [Banco Santander stories](https://www.santander.com/es/stories/pon-una-capa-extra-de-seguridad-online-con-la-autenticacion-multifactor) y [Autenticación en dos factores vs autenticación en dos pasos](https://protegermipc.net/2016/03/18/autenticacion-en-dos-factores-vs-autenticacion-en-dos-pasos/)
 
 ## Cifrado o encriptación de datos
 
-Encriptación de datos ...
+Tener datos o información simplemente organizados en carpetas en tus dispositivos sin más no es una práctica muy recomendable  y más si se trata de datos sensibles. Para evitar que alguien que se haga con tu dispositivo pueda acceder impunemente a cualquier información es necesario disponer de una buena capa de seguridad. Es aquí donde entra en juego la herramienta de encriptado [Cryptomator](https://cryptomator.org/).
+
+Cryptomator es un software libre y por lo tanto gratuito, con el que puedes encriptar tanto archivos como carpeta que quieras mantener a buen recaudo. Además es compatible con Windows, macOS y Linux y también disponen de una app para android y iphone.
+
+Con Cryptomator puedes crear diferentes bóvedas o cámaras cifradas. Cada bóveda está protegida por una contraseña y puede contener tantos archivos y carpetas como desees. En estas bóvedas estará tu información encriptada de manera que no podrá ser visible a menos que poseas la contraseña que los desencripta. Con esta aplicación podrás estar tranquilo ya que nadie podrá acceder a tu información aun habiéndose hecho con tu dispositivo. 
+
+Otra interesante utilidad sería encriptar tus datos antes de subirlo a cualquier plataforma de almacenamiento en la nube con lo que te garantizas que no puedan ser leídos.
+
+En la plataforma de [Redes zone](https://www.redeszone.net/tutoriales/seguridad/cryptomator-encriptar-archivos-carpetas/) encontrarás más detalles de esta estupenda herramienta así como una guía para su instalación.
 
 ## AntiBotnet
 
-Los antibotnet son...
+Un Botnet es el nombre genérico para denominar a cualquier grupo de PCs infectados y controlados por un ciberdelincuente de forma remota. Generalmente se trata de un hacker o un grupo de ellos los que crean el botnet a través de un malware que infecta a una gran cantidad de equipos. Este grupo de equipos o ordenadores son los que forman parte del botnet, o también llamados “bots” o “zombies”. No existe un número mínimo de equipos para crear un botnet. Los botnets pequeños pueden incluir cientos de PCs infectados, mientras que los mayores utilizan millones de equipos [@INCI-botnet].
+
+Para saber si estás siendo víctima de este tipo de ataque, existen [servicios antibotnet](https://www.osi.es/es/servicio-antibotnet) que identifican si desde tu conexión a internet se  ha detectado algún incidente de seguridad relacionado u otras amenazas. 
 
 ## Bluetooth y NFC
 
-El bluetooth ...
+El Bluetooth y NFC (Near field communication) o comunicación de campo cercano son otro punto vulnerable en tu seguridad en la red. Pero antes veamos concretamente que son estos dos servicios.
+
+- Bluetooth: Viene incorporado en multitud de dispositivos y permite conectarnos con otro dispositivo para compartir archivos o emparejar determinados dispositivos, como auriculares inalámbricos, etc [@IONOS-bluetooh].
+
+- NFC: Se trata de una tecnología inalámbrica de corto alcance que permite conectar dos dispositivos entre sí para intercambiar información o realizar pagos [@IONOS-nfc].
+
+El riesgo que corres cuando tienes estos servicios activados es que el dispositivo de un tercero acabe sincronizándose con el tuyo, con el consiguiente riesgo que eso conlleva. Para evitarlo, una vez hayas terminado, mantenlos desactivados.
 

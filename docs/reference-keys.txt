@@ -11,6 +11,7 @@ fig:unnamed-chunk-13
 fig:unnamed-chunk-14
 fig:unnamed-chunk-15
 fig:unnamed-chunk-16
+fig:unnamed-chunk-17
 privacidad-y-seguridad-en-internet
 introducción
 privacidad
@@ -80,4 +81,3 @@ eliminar-el-historial-de-busquedas
 constastar-la-información
 otras-utilidades-interesantes
 entidades-e-instuciones-de-ayuda-al-ciudadano
-fig:unnamed-chunk-2
