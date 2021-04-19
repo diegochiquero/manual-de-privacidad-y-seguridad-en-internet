@@ -60,6 +60,8 @@ Su principal particularidad es que se trata de una conexión segura y cifrada. E
 
 Las VPN suelen ser aplicaciones o extensiones de terceros, aunque el navegador [OPERA](https://www.opera.com/es) lo trae por defecto, lo único que tendrás que hacer es activarla desde sus opciones, y se creará una conexión cifrada entre tu dispositivo y un servidor VPN para esconder tu ubicación real.
 
+No obstante no todas las VPN son igual de eficaces y en ocasiones algunas de ellas pueden no estar funcionando todo lo bien que cabría de esperar y durante tu sesión de navegación podrían verse expuestos algunos de tus datos. Por suerte, existen herramientas como [What leaks?](https://whatleaks.com/) que te permite analizar la eficacia de tu VPN a la hora de proteger tu privacidad. 
+
 ## Cookies
 
 Una cookie es un fichero que guarda nuestro navegador, donde se almacenan pequeñas cantidades de datos, de manera que el sitio web puede consultar la actividad previa del navegador.
