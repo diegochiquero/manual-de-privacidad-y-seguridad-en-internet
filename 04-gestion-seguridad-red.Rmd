@@ -131,11 +131,15 @@ Para comprar por Internet debes tomar cuantas más precauciones mejor para evita
     - Asegúrate que disponen de certificados de autenticidad de la web y seguridad de las transacciones como los que ofrece [Norton secured](https://es.norton.com/internet-security) o [Comodo secure](https://www.comodo.com/home/internet-security/secure-shopping.php).
     
     - Estos sellos y certificados los encontrarás normalmente en la parte inferior de la web en forma de logos y debes hacer click en ellos para obtener más información sobre la entidad que los expide y la vigencia de éstos, ya que muchas web fraudulentas utilizan sellos falsos.
+    
+    - También tienes plugins como [Historial de precios](https://chrome.google.com/webstore/detail/historial-de-precios/fdeopiliemdomncemeibjpmccgmnkfig?hl=es-419&authuser=0) o [Alitools shopping assistan](https://chrome.google.com/webstore/detail/alitools-shopping-assista/eenflijjbchafephdplkdmeenekabdfb?hl=es-419&authuser=0
+) que verifican si el precio del producto o servicio que deseas adquirir ha sido inflando por algún tipo de campaña publicitaria, como es el caso del Black Friday en los que suelen subir los precios para justificar su descuento. 
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Sellos y certificados de comercio online.'}
 knitr::include_graphics("images/sellos-de-confianza-online.jpg")
 ```
 
+Tienes disponible más información sobre compras online en [Compra segura en internet (Guía práctica)](https://www.aepd.es/sites/default/files/2019-09/guia-compra-segura-digital-web.pdf)
 
 ## Wi-Fi
 
