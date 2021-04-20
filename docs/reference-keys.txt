@@ -64,7 +64,8 @@ vishing
 smishing
 spam-o-correo-malicioso
 toolbars
-usurpación-o-robo-de-identidad
+usurpacion-o-robo-de-identidad
+spoofing-o-suplantación-de-identidad
 estafas-en-compras-online-y-otros-engaños
 vulnerabilidades
 cryptojacking
@@ -73,6 +74,11 @@ sim-swaping
 shoulder-surfing
 ciberacoso
 ciberextorsión
+baiting
+dumpster-diving-o-scavening
+quid-pro-quo
+formjacking
+sustracción-o-perdida
 otros-conceptos-relacionados
 otros-conceptos-que-te-pueden-ayudar
 metadatos

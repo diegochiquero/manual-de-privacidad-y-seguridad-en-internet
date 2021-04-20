@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Amenazas
 
 ## Principales amenazas 
@@ -15,11 +10,63 @@ En este punto es importante que sepas cuáles son todas y cada una de las amenaz
 
 En unidades anteriores viste que precauciones y herramientas debes adoptar para no correr riesgos. En esta unidad verás cuáles son estas amenazas y como llegan a tus dispositivos.
 
-Las amenazas vienen de la mano de perfiles a los que conoces como hacker, ciberdelicuente, pirata informático, etc. Pero cabe destacar que estos conceptos no son lo mismo. Por lo tanto:
+Las amenazas vienen de la mano de perfiles a los que conoces como hacker, ciberdelicuente, pirata informático, etc. Pero cabe destacar que estos conceptos no son lo mismo [@OSPI-ciberseguridad-espana]. Por lo tanto:
 
-- Hacker: Es un perfil técnico especializado en seguridad informática, y cuyo propósito es investigar y solucionar fallos de seguridad a los fabricantes de dispositivos y software.
+- Ciberdelincuentes: Sus ataques se dirigen a objetivos concretos como escuelas, hospitales, instituciones, grandes empresas o bancos, entre muchos otros.
 
-- Ciberdelincuente o pirata informático: Es también un perfil técnico como el anterior, pero que en este caso aprovecha las vulnerabilidades de los dispositivos para su propio beneficio a través de actividades delictivas. Su principal actividad suele ser el fraude electrónico utilizando técnicas de phishing o spam.
+- Ciberterroristas y ciberyihadistas: Varias organizaciones terroristas han desarrollado sus propias divisiones informáticas, aunque todavía no parecen ser capaces de desarrollar ciberataques sofisticados.
+
+- Hackivistas: Grupos reivindicativos que actúan por razones ideológicas.
+
+- Cibervándalos: Simplemente responden al deseo de armar revuelo y suelen ser ciberdelincuentes amateurs y poco cualificados.
+
+Dispones de más información en [hacker vs ciberdelincuente](https://www.incibe.es/aprendeciberseguridad/hacker-vs-ciberdelincuente) y [¿Quiénes son los ciberdelincuentes y qué buscan?](https://www.osi.es/es/campanas/los-ciberdelincuentes-quienes-son/quienes-son-los-ciberdelincuentes-y-que-buscan).
+
+**¿Cómo detectar si estás infectado?**
+
+- Cambios en el navegador, página de inicio distinta, nuevos favoritos o barras de herramientas.
+
+- Ordenador ralentizado.
+
+- Ventanas emergentes inesperadas.
+
+- Perdida de espacio en la memoría ram o disco duro.
+
+- Apagón del equipo de manera inesperada.
+
+- Mensajes anormales a la hora de encender el equipo.
+
+- Mensajes de alertas inesperados.
+
+- Ficheros cambiados de nombre o desaparecidos.
+	
+**Una buena práctica para minimizar los riesgos es disponer de una suite de seguridad que estaría básicamente formada por:**
+
+- Antivirus.
+
+- Anti-Spyware.
+
+- Firewall o corta fuegos.
+
+- Copia de seguridad.
+
+- Discos de arranque.
+
+- Anti-phishing. El phishing lo verás en esta misma unidad más adelante.
+
+**Si hay menores en casa:**
+
+- Control parental.
+
+- Filtro web (que restringe el acceso a según que contenido, para menores o empresas que no quieren que sus empleados visiten ciertas páginas.)
+
+**Los tres ciberataques que encabezan el ranking son:**
+
+1. Fraude de ventas.
+
+2. Vulnerabilidad de los equipos.
+
+3. Infecciones por malware que pretenden borrar datos, alterar las funciones básicas del equipo, espiar y/o robar datos.
 
 ## Virus
 
@@ -77,6 +124,8 @@ Los métodos más comunes de infección de un troyano suelen ser:
 
 - Descarga de contenidos mediante redes de compartición P2P u otras fuentes poco fiables.
 
+Existen herramientas que analizan y limpian los troyanos que se esconden en tu dispositivo y a su vez previene futuros ataques troyanos. Una de estas herramientas es el [Trojan remover](https://www.avast.com/c-trojan-remover-tool).
+
 ## Ransomware o programa rescate
 
 El Programa rescate o ransomware, está dentro del conjunto de software malicioso que también se conoce como malware y que impiden utilizar el equipo mientras el usuario no pague una cierta cantidad de dinero. El virus bloquea o cifra la información o datos del equipo  [@WIKI-ransomware].
@@ -85,11 +134,15 @@ Para intimidar y engañar a las víctimas les hacen creer que han incurrido en a
 
 Comparte junto con el resto de malware como son los virus, gusanos, troyanos, spyware y demás, la mismas vías de entrada. De modo que puedes verlo en dichos apartados de esta misma unidad.
 
-En la actualidad estos son unos de los ataques más virulentos. Según un estudio realizado por la compañía [Panda Security](https://www.pandasecurity.com/es/mediacenter/seguridad/2019-tsunami-del-ransomware/) en el 2019 este delitito tuvo un incremento con respecto al año 2018 del 500%.
+En la actualidad estos son unos de los ataques más virulentos. Según un estudio realizado por la compañía [Panda Security](https://www.pandasecurity.com/es/mediacenter/seguridad/2019-tsunami-del-ransomware/) en el 2019 este delitito tuvo un incremento con respecto al año 2018 del 500%. Y según un estudio del [Observatorio del Sector Público de Inetum](https://www.ospi.es/es/) solo en 2018, el número de afectados por estos ataques fue de más de 1.000 millones en todo el planeta. 
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Ransomware (Malware).'}
 knitr::include_graphics("images/ransomware.jpg")
 ```
+
+La firma de antivirus AVG pone a disposición del usuario una suite de herramientas gratuitas para [deshacer el cifrado del ransomware](https://www.avg.com/es-es/ransomware-decryption-tools).
+
+Además en el caso de sistema operativo de Windows 10 en su última versión dispone de una protección de forma nativa contra ransomware, aunque esto no te garantiza estar inmunizado.
 
 ## Spyware o software espía
 
@@ -113,9 +166,9 @@ El spyware tiene diferentes vías de entrada a nuestros equipos, muy parecidas a
 
 El término Phishing es utilizado para referirse a uno de los métodos más utilizados por delincuentes cibernéticos para estafar y obtener información confidencial de forma fraudulenta como puede ser una contraseña o información detallada sobre tarjetas de crédito u otra información bancaria de la víctima [@INFOSPY-phishing].
 
-El estafador, conocido como phisher, se vale de técnicas de [ingeniería social](https://es.wikipedia.org/wiki/Ingeniería_social_(seguridad_informática)), haciéndose pasar por una persona o empresa de confianza en una aparente comunicación oficial electrónica, por lo general un correo electrónico, redes sociales, SMS, etc., a raíz de un malware o incluso utilizando también llamadas telefónicas.
+El estafador, conocido como phisher, se vale de técnicas de [ingeniería social](https://es.wikipedia.org/wiki/Ingeniería_social_(seguridad_informática)), haciéndose pasar por una persona o empresa de confianza en lo que se conoce como suplantación de identidad o spoofing (término que verás más adelante en esta misma unidad) a través de una aparente comunicación oficial, por lo general un correo electrónico, redes sociales, SMS, etc., a raíz de un malware o incluso utilizando también llamadas telefónicas.
 
-Los métodos de phishing más usados por lo ciberdelincuentes:
+Los medios de phishing más usados por lo ciberdelincuentes:
 
 - Correos electrónicos de carácter corporativo.
 
@@ -144,21 +197,52 @@ Para poder detectar si estas siendo víctima de uno de estos fraudes debes estar
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Phishing banco Santander.'}
 knitr::include_graphics("images/phishing.jpg")
 ```
- 
-El Pharming es la explotación de una vulnerabilidad en el software de los servidores DNS (Domain Name System) o en el de los equipos de los propios usuarios, que permite a un atacante redirigir un nombre de dominio (domain name) a otra máquina distinta. De esta forma, un usuario que introduzca un determinado nombre de dominio que haya sido redirigido, accederá en su explorador de internet a la página web que el atacante haya especificado para ese nombre de dominio [@KASPER-pharming].
 
-El Typosquatting, también conocido como URL hijacking, sting site, o fake URL. Está basada en los errores tipográficos cometidos por usuarios de internet cuando introducen la dirección de un sitio web en un navegador. Cuando esto sucede la dirección puede llevarlos a un sitio alternativo propiedad de un cybersquatter [@WIKI-typosquatting].
+En relación a la protección contra el phishing existen diferentes herramientas y servicios que puedes implementar en tu uso diario de las tecnologías. Algunos de estos son:
+
+- Software anti-phishing: Software especifico para la detección de phishing.
+
+    - [Sophos home](https://home.sophos.com/es-es.aspx).
+    
+    - [Phishing protection](https://www.phishprotection.com/) 
+
+- Proveedores de email: Estos ofrecen protección contra el phishing a través de filtros y configuraciones con el objetivo detectar y frenar este tipo de fraude llevado a cabo por medio del correo electrónico. Para ello analizan de forma automatizada todos los emails, con el fin detectar links fraudulentos o dominios falsificados que tienen la intención de robar tus datos, protegiendo así a los usuarios de estos tipos de fraudes o estafas online. Esta protección puedes encontrarla prácticamente implementada en la mayoría de gestores de correos actuales.
+
+- Nativas sistema operativo windows: [Anti-phishing defender](https://docs.microsoft.com/es-es/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+
+- Antivirus:  Algunos antivirus traen implementado estandares contra el phishing como el [ESET anti-phising](https://support.eset.com/es/kb6380-activar-anti-phishing-en-productos-para-android-de-eset#enable).
+
+- Plugins: Extensiones para el navegador como lo es [ZoneAlarm Web Secure Free](https://www.zonealarm.com/es/anti-phishing/).
+
+- Código anti-phishing: Existen plataformas webs que ofrecen este servicio. Consiste en un código o palabra clave que tú facilitas la primera vez a la web y que ésta incluye en sus futuros email, verificando así la legitimidad del mismo. Un ejemplo de ello lo econtrarás en la plataforma de intercambio de criptomonedas [Binance código anti-phishing](https://academy.binance.com/es/articles/anti-phishing-code).
+
+- Navegadores: 
+
+    - [Firefox](https://www.mozilla.org/es-ES/firefox/) es uno de los navegadores que implementan grandes capas de seguridad siendo una de ellas la protección anti-phishing y que además cuenta con [Mozilla support](https://support.mozilla.org/es/) y [Cómo protegerse del Phishing y del Malware con esta herramienta de Firefox](https://support.mozilla.org/es/kb/como-protegerse-del-phishing-y-del-malware-con-esta-herramienta-firefox).
+    
+    - [Google Chrome](https://www.google.com/intl/es/chrome/) a su vez cuenta con los recursos ofrecidos por [Google safe browsing](https://safebrowsing.google.com/).
+
+Si quieres saber más sobre como evitar el phishing y de còmo saber identificar este tipo de fraude, visita el enlace de [Cómo identificar un correo electrónico malicioso](https://www.osi.es/es/como-identificar-un-correo-electronico-malicioso).
+
+De otro lado el Pharming es la explotación de una vulnerabilidad en el software de los servidores DNS (Domain Name System) o en el de los equipos de los propios usuarios, que permite a un atacante redirigir un nombre de dominio (domain name) a otra máquina distinta. De esta forma, un usuario que introduzca un determinado nombre de dominio que haya sido redirigido, accederá en su explorador de internet a la página web que el atacante haya especificado para ese nombre de dominio [@KASPER-pharming].
+
+Y el Typosquatting, también conocido como URL hijacking, sting site, o fake URL. Está basada en los errores tipográficos cometidos por usuarios de internet cuando introducen la dirección de un sitio web en un navegador. Cuando esto sucede la dirección puede llevarlos a un sitio alternativo propiedad de un cybersquatter [@WIKI-typosquatting].
 
 - Ejemplo: https://wikiepdia.org 
-
-
+    
 ## Vishing
 
-vishing
+El Vishing es una estafa que consiste en una llamada de teléfono en la que ciberdelicuente suplanta la identidad de una persona, empresa o institución para conseguir que le proporciones información privada y sensible. Esta información normalmente van a ser datos personales, contraseñas o peor aun los datos bancarios. Se trata de técnicas de ingeniería social con la que el estafador se va ganando la confianza de la víctima de manera que ésta termina proporcionandole cualquier tipo de datos. Si quieres saber más sobre ingeniería social visita este enlace [¿Sabías que los ataques de ingeniería social suponen el 93% de las brechas de seguridad?](https://www.osi.es/es/actualidad/blog/2019/12/04/sabias-que-los-ataques-de-ingenieria-social-suponen-el-93-de-las-brechas).
+
+Por lo tanto debes tener muy en cuenta, que cualquier petición de tus contraseñas o información financiera es una estafa, ya que las instituciones legítimas nunca te pedirían este tipo de datos tan sensibles a través del teléfono. 
 
 ## Smishing
 
-smishing
+El Smishing es un acrónimo formado por las palabras SMS y phishing, debido a su parecido con este ataque tan popular. La diferencia entre el Smishing y el phishing es que mientras que este último lleva a cabo la estafa utilizando el correo electrónico como medio, en el smishing se utilizan mensajes de texto enviados a través de SMS al  smartphone o a través de las distintas aplicaciones de mensajería instantánea.
+
+El modus operandi sigue siendo muy similar a otros ataques donde el ciberdelincuente suplanta la identidad de alguna persona o entidad de confianza para su víctima, con el objetivo de engañarla y conseguir que comparta información personal, realice un pago, haga clic en un enlace malicioso o se descargue un archivo adjunto entre otras.
+
+El mayor riesgo de este tipo de ciberataque es el desconocimiento de los usuarios, ya que no esperan ser engañados a través de un mensaje de texto [@INCI-smishing].
 
 ## Spam o correo malicioso
 
@@ -190,19 +274,21 @@ Normalmente, se instalan como un añadido al instalar aplicaciones gratuitas en 
 
 En el caso de haber instalado alguna toolbars por descuido existen algunas herramientas para desinstalarlas fácilmente, entre ellas esta [Malwarebytes](https://es.malwarebytes.com/adwcleaner/).
 
-## Usurpación o robo de identidad
+## Usurpacion o robo de identidad 
 
-El robo de identidad o usurpación de identidad es la apropiación de la identidad de una persona: hacerse pasar por esa persona, asumir su identidad ante otras personas en público o en privado, en general para acceder a ciertos recursos o la obtención de créditos y otros beneficios en nombre de esa persona. Esto que sucede en el mundo analógico también ocurre en el mundo digital [@WIKI-usurpacion].
+El robo de identidad, usurpación de identidad es la apropiación de la identidad de una persona: hacerse pasar por esa persona, asumir su identidad ante otras personas en público o en privado, en general para acceder a ciertos recursos o la obtención de créditos y otros beneficios en nombre de esa persona. Esto que sucede en el mundo analógico también ocurre en el mundo digital [@WIKI-usurpacion].
 
 La manera que tienen los ciberdelincuentes de usurpar la identidad suele ser a través de los siguientes:
 
 - Robo masivo de cuentas de email por medio de métodos de hacking.
 
-- Por medio de Phishing.
+- Por medio de Phishing, Smishing o Vishing.
 
 - Dejando tú cuenta abierta en sitios públicos.
 
 - Usando Wi-Fi de terceros creadas para ese fin.
+
+- Software espía o troyanos.
 
 La usurpación de identidad permite a los delincuentes hacerse con información personal de sus víctimas, para luego con ella interceptar aún más datos de otros perfiles, a quienes engañan con el fin de extorsionar u obtener lucro económico e incluso a veces realizar actividades delictivas.
 En caso de ser víctima de esta amenaza debes tener en cuenta lo siguiente:
@@ -215,15 +301,63 @@ En caso de ser víctima de esta amenaza debes tener en cuenta lo siguiente:
 
 - Avisa a tus contactos sobre el perfil falso.
 
-- Infórmalo dentro de la aplicación.
+- Infórmalo dentro de la aplicación. Todas las plataformas y redes sociales disponen de un apartado de Suplantación de indentidad en las cuentas.
 
 - Si es de carácter grave denúncialo a las autoridades.
 
 - Si es posible cancela cuenta.
 
+En la [Oficina de seguridad del internauta](https://www.osi.es/es) tienes una publicación que se llama [¡Me han secuestrado mi cuenta!](https://www.osi.es/es/actualidad/historias-reales/2021/03/05/me-han-secuestrado-mi-cuenta) de una historia real donde puedes ver como gestionar este tipo de ataques.
+
+## Spoofing o suplantación de identidad     
+
+Normalmente cuando un ciberdelincuente usurpa un cuenta, ya sea particular o corporativa, la principal intención es hacer uso del spoofing o también conocido como suplantación de identidad. Estos términos pueden confundirse con el Phishing, pero no son lo mismo. Podría decirse que el Phishing es el término o palabra que se utiliza para describir la manera con la que los estafadores se hacen con tus datos y el spoofing son las herramientas, procedimientos o técnicas con los que lo lleva a cabo. Ejemplo: Un ciberestafador suplanta la web o el correo que recibes de tu entidad bancaria para que facilites tus datos, esta es la herramienta o herramientas y el término o nombre que recibe este acto es el Phishing. No obstante en el siguiente enlace puedes obtener más información sobre las [diferencias entre Phishing y Spoofing](https://techlandia.com/diferencia-phishing-spoofing-info_241711/).
+
+A tener en cuenta también el hecho, que el uso de una acreditación física que no pertenece a su legítimo dueño, también esta considerado una estafa. Un claro ejemplo es el uso que hace un tercero de una tarjeta de identificación robada, para obtener el acceso a un determinado departamento físico de una compañía o empresa. Esto es lo que se conoce como [Masquerating o suplantación de indentidad física](https://moodle2019-20.ua.es/moodle/pluginfile.php/113537/mod_resource/content/8/tema/4masquerading_mascarada.html#:~:text=Consiste%20en%20suplantar%20la%20identidad,le%20pertenecen%20o%20en%20persona.).
+
+Otra actividad relacionada con la usurpación de identidad es el Brushing. Este delito es el que realizan algunos vendedores de Internet, que envían paquetes con objetos muy pequeños a diferentes usuarios para hacerse pasar por ellos y después poder valorar sus propios productos. Aunque en cierto modo esto no te pone en un serio riesgo, conviene conocerlo por si te sucede saber que se trata de una suplantación de la identidad y que es aconsejable interponer una denuncia [@brushing].
+
 ## Estafas en compras online y otros engaños
 
-Pago del envio por una venta de segunda mano, etc
+Llegados hasta aquí, recordarte que todas las precauciones que se detallan en este manual en el apartado de Compras y transacciones de la unidad de Gestión de la seguridad en la red, son altamente recomendable en este punto. Además de ser fuertemente aconsegable seguir todas esas indicaciones, también se trata de tener en cuenta el conjunto de requisitos que veras a continuación, ya que cada uno de ellos por independiente te va a garantizar una capa más de seguridad y te irán indicando si puede o no puede ser una estafa.
+
+Requisitos a comprobar:
+
+- Formato seguro de URL: Https con su correspondiente candado.
+
+- Certificado de seguridad: Certifica que no ha sido vulnerada ni hackeada.
+
+- Sello de confianza y autenticidad: Verifican que se trata de una web legítima y confiable.
+
+- Conocer la empresa detrás de esa web, su ubicación, política de envío y de devolución, etc.
+
+- El precio que suele ser muy por debajo o simplemente con un descuento muy suculento.
+
+- Sorteos ganados bajo cualquier pretexto: Eres el visitante número 1.000 por ello te has ganado un premio.
+
+Las estafas online no solo te las vas a encontrar en la compra de productos o servicios, sino que también en diferentes escenarios como los que verás a continuación. Pudiendo encontarlos a través de correos electrónicos, webs de venta de segunda mano, en webs maliciosas, etc.
+
+Algunos ejemplos de estafas son:
+
+- Timo Nigeriano: Lotería, viuda, enfermo terminal, herencias, etc.
+
+- Falsas ofertas de empleo: Ofertas de empleo bajo pago previo.
+
+- Falsos prestamistas de dinero: Que después de pagar los costes luego no recibes.
+
+- Novias rusas: Embaucan para posteriormente pedir dinero.
+
+- Falsos correos de sextorsión: Simulan que tienen fotos o vídeos comprometidos, cuando no es así.
+
+- Propuesta de compra del producto que tienes en venta: Solicitando que hagas el pago del envío por adelantado.
+
+- Pedir que hagas el pago o contactar contigo fuera de la plataforma de venta.
+
+- Otras muchas y nuevas que van ingeniando.
+
+En esta [Guía de fraudes online](https://www.osi.es/es/guia-fraudes-online) tienes un amplio catálogo de recursos para detectar si estas siendo víctima de una estafa o fraude online.
+
+Por último pero no por ello menos importante si en algún momento te encontrases ante una posible estafa debes reportarlo a través desde este enlace para [reportar webs fraudulenta en el Incibe](https://www.incibe.es/protege-tu-empresa/reporte-fraude).
 
 ## Vulnerabilidades
 
@@ -239,21 +373,27 @@ El cryptojacking, también llamado minería de criptomonedas malicioso, consiste
 
 Se trata de una amenaza reciente que se hace con el control del navegadores web, y de este modo, comprometen todo tipo de dispositivos, desde ordenadores de escritorio y portátiles hasta teléfonos inteligentes e incluso servidores de red.
 
-Existen recursos y herramientas para saber si estamos siendo víctimas de cryptojacking:
+Existen recursos y herramientas para saber si estamos siendo víctimas de cryptojacking [@GEN-guia-cryptojacking]:
 
 - Te puede pasar que el ordenador se recaliente, que empiecen a sonar los ventiladores de pronto y se mantengan encendidos por más tiempo de lo que consideras normal.
 
 - El sistema operativo se pondrá lento, incluso se puede llegar a colgar el navegador o todo el sistema constantemente.
 
-- Comprueb el administrador de tareas en Windows, o el Monitor de actividad en MacOS. Fíjate en los procesos que estén ocupando el mayor porcentaje de CPU. En circunstancias normales un solo proceso no debe pasar de 10%, rara vez sobrepasan el 20% al menos que se trate de software muy complejo como el de edición de vídeo, juegos, o el mismo sistema actualizando. Pero que te aparezca el navegador en números absurdos como 70-90 y hasta 100% es una alarma clara.
+- Comprueba el administrador de tareas en Windows, o el Monitor de actividad en MacOS. Fíjate en los procesos que estén ocupando el mayor porcentaje de CPU. En circunstancias normales un solo proceso no debe pasar de 10%, rara vez sobrepasan el 20% al menos que se trate de software muy complejo como el de edición de vídeo, juegos, o el mismo sistema actualizando. Pero que te aparezca el navegador en números absurdos como 70-90 y hasta 100% es una alarma clara.
 
-Las vías de contagios son las mismas que la mayoría de malware tales como los virus, gusanos, troyanos, spyware y demás. Por lo que puedes verlo en dichos apartados de esta misma unidad. Aunque en la mayoría de los casos te llega a través de una web, haciendo uso del navegador por lo que existen webs y plugin que comprueban si estas siendo víctima de este ciberdelito y algunas de estas son:
+Las vías de contagios son las mismas que la mayoría de malware tales como los virus, gusanos, troyanos, spyware y demás. Por lo que puedes verlo en dichos apartados de esta misma unidad. Aunque en la mayoría de los casos te llegará a través de una web, haciendo uso del navegador. Es por ello que existen webs y plugin que comprueban si estas siendo víctima de este ciberdelito e incluso alguna de estas herramientas previenen y bloquean estos ataques. A continuación tienes una lista para que puedas elegir la que mejor se adapte a tus necesidades:
 
 - [CoinEater](https://github.com/fhstp/CoinEater) 
 
 - [Minerblock](https://github.com/xd4rker/MinerBlock)
 
 - [Not mining](https://notmining.es)
+
+- [NoCoin](https://github.com/keraf/NoCoin)
+
+- [NoMiner](https://chrome.google.com/webstore/detail/nominer-block-coin-miners/jfnangjojcioomickmmnfmiadkfhcdmd)
+
+- [Adblock nocoin list](https://github.com/hoshsadiq/adblock-nocoin-list)
 
 ## Plugins maliciosos
 
@@ -323,11 +463,9 @@ Qué hacer en caso de que ya te hayan robado tu dispositivo móvil:
 
 Ve este [video](https://www.youtube.com/watch?v=fIaodow_nxw) del [Instituto nacional de Ciberseguridad](https://www.incibe.es/)
 
-
-
 ## Shoulder surfing
 
-Shoulder
+El shoulder surfing es una técnica en apariencia muy sencilla empleada por los ciberatacantes con el objetivo de conseguir información de un usuario en concreto. Esta técnica consiste en mirar literalmente por encima del hombro y que suele llevarse a cabo mientras viajamos en metro, en autobús o en cualquier sitio público donde los cibervándalos puedan estar atento al uso que haces de tu dispositivo sin que puedas percatarte de ello [@OSI-shoulder-surfing]. 
 
 ## Ciberacoso
 
@@ -336,3 +474,23 @@ acoso
 ## Ciberextorsión
 
 que es la ciberextorsión
+
+## Baiting
+
+que es el baiting
+
+## Dumpster diving o scavening
+
+que es Dumpster diving o scavening
+
+## Quid pro quo
+
+que es Quid pro quo
+
+## Formjacking
+
+que es Formjacking
+
+## Sustracción o perdida
+
+que hacer ante la Sustracción o perdida
