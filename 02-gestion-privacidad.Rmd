@@ -138,3 +138,13 @@ Si por el contrario prefieres ser tu quien gestiones esa capa de privacidad adic
 Si además quieres saber si tu cuenta de correo o tu número de teléfono han sido comprometidos, puedes saberlo a través de la siguiente plataforma [haveibeenpwned](https://haveibeenpwned.com/).
 
 Con respecto a las aplicaciones de mensajería instantánea debes tener en cuenta que sucede lo mismo que con los correos electrónicos. A pesar que la mayoría de ellas, incluida la más popular de todas (whatsApp) disponen de capas de privacidad que la hacen confiable, a veces no podemos estar totalmente seguros de no estar sometidos a un seguimiento por parte de éstas. Es por ello que las aplicaciones como [telegram](https://telegram.org/) y [signal](https://signal.org/es/) nacen con el propósito de no inmiscuirse en el uso que haces de la aplicación.
+
+## He decidido vender o donar mi dispositivo
+
+Si estás pensando en vender o quizá donar cualquiera de tus dispisitivos, ya sea un disco duro externo, el ordenador o portátil, un USB o cualquier otro dispositivo que contenga almacenamiento, asegurate primero de eliminar totalmente todo el contenido. Para ello utiliza software de forrado definitivo, ya que un simple formateado no borrará la información. El borrado solo se completa cuando se reescribe sobre la anterior información, es por esto que un formatero solo te hace constar que el espacio esta disponible, pero el contenido, aunque oculto, sigue estando ahí. Esto que quiere decir que con software avanzado y específico los ciberdelicuentes podrían recuperar todo el contenido [@borrado-almacenamiento].
+
+Algunas herramientas de borrado definitivo son:
+
+- [Eraser](https://eraser.heidi.ie/)
+
+- [Disk wipe](https://www.diskwipe.org/download.php)
