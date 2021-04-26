@@ -116,6 +116,33 @@ Una práctica muy recomendable a la hora de hacer copias de seguridad es seguir 
 
 Las copias de seguridad no son solo exclusivas de los PCs o portátiles, sino que también debes contemplarlas en tus dispositivos móviles. Android pone a tu dispoción el recurso de cómo [crear copias de seguridad o restaurar datos de un dispositivo Android](https://support.google.com/android/answer/2819582?hl=es&visit_id=637514255756661953-3969236140&rd=1) y Apple el de [cómo hacer una copia de seguridad del iPhone, iPad y iPod touch](https://support.apple.com/es-es/HT203977).
 
+Es muy importante que dispongas de copias de seguridad, pero igualmente de importante es que conozcas la salud de los dispositivos de almacenamientos que usas. Para ello existe software específico que realiza diagnósticos e incluso algunos tienen sistemas de reparación. De esta forma podrás saber si debes cambiar el dispositivo o no, antes de quedar en la estacada.
+
+Software de diagnóstico y/o reparación de unidades de almacenamiento:
+
+- [CrystalDisk](https://crystalmark.info/en/software/crystaldiskinfo/): Diagnóstico de discos HDD.
+
+- [HdSentinel](https://www.hdsentinel.com/): Diagnóstivo y reparación de discos HDD.
+
+- [HDDScan](https://hddscan.com/): Diagnóstico discos de HDD, SSD y memorias USB (pendrives).
+
+- [Check Flash](http://mikelab.kiev.ua/index_en.php?page=PROGRAMS/chkflsh_en): Diagnóstico de memorias USB (pendrives).
+
+Por otro lado, si has borrado accidentalmente información y tu copia de seguridad no esta totalmente actualizada, quizá te interese saber que también existe software de recuperación de datos eliminados, siempre y cuando no haya pasado el suficiente tiempo para que la información eliminada haya sido reescrita. Recuerda que la información eliminada solo se produce de forma definitiva cuando se reescribe dicha información. 
+
+Aunque este último apunte no esta estrechamente relacionado con la seguridad en equipos físicos, que es el tema que se trata en esta unidad, nunca esta de más saber que tienes esta opción, para poder recuperar datos perdidos.
+
+Para recuperar tu información dispones de software como:
+
+- [Recuba](https://www.ccleaner.com/recuva): PC.
+
+- [Wise Cleaner](https://www.wisecleaner.com/wise-data-recovery.html): PC.
+
+- [Videos y audios Recovery ](https://play.google.com/store/apps/details?id=com.mediarecovery.deletedvideorecovery.deletedaudiorecovery&hl=es): Smartphone.
+
+- [File Recovery](https://play.google.com/store/apps/details?id=com.file.recovery.data.recovery.deletedfilerecovery): Smartphone.
+
+
 ## Cifrado o encriptado de unidades de almacenamiento
 
 Cifrar o encriptar tus discos duros ya sean externos o internos del ordenador o el encriptado de un simple Pendrive o USB es cada día más necesario para protegernos contra los amigos de lo ajeno, ya que aunque te sustrayecen el ordenador o cualquier otro dispositivo, no podrían acceder a la información puesto que se encuentra bajo esta capa de seguridad robusta que es la encriptación.
