@@ -114,7 +114,11 @@ IMPORTANTE: Tener el candado no garantiza que la web sea legítima. Ya que los c
 
 Para comprar por Internet debes tomar cuantas más precauciones mejor para evitar cualquier tipo de fraude. Los factores a tener en cuenta son los siguientes:
 
-- Evita sitios webs que no te inspiren confianza: Por ello solo debes compras a través de webs y aplicaciones oficiales. Además de buscar valoraciones y opiniones, utilizar plataformas que valoran la reputación online de un portal, como [Scamadviser](https://www.scamadviser.com/).
+- Evita sitios webs que no te inspiren confianza: Por ello solo debes compras a través de webs y aplicaciones oficiales. 
+
+- Busca valoraciones y opiniones: Para ello dispones de las reseñas de Google maps, así como también de plataformas como [Trust Pilot](https://es.trustpilot.com/), [Local guides connect](https://www.localguidesconnect.com/) o [TripAdvisor](https://www.tripadvisor.es/).
+
+- Utiliza plataformas que valoran la reputación online de un portal, como [Scamadviser](https://www.scamadviser.com/).
 
 - Usa solo plataformas con protocolo HTTPS: Visto en el apartado anterior.
 
