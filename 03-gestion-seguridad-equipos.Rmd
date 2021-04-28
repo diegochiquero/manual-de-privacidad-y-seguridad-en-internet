@@ -84,6 +84,8 @@ Dependiendo de las necesidades pueden ser usados uno o varios, ya que son comple
 
 Antes de decidir que herramientas de las anteriormente expuestas va a usar, puedes hacer una búsqueda e informarte sobre las opciones disponibles, ya que existen soluciones de todo tipo y para todos los gustos, gratuitas, de pago, para ordenadores, para smartphones. Desde la [Oficina de Seguridad del Internauta](https://www.osi.es) ponen a tu disposición este [listado de Antivirus gratuitos](https://www.osi.es/es/herramientas-gratuitas?herramienta_selec%5B0%5D=115), para que puedas elegir el que mejor se adapte a tus necesidades. Pero no olvides nunca de asegurarte muy bien que estás ante un producto legítimo y descargarlo siempre de la web oficial. 
 
+Cabe destacar que Windows de un tiempo aquí ya trae de manera nativa su propio antivirus conocido como [Windows Defender](https://www.microsoft.com/es-es/windows/comprehensive-security).
+
 ## Copias de seguridad
 
 Una copia de seguridad o backup en informática es una copia de los datos originales que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida. Las copias de seguridad son útiles ante distintos eventos y usos: recuperar los sistemas informáticos y los datos de una catástrofe informática, natural o ataque; restaurar una pequeña cantidad de archivos que pueden haberse eliminado accidentalmente, corrompido, infectado por un virus informático u otras causas [@WIKI-copias-seguridad].
