@@ -1,10 +1,14 @@
 # Gestión de la seguridad en la red
 
-## Gestionando la seguridad en la red
+## Gestionar la seguridad en la red
 
 Como ya viste en la unidad de privacidad y seguridad, la seguridad en internet son todas aquellas precauciones que deben ser tomadas para proteger todos los dispositivos informáticos, así como la red de internet que pueden ser afectados por delincuentes cibernéticos.
 
 Más adelante verás de qué situaciones y amenazas te estás protegiendo si sigues todas estas recomendaciones.
+
+## Seguridad en las cuentas
+
+Prácticamente todo el mundo en menor o mayor medida dispone de cuentas de usuarios en todas sus aplicaciones o servicios en la red. De entre las más conocidas están la cuenta de [Google](https://myaccount.google.com/security) y la de [Microsoft](https://account.microsoft.com/security). En estos dos enlaces podrás ajustar la privacidad necesaria para poder hacer uso de ellas con más garantías. Además recuerda que el resto de plataformas deben ofrecerte este servicio para que puedas configurar tu seguridad y dentro de lo posible estar más tranquilo.
 
 ## Contraseñas
 
@@ -143,7 +147,7 @@ Para comprar por Internet debes tomar cuantas más precauciones mejor para evita
 knitr::include_graphics("images/sellos-de-confianza-online.jpg")
 ```
 
-Tienes disponible más información sobre compras online en [Compra segura en internet (Guía práctica)](https://www.aepd.es/sites/default/files/2019-09/guia-compra-segura-digital-web.pdf)
+Tienes disponible más información sobre compras online en [Compra segura en internet (Guía práctica)](https://www.aepd.es/sites/default/files/2019-09/guia-compra-segura-digital-web.pdf) y también dispones de esta entrada de [cómo detectar fraudes y análisis de una web falsa](https://www.osi.es/es/actualidad/blog/2018/08/08/detectando-fraudes-analisis-de-una-web-de-venta-falsa).
 
 ## Wi-Fi
 
