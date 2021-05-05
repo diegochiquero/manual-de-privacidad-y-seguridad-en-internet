@@ -7,3 +7,7 @@ _bookdown_files
 rsconnect
 
 _bookdown_files
+
+# Logs
+logs
+*.log
