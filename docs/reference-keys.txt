@@ -20,7 +20,7 @@ rgpd-reglamento-general-de-protección-de-datos
 aviso-legal-política-de-privacidad-y-política-de-cookies
 derechos-arco
 gestión-de-la-privacidad
-gestionando-la-privacidad
+gestionar-la-privacidad
 datos-personales-sensibles
 oversharing-o-sobreexposición
 privacidad-en-tus-cuentas
@@ -32,7 +32,7 @@ la-nube
 correo-electrónico-y-apps-de-mensajería
 he-decidido-vender-o-donar-mi-dispositivo
 gestión-de-la-seguridad-en-equipos-físicos
-gestionando-la-seguridad-en-los-equipos
+gestionar-la-seguridad-en-los-equipos
 equipo-local-y-dispositivos-móviles
 router
 actualizaciones
@@ -40,7 +40,8 @@ antivirus-antimalware-antispyware-y-firewall
 copias-de-seguridad
 cifrado-o-encriptado-de-unidades-de-almacenamiento
 gestión-de-la-seguridad-en-la-red
-gestionando-la-seguridad-en-la-red
+gestionar-la-seguridad-en-la-red
+seguridad-en-las-cuentas
 contraseñas
 protocolo-https
 compras-y-transacciones
@@ -83,12 +84,17 @@ clickjacking
 dumpster-diving-o-scavening
 quid-pro-quo
 formjacking
+juice-jacking
 sustracción-o-perdida
-otros-conceptos-relacionados
-otros-conceptos-que-te-pueden-ayudar
+tu-yo-digital
+toma-consciencia-de-tu-yo-digital
 metadatos
 huella-digital-o-reputación-online
+sombra-digital
 eliminar-el-historial-de-busquedas
+derecho-al-olvido
+otros-conceptos-relacionados
+otros-conceptos-que-te-pueden-ayudar
 constastar-la-información
 otras-utilidades-interesantes
 entidades-e-instuciones-de-ayuda-al-ciudadano
