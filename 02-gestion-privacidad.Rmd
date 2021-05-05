@@ -1,6 +1,6 @@
 # Gestión de la privacidad
 
-## Gestionando la privacidad
+## Gestionar la privacidad
 
 La privacidad en Internet se refiere al control de la información personal que posee un determinado usuario que se conecta a Internet, interactuando por medio de diversos servicios en línea con los que intercambia datos durante la navegación. Por ello en esta unidad vas a tratar de aprender a gestionar la privacidad de manera inteligente para así evitar males mayores [@WIKI-privacidad].
 
@@ -24,7 +24,7 @@ Esto no supone un delito en cuestión, pero puede dar lugar al chantaje, ciberac
 
 ## Privacidad en tus cuentas
 
-Prácticamente todo el mundo en menor o mayor medida dispone de cuentas de usuarios en todas sus aplicaciones o servicios en la red. Una de las más conocidas es la cuenta de [Google](https://www.google.com/account/about/?hl=es), entre otras, así como la de [Microsoft](https://account.microsoft.com/account/privacy).
+Prácticamente todo el mundo en menor o mayor medida dispone de cuentas de usuarios en todas sus aplicaciones o servicios en la red. Una de las más conocidas es la cuenta de [Google](https://myaccount.google.com/data-and-personalization), entre otras, así como la de [Microsoft](https://account.microsoft.com/account/privacy). En ambos enlaces podrás ajustar la privacidad con la que más cómodo te sientas, además recuerda que no solo estos dos servicios disponen de estos ajustes, sino que también el resto de plataformas deben brindarte la posibilidad de que realices tu propia configuración.
 
 En lo que respecta a las redes sociales como, [Facebook](https://es-la.facebook.com/help/325807937506242), [Twitter](https://help.twitter.com/es/safety-and-security#ads-and-data-privacy) o [Instagram](https://es-es.facebook.com/help/instagram/196883487377501/?helpref=hc_fnav&bc[0]=Ayuda%20de%20Instagram&bc[1]=Administrar%20tu%20cuenta), entre otras muchas más, no debes olvidar que también disponen opciones de privacidad y que en éste escenario está en juego tus datos más personales, luego el mejor consejo es establecer una configuración privada en lugar de pública. Ya que estas redes sociales no tienen, por defecto, los niveles más elevados en cuanto a la protección y a la seguridad.
 
@@ -141,7 +141,7 @@ Con respecto a las aplicaciones de mensajería instantánea debes tener en cuent
 
 ## He decidido vender o donar mi dispositivo
 
-Si estás pensando en vender o quizá donar cualquiera de tus dispisitivos, ya sea un disco duro externo, el ordenador o portátil, un USB o cualquier otro dispositivo que contenga almacenamiento, asegurate primero de eliminar totalmente todo el contenido. Para ello utiliza software de forrado definitivo, ya que un simple formateado no borrará la información. El borrado solo se completa cuando se reescribe sobre la anterior información, es por esto que un formatero solo te hace constar que el espacio esta disponible, pero el contenido, aunque oculto, sigue estando ahí. Esto que quiere decir que con software avanzado y específico los ciberdelicuentes podrían recuperar todo el contenido [@borrado-almacenamiento].
+Si estás pensando en vender o quizá donar cualquiera de tus dispisitivos, ya sea un disco duro externo, el ordenador o portátil, un USB o cualquier otro dispositivo que contenga almacenamiento, asegurate primero de eliminar totalmente todo el contenido. Para ello utiliza software de forrado definitivo, ya que un simple formateado no borrará la información. El borrado solo se completa cuando se reescribe sobre la anterior información, es por esto que un formatero solo te hace constar que el espacio esta disponible, pero el contenido, aunque oculto, sigue estando ahí. Esto que quiere decir que con software avanzado y específico los ciberdelicuentes podrían recuperar todo el contenido [@XATAKA-borrado-almacenamiento].
 
 Algunas herramientas de borrado definitivo son:
 
