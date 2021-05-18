@@ -1,0 +1,129 @@
+# Entidades y plataformas de ayuda
+
+## Ayuda y soporte desde instituciones
+
+En internet existen multitud de plataformas y webs que te brindan la oportunidad de formarte y estar informado sobre ciberdelitos, ciberamenazas, privacidad y seguridad en internet y otro montón de conocimientos más. Además si sabes como abordar la plataforma verás que muchas de ellas son de autoridad reconocida. Aun así no deja de ser importante saber que desde nuestras instituciones existen proyectos específicos y gestionados por verdaderos expertos en la materia. Y es en esta unidad donde vas a ver con que entidades y plataformas puedes contar.
+
+## Instituto nacional de ciberseguridad
+
+El Instituto Nacional de Ciberseguridad de España [INCIBE](https://www.incibe.es/), es una sociedad dependiente del Ministerio de Economía y Empresa a través de la Secretaría de Estado para el Avance Digital y consolidada como entidad de referencia para el desarrollo de la ciberseguridad y de la confianza digital de ciudadanos, red académica y de investigación, profesionales, empresas y especialmente para sectores estratégicos.
+
+La misión de INCIBE es por tanto reforzar la ciberseguridad, la confianza y la protección de la información y privacidad en los servicios de la Sociedad de la Información, aportando valor a ciudadanos, empresas, Administración, red académica y de investigación española, sector de las tecnologías de la información y las comunicaciones y sectores estratégicos en general. Aunándolo es estas tres siguientes líneas de actuación:
+
+- Al internauta.
+
+- Al menor.
+
+- A la empresa.
+
+Informan entre otros sobre: 
+
+- Protección de redes, equipos y sistemas.
+
+- Cumplimiento de obligaciones relativas a la seguridad de la información.
+
+- Diferentes tipos de incidentes de seguridad.
+
+- Seguridad en las conexiones y redes wifi.
+
+-  Configuración de la privacidad en dispositivos y servicios de internet.
+
+- Situaciones de infección por virus.
+
+- Contenidos inadecuados para menores y comunidades peligrosas en línea.
+
+- Ciberacoso escolar.
+
+- Controles parentales.
+
+El Incibe tiene a disposición del ciudadano varios canales de comunicación:
+
+- Teléfono gratuito **017**.  
+
+- WhatsApp: **900 116 117**.
+
+- Telegram: **\@INCIBE017**.
+
+- Formulario web: **http://incibe.es/linea-de-ayuda-en-ciberseguridad#formulario**. 
+
+## Oficina de seguridad del internauta
+
+La Oficina de Seguridad del Internauta [OSI](https://www.osi.es/) es una plataforma que proporciona información y soporte necesarios para evitar y resolver los problemas de seguridad a los que pueda enfrentarse el cuidadano en el uso de Internet.
+
+El objetivo principal de esta entidad es reforzar la confianza en el ámbito digital a través de la formación en materia de ciberseguridad. Desde la Oficina de Seguridad del Internauta conjuntamente con el INCIBE trabajan para:
+
+- Ayudar a los usuarios a llevar a cabo un cambio positivo de comportamiento en relación con la adopción de buenos hábitos de seguridad.
+
+- Hacerles conscientes de su propia responsabilidad en relación con la ciberseguridad.
+
+- Contribuir a minimizar el número y gravedad de incidencias de seguridad experimentadas por el usuario.
+
+- En este portal encontrarás información general sobre la seguridad en Internet y herramientas que te ayudarán a navegar más seguro. 
+
+Además de llevar a cabo todas estas líneas de actuación, a través de este portal también:
+
+- Dispones de un [canal de avisos](https://www.osi.es/es/actualidad/avisos) para estar actualizado de las últimas alertas de seguridad.
+
+- Podrás hacer [reportes de fraudes](https://www.osi.es/es/reporte-de-fraude).
+
+- En el menú de navegación encontrarás una pestaña de juegos educativos donde encontrarás recursos para aprender jugando, entre ellos toda una batería de [juegos de mesa](https://www.osi.es/es/juegos-mesa).
+
+- [Campañas de concienciación](https://www.osi.es/es/campanas). 
+
+Y esto no es todo, en esta plataforma encontrarás multitud de recursos y herramientas para gestionar o solventar cualquier incidencia en matería de privacidad y seguridad en internet.
+
+## Agencia española de protección de datos
+
+La Agencia Española de Protección de Datos [AEPD](https://www.aepd.es/es) es una entidad de ayuda a la ciudadanía más orientada a la privacidad en lo concerniente a tus datos personales. Actúan para proteger tus derechos de acceso, rectificación, limitación, oposición, supresión (derecho al olvido), portabilidad y oposición al tratamiento de decisiones automatizadas.
+
+Entre los recursos que encontrarás en la plataforma están los siguientes:
+
+- Derechos y deberes en el tratamiento de datos.
+
+- Ayuda a la ciudadanía.
+
+- Ayuda específica a menores.
+
+- Guías y herramientas.
+
+## Internet segura para ñiños
+
+Internet Segura for Kids [IS4K](https://www.is4k.es/)  es el Centro de Seguridad en Internet para menores de edad en España y tiene por objetivo la promoción del uso seguro y responsable de Internet y las nuevas tecnologías entre los niños y adolescentes. Las principales tareas que tiene encomendadas son:
+
+- Sensibilizar y formar a menores, jóvenes, familias, educadores y profesionales del ámbito del menor, a través del desarrollo de campañas, iniciativas y programas de ámbito nacional.
+
+ - Ofrecer un servicio de línea de ayuda con el que asesorar y asistir a menores, familias, educadores y profesionales del ámbito del menor sobre cómo hacer frente a los riesgos de Internet: contenidos perjudiciales, contactos dañinos y conductas inapropiadas.
+ 
+ - Organizar el Día de la Internet Segura (Safer Internet Day) en España.
+ 
+- Reducir la disponibilidad de contenido criminal en Internet, principalmente de abuso sexual infantil, dando soporte a las FFCCSE (Fuerzas y Cuerpos de Seguridad del Estado).
+
+Algunos de los medios que ponen a disposición de las familias son:
+
+- El conocimiento de las mayores ciberamenazas a la que están expuestos los menores. Algunos ejemplos son: [sexting](https://www.is4k.es/necesitas-saber/sexting), [grooming](https://www.is4k.es/necesitas-saber/grooming), [ciberacoso escolar](https://www.is4k.es/necesitas-saber/ciberacoso-escolar), etc.
+
+- Un apartado de [utilidad](https://www.is4k.es/de-utilidad) donde encontrar, herramientas, material didáctico, catálogos, juegos, tests, etc.
+
+- Una sección de [programas](https://www.is4k.es/programas) con jornadas y eventos.
+
+- Un espacio de [campañas](https://www.is4k.es/campanas) para divulgación mediática.
+
+## Pantallas amigas
+
+[Pantallas amigas](https://www.pantallasamigas.net/) es una plataforma cuyo propósito es la promoción del uso seguro y saludable de Internet y otras TICs, así como el fomento responsable en la infancia y la adolescencia del uso de las tecnologías y la digitalización. Desarrollando proyectos y recursos educativos para la capacitación de niños, niñas y adolescentes de forma que puedan desenvolverse de manera autónoma en Internet, siendo el objetivo final que desarrollen las habilidades y competencias digitales que les permitan participar de forma activa, positiva y saludable en la Red.
+
+Los pilares de actuación de esta plataforma son: 
+
+- La comunicación educativa.
+
+- La educación en habilidades para la vida digital.
+
+- La innovación.
+
+- La transversalidad con otros aspectos educativos.
+
+- La promoción de valores universales.
+
+Y por supuesto cuentan con innumerables recursos, herramientas, servicios, canales de divulgación, etc.
+
+Pantallas amigas desarrolla su actividad con el [apoyo de entidades e instituciones comprometidas](https://www.pantallasamigas.net/confian-en-pantallasamigas/) con este objetivo.
