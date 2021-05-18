@@ -94,7 +94,7 @@ Para acabar con este apartado puedes comprobar la seguridad y robustez de tu con
 
 - [Password Check](https://password.kaspersky.com/) 
 
-Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google  llamado [Password Checkout](https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/) o este otro llamado [Haveibeenpwned Passwords](https://haveibeenpwned.com/Passwords) para averiguar si alguna de tus contraseñas ha sido comprometida.
+Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google  llamado [Password Checkout](https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/) o estos otros llamados [Haveibeenpwned Passwords](https://haveibeenpwned.com/Passwords) y [¿Ha sido mi contraseña robada?](https://www.avast.com/hackcheck) para averiguar si alguna de tus contraseñas ha sido comprometida.
 
 ## Protocolo https
 
@@ -142,6 +142,8 @@ Para comprar por Internet debes tomar cuantas más precauciones mejor para evita
     
     - También tienes plugins como [Historial de precios](https://chrome.google.com/webstore/detail/historial-de-precios/fdeopiliemdomncemeibjpmccgmnkfig?hl=es-419&authuser=0) o [Alitools shopping assistan](https://chrome.google.com/webstore/detail/alitools-shopping-assista/eenflijjbchafephdplkdmeenekabdfb?hl=es-419&authuser=0
 ) que verifican si el precio del producto o servicio que deseas adquirir ha sido inflando por algún tipo de campaña publicitaria, como es el caso del Black Friday en los que suelen subir los precios para justificar su descuento. 
+
+    - Verifica que las reseñas sean legítimas con plataformas como [Review Meta](https://reviewmeta.com/) y [Fake Spot](https://www.fakespot.com/). Si quieres saber más sobre las campañas de reseñas fraudulentas lee esta entrada sobre [reseñas falsas](https://www.genbeta.com/actualidad/asi-incentivaban-a-crear-resenas-falsas-proveedores-chinos-baneados-amazon).
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Sellos y certificados de comercio online.'}
 knitr::include_graphics("images/sellos-de-confianza-online.jpg")
