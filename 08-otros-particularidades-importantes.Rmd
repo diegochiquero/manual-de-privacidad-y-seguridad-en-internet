@@ -118,27 +118,64 @@ Y en estos dos enlaces encontrarás dos prácticos recursos [Family Link by Goog
 
 ## Utilidades interesantes
 
-Aparte de todo lo visto en el manual existen muchas otras herramientas para ayudarnos a salvaguardar nuestra privacidad y seguridad en la red, algunas de estas son:
+Aparte de todo lo visto en el manual existen muchas otras herramientas para ayudarte a salvaguardar tu privacidad y seguridad en internet, algunas de estas son:
 
-- Emails temporales: [Temporay email](https://temp-mail.org/es/). Si solo necesitas regístrarte en una web para un recurso puntual, como por ejemplo descargarte un eBook, puedes hacer uso de este servicio. Y si usas el navegador Firefox, podrás tener este mismo servicio integrado en el propio navegador con solo la instalación de un plugin [Relay firefox](https://relay.firefox.com). 
+- Correo electrónico (email): 
 
+    - Emails temporales: Si solo necesitas regístrarte en una web para un recurso puntual, como por ejemplo descargarte un eBook, puedes utilizar [Temporay email](https://temp-mail.org/es/) y no es el único servicio de este tipo, en siguiente enlace tienes una lista más amplia de [servicios de correos temporales](https://www.genbeta.com/correo/7-servicios-de-email-temporales-para-evitar-spam-y-otros-problemas). Y si usas el navegador Firefox, podrás tener este mismo servicio integrado en el propio navegador con solo la instalación del plugin [Relay firefox](https://relay.firefox.com). 
+    
+    - Emails anónimos: Con [Secure email](https://www.secure-email.org/index.php) puedes enviar correos electrónicos y SMS anónimos, falsificar el número del remitente de SMS y muchos más.
+    
+    - Modificar el alias o identidad del email: [Simple login](https://simplelogin.io/) es un servicio con el que puedes crear tus alias o identidades para ocultar tu email personal, evitar spam y mantener tu privacidad.
+    
 - Escaneo de URLs maliciosas: [UrlScan](https://urlscan.io/). Esta plataforma detecta las direcciones webs fraudulentas.
 
 - Comprobar y mejorar tu privacidad y seguridad en internet: [Lista de verificación de seguridad](https://securitycheckli.st/). Esta web esta en inglés pero abarca un amplio espectro de herramientas y recursos diseñados para mejorar tu privacidad, seguridad y protección online y siempre dispones del traductor en línea de google.
 
-- Eliminar cuentas en Redes Sociales: [Deseat](https://www.deseat.me/).  Con esta plataforma podrás tener instantáneamente una lista de todas tus cuentas y eliminar las que no estés usando o las que te apetezcan. 
+- Eliminar cuentas en Redes Sociales: [Deseat](https://www.deseat.me/) es una plataforma con la que podrás tener instantáneamente una lista de todas tus cuentas y eliminar las que no estés usando o las que te apetezcan. 
  
-- Números de teléfono de usar y tirar: [Hushed](https://hushed.com). Se trata de un servicio premiun pero de coste muy económico. Solo es cuestión de ver si te compensa. 
+- Números de teléfono de usar y tirar: [Hushed](https://hushed.com) es un servicio premiun pero de coste muy económico. Solo es cuestión de ver si te compensa. 
 
 - Nombres y direcciones desechables: [Generador de nombres falsos](https://www.fakenamegenerator.com). Como en el caso de los emails temporales este servicio puede ser un buen recurso.
 
+- Aviso de webs sospechosas: En el Chrome Web Store encontrarás este plugin que se llama [Suspicious Site Reporter](https://chrome.google.com/webstore/detail/suspicious-site-reporter/jknemblkbdhdcpllfgbfekkdciegfboi) y que se encargará de avisarte si estas ante una webs de dudosa reputación.
+
+- Aviso de actividades sospechosas: Con [Get Logdog](https://getlogdog.com/) recibirás alertas cada vez que ocurra una actividad sospechosa en tu Gmail, Facebook y otras cuentas.
+
+- Protección dispositivo móvil: [Conan Mobile](https://www.osi.es/es/conan-mobile) te permite conocer el estado de seguridad de tu dispositivo, mostrándote soluciones a posibles riesgos a los que estés expuesto y proporcionándote algunos consejos que te ayudarán a mejorar su seguridad.
+
+- Centros de Seguridad:
+
+    - [Google](https://safety.google).	
+    
+    - [Facebook](https://es-es.facebook.com/safety).
+    
+    - [Instagram](https://about.instagram.com/es-la/community/safety).
+    
+    - [Tiktok](https://www.tiktok.com/safety?lang=es).
+
+
 ## Eventos internacionales 
 
-Dia internacional de internet seguro 
+Durante el año, países e instituciones como la Comisión europea promueven iniciativas entorno al ecosistema tecnológico. Son organizadas a nivel internacional y donde pueden llegar a participar hasta más de 100 países. A continuación se muestras las de más repercusión mediática:
 
-Día mundial de la contraseña
+- [Día de Internet](https://es.wikipedia.org/wiki/Día_de_Internet) (17 de mayo).
+
+- [Día Internacional de Internet Segura](https://es.wikipedia.org/wiki/Día_Internacional_de_Internet_Segura) (Segundo martes de febrero). 
+
+- [Día mundial de la contraseña](https://es.wikipedia.org/wiki/Día_mundial_de_la_contraseña) (Primer jueves de mayo).
 
 ## Colabora
 
-¿Cómo colaborar?
+Si eres una persona participativa y te gusta colaborar y aportar a los demás. Más abajo encontrarás una lista de actividades que podrás realizar, en las que no solo estarás ayudando a divulgar contenido y ayudar a otros, sino que además repercutirá de manera positiva en tu vida.
+
+- [Cibercooperante](https://www.incibe.es/cibercooperantes/quiero-ser-cibercooperante) (Incibe).
+
+- [Cibervoluntario](https://www.cibervoluntarios.org/) (Ciber voluntarios).
+
+- [Voluntario digital](https://ayudaenaccion.org/ong/colabora/voluntariado-digital/) (Ayuda en acción).
+
+- [Voluntariado digital](https://twitter.com/Clicka_CRE) (Click_A).
+
+ANÍMATE!!! 😉
 
