@@ -2,16 +2,30 @@
 
 ## Aprendizaje y reciclado continuo
 
-Introducción
+El aprendizaje y el reciclado continuo son dos de los pilares más importantes donde sustentar la educación. Por lo tanto sabrás que una buena educación abre puertas, facilita una mejor toma de decisiones y ayuda a evitar posibles escenarios futuros no deseados. Por lo tanto, es solo deber tuyo no descuidar la formación en conocimientos si quieres que sea tu mejor aliada para tu yo futuro y presente.
 
 ## Formación como medida preventiva
 
-La formación como medida preventiva
+En estos tiempos en los que de manera sutil nos vamos acercando a la cuarta revolución, marcada principalmente por la evolución de las tecnologías, la comunicación y la información entre otras. En los que estamos empezando a coquetear con los nuevos cambios de paradigma económico con la aparición de las criptomonedas,  social con la multitud de plataformas y medios digitales de repercusión mediática y la descentralización con la nueva web 3, la tecnología Blockchain y el protocolo IPFS (InterPlanetary File System), solo nos puede llevar a pensar que no mantener una formación activa y estar actualizados, puede repercutir de manera desfavorable o negativa en la esfera social, profesional y personal en la que todos nos movemos.
 
+Pon lo tanto, piensa que formarte para protegerte y sentirte seguro en el uso de las tecnologías es una inversión en bienestar y tranquilidad y que a mayor conocimiento, mayor protección y mejor gestión resolutiva.
+
+En todo el grueso de esta manual tienes a tu disposición multitud de plataformas, recursos y herramientas con las que poder aprender y seguir instruyéndote en todo lo concerniente a privacidad y seguridad en internet, por lo tanto te animo a ir ampliando tus conocimientos cuando quieras y a tu propio ritmo. Porque ya sabes lo que dicen "más vale prevenir que curar". 
+
+No obstante si estas pensando dedicarte a esto de la ciberseguridad dentro del ámbito profesional, a continuación tienes un lista de formaciones más especificas y regladas.
+ 
+- [Ciberseguridad en el Teletrabajo](https://learndigital.withgoogle.com/activate/course/cybersecurity-remote-work).
+ 
+- [Seguridad en internet](https://www.cualifica2.es/cursos/Curso-Seguridad-En-Internet).
+
+- [Catálogos de formación en ciberseguridad](https://www.incibe.es/catalogos-formacion-ciberseguridad).
+ 
 ## Pon a prueba tus conocimientos
 
-Pon a prueba tus conociminetos
+Una manera de saber que conocimientos tienes sobre privacidad y seguridad en internet es poniéndote a prueba. Es por ello que a continuación tienes los siguientes recursos donde podrás calibrar cuanto sabes sobre tema. Porque recuerda, a mayor conocimiento, mayor protección.
 
-## Foros
+- [¿Cuánto sabes?](https://www.osi.es/es/cuanto-sabes): Batería de cuestionarios de la Oficina de Seguridad del Internauta.
 
-Foros de consulta
+- [¿Puedes detectar cuándo te están engañando?](https://phishingquiz.withgoogle.com/?hl=es): Prueba anti-phishing de Google. 
+
+- [Prueba de detección de ingeniería social](https://www.osi.es/es/campanas/ingenieria-social/prueba-deteccion-ingenieria-social#collapsesuscripcion_index): Test de la Oficina de Seguridad del Internauta.
