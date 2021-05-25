@@ -36,7 +36,7 @@ Esta definición encaja muy bien en términos empresariales. Pero, ¿cómo prodr
 
 - Predecir las capacidades, intenciones y actividades cibernéticas: Se entiende como la capacidad detectar posibles amenazas.
 
-- Toma de decisiones: Actuar en consecuencia para no ser una cibervíctima.
+- Toma de decisiones: Actuar en consecuencia para no llegar a ser una cibervíctima.
 
 En definitiva la ciberinteligencia entendida desde el punto de vista de las personas podría entenderse como: Las competencias en conocimientos de las ciberamenazas existentes, la gestión de la privacidad y seguridad en los dispositivos y la red, apoyado en el uso de plataformas y software destinados a tal cometido. Siendo todo lo anterior lo que va a permir desarrollar las capacidades necesarias para la prevención, detección y reacción ante posibles ciberataques.
  
