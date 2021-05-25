@@ -190,9 +190,17 @@ Otro software muy útil contra la lucha de la publicidad no deseada es [Ghostery
 
 También es importante saber que prácticamente todos los medios sociales, como Facebook, Instagram, Google y demás disponen en sus menús de configuración de opciones para gestionar la publicidad que llega a tus dispositivos.
 
-## Scareware
+## Malvertising     
 
-Esta variante de malware es otro software malicioso más que trata de engañar a los usuarios para que visiten sitios infestados de malware. Normalmente suele darse en forma de ventanas emergentes, que además aparecen como advertencias legítimas de compañías de software en su mayoría de antivirus y que afirman que el sistema operativo ha sido vulnerado o que los archivos de PC han sido infectado [@KASPER-scareware].
+Malvertising es el acrónimo de las palabras Malicious y Advertising, que en español sería Publicidad Maliciosa. Esta amenaza lo que hace es esconder malware para infectar nuestros dispositivos en los espacios de publicidad de otras páginas webs, como son los banner de publicidad en las cabeceras o laterales tanto izquierdos como derecho de muchas de la web que a diario te encuentras en internet.
+
+La diferencia principal con el adware es que éste primero necesita que el malware se instale en el dispositivo y en el caso del malvertising no es necesaria ninguna instalación por parte del usuario para resultar infectado [@OSI-malvertising].
+
+La vía de contagio por la que podemos caer víctimas de este ciberdelito, es como habrás podido ver es hacer click en los anuncios en páginas webs.
+
+## Scareware o rogueware
+
+Esta variante de malware conocido como scareware o rogueware es otro software malicioso más que trata de engañar a los usuarios para que visiten sitios infestados de malware. Normalmente suele darse en forma de ventanas emergentes, que además aparecen como advertencias legítimas de compañías de software en su mayoría de antivirus y que afirman que el sistema operativo ha sido vulnerado o que los archivos de PC han sido infectado [@KASPER-scareware].
 
 Las vías de contagio son las mismas que has visto en malwares anteriores:
 
