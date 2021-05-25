@@ -62,6 +62,7 @@ troyanos
 ransomware-o-programa-rescate
 spyware-o-software-espía
 adware
+malvertising
 scareware
 malware-qr
 phishing
@@ -108,6 +109,7 @@ colabora
 formación-y-conocimientos
 aprendizaje-y-reciclado-continuo
 formación-como-medida-preventiva
+desarrolla-tu-ciberinteligencia
 pon-a-prueba-tus-conocimientos
 entidades-y-plataformas-de-ayuda
 ayuda-y-soporte-desde-instituciones
