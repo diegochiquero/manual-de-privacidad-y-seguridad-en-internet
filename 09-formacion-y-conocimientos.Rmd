@@ -6,7 +6,7 @@ El aprendizaje y el reciclado continuo son dos de los pilares más importantes d
 
 ## Formación como medida preventiva
 
-En estos tiempos en los que de manera sutil nos vamos acercando a la cuarta revolución, marcada principalmente por la evolución de las tecnologías, la comunicación y la información entre otras. En los que estamos empezando a coquetear con los nuevos cambios de paradigma económico con la aparición de las criptomonedas,  social con la multitud de plataformas y medios digitales de repercusión mediática y la descentralización con la nueva web 3, la tecnología Blockchain y el protocolo IPFS (InterPlanetary File System), solo nos puede llevar a pensar que no mantener una formación activa y estar actualizados, puede repercutir de manera desfavorable o negativa en la esfera social, profesional y personal en la que todos nos movemos.
+En estos tiempos en los que de manera sutil nos vamos acercando a la cuarta revolución, marcada principalmente por la evolución de las tecnologías, la comunicación y la información entre otras. En los que estamos empezando a coquetear con los nuevos cambios de paradigma económico con la aparición de las criptomonedas,  social con la multitud de plataformas y medios digitales de repercusión mediática y la descentralización con la nueva web 3.0, la tecnología Blockchain y el protocolo IPFS (InterPlanetary File System), solo nos puede llevar a pensar que no mantener una formación activa y estar actualizados, puede repercutir de manera desfavorable o negativa en la esfera social, profesional y personal en la que todos nos movemos.
 
 Pon lo tanto, piensa que formarte para protegerte y sentirte seguro en el uso de las tecnologías es una inversión en bienestar y tranquilidad y que a mayor conocimiento, mayor protección y mejor gestión resolutiva.
 
@@ -19,6 +19,26 @@ No obstante si estas pensando dedicarte a esto de la ciberseguridad dentro del �
 - [Seguridad en internet](https://www.cualifica2.es/cursos/Curso-Seguridad-En-Internet).
 
 - [Catálogos de formación en ciberseguridad](https://www.incibe.es/catalogos-formacion-ciberseguridad).
+
+## Desarrolla tu ciberinteligencia
+
+El término ciberinteligencia no es nuevo como tal, pero si que cada día cobra más vigencia y relevancia tanto en el mundo de los negocios como en el uso que hacen todos los usuarios del ciberespacio [@ciberinteligencia].
+
+Según el Centro de Tecnologías Emergentes de la [Universidad Carnegie Mellon](https://es.wikipedia.org/wiki/Universidad_Carnegie_Mellon), que es uno de los más destacados centros de investigación superior de los Estados Unidos en el área de ciencias de la computación y robótica, define la ciberinteligencia como: 
+
+"La adquisición y el análisis de información para identificar, rastrear y predecir las capacidades, intenciones y actividades cibernéticas que apoye la toma de decisiones"
+
+Esta definición encaja muy bien en términos empresariales. Pero, ¿cómo prodría entenderse este concepto en el uso que hace el común de los mortales de internet?. Para responder a esta pregunta analicemos con más detalle la definición anterior. Si prestas atención verás que las pautas a seguir son:
+
+- Adquisición de la información: Podría entenderse como los conocimientos adquiridos a través de la formación y el reciclado continuo.
+
+- Análisis: La formación adquirida provee de conocimientos para poder analizar el entorno donde mejor se mueven los ciberdelincuentes.
+
+- Predecir las capacidades, intenciones y actividades cibernéticas: Se entiende como la capacidad detectar posibles amenazas.
+
+- Toma de decisiones: Actuar en consecuencia para no ser una cibervíctima.
+
+En definitiva la ciberinteligencia entendida desde el punto de vista de las personas podría entenderse como: Las competencias en conocimientos de las ciberamenazas existentes, la gestión de la privacidad y seguridad en los dispositivos y la red, apoyado en el uso de plataformas y software destinados a tal cometido. Siendo todo lo anterior lo que va a permir desarrollar las capacidades necesarias para la prevención, detección y reacción ante posibles ciberataques.
  
 ## Pon a prueba tus conocimientos
 
