@@ -63,7 +63,7 @@ ransomware-o-programa-rescate
 spyware-o-software-espía
 adware
 malvertising
-scareware
+scareware-o-rogueware
 malware-qr
 phishing
 vishing
