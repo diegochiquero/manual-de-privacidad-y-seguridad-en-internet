@@ -200,7 +200,7 @@ La vía de contagio por la que podemos caer víctimas de este ciberdelito, es co
 
 ## Scareware o rogueware
 
-Esta variante de malware conocido como scareware o rogueware es otro software malicioso más que trata de engañar a los usuarios para que visiten sitios infestados de malware. Normalmente suele darse en forma de ventanas emergentes, que además aparecen como advertencias legítimas de compañías de software en su mayoría de antivirus y que afirman que el sistema operativo ha sido vulnerado o que los archivos de PC han sido infectado [@KASPER-scareware].
+Esta variante de malware conocido como Scareware o Rogueware es otro software malicioso más que trata de engañar a los usuarios para que visiten sitios infestados de malware. Normalmente suele darse en forma de ventanas emergentes, que además aparecen como advertencias legítimas de compañías de software en su mayoría de antivirus y que afirman que el sistema operativo ha sido vulnerado o que los archivos de PC han sido infectado [@KASPER-scareware].
 
 Las vías de contagio son las mismas que has visto en malwares anteriores:
 
