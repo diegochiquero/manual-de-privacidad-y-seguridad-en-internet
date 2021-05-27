@@ -16,7 +16,7 @@ Por ello, aporta solo los datos necesarios y no te expongas.
 
 El Oversharing es la sobreexposición de información personal en internet y en su mayoría en los Medios Sociales a través de tus perfiles sociales. Este hecho se presenta continuamente en la actualidad, donde los jóvenes y no tan jóvenes, publican constantemente imágenes o información personal. 
 
-De esta manera, tu vida queda totalmente expuesta y, aunque el propósito de ello sea totalmente lícito e incluso plausible, estos datos, imágenes o información pueden volverse en tu contra por un uso indebido o ilícito por parte de terceros.
+De esta manera, tu vida queda totalmente expuesta y aunque el propósito de ello sea totalmente lícito e incluso plausible, estos datos, imágenes o información pueden volverse en tu contra por un uso indebido o ilícito por parte de terceros.
 
 Este exceso de información que se puede facilitar en internet, sumado al comportamiento malicioso de otros usuarios, supone un grave riesgo que se corre cada día al señalar tu ubicación, comentar información personal o privada, colgar una imagen o video comprometedores, etc.
 
@@ -24,11 +24,11 @@ Esto no supone un delito en cuestión, pero puede dar lugar al chantaje, ciberac
 
 ## Privacidad en tus cuentas
 
-Prácticamente todo el mundo en menor o mayor medida dispone de cuentas de usuarios en todas sus aplicaciones o servicios en la red. Una de las más conocidas es la cuenta de [Google](https://myaccount.google.com/data-and-personalization), así como también la de [Microsoft](https://account.microsoft.com/account/privacy) entre otras. En ambos enlaces podrás ajustar la privacidad con la que más cómodo te sientas, además recuerda que no solo estos dos servicios disponen de estos ajustes, sino que también el resto de plataformas deben brindarte la posibilidad de que realices tu propia configuración.
+Prácticamente todo el mundo en menor o mayor medida dispone de cuentas de usuarios en todas sus aplicaciones o servicios en la red. Una de las más conocidas es la cuenta de [Google](https://myaccount.google.com/data-and-personalization), así como también la de [Microsoft](https://account.microsoft.com/account/privacy) entre otras. En ambos enlaces podrás ajustar la privacidad con la que más cómodo te sientas. Además recuerda que no solo estos dos servicios disponen de estos ajustes, sino que también el resto de plataformas deben brindarte la posibilidad de que realices tu propia configuración.
 
-En lo que respecta a las redes sociales como, [Facebook](https://es-la.facebook.com/help/325807937506242), [Twitter](https://help.twitter.com/es/safety-and-security#ads-and-data-privacy) o [Instagram](https://es-es.facebook.com/help/instagram/196883487377501/?helpref=hc_fnav&bc[0]=Ayuda%20de%20Instagram&bc[1]=Administrar%20tu%20cuenta), entre otras muchas más, no debes olvidar que también disponen opciones de privacidad y que en éste escenario está en juego tus datos más personales. Luego el mejor consejo es establecer una configuración privada en lugar de pública. Ya que estas redes sociales no tienen, por defecto, los niveles más elevados en cuanto a la protección y a la seguridad.
+En lo que respecta a las redes sociales como, [Facebook](https://es-la.facebook.com/help/325807937506242), [Twitter](https://help.twitter.com/es/safety-and-security#ads-and-data-privacy) o [Instagram](https://es-es.facebook.com/help/instagram/196883487377501/?helpref=hc_fnav&bc[0]=Ayuda%20de%20Instagram&bc[1]=Administrar%20tu%20cuenta), entre otras muchas más, no debes olvidar que también disponen opciones de privacidad y que en éste escenario está en juego tus datos más personales. Luego el mejor consejo es establecer una configuración privada en lugar de pública, ya que estas redes sociales no tienen por defecto, los niveles más elevados en cuanto a la protección y a la seguridad.
 
-Con referencia a todo lo expuesto, puedes dejar la configuración de privacidad que la cuenta trae por defecto o acomodarla a tus necesidades o preferencias. Dentro de cada cuenta se encuentran todas las opciones de privacidad, como, por ejemplo, historial de búsquedas, actividad de ubicación entre otras. 
+Con referencia a todo lo expuesto, puedes dejar la configuración de privacidad que la cuenta trae por defecto o acomodarla a tus necesidades o preferencias. Dentro de cada cuenta se encuentran todas las opciones de privacidad, como por ejemplo, historial de búsquedas, actividad de ubicación entre otras. 
 
 ## Navegación privada
 
