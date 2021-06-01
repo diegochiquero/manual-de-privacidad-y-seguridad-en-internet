@@ -290,13 +290,16 @@ También existe otra amenza silimiar estás conocida como Typosquatting, URL hij
 
 El Vishing es una estafa que consiste en una llamada de teléfono en la que ciberdelicuente suplanta la identidad de una persona, empresa o institución para conseguir que le proporciones información privada y sensible. Esta información normalmente van a ser datos personales, contraseñas o peor aun los datos bancarios. Se trata de técnicas de ingeniería social con la que el estafador se va ganando la confianza de la víctima de manera que ésta termina proporcionandole cualquier tipo de datos. Si quieres saber más sobre ingeniería social visita este enlace [¿Sabías que los ataques de ingeniería social suponen el 93% de las brechas de seguridad?](https://www.osi.es/es/actualidad/blog/2019/12/04/sabias-que-los-ataques-de-ingenieria-social-suponen-el-93-de-las-brechas).
 
+En esta línea puedes encontrarte con lo que se conoce como pretexting o pretexto. Se trata en un ataque más de ingeniería social y que consiste en elaborar un
+escenario o historia ficticia, donde el atacante tratará  que la víctima comparta información que, en circunstancias normales, no revelaría. Habrás podido notar que a su vez también es la base del Phishing y del Smishing, que verás más adelante [@RZ-pretexting].
+
 Por lo tanto debes tener muy en cuenta, que cualquier petición de tus contraseñas o información financiera es una estafa, ya que las instituciones legítimas nunca te pedirían este tipo de datos tan sensibles a través del teléfono. 
 
 La vía de contagio como se ha señalado al principio es a través de una llamada de teléfono.
 
 ## Smishing
 
-El Smishing es un acrónimo formado por las palabras SMS y phishing, debido a su parecido con este ataque tan popular. La diferencia entre el Smishing y el phishing es que mientras que este último lleva a cabo la estafa utilizando el correo electrónico como medio, en el smishing se utilizan mensajes de texto enviados a través de SMS al  smartphone o a través de las distintas aplicaciones de mensajería instantánea.
+El Smishing es un acrónimo formado por las palabras SMS y phishing, debido a su parecido con este ataque tan popular. La diferencia entre el Smishing y el Phishing es que mientras que este último lleva a cabo la estafa utilizando el correo electrónico como medio, en el Smishing se utilizan mensajes de texto enviados a través de SMS al  smartphone o a través de las distintas aplicaciones de mensajería instantánea. Al igual que el phishing y el vishing, también se trata de una técnica de ingeniería social. 
 
 El modus operandi sigue siendo muy similar a otros ataques donde el ciberdelincuente suplanta la identidad de alguna persona o entidad de confianza para su víctima, con el objetivo de engañarla y conseguir que comparta información personal, realice un pago, haga clic en un enlace malicioso o se descargue un archivo adjunto entre otras.
 
@@ -595,7 +598,7 @@ El formjacking es la técnica que utilizan los ciberdelincuentes para intercepta
 
 Esto lo llevan a cabo secuestrando los sitios webs donde habitualmente compran los usuarios. De esta forma la información que se introduce va a parar a un servidor controlado por ciberdelicuentes a través de lo que se conoce como la técnica de inyección de código malicioso, pudiendo así, robar información de pagos, número de la tarjeta o cualquier otro tipo de datos sensibles.
 
-Es por ello que es muy recomendable evitar las páginas que puedan ser vistas como vulnerables, ya que éstas van a ser la vía de contagio. Aunque esto pueda parecer difícil de detectar, si ves una web con una estética un tanto antigua es posible que el resto de la web también este algo obsoleta y sea el objetivo de este ciberdelito [@formjacking].
+Es por ello que es muy recomendable evitar las páginas que puedan ser vistas como vulnerables, ya que éstas van a ser la vía de contagio. Aunque esto pueda parecer difícil de detectar, si ves una web con una estética un tanto antigua es posible que el resto de la web también este algo obsoleta y sea el objetivo de este ciberdelito [@RZ-formjacking].
 
 ## Juice jacking
 
