@@ -60,6 +60,8 @@ Si una web va a realizar transacciones comerciales de la naturaleza que sea, va 
 
   Toda web que haga uso de cookies está obligada ponerlo en conocimiento de los usuarios y a solicitar su aceptación.
   
+  Con respecto a la legislación de la Unión Europea sobre el consentimiento de las cookies debes saber que dicha ley dicta que los usuarios de internet deben tener la opción de poder rechazarlas, sin que por ello éste se vea perjudicado en su navegación. Esto nos lleva a señalar que el problema está en que la mayoría de los sitios web no lo cumplen. Normalmente tú como usuario en una mayor parte de las veces solo te vas a encontrar con  la opción de aceptar todas las cookies o rechazarlas, en otros casos con otra opción más confusa y compleja de manejar la configuración de estás. Y en la inmensa mayoría de las ocasiones no te vas a encontrar con esa alternativa que te brinda la ley de poder rechazarlas [@GEN-rechazar-cookies].
+  
 ## Derechos ARCO
 
 Los derechos ARCO  (Acceso, Rectificación, Cancelación y Oposición), están regulados por la Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales, que has podido ver en un apartado anterior. 
