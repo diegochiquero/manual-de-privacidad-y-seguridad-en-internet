@@ -82,7 +82,7 @@ Si quieres más información detallada sobre las cookies visita este enlace [por
 
 ## Permisos cámara, micrófono y localización.
 
-Una práctica muy saludable en el uso de la cámara o webCam e incluso el micrófono, es tenerla tapada cuando no la estés usando y si no fijate en la foto se muestra a continuación  que le tomaron a Mark Zuckerberg.
+Una práctica muy saludable en el uso de la cámara o webCam e incluso el micrófono, es tenerla tapada cuando no la estés usando y si no fijate en la foto que se muestra a continuación  que le tomaron a Mark Zuckerberg.
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='WebCam y micrófono del ordenador tapados.'}
 knitr::include_graphics('images/webca-mark-zuckerberg.png')
@@ -141,7 +141,7 @@ Con respecto a las aplicaciones de mensajería instantánea debes tener en cuent
 
 ## He decidido vender o donar mi dispositivo
 
-Si estás pensando en vender o quizá donar cualquiera de tus dispisitivos, ya sea un disco duro externo, el ordenador o portátil, un USB o cualquier otro dispositivo que contenga almacenamiento, asegurate primero de eliminar totalmente todo el contenido. Para ello utiliza software de forrado definitivo, ya que un simple formateado no borrará la información. El borrado solo se completa cuando se reescribe sobre la anterior información, es por esto que un formatero solo te hace constar que el espacio esta disponible, pero el contenido, aunque oculto, sigue estando ahí. Esto que quiere decir que con software avanzado y específico los ciberdelicuentes podrían recuperar todo el contenido [@XATAKA-borrado-almacenamiento].
+Si estás pensando en vender o quizá donar cualquiera de tus dispisitivos, ya sea un disco duro externo, el ordenador o portátil, un USB o cualquier otro dispositivo que contenga almacenamiento, asegurate primero de eliminar totalmente todo el contenido. Para ello utiliza software de borrado definitivo, ya que un simple formateado no borrará la información. El borrado solo se completa cuando se reescribe sobre la anterior información, es por esto que un formateo solo te hace constar que el espacio esta disponible, pero el contenido, aunque oculto, sigue estando ahí. Esto quiere decir que con software avanzado y específico los ciberdelicuentes podrían recuperar todo el contenido [@XATAKA-borrado-almacenamiento].
 
 Si quieres más recomendaciones sobre como actuar en este supuesto, te recomiendo que leas la siguiente entrada [¿Sabías que 2 de cada 5 dispositivos vendidos contienen información personal?](https://www.osi.es/es/actualidad/blog/2019/10/09/sabias-que-2-de-cada-5-dispositivos-vendidos-contienen-informacion).
 

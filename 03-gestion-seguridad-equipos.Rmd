@@ -70,7 +70,7 @@ La principal función de las actulizaciones son las de mejorar tanto la funciona
 
 ## Antivirus, antimalware, antispyware y firewall
 
-Aunque a priori pudiese parecer lo mismo, los antivirus, antimalware, antispyware y firewall, cumple funciones diferentes, pero con un mismo fin, mantener la seguridad de nuestros equipos. La mayoría de estos tipos de software los puedes encontrar en dos modalidades: gratuita y de pago [@software-seguridad].
+Aunque a priori pudiese parecer lo mismo, los antivirus, antimalware, antispyware y firewall, cumple funciones diferentes, pero con un mismo fin, mantener la seguridad de tus equipos. La mayoría de estos tipos de software los puedes encontrar en dos modalidades: gratuita y de pago [@software-seguridad].
 
 - Antivirus: Es un programa que detecta la presencia de virus informáticos (software malicioso que altera el funcionamiento normal del ordenador sin que el usuario lo sepa o consienta) y los elimina o repara. Algunos ejemplos de antivirus son: [Avira](https://www.avira.com/es), [Avast](https://www.avast.com/es-es/index#pc), [AVG](https://www.avg.com/es-es/homepage#pc), [Virus Total](https://www.virustotal.com/gui/) (online), entre muchos más.
 
@@ -104,9 +104,7 @@ Y las copias pueden ser mantenidas:
 
 Las copias de seguridad debes realizarlas con la frecuencia que sea necesaria para garantizar tu nivel de seguridad [@tipos-copia-seguridad].
 
-Puedes crear una copia de seguridad de tu sistema fácilmente ya que tanto Windows como Mac traen esta opción de forma nativa, solo necesitaras disponer de un dispositivo externo de almacenamiento en el que puedas guardar la copia con espacio de almacenamiento suficiente. 
-
-Para Windows tienes una guía en [realizar y restaurar una copia de seguridad del PC](https://support.microsoft.com/es-es/windows/realizar-y-restaurar-una-copia-de-seguridad-del-pc-ac359b36-7015-4694-de9a-c5eac1ce9d9c). Y en dispositivos Apple existe la opción de [cómo hacer copias de seguridad en Mac](https://support.apple.com/es-es/mac-backup).
+Puedes crear una copia de seguridad de tu sistema operativo fácilmente ya que tanto Windows como Mac traen esta opción de forma nativa, solo necesitaras disponer de un dispositivo externo de almacenamiento en el que puedas guardar la copia con espacio de almacenamiento suficiente. Para Windows tienes la guía en el siguiente enlace de como [realizar y restaurar una copia de seguridad del PC](https://support.microsoft.com/es-es/windows/realizar-y-restaurar-una-copia-de-seguridad-del-pc-ac359b36-7015-4694-de9a-c5eac1ce9d9c), y para los dispositivos Apple la guía la encontrarás en [cómo hacer copias de seguridad en Mac](https://support.apple.com/es-es/mac-backup).
 
 Una práctica muy recomendable a la hora de hacer copias de seguridad es seguir la estrategia 3-2-1 [@INCI-copia-3-2-1] y que consiste en:
 
@@ -155,7 +153,7 @@ Exiten varias herramientas en el mercado para este cometido como las detalladas 
 
 - [BitLocker](https://docs.microsoft.com/es-es/windows/security/information-protection/bitlocker/bitlocker-overview). Software nativo del sistema operativo Windows.
 
-- [FileVault](https://support.apple.com/es-es/HT204837). Software nativo del sistema opera de macOS.
+- [FileVault](https://support.apple.com/es-es/HT204837). Software nativo del sistema operativo de macOS.
 
 - [Veracrypt](https://www.veracrypt.fr).
 
