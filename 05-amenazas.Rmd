@@ -2,7 +2,7 @@
 
 ## Principales amenazas 
 
-En lo referente a la seguridad de nuestros dispositivos debes tener en cuenta la diversidad de amenazas que existen, tales como virus, spywares, troyanos, gusanos y que pueden comprometer tus dispositivos y toda la información que en ellos contengas.
+En lo referente a la seguridad de tus dispositivos debes tener en cuenta la diversidad de amenazas que existen, tales como virus, spywares, troyanos, gusanos y que pueden comprometer tus dispositivos y toda la información que en ellos contengas.
 
 La mayoría de éstos están catalogado como Malware. Un Malware es un tipo de software malicioso con un primer objetivo inicial de infiltrarse en un equipo o sistema informático sin el consentimiento del usuario, para posteriormente actuar sobre él [@WIKI-malware]. 
 
@@ -14,7 +14,7 @@ Las amenazas vienen de la mano de perfiles a los que conoces como hacker, ciberd
 
 - Ciberdelincuentes: Sus ataques se dirigen a objetivos concretos como escuelas, hospitales, instituciones, grandes empresas o bancos, entre muchos otros.
 
-- Ciberterroristas y ciberyihadistas: Varias organizaciones terroristas han desarrollado sus propias divisiones informáticas, aunque todavía no parecen ser capaces de desarrollar ciberataques sofisticados.
+- Ciberterroristas y ciberyihadistas: Organizaciones terroristas que han desarrollado sus propias divisiones informáticas, aunque todavía no parecen ser capaces de desarrollar ciberataques sofisticados.
 
 - Hackivistas: Grupos reivindicativos que actúan por razones ideológicas.
 
@@ -58,7 +58,7 @@ Dispones de más información en [hacker vs ciberdelincuente](https://www.incibe
 
 - Control parental.
 
-- Filtro web (que restringe el acceso a según que contenido, para menores o empresas que no quieren que sus empleados visiten ciertas páginas.)
+- Filtro web que restringe el acceso a contenidos no apto para menores.
 
 **Los tres ciberataques que encabezan el ranking son:**
 
@@ -80,7 +80,7 @@ Los virus tienen diferentes vías de entrada a tus equipos, como por ejemplo:
 
 - Apertura de algún fichero adjunto en un correo electrónico.
 
-- Al visitar a una web maliciosa y pulsar sobre alguna dirección acortada que se publican en redes sociales y que en realidad no sabes a qué páginas web te puede llevar.
+- Visitar una web maliciosa o pulsar sobre alguna dirección acortada que se publican en redes sociales u otros medidos y que en realidad no sabes a qué páginas web te puede llevar.
 	
 ## Gusanos informáticos
 
@@ -90,7 +90,7 @@ El principal objetivo de los gusanos es propagarse y afectar al mayor número de
 
 A diferencia de un virus, un gusano no necesita realizar cambios en los archivos de programas, sino que se aloja en diferentes ubicaciones del ordenador, principalmente la memoria RAM, para seguidamente clonarse a sí mismo y usar tus contactos y otros recursos del dispositivo para auto enviarse, a través del correo electrónico o programas P2P entre otros. Por lo que tienen la capacidad de propagarse sin la ayuda de una persona.
 
-Los gusanos tienen diferentes vías de entrada a nuestros equipos, como, por ejemplo: 
+Los gusanos tienen diferentes vías de entrada a los equipos, como, por ejemplo: 
 
 - Utilización de una memoria USB previamente infectada.
 
@@ -98,15 +98,15 @@ Los gusanos tienen diferentes vías de entrada a nuestros equipos, como, por eje
 
 - Apertura de algún fichero adjunto en un correo electrónico.
 
-- Visitar a una web maliciosa, al pulsar sobre alguna dirección acortada que se publican en redes sociales y que en verdad no sabemos a qué páginas web nos llevarán
+- Visitar una web maliciosa o pulsar sobre alguna dirección acortada que se publican en redes sociales u otros medidos y que en realidad no sabes a qué páginas web te puede llevar.
 
 ## Troyanos
 
 Un Troyano o también llamado Caballo de Troya es una clase de malware que normalmente se camufla como software legítimo. Los ciberladrones utilizan este software malicioso para acceder en tus equipos y una vez dentro campar a sus anchas [@KASPER-troyano].
 
-Uno de los más peligrosos son los Keylogger es un tipo de software o un dispositivo hardware específico que se encarga de registrar las pulsaciones que realizas a través de tu teclado. Posteriormente son guardarlas en un fichero y remitido a través de la red a los ciberdelincuentes.
+Uno de los más peligrosos son los Keylogger es un tipo de software o un dispositivo hardware específico que se encarga de registrar las pulsaciones que realizas a través de tu teclado. Posteriormente son guardadas en un fichero y remitido a través de la red a los ciberdelincuentes.
 
-Pudiendo llegar también como virus o gusanos. Una vez activados, los troyanos pueden permitir a los cibercriminales espiarte, robar tus datos confidenciales y obtener acceso por una puerta trasera a tu sistema.
+Pudiendo llegar también como virus o gusanos, una vez activados, los troyanos pueden permitir a los cibercriminales espiarte, robar tus datos confidenciales y obtener acceso por una puerta trasera a tu sistema.
 
 Los métodos más comunes de infección de un troyano suelen ser:
 
@@ -118,9 +118,9 @@ Los métodos más comunes de infección de un troyano suelen ser:
 
 - Abrir una imagen o cualquier otro tipo de archivo que sea en realidad un ejecutable con extensión modificada.
 
-- Visitar sitios web trampa, es decir, sitios que por ejemplo que podamos ver los vídeos sea necesario descargar un códec que en realidad es el troyano.
+- Visitar sitios web trampa, es decir, sitios en los que para poder ver los vídeos sea necesario descargar un códec que en realidad es el troyano.
 
-- Visitar un sitio web previamente infectado sin las nuestro sistema actualizado o las debidas medidas de seguridad básica correspondiente.
+- Visitar una web maliciosa o pulsar sobre alguna dirección acortada que se publican en redes sociales u otros medidos y que en realidad no sabes a qué páginas web te puede llevar.
 
 - Descarga de contenidos mediante redes de compartición P2P u otras fuentes poco fiables.
 
@@ -130,9 +130,7 @@ Existen herramientas que analizan y limpian los troyanos que se esconden en tu d
 
 El Programa rescate o ransomware, está dentro del conjunto de software malicioso que también se conoce como malware y que impiden utilizar el equipo mientras el usuario no pague una cierta cantidad de dinero. El virus bloquea o cifra la información o datos del equipo  [@WIKI-ransomware].
 
-Para intimidar y engañar a las víctimas les hacen creer que han incurrido en algún tipo de actividad delictiva, como incitación al odio, terrorismo, pederastia, entre otros. 
-
-Comparte junto con el resto de malware como son los virus, gusanos, troyanos, spyware y demás, la mismas vías de entrada. De modo que puedes verlo en dichos apartados de esta misma unidad.
+Para intimidar y engañar a las víctimas les hacen creer que han incurrido en algún tipo de actividad delictiva, como incitación al odio, terrorismo o pederastia, entre otros. 
 
 En la actualidad estos son unos de los ataques más virulentos. Según un estudio realizado por la compañía [Panda Security](https://www.pandasecurity.com/es/mediacenter/seguridad/2019-tsunami-del-ransomware/) en el 2019 este delitito tuvo un incremento con respecto al año 2018 del 500%. Y según un estudio del [Observatorio del Sector Público de Inetum](https://www.ospi.es/es/) solo en 2018, el número de afectados por estos ataques fue de más de 1.000 millones en todo el planeta. 
 
@@ -148,9 +146,9 @@ Las diferentes vías de entrada de ransomware a tu equipo son:
 
 - Apertura de algún fichero adjunto en un correo electrónico.
 
-- Al visitar a una web maliciosa y pulsar sobre alguna dirección acortada que se publican en redes sociales y que en realidad no sabes a qué páginas web te puede llevar.
+- Visitar una web maliciosa o pulsar sobre alguna dirección acortada que se publican en redes sociales u otros medidos y que en realidad no sabes a qué páginas web te puede llevar.
 
-En este punto cabe destacar que la firma de antivirus AVG pone a disposición del usuario una suite de herramientas gratuitas para [deshacer el cifrado del ransomware](https://www.avg.com/es-es/ransomware-decryption-tools).
+En este punto cabe destacar que la firma de antivirus AVG pone a disposición del usuario una suite de herramientas gratuitas para [deshacer el cifrado del ransomware](https://www.avg.com/es-es/ransomware-decryption-tools), aunque quizá esto no siempre funcione.
 
 Además en el caso del sistema operativo de Windows 10 en su última versión dispone de una protección de forma nativa contra ransomware, aunque esto no te garantiza estar inmunizado.
 
@@ -164,13 +162,13 @@ Un spyware típico se auto instala en el sistema afectado de forma que se ejecut
 
 Sin embargo, a diferencia de los virus, no se intenta replicar en otros ordenadores, por lo que funciona como un parásito.
 
-El spyware tiene diferentes vías de entrada a nuestros equipos, muy parecidas a los virus y gusanos: 
+El spyware tiene diferentes vías de entrada a los equipos, muy parecidas a los virus y gusanos: 
 
 - Descarga de contenidos mediante redes de compartición P2P u otras fuentes poco fiables.
 
 - Apertura de algún fichero adjunto en un correo electrónico.
 
-- Visitar a una web maliciosa, al pulsar sobre alguna dirección acortada que se publican en redes sociales y que en verdad no sabemos a qué páginas web nos llevarán.
+- Visitar una web maliciosa o pulsar sobre alguna dirección acortada que se publican en redes sociales u otros medidos y que en realidad no sabes a qué páginas web te puede llevar.
 
 ## Adware
 
@@ -182,7 +180,7 @@ Las vías de entrada a son las mismas prácticamente que cualquier otro tipo de 
 
  - Apertura de algún fichero adjunto en un correo electrónico.
 
- - Visitar a una web maliciosa, al pulsar sobre alguna dirección acortada que se publican en redes sociales y que en verdad no sabemos a qué páginas web nos llevarán.
+ - Visitar una web maliciosa o pulsar sobre alguna dirección acortada que se publican en redes sociales u otros medidos y que en realidad no sabes a qué páginas web te puede llevar.
  
 Aunque parte de toda la molesta publicidad que recibes es legítima, existe una plataforma que se llama [Lista Robinson](https://www.listarobinson.es/) a la que puedes inscribirte e indicar cuales son las  empresas publicitarias de las que no quieres recibir publicidad y por qué medios no quieres recibir dicha publicidad: teléfono, correo postal, correo electrónico o SMS/MMS. Además se trata de un servicio gratuito.
  
@@ -192,9 +190,9 @@ También es importante saber que prácticamente todos los medios sociales, como 
 
 ## Malvertising     
 
-Malvertising es el acrónimo de las palabras Malicious y Advertising, que en español sería Publicidad Maliciosa. Esta amenaza lo que hace es esconder malware para infectar nuestros dispositivos en los espacios de publicidad de otras páginas webs, como son los banner de publicidad en las cabeceras o laterales tanto izquierdos como derecho de muchas de la web que a diario te encuentras en internet.
+Malvertising es el acrónimo de las palabras Malicious y Advertising, que en español sería Publicidad Maliciosa. Esta amenaza lo que hace es esconder malware para infectar los dispositivos en los espacios de publicidad de otras páginas webs, como son los banner de publicidad en las cabeceras o laterales tanto izquierdos como derecho de muchas de la web que a diario te encuentras en internet.
 
-La diferencia principal con el adware es que éste primero necesita que el malware se instale en el dispositivo y en el caso del malvertising no es necesaria ninguna instalación por parte del usuario para resultar infectado [@OSI-malvertising].
+La diferencia principal con el adware es que este primero necesita que el malware se instale en el dispositivo y en el caso del malvertising no es necesaria ninguna instalación por parte del usuario para resultar infectado [@OSI-malvertising].
 
 La vía de contagio por la que podemos caer víctimas de este ciberdelito, es como habrás podido ver es hacer click en los anuncios en páginas webs.
 
@@ -208,7 +206,7 @@ Las vías de contagio son las mismas que has visto en malwares anteriores:
 
 - Apertura de algún fichero adjunto en un correo electrónico.
 
-- Visitar a una web maliciosa, al pulsar sobre alguna dirección acortada que se publican en redes sociales y que en verdad no sabemos a qué páginas web nos llevarán.
+- Visitar una web maliciosa o pulsar sobre alguna dirección acortada que se publican en redes sociales u otros medidos y que en realidad no sabes a qué páginas web te puede llevar.
 
 ## Malware QR
 
@@ -270,7 +268,7 @@ En relación a la protección contra el phishing existen diferentes herramientas
 
 - Plugins: Extensiones para el navegador como lo es [ZoneAlarm Web Secure Free](https://www.zonealarm.com/es/anti-phishing/).
 
-- Código anti-phishing: Existen plataformas webs que ofrecen este servicio. Consiste en un código o palabra clave que tú facilitas la primera vez a la web y que ésta incluye en sus futuros email, verificando así la legitimidad del mismo. Un ejemplo de ello lo econtrarás en la plataforma de intercambio de criptomonedas [Binance código anti-phishing](https://academy.binance.com/es/articles/anti-phishing-code).
+- Código anti-phishing: Existen plataformas webs que ofrecen este servicio. Consiste en un código o palabra clave que tú facilitas la primera vez a la web y que esta incluye en sus futuros email, verificando así la legitimidad del mismo. Un ejemplo de ello lo econtrarás en la plataforma de intercambio de criptomonedas [Binance código anti-phishing](https://academy.binance.com/es/articles/anti-phishing-code).
 
 - Navegadores: 
 
@@ -278,7 +276,7 @@ En relación a la protección contra el phishing existen diferentes herramientas
     
     - [Google Chrome](https://www.google.com/intl/es/chrome/) a su vez cuenta con los recursos ofrecidos por [Google safe browsing](https://safebrowsing.google.com/).
 
-Si quieres saber más sobre como evitar el phishing y de còmo saber identificar este tipo de fraude, visita el enlace de [Cómo identificar un correo electrónico malicioso](https://www.osi.es/es/como-identificar-un-correo-electronico-malicioso).
+Si quieres saber más sobre como evitar el phishing y de cómo saber identificar este tipo de fraude, visita el enlace de [Cómo identificar un correo electrónico malicioso](https://www.osi.es/es/como-identificar-un-correo-electronico-malicioso). Y además, si también quieres ver otros ejemplos de phishing de bancos como CaixaBank, Santander o BBVA, pasate por la siguiente publicación titulada [Detectadas campañas de phishing y smishing suplantando a diversas entidades bancarias](https://www.osi.es/es/actualidad/avisos/2021/06/detectadas-campanas-de-phishing-y-smishing-suplantando-diversas-entidades) de la Oficina de Seguridad del Internauta, donde te encontrarás capturas de pantallas, detalles y soluciones que te ayudarán a salir airoso de este peligroso ciberdelito.
 
 Otra técnica muy parecida al Phishing e igualmente peligrosa es el Pharming y que consiste en la explotación de una vulnerabilidad en el software de los servidores DNS (Domain Name System) o en el de los equipos de los propios usuarios, que permite a un atacante redirigir un nombre de dominio (domain name) a otra máquina distinta. De esta forma, un usuario que introduzca un determinado nombre de dominio que haya sido redirigido, accederá en su explorador de internet a la página web que el atacante haya especificado para ese nombre de dominio [@KASPER-pharming].
 
@@ -311,7 +309,7 @@ Como se ha destacado en líneas anteriores la vía de entrada de esta amenaza es
 
 Los términos spam o correo malicioso hacen referencia a los mensajes no solicitados, no deseados o con remitente no conocido (correo anónimo), habitualmente de tipo publicitario, generalmente son enviados en grandes cantidades (incluso masivas) que perjudican de alguna o varias maneras al receptor [@WIKI-spam].
 
-Su finalidad suele ser con motivos comerciales, pero también pueden contener enlaces peligros como el Phishing, solicitar datos sensibles o contener descargas que sean un riesgo para nuestra privacidad y seguridad: 
+Su finalidad suele ser con motivos comerciales, pero también pueden contener enlaces peligros como el Phishing, solicitar datos sensibles o contener descargas que sean un riesgo para tu privacidad y seguridad: 
 
 - E-Mails Spam con fines comerciales
 
@@ -335,7 +333,7 @@ Pero puede ocurrir que a través de una instalación de software, normalmente gr
 knitr::include_graphics("images/toolbar.jpg")
 ```
 
-Normalmente, se instalan como un añadido al instalar aplicaciones gratuitas en el ordenador. Si no tienes cuidado durante el proceso de instalación y pulsamos siempre "Siguiente-Siguiente-Siguiente" las toolbars acaban en nuestro navegador. Para evitarlo no debes instalar una aplicación dando a "Siguiente-Siguiente-Siguiente" sin leer lo que nos están indicando. Para evitar este supuesto, recuerda que lo mejor es descargar programas solo de las webs oficiales.
+Normalmente, se instalan como un añadido al instalar aplicaciones gratuitas en el ordenador. Si no tienes cuidado durante el proceso de instalación y pulsamos siempre "Siguiente-Siguiente-Siguiente" las toolbars acaban en tu navegador. Para evitarlo no debes instalar una aplicación dando a "Siguiente-Siguiente-Siguiente" sin leer lo que nos están indicando. Para evitar este supuesto, recuerda que lo mejor es descargar programas solo de las webs oficiales.
 
 En el caso de haber instalado alguna toolbars por descuido existen algunas herramientas para desinstalarlas fácilmente, entre ellas esta [Malwarebytes](https://es.malwarebytes.com/adwcleaner/).
 
@@ -452,7 +450,7 @@ Por último pero no por ello menos importante si en algún momento te encontrase
 
 Una vulnerabilidad en términos de informática es una debilidad o fallo en un sistema de información que pone en riesgo la seguridad de la información pudiendo permitir que un atacante pueda comprometer la integridad, disponibilidad o confidencialidad de la misma. Estas vulnerabilidades pueden tener distintos orígenes como por ejemplo: fallos de diseño, errores de configuración o carencias de procedimientos [@INCI-vulnerabilidad].
 
-Los fallos de vulnerabilidad les corresponde corregirlos a las terceras partes implicadas lo a veces con lleva la dificultad de que escapan a nuestro control. Pero para protegernos de tales, debemos tener actualizados todos nuestros sistemas y software. 
+Los fallos de vulnerabilidad les corresponde corregirlos a las terceras partes implicadas lo a veces con lleva la dificultad de que escapan a nuestro control. Pero para protegernos de tales, debes tener actualizados todos tus sistemas y software. 
 
 Un ejemplo de vulnerabilidad muy conocido fuero el [Meltdown](https://es.wikipedia.org/wiki/Meltdown_(vulnerabilidad)) y [Spectre](https://es.wikipedia.org/wiki/Spectre_(vulnerabilidad)), relacionadas con los procesadores informáticos, que existen desde mediados de los noventa, pero que han sido descubiertas solamente ahora.
 
