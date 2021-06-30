@@ -6,7 +6,7 @@ En esta sociedad actual, tecnológica y digitalizada, de la que todos en mayor o
 
 En la esfera digital todas y cada una de nuestras acciones tendrá una repercusión directa en lo que el resto va a percibir sobre nosotros y por ende a definir quiénes somos, tanto desde una perspectiva personal, profesional como social creando constantemente y a veces casi de manera imperceptible nuestra identidad digital. Es por ello que no debes perder el foco y entender que esto va a contribuir y afectar a todas las capas de tu yo analógico.
 
-Por lo tanto, en este nuevo escenario hacia la web 3.0 en el que ha aumentado la exposición a la superficie digital, y en el que incremento exponencial de ciberdelincuencia parece no tener freno, debes aprender y mejorar la experiencia digital y hacerla compatible con un uso responsable, respetuoso, crítico y creativo de la tecnología para todos los ciudadanos con el desarrollo de las capacidades digitales que propicien un progreso inclusivo, seguro, privado y sostenibles que garantice el bienestar social.
+Por lo tanto, en este nuevo escenario hacia la web 3.0 en la que ha aumentado la exposición a la superficie digital, y en el que el incremento exponencial de la ciberdelincuencia parece no tener freno, debes aprender y mejorar la experiencia digital y hacerla compatible con un uso responsable, respetuoso, crítico y creativo de la tecnología. Y a su vez desarrollar capacidades digitales que propicien un progreso inclusivo, seguro, privado y sostenibles que garantice el bienestar social.
 
 ## Metadatos
 
@@ -42,7 +42,7 @@ En este sentido es importante en un primer momento, conocer si tu huella digital
 
 - [Hootsuite](https://www.hootsuite.com/). Esta herramienta te buscará entre las principales redes sociales, como Facebook, twitter, etc. es usada en su mayoría en el mundo corporativo.
 
-Si los resultados obtenidos no son de tu agrado, algunas plataformas te permiten solicita la eliminación de dicho contenido o simplemente puedes gestionar tu esa información desde la propia plataforma. En el caso de Google puedes hacerlo a través de [Mi Actividad](https://myactivity.google.com/myactivity).
+Si los resultados obtenidos no son de tu agrado, algunas plataformas te permiten solicita la eliminación de dicho contenido o simplemente puedes gestionar tú, esa información desde la propia plataforma. En el caso de Google puedes hacerlo a través de [Mi Actividad](https://myactivity.google.com/myactivity).
 
 Crear una buena huella digital requiere de tiempo y debes ser cuidadoso con la manera en que interactuas en la red. Existen decálogos que te guían para crear una excelente reputación online, así como videos tutoriales y herramientas para llevarlo a cabo. Nos obstante aquí tienes las mejores recomendaciones para cuando quieras compartir, comentar, valorar o opinar en cualquiera de los medios sociales como Facebook, Instagram o cualquier otra, hacer una reseña en google o participar en algún foro [@decalogo-digital].
 
@@ -84,11 +84,11 @@ Este concepto podría considerarse como una vulnerabilidad más de tu privacidad
 
 Cualquier navegador, salvo que usemos una navegación privada, almacena un registro de las páginas que hemos visitado, una información que podemos borrar si queremos o conservar en el caso de querer localizar más tarde alguna página que no recordemos. Es muy útil en este segundo caso, pero puede llegar a ser embarazoso si no queremos que nadie pueda ver las webs que hemos visitado.
 
-Cada navegador ofrece la posibilidad de borrar toda esta información y para ello accederemos desde los menús de estos. Cada navegador tiene una forma diferente de realizar este borrado, aunque normalmente suele estar en la opción/pestaña herramientas. No obstante el siguiente enlace te llevará a la web del antivirus [AVG](https://www.avg.com/es/signal/how-to-clear-your-browsing-and-search-history), desde donde te enlazará a los diferentes tutoriales de cómo borrar el historial de navegación y de búsquedas de los navegadores más populares, como Google Chrome, Firefox o Microsoft Edge entre otros.
+Cada navegador ofrece la posibilidad de borrar toda esta información y para ello puedes acceder desde los menús del propio navegador. Cada navegador tiene una forma diferente de realizar este borrado, aunque normalmente suele estar en la opción/pestaña herramientas. No obstante el siguiente enlace te llevará a la web del antivirus [AVG](https://www.avg.com/es/signal/how-to-clear-your-browsing-and-search-history), desde donde te enlazará a los diferentes tutoriales de cómo borrar el historial de navegación y de búsquedas de los navegadores más populares, como Google Chrome, Firefox o Microsoft Edge entre otros.
 
 ## Derecho al olvido
 
-El Reglamento General de Protección de Datos recoge una norma que permite a los usuarios poder ejercer su derecho al olvido. Esto quiere decir que todas las personas tienen el derecho de solicitar a los buscadores que eliminen todos los enlaces de datos personales que aparecen en sus resultados de búsqueda al introducir un nombre u cualquier otro dato personal. Dicho de otro modo, el derecho al olvido es aquel que tienen todos los ciudadanos a impedir la difusión de información personal a través de Internet.
+El Reglamento General de Protección de Datos recoge una norma que permite a los usuarios poder ejercer su derecho al olvido. Esto quiere decir que todas las personas tienen el derecho de solicitar a los buscadores que eliminen todos los enlaces de datos personales que aparecen en sus resultados de búsqueda al introducir un nombre o cualquier otro dato personal. Dicho de otro modo, el derecho al olvido es aquel que tienen todos los ciudadanos a impedir la difusión de información personal a través de Internet.
 
 Cabe aclarar que la eliminación de un enlace de un buscador no implica la desaparición de toda la información de carácter personal publicada en Internet. Este borrado sólo afecta a los motores de búsqueda que enlazan a dicho contenido [@OSI-derecho-al-olvido].
 
