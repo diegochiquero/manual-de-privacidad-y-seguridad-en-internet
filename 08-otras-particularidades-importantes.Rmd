@@ -10,7 +10,7 @@ Si crees que tu dispositivo puede estar infectado, aquí tienes una entrada de l
 
 ## Menores en el uso de la red
 
-En lo que concierne a menores, la cuestión se torna más delicada, ya que se trata de grupo más inexperto y vulnerable, siendo 1 de cada 3 usuarios de internet un niño. En este manual no se va a tratar en profundidad este tema, ya que por si solo podría tratarse de otro manual completo, pero si cabe destacar algunos conceptos bastantes relevales como la educación, la concienciación y el seguimiento que tú, como padre, madre o tutor debes hacer del uso que hacen los menores de internet.
+En lo que concierne a menores, la cuestión se torna más delicada, ya que se trata de grupo más inexperto y vulnerable, siendo 1 de cada 3 usuarios de internet un niño. En este manual no se va a tratar en profundidad este tema, ya que por si solo podría tratarse de otro manual completo, pero si cabe destacar algunos conceptos bastantes relevanles como la educación, la concienciación y el seguimiento que tú, como padre, madre o tutor debes hacer del uso que hacen los menores de internet.
 
 Por supuesto también has de conocer y hacerles saber de los peligros y amenzas con las que pueden encontrarse y que asechan tras la aparente inofensiva pantalla.
 
@@ -22,33 +22,33 @@ Por todo lo anteriormente expuesto, a continuación tienes estas sucintas listas
 
 Medidas con las que los menores deben comprometerse:
  
-- No publicar fotos o vídeos de alguien sin permiso. (Válido también para adultos). 
+- No publicar fotos o vídeos de alguien sin permiso. Esto también hay que tenerlo en cuenta entre adultos. 
 
-- No usar la webcam con desconocidos. (Existen adesivos para taparla).
+- No usar la webcam con desconocidos. Además de tenerla tapada cuando no se este usando, para ello existen adhesivos y otros artilugios.
 
-- No creer en los regalos o chollos. (Ventanas pop-up - emails ...).
+- No creer en los regalos o chollos a los que se verán expuestos a través de ventanas pop-up, emails, etc.
 
-- No aceptar amigos en la redes sociales que no conozcan. (No son amigos reales).
+- No aceptar amigos en la redes sociales que no conozcan, ya que en un principio no los deberían conciderar como amigos reales.
 
 - No ponerse en contacto con desconocidos. 
 
 - No acordar citas con desconocidos a través de internet.
 
-- No facilitar datos personales. (Se sentirán más protegido/as).
+- No facilitar datos personales.
 
-- No contestar a las provocaciones, ignóralas.
+- No contestar a las provocaciones e ignorarlas.
 	
 - No hacer en la Red lo que no harían a la cara.
 
-- Tener cuidado con la información que comparten en línea. (incluyendo el correo, redes sociales como Instagram, TikTok…).
+- Tener cuidado con la información que comparten en línea, incluyendo el correo, redes sociales como Instagram, TikTok, etc.
 
 - Comportarse con educación en la Red.
 
-- Respetar los derechos de los demás en Internet. (No se debe reenviar material inadecuado por correo electrónico).
+- Respetar los derechos de los demás en Internet y no reenviar material inadecuado por correo electrónico o cualquier otra plataforma de difusión.
 
 - Si los molestan o  amenazan, deben abandonar la conexión y pedir ayuda.
 
-- Mostrarse más celoso de su vida privada. (No diferencian bien entre público y privado, acostumbran a sociabilizar todos los aspectos de su vida).
+- Mostrarse más celoso de su vida privada. Ya que llega un punto en que no diferencian bien entre lo público y lo privado y acostumbran a sociabilizar todos los aspectos de su vida.
 
 Principales amenazas a la que los menores están expuestos:
 
@@ -70,49 +70,49 @@ Además conforme vayan creciendo se podrán ir topando con todos los peligros an
 
 Qué debes enseñar a tus hijos como padre, madre o tutor:
 
-- Concienciar a los menores sobre su actividad en la red. Aquello que salga de su móvil o correo no podrá recuperarlo jamás, perdurará en el tiempo y se trata de una  información personal que cualquiera podría utilizarla.
+- Concienciarles sobre su actividad en la red. Aquello que salga de su móvil o correo no podrá recuperarlo jamás, perdurará en el tiempo y se trata de una  información personal que cualquiera podría utilizarla.
 
-- Hacerles concientes de su identidad digital
+- Hacerles concientes de su identidad digital.
 
-- Deben entender que navegar por Internet puede considerarse un derecho, pero también supone una responsabilidad. (Al igual que pasear por la calle no les da derecho a cruzar con un semáforo en rojo, navegar por  Internet no les da derecho a entrar en un lugar que no deben).
+- Deben entender que navegar por Internet puede considerarse un derecho, pero también supone una responsabilidad. Al igual que pasear por la calle no les da derecho a cruzar con un semáforo en rojo, navegar por  Internet no les da derecho a entrar en un lugar que no deben.
 
 - Contraseñas seguras y diferentes. En la unidad de Gestión de la seguridad en la red de este manual encontrarás en el apartado de contraseñas todo lo que necesitas saber.
 
-- Es fácil deducir información personal de fotos o comentarios. (Lugar donde vive, los sitios que se frecuentas...).
+- Deben saber que es fácil deducir información personal de fotos o comentarios, como por ejemplo el lugar donde viven, los sitios que frecuentan y demás.
 
-- Enséñale a no hacer descargar programas sin tu permiso.(, música o archivos - propiedad intelectual, programas con virus, malware en naveradores...).
+- Enséñales a no hacer descargas de programas sin tu permiso, para que sepan en que consiste la propiedad intelectual y a tener cuidado con programas con virus, etc.
 
-- Ayudar y enseñarles a protegerlos del spam. (Correos phising, software espia, malware...).
+- Ayudarles y enseñarles a protegerse del spam, correos phising, software espia, malware, etc.
 
-- Alertar a los menores que deben avisarles siempre  que algún "amigo de Internet" insista respecto a informaciones o hábitos personales.
+- Alertar a los menores que deben avisarte siempre  que algún "amigo de Internet" insista respecto a informaciones o hábitos personales.
 
 - Deben saber que no están del todo seguro/a al otro lado de la pantalla. 
 
 - El riesgo es el mismo en el mundo digital que en el real.
 
-- No toda la información en internet es veraz o fidedigna. (Contrastar varias fuentes).
+- Ayudalos a entender que no toda la información en internet es veraz o fidedigna, y que la información debe contrastarse en varias fuentes.
 
 Cuál es tu compromiso como padre, madre o tutor:
 
-- Establecer espacios de trabajo independientes: es bueno que nuestros hijos tengan su propio espacio dentro del ordenador: su propio escritorio, su propio fondo de pantalla, su propia lista de favoritos, su  propio sistema   de carpetas.  (De esa manera protegemos nuestros datos y les hacemos responsables de los suyos, pudiendoles crear un [control parental](https://securekids.es/que-es-el-control-parental-y-para-que-sirve/) o restricciones mediante el navegador y apps para  dispositivos móviles).
+- Establecer espacios de trabajo independientes. Es bueno que tus hijos tengan su propio espacio dentro del ordenador, su propio escritorio, su propio fondo de pantalla, su propia lista de favoritos, su  propio sistema   de carpetas.  De esa manera proteges tus datos y les haces responsables de los suyos, pudiendoles crear un [control parental](https://securekids.es/que-es-el-control-parental-y-para-que-sirve/) o restricciones mediante el navegador y apps para  dispositivos móviles.
 
 - Establecer un  horario de tiempo máximo de conexión.
 
 - Colocar el ordenador en una zona común.
 
-- Navegar por internet solo en presencia de un adulto. (Para que no crezcan como huerfanos digitales).
+- Navegar por internet solo en presencia de un adulto. De esta manera no crecerán como huerfanos digitales.
 
-- Estar informados del tipo y tiempo de navegación que hacen.
+- Estar informado del tipo y tiempo de navegación que hacen.
 
-- Manténganse actualizados con la tecnología. (No necesitas saber exactamente como funcionan todo, sólo necesitas saber qué son y para qué se usan. Ejemplo: no es lo mismo un chat que una app de mensajería instantánea.
+- Mantente actualizado con la tecnología. No necesitas saber exactamente como funciona todo, sólo necesitas saber qué son y para qué se usan. Ejemplo: no es lo mismo un chat que una app de mensajería instantánea.
 
-- Hablar habitualmente de las tecnologías y compartir actividad digital con ellos. (Respecto a la "navegación" que  practican, a respetar las reglas y cumplir con obligaciones y acuerdos, a negociar y dialogar sobre los límites  “Reglas consensuadas" para navegar en Internet).
+- Hablar habitualmente de las tecnologías y compartir actividad digital con ellos. Respecto a la navegación que  practican, a respetar las reglas y cumplir con obligaciones y acuerdos, a negociar y dialogar sobre los límites  (Reglas consensuadas) para navegar en Internet.
 
 - Fomentar y premiar el uso adecuado y responsable de las tecnologías.
 
 - Disponer de antivirus.
 
-- Conocer el código PEGI (Pan European Game Information) que regula los juegos, donde se estipulan si con de carácter individual o colectivo, de estrategías, deportivos, shooting, aventura, etc.
+- Conocer el código PEGI (Pan European Game Information) que regula los juegos, donde se estipulan si son de carácter individual o colectivo, de estrategías, deportivos, shooting, aventura, la edad adecuada de consumo, etc.
 
 Para ampliar la información dispones de dos exhaustivas guías de la Junta de andalucia [Guía de formación TIC para padres y madres de menores de 3 a 11 años](https://www.andaluciaesdigital.es/documents/20182/28716/Educar+para+Proteger+-+Guía+resumida+de+formación+TIC+para+padres+y+madres+de+niños+de+3+a+11+años.pdf) y [Guía de formación TIC para adolescentes](https://www.juntadeandalucia.es/educacion/portalaverroes/documents/10306/1673096/Educar_para_proteger_Guia_Adolescentes.pdf).
 

@@ -96,7 +96,7 @@ eliminar-el-historial-de-busquedas
 derecho-al-olvido
 contenido-en-la-red
 el-contenido-digital
-constastar-la-información
+contrastar-la-información
 fake-news-y-deepfake
 deep-web
 otras-particularidades-importantes
