@@ -8,7 +8,7 @@ En internet existen multitud de plataformas y webs que te brindan la oportunidad
 
 El Instituto Nacional de Ciberseguridad de España [INCIBE](https://www.incibe.es/), es una sociedad dependiente del Ministerio de Economía y Empresa a través de la Secretaría de Estado para el Avance Digital y consolidada como entidad de referencia para el desarrollo de la ciberseguridad y de la confianza digital de ciudadanos, red académica y de investigación, profesionales, empresas y especialmente para sectores estratégicos.
 
-La misión de INCIBE es por tanto reforzar la ciberseguridad, la confianza y la protección de la información y privacidad en los servicios de la Sociedad de la Información, aportando valor a ciudadanos, empresas, Administración, red académica y de investigación española, sector de las tecnologías de la información y las comunicaciones y sectores estratégicos en general. Aunándolo es estas tres siguientes líneas de actuación:
+La misión de INCIBE es por tanto reforzar la ciberseguridad, la confianza y la protección de la información y privacidad en los servicios de la Sociedad de la Información, aportando valor a ciudadanos, empresas, Administración, red académica y de investigación española, sector de las tecnologías de la información y las comunicaciones. Aunándolo en estas tres siguientes líneas de actuación:
 
 - Al internauta.
 
@@ -128,7 +128,7 @@ Y por supuesto cuentan con innumerables recursos, herramientas, servicios, canal
 
 Pantallas amigas desarrolla su actividad con el [apoyo de entidades e instituciones comprometidas](https://www.pantallasamigas.net/confian-en-pantallasamigas/) con este objetivo.
 
-## Foro Info Spyare
+## Foro Info Spyware
 
 El [Foro Info Spayware](https://forospyware.com/) es una plataforma que lleva operando en internet desde el año 2005 y se trata de la mayor comunidad en español de ayuda e información sobre virus, spyware, adware, ransomware y malwares. 
 
@@ -140,7 +140,7 @@ En este foro encontrarás toda la información por categorías:
 
 - Eliminar Malwares: Ayuda para eliminar virus, troyanos, spyware, adware, ransomware y otros malwares.
 
-- Ayuda General: Esta categoría brinda ayuda general con el funcionamiento de sus equipos (windows, mac, linux, android, iOS), sus programas (antivirus, firewalls, optimizadores) y sus componentes (hardware).
+- Ayuda General: Esta categoría brinda ayuda general con el funcionamiento de los equipos (windows, mac, linux, android, iOS), programas (antivirus, firewalls, optimizadores) y componentes (hardware).
 
 - Sistemas Operativos: Todo lo relacionado a los sistemas operativos: Windows 10 - Windows 8 - Windows 7 - Windows XP, Mac OSX, Linux, Android…
 
