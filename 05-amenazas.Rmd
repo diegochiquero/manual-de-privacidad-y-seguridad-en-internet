@@ -402,7 +402,7 @@ Requisitos a comprobar:
 
 Además puedes visitar la siguiente entrada donde aprenderás [cómo detectar fraudes y análisis de una web falsa](https://www.osi.es/es/actualidad/blog/2018/08/08/detectando-fraudes-analisis-de-una-web-de-venta-falsa).
 
-Las estafas online no solo te las vas a encontrar en la compra de productos o servicios, sino que también en diferentes escenarios como los que verás a continuación. Pudiendo encontarlos a través de correos electrónicos, webs de venta de segunda mano, en webs maliciosas, etc.
+Las estafas online no solo te las vas a encontrar en la compra de productos o servicios, sino que también en diferentes escenarios como los que verás a continuación. Pudiendo encontrarlos a través de correos electrónicos, webs de venta de segunda mano, en webs maliciosas, etc.
 
 Algunos ejemplos de estafas son:
 
@@ -435,6 +435,10 @@ Las vías de entrada de las ciberestafas suelen llegar por medio:
 En esta [Guía de fraudes online](https://www.osi.es/es/guia-fraudes-online) tienes un amplio catálogo de recursos para detectar si estas siendo víctima de una estafa o fraude online.
 
 Por último, pero no por ello menos importante, si en algún momento te encontrases ante una posible estafa debes reportarlo a través desde este enlace para [reportar webs fraudulenta en el Incibe](https://www.incibe.es/protege-tu-empresa/reporte-fraude).
+
+## Warshipping
+
+El warshiping es un tipo de ataque que los ciberdelicuentes llevan a cabo mediante el envío de paquetería, y en cuyo interior se encuentra un dispositivo electrónico, pudiendo ser de diferente naturaleza. Estos pueden contener cámara, micrófono o simplemente ser un dispositivo, que al ser conectado instale un software fraudulento de manera que permita a los ciberdelicuentes remotamente vulnerar la privacidad y la seguridad de la víctima. Aun que suele estar destinados a empresas que continuamente reciben paquetería, usuarios de compras online también pueden ser blanco de este ciberdelito [@INCI-warshipping].
 
 ## Vulnerabilidades
 
