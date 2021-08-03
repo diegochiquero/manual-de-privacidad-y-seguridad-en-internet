@@ -94,7 +94,7 @@ Simplificando el sistema de copias de seguridad que en algunas ocasiones puede l
 	
 - Completas: Del sistema operativo completo, de esta forma al restaurar la copia, dispondremos de nuevo de toda la configuración a nivel de S.O., software instalado, carpetas y archivos. Para este cometido vamos a necesitar de programas de terceros, algunos de ellos con versiones gratuitas y de pago, ejemplo de estos son: [Acronis](https://www.acronis.com/), [AOMEI](https://www.aomeitech.com/), [EaseUS](https://www.easeus.com/). Aunque más abajo verás que también pueden hacerse nativamente.
 
-- Parciales: En este escenario lo que se hace es salvaguardar las carpetas y archivos personales. Como por ejemplo, carpetas con fotografías, documentos personales y demás.
+- Parciales: En este escenario lo que se hace es salvaguardar las carpetas y archivos personales. Como por ejemplo, carpetas con fotografías, documentos personales y demás. Esto lo puedes hacer de forma manual o con programas destinados a este propósito como por ejemplo lo es el [FreeFileSync](https://freefilesync.org/) con el que puedes hacer copias manuales o automatizadas.
 
 Y las copias pueden ser mantenidas:
 
