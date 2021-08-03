@@ -73,6 +73,7 @@ toolbars
 usurpacion-o-robo-de-identidad
 spoofing-o-suplantación-de-identidad
 ciberestafas-en-compras-online-y-otros-engaños
+warshipping
 vulnerabilidades
 cryptojacking
 plugins-maliciosos
