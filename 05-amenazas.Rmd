@@ -30,7 +30,7 @@ Dispones de más información en [hacker vs ciberdelincuente](https://www.incibe
 
 - Ventanas emergentes inesperadas.
 
-- Perdida de espacio en la memoría ram o disco duro.
+- Perdida de espacio en la memoria ram o disco duro.
 
 - Apagón del equipo de manera inesperada.
 
@@ -104,7 +104,7 @@ Los gusanos tienen diferentes vías de entrada a los equipos, como, por ejemplo:
 
 Un Troyano o también llamado Caballo de Troya es una clase de malware que normalmente se camufla como software legítimo. Los ciberladrones utilizan este software malicioso para acceder en tus equipos y una vez dentro campar a sus anchas [@KASPER-troyano].
 
-Uno de los más peligrosos son los Keylogger es un tipo de software o un dispositivo hardware específico que se encarga de registrar las pulsaciones que realizas a través de tu teclado. Posteriormente son guardadas en un fichero y remitido a través de la red a los ciberdelincuentes.
+Uno de los más peligrosos son los keylogger es un tipo de software o un dispositivo hardware específico que se encarga de registrar las pulsaciones que realizas a través de tu teclado. Posteriormente son guardadas en un fichero y remitido a través de la red a los ciberdelincuentes.
 
 Pudiendo llegar también como virus o gusanos, una vez activados, los troyanos pueden permitir a los cibercriminales espiarte, robar tus datos confidenciales y obtener acceso por una puerta trasera a tu sistema.
 
@@ -150,7 +150,7 @@ Las diferentes vías de entrada de ransomware a tu equipo son:
 
 En este punto cabe destacar que la firma de antivirus AVG pone a disposición del usuario una suite de herramientas gratuitas para [deshacer el cifrado del ransomware](https://www.avg.com/es-es/ransomware-decryption-tools), aunque quizá esto no siempre funcione.
 
-Además en el caso del sistema operativo de Windows 10 en su última versión dispone de una protección de forma nativa contra ransomware, aunque esto no te garantiza estar inmunizado.
+Además, en el caso del sistema operativo de Windows 10 en su última versión dispone de una protección de forma nativa contra ransomware, aunque esto no te garantiza estar inmunizado.
 
 ## Spyware o software espía
 
@@ -182,7 +182,7 @@ Las vías de entrada a son las mismas prácticamente que cualquier otro tipo de 
 
  - Visitar una web maliciosa o pulsar sobre alguna dirección acortada que se publican en redes sociales u otros medidos y que en realidad no sabes a qué páginas web te puede llevar.
  
-Aunque parte de toda la molesta publicidad que recibes es legítima, existe una plataforma que se llama [Lista Robinson](https://www.listarobinson.es/) a la que puedes inscribirte e indicar cuales son las  empresas publicitarias de las que no quieres recibir publicidad y por qué medios no quieres recibir dicha publicidad: teléfono, correo postal, correo electrónico o SMS/MMS. Además se trata de un servicio gratuito.
+Aunque parte de toda la molesta publicidad que recibes es legítima, existe una plataforma que se llama [Lista Robinson](https://www.listarobinson.es/) a la que puedes inscribirte e indicar cuales son las  empresas publicitarias de las que no quieres recibir publicidad y por qué medios no quieres recibir dicha publicidad: teléfono, correo postal, correo electrónico o SMS/MMS. Además, se trata de un servicio gratuito.
  
 Otro software muy útil contra la lucha de la publicidad no deseada es [Ghostery](https://www.ghostery.com/) que se encarga de bloquear anuncios, detener rastreadores y acelerar sitios web. Ghostery descubre los rastreadores que hay tras cada sitio web y te permite controlar lo que no deseas para que tu experiencia de navegación sea más limpia, rápida y segura. 
 
@@ -190,7 +190,7 @@ También es importante saber que prácticamente todos los medios sociales, como 
 
 ## Malvertising     
 
-Malvertising es el acrónimo de las palabras Malicious y Advertising, que en español sería Publicidad Maliciosa. Esta amenaza lo que hace es esconder malware para infectar los dispositivos en los espacios de publicidad de otras páginas webs, como son los banner de publicidad en las cabeceras o laterales tanto izquierdos como derecho de muchas de la web que a diario te encuentras en internet.
+Malvertising es el acrónimo de las palabras Malicious y Advertising, que en español sería Publicidad Maliciosa. Esta amenaza lo que hace es esconder malware para infectar los dispositivos en los espacios de publicidad de otras páginas webs, como son los banners de publicidad en las cabeceras o laterales tanto izquierdos como derecho de muchas de la web que a diario te encuentras en internet.
 
 La diferencia principal con el adware es que este primero necesita que el malware se instale en el dispositivo y en el caso del malvertising no es necesaria ninguna instalación por parte del usuario para resultar infectado [@OSI-malvertising].
 
@@ -198,7 +198,7 @@ La vía de contagio por la que podemos caer víctimas de este ciberdelito, es co
 
 ## Scareware o rogueware
 
-Esta variante de malware conocido como Scareware o Rogueware es otro software malicioso más que trata de engañar a los usuarios para que visiten sitios infestados de malware. Normalmente suele darse en forma de ventanas emergentes, que además aparecen como advertencias legítimas de compañías de software en su mayoría de antivirus y que afirman que el sistema operativo ha sido vulnerado o que los archivos del PC han sido infectado [@KASPER-scareware].
+Esta variante de malware conocido como Scareware o Rogueware es otro software malicioso más que trata de engañar a los usuarios para que visiten sitios infestados de malware. Normalmente suele darse en forma de ventanas emergentes, que además, aparecen como advertencias legítimas de compañías de software en su mayoría de antivirus y que afirman que el sistema operativo ha sido vulnerado o que los archivos del PC han sido infectado [@KASPER-scareware].
 
 Las vías de contagio son las mismas que has visto en malwares anteriores:
 
@@ -212,7 +212,7 @@ Las vías de contagio son las mismas que has visto en malwares anteriores:
 
 Los Quick Response (QR) son códigos de barra de dos dimensiones diseñados para ser leídos e interpretados rápidamente. Actualmente y sumado a la gran proliferación de smartphones en el mercado, son muy utilizados en publicidad y campañas de marketing. Esto es debido a su gran facilidad de manejo, ya que solo basta con apuntar con la cámara y el smartphone se encarga del resto. 
 
-Lamentablemente los códigos QR también pueden ser utilizados con fines maliciosos, de manera un ciberdelicuente podría usar el código QR para direccionar a los usuarios a páginas web phishing, descarga de malware o cualquier otra amenaza [@ESET-malware-qr]. 
+Lamentablemente los códigos QR también pueden ser utilizados con fines maliciosos, de manera que, un ciberdelicuente podría usar el código QR para direccionar a los usuarios a páginas web phishing, descarga de malware o cualquier otra amenaza [@ESET-malware-qr]. 
 
 La vía de contagio como te habrás podido dar cuenta queda implícita.
 
@@ -254,7 +254,7 @@ knitr::include_graphics("images/phishing.jpg")
 
 En relación a la protección contra el phishing existen diferentes herramientas y servicios que puedes implementar en tu uso diario de las tecnologías. Algunos de estos son:
 
-- Software anti-phishing: Software especifico para la detección de phishing.
+- Software anti-phishing: Software específico para la detección de phishing.
 
     - [Sophos home](https://home.sophos.com/es-es.aspx).
     
@@ -262,36 +262,36 @@ En relación a la protección contra el phishing existen diferentes herramientas
 
 - Proveedores de email: Estos ofrecen protección contra el phishing a través de filtros y configuraciones con el objetivo detectar y frenar este tipo de fraude llevado a cabo por medio del correo electrónico. Para ello analizan de forma automatizada todos los emails, con el fin detectar links fraudulentos o dominios falsificados que tienen la intención de robar tus datos, protegiendo así a los usuarios de estos tipos de fraudes o estafas online. Esta protección puedes encontrarla prácticamente implementada en la mayoría de gestores de correos actuales.
 
-- Nativo del sistema operativo windows: [Anti-phishing defender](https://docs.microsoft.com/es-es/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+- Nativo del sistema operativo Windows: [Anti-phishing defender](https://docs.microsoft.com/es-es/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 
-- Antivirus:  Algunos antivirus traen implementado estandares contra el phishing como el [ESET anti-phising](https://support.eset.com/es/kb6380-activar-anti-phishing-en-productos-para-android-de-eset#enable).
+- Antivirus:  Algunos antivirus traen implementado estándares contra el phishing como el [ESET anti-phising](https://support.eset.com/es/kb6380-activar-anti-phishing-en-productos-para-android-de-eset#enable).
 
 - Plugins: Extensiones para el navegador como lo es [ZoneAlarm Web Secure Free](https://www.zonealarm.com/es/anti-phishing/).
 
-- Código anti-phishing: Existen plataformas webs que ofrecen este servicio. Consiste en un código o palabra clave que tú facilitas la primera vez a la web y que esta incluye en sus futuros email, verificando así la legitimidad del mismo. Un ejemplo de ello lo econtrarás en la plataforma de intercambio de criptomonedas [Binance código anti-phishing](https://academy.binance.com/es/articles/anti-phishing-code).
+- Código anti-phishing: Existen plataformas webs que ofrecen este servicio. Consiste en un código o palabra clave que tú facilitas la primera vez a la web y que esta incluye en sus futuros email, verificando así la legitimidad del mismo. Un ejemplo de ello lo encontrarás en la plataforma de intercambio de criptomonedas [Binance código anti-phishing](https://academy.binance.com/es/articles/anti-phishing-code).
 
 - Navegadores: 
 
-    - [Firefox](https://www.mozilla.org/es-ES/firefox/) es uno de los navegadores que implementan grandes capas de seguridad siendo una de ellas la protección anti-phishing y que además cuenta con [Mozilla support](https://support.mozilla.org/es/) y [Cómo protegerse del Phishing y del Malware con esta herramienta de Firefox](https://support.mozilla.org/es/kb/como-protegerse-del-phishing-y-del-malware-con-esta-herramienta-firefox).
+    - [Firefox](https://www.mozilla.org/es-ES/firefox/) es uno de los navegadores que implementan grandes capas de seguridad siendo una de ellas la protección anti-phishing y que además, cuenta con [Mozilla support](https://support.mozilla.org/es/) y [Cómo protegerse del Phishing y del Malware con esta herramienta de Firefox](https://support.mozilla.org/es/kb/como-protegerse-del-phishing-y-del-malware-con-esta-herramienta-firefox).
     
     - [Google Chrome](https://www.google.com/intl/es/chrome/) a su vez cuenta con los recursos ofrecidos por [Google safe browsing](https://safebrowsing.google.com/).
 
-Si quieres saber más sobre como evitar el phishing y de cómo saber identificar este tipo de fraude, visita el enlace de [Cómo identificar un correo electrónico malicioso](https://www.osi.es/es/como-identificar-un-correo-electronico-malicioso). Y además, si también quieres ver otros ejemplos de phishing de bancos como CaixaBank, Santander o BBVA, pasate por la siguiente publicación titulada [Detectadas campañas de phishing y smishing suplantando a diversas entidades bancarias](https://www.osi.es/es/actualidad/avisos/2021/06/detectadas-campanas-de-phishing-y-smishing-suplantando-diversas-entidades) de la Oficina de Seguridad del Internauta, donde te encontrarás capturas de pantallas, detalles y soluciones que te ayudarán a salir airoso de este peligroso ciberdelito.
+Si quieres saber más sobre como evitar el phishing y de cómo saber identificar este tipo de fraude, visita el enlace de [Cómo identificar un correo electrónico malicioso](https://www.osi.es/es/como-identificar-un-correo-electronico-malicioso). Y además, si también quieres ver otros ejemplos de phishing de bancos como CaixaBank, Santander o BBVA, pásate por la siguiente publicación titulada [Detectadas campañas de phishing y smishing suplantando a diversas entidades bancarias](https://www.osi.es/es/actualidad/avisos/2021/06/detectadas-campanas-de-phishing-y-smishing-suplantando-diversas-entidades) de la Oficina de Seguridad del Internauta, donde te encontrarás capturas de pantallas, detalles y soluciones que te ayudarán a salir airoso de este peligroso ciberdelito.
 
 Otra técnica muy parecida al Phishing e igualmente peligrosa es el Pharming y que consiste en la explotación de una vulnerabilidad en el software de los servidores DNS (Domain Name System) o en el de los equipos de los propios usuarios, que permite a un atacante redirigir un nombre de dominio a otra máquina distinta. De esta forma, un usuario que introduzca un determinado nombre de dominio que haya sido redirigido, accederá en su explorador de internet a la página web que el atacante haya especificado para ese nombre de dominio [@KASPER-pharming].
 
-También existe otra amenza silimiar estas, conocida como Typosquatting, URL hijacking o fake URL. Está basada en los errores tipográficos cometidos por usuarios de internet cuando introducen la dirección de un sitio web en un navegador. Cuando esto sucede la dirección puede llevarlos a un sitio alternativo propiedad de un cybersquatter [@WIKI-typosquatting].
+También existe otra amenaza silimiar estas, conocida como Typosquatting, URL hijacking o fake URL. Está basada en los errores tipográficos cometidos por usuarios de internet cuando introducen la dirección de un sitio web en un navegador. Cuando esto sucede la dirección puede llevarlos a un sitio alternativo propiedad de un cybersquatter [@WIKI-typosquatting].
 
 - Ejemplo: https://wikiepdia.org 
     
 ## Vishing
 
-El Vishing es una estafa que consiste en una llamada de teléfono en la que ciberdelicuente suplanta la identidad de una persona, empresa o institución para conseguir que le proporciones información privada y sensible. Esta información normalmente van a ser datos personales, contraseñas o peor aun los datos bancarios. Se trata de técnicas de ingeniería social con la que el estafador se va ganando la confianza de la víctima de manera que ésta termina proporcionandole cualquier tipo de datos. Si quieres saber más sobre ingeniería social visita este enlace [¿Sabías que los ataques de ingeniería social suponen el 93% de las brechas de seguridad?](https://www.osi.es/es/actualidad/blog/2019/12/04/sabias-que-los-ataques-de-ingenieria-social-suponen-el-93-de-las-brechas).
+El Vishing es una estafa que consiste en una llamada de teléfono en la que ciberdelicuente suplanta la identidad de una persona, empresa o institución para conseguir que le proporciones información privada y sensible. Esta información normalmente va a ser datos personales, contraseñas o peor aún los datos bancarios. Se trata de técnicas de ingeniería social con la que el estafador se va ganando la confianza de la víctima de manera que ésta termina proporcionándole cualquier tipo de datos. Si quieres saber más sobre ingeniería social visita este enlace [¿Sabías que los ataques de ingeniería social suponen el 93% de las brechas de seguridad?](https://www.osi.es/es/actualidad/blog/2019/12/04/sabias-que-los-ataques-de-ingenieria-social-suponen-el-93-de-las-brechas).
 
 En esta línea puedes encontrarte con lo que se conoce como pretexting o pretexto. Se trata en un ataque más de ingeniería social y que consiste en elaborar un
 escenario o historia ficticia, donde el atacante tratará  que la víctima comparta información que, en circunstancias normales, no revelaría. Habrás podido notar que a su vez también es la base del Phishing y del Smishing, que verás más adelante [@RZ-pretexting].
 
-Por lo tanto debes tener muy en cuenta, que cualquier petición de tus contraseñas o información financiera es una estafa, ya que las instituciones legítimas nunca te pedirían este tipo de datos tan sensibles a través del teléfono. 
+Por lo tanto, debes tener muy en cuenta, que cualquier petición de tus contraseñas o información financiera es una estafa, ya que las instituciones legítimas nunca te pedirían este tipo de datos tan sensibles a través del teléfono. 
 
 La vía de contagio como se ha señalado al principio es a través de una llamada de teléfono.
 
@@ -325,9 +325,9 @@ En este caso no hace falta destacar que este molesto malware llega por medio de 
 
 ## Toolbars
 
-Las Toolbars son barras de herramientas que aparecen en la parte superior de los navegadores. Generalmente sirven para tener enlaces más rápidos a servicios, por ejemplo Windows Live Toolbars da acceso al correo y búsqueda entre otras funcionalidades. Regularmente los navegadores tienen las suyas propias.
+Las Toolbars son barras de herramientas que aparecen en la parte superior de los navegadores. Generalmente sirven para tener enlaces más rápidos a servicios, por ejemplo,  Windows Live Toolbars da acceso al correo y búsqueda entre otras funcionalidades. Regularmente los navegadores tienen las suyas propias.
  
-Pero puede ocurrir que a través de una instalación de software, normalmente gratuito puedan ser instaladas. Debes tener en cuenta que algunas de estas son muy molestas y en algunos casos pueden llegar a bombardearte con publicidad no deseada y que además en ocasiones llegan a ser muy difíciles de eliminar. Aunque cada vez son memos frecuentes.
+Pero puede ocurrir que, a través de una instalación de software, normalmente gratuito puedan ser instaladas. Debes tener en cuenta que algunas de estas son muy molestas y en algunos casos pueden llegar a bombardearte con publicidad no deseada y que además en ocasiones llegan a ser muy difíciles de eliminar. Aunque cada vez son menos frecuentes.
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Toolbar.'}
 knitr::include_graphics("images/toolbar.jpg")
@@ -339,7 +339,7 @@ En el caso de haber instalado alguna toolbars por descuido existen algunas herra
 
 Como se ha señalada más arriba la vía de contagio suele ser la instalación de software normalmente gratuito.
 
-## Usurpacion o robo de identidad 
+## Usurpación o robo de identidad 
 
 El robo de identidad, usurpación de identidad es la apropiación de la identidad de una persona: hacerse pasar por esa persona, asumir su identidad ante otras personas en público o en privado, en general para acceder a ciertos recursos o la obtención de créditos y otros beneficios en nombre de esa persona. Esto que sucede en el mundo analógico también ocurre en el mundo digital [@WIKI-usurpacion].
 
@@ -366,25 +366,25 @@ En caso de ser víctima de esta amenaza debes tener en cuenta lo siguiente:
 
 - Avisa a tus contactos sobre el perfil falso.
 
-- Infórmalo dentro de la aplicación. Todas las plataformas y redes sociales disponen de un apartado de Suplantación de indentidad en las cuentas.
+- Infórmalo dentro de la aplicación. Todas las plataformas y redes sociales disponen de un apartado de Suplantación de identidad en las cuentas.
 
 - Si es de carácter grave denúncialo a las autoridades.
 
 - Si es posible cancela cuenta.
 
-En la [Oficina de seguridad del internauta](https://www.osi.es/es) tienes una publicación que se llama [¡Me han secuestrado mi cuenta!](https://www.osi.es/es/actualidad/historias-reales/2021/03/05/me-han-secuestrado-mi-cuenta) de una historia real donde puedes ver como gestionar este tipo de ataques.
+En la [Oficina de seguridad del internauta](https://www.osi.es/es) tienes una publicación que se llama [¡Me han secuestrado mi cuenta!](https://www.osi.es/es/actualidad/historias-reales/2021/03/05/me-han-secuestrado-mi-cuenta) de una historia real donde puedes ver cómo gestionar este tipo de ataques.
 
 ## Spoofing o suplantación de identidad     
 
-Normalmente cuando un ciberdelincuente usurpa un cuenta, ya sea particular o corporativa, la principal intención es hacer uso del spoofing o también conocido como suplantación de identidad. Estos términos pueden confundirse con el Phishing, pero no son lo mismo. Podría decirse que el Phishing es el término o palabra que se utiliza para describir la manera con la que los estafadores se hacen con tus datos y el spoofing son las herramientas, procedimientos o técnicas con los que lo lleva a cabo. Ejemplo: Un ciberestafador suplanta la web o el correo que recibes de tu entidad bancaria para que facilites tus datos, esta es la herramienta o herramientas y el término o nombre que recibe este acto es el Phishing. No obstante en el siguiente enlace puedes obtener más información sobre las [diferencias entre Phishing y Spoofing](https://techlandia.com/diferencia-phishing-spoofing-info_241711/).
+Normalmente cuando un ciberdelincuente usurpa una cuenta, ya sea particular o corporativa, la principal intención es hacer uso del spoofing o también conocido como suplantación de identidad. Estos términos pueden confundirse con el Phishing, pero no son lo mismo. Podría decirse que el Phishing es el término o palabra que se utiliza para describir la manera con la que los estafadores se hacen con tus datos y el spoofing son las herramientas, procedimientos o técnicas con los que lo lleva a cabo. Ejemplo: Un ciberestafador suplanta la web o el correo que recibes de tu entidad bancaria para que facilites tus datos, esta es la herramienta o herramientas y el término o nombre que recibe este acto es el Phishing. No obstante, en el siguiente enlace puedes obtener más información sobre las [diferencias entre Phishing y Spoofing](https://techlandia.com/diferencia-phishing-spoofing-info_241711/).
 
-A tener en cuenta también el hecho, que el uso de una acreditación física que no pertenece a su legítimo dueño, también esta considerado una estafa. Un claro ejemplo es el uso que hace un tercero de una tarjeta de identificación robada, para obtener el acceso a un determinado departamento físico de una compañía o empresa. Esto es lo que se conoce como [Masquerating o suplantación de indentidad física](https://moodle2019-20.ua.es/moodle/pluginfile.php/113537/mod_resource/content/8/tema/4masquerading_mascarada.html#:~:text=Consiste%20en%20suplantar%20la%20identidad,le%20pertenecen%20o%20en%20persona.).
+A tener en cuenta también el hecho, que el uso de una acreditación física que no pertenece a su legítimo dueño, también está considerado una estafa. Un claro ejemplo es el uso que hace un tercero de una tarjeta de identificación robada, para obtener el acceso a un determinado departamento físico de una compañía o empresa. Esto es lo que se conoce como [Masquerating o suplantación de identidad física](https://moodle2019-20.ua.es/moodle/pluginfile.php/113537/mod_resource/content/8/tema/4masquerading_mascarada.html#:~:text=Consiste%20en%20suplantar%20la%20identidad,le%20pertenecen%20o%20en%20persona.).
 
 Otra actividad relacionada con la usurpación de identidad es el Brushing. Este delito es el que realizan algunos vendedores de Internet, que envían paquetes con objetos muy pequeños a diferentes usuarios para hacerse pasar por ellos y después poder valorar sus propios productos. Aunque en cierto modo esto no te pone en un serio riesgo, conviene conocerlo por si te sucede saber que se trata de una suplantación de la identidad y que es aconsejable interponer una denuncia [@brushing].
 
 ## Ciberestafas en compras online y otros engaños
 
-Llegados hasta aquí, recordarte que todas las precauciones que se detallan en este manual en el apartado de Compras y transacciones de la unidad de Gestión de la seguridad en la red, son altamente recomendable en este punto. Además de ser fuertemente aconsegable seguir todas esas indicaciones, también se trata de tener en cuenta el conjunto de requisitos que veras a continuación, ya que cada uno de ellos por independiente te va a garantizar una capa más de seguridad y te irán indicando si puede o no puede ser una estafa.
+Llegados hasta aquí, recordarte que todas las precauciones que se detallan en este manual en el apartado de Compras y transacciones de la unidad de Gestión de la seguridad en la red, son altamente recomendables en este punto. Además de ser fuertemente aconsejable seguir todas esas indicaciones, también se trata de tener en cuenta el conjunto de requisitos que veras a continuación, ya que cada uno de ellos por independiente te va a garantizar una capa más de seguridad y te irán indicando si puede o no puede ser una estafa.
 
 Requisitos a comprobar:
 
@@ -400,7 +400,7 @@ Requisitos a comprobar:
 
 - Sorteos ganados bajo cualquier pretexto: Eres el visitante número 1.000 por ello te has ganado un premio.
 
-Además puedes visitar la siguiente entrada donde aprenderás [cómo detectar fraudes y análisis de una web falsa](https://www.osi.es/es/actualidad/blog/2018/08/08/detectando-fraudes-analisis-de-una-web-de-venta-falsa).
+Además, puedes visitar la siguiente entrada donde aprenderás [cómo detectar fraudes y análisis de una web falsa](https://www.osi.es/es/actualidad/blog/2018/08/08/detectando-fraudes-analisis-de-una-web-de-venta-falsa).
 
 Las estafas online no solo te las vas a encontrar en la compra de productos o servicios, sino que también en diferentes escenarios como los que verás a continuación. Pudiendo encontrarlos a través de correos electrónicos, webs de venta de segunda mano, en webs maliciosas, etc.
 
@@ -434,7 +434,7 @@ Las vías de entrada de las ciberestafas suelen llegar por medio:
 
 En esta [Guía de fraudes online](https://www.osi.es/es/guia-fraudes-online) tienes un amplio catálogo de recursos para detectar si estas siendo víctima de una estafa o fraude online.
 
-Por último, pero no por ello menos importante, si en algún momento te encontrases ante una posible estafa debes reportarlo a través desde este enlace para [reportar webs fraudulenta en el Incibe](https://www.incibe.es/protege-tu-empresa/reporte-fraude).
+Por último, pero no por ello menos importante, si en algún momento te encontrases ante una posible estafa debes reportarlo a través desde este enlace para [reportar webs fraudulentas en el Incibe](https://www.incibe.es/protege-tu-empresa/reporte-fraude).
 
 ## Warshipping
 
@@ -452,7 +452,7 @@ Un ejemplo de vulnerabilidad muy conocido fuero el [Meltdown](https://es.wikiped
 
 El cryptojacking, también llamado minería de criptomonedas malicioso, consiste en un tipo de software fraudulento que se oculta en un ordenador o en un dispositivo móvil, y utiliza los recursos de estos para extraer diversas formas de monedas digitales conocidas como [criptomonedas](https://es.wikipedia.org/wiki/Criptomoneda). Hay que aclarar que no está tan focalizado en el robo directo de estas, sino, que se centra en el robo o secuestro de dispositivos de terceros con el fin de utilizarlos para minar estas criptomonedas, y a los que se le conocen también como dispositivos zombies [@cryptojacking].
 
-Se trata de una amenaza reciente que se hace con el control del navegadores web, y de este modo, comprometen todo tipo de dispositivos, desde ordenadores de escritorio y portátiles hasta teléfonos inteligentes e incluso servidores de red.
+Se trata de una amenaza reciente que se hace con el control del navegador web, y de este modo, comprometen todo tipo de dispositivos, desde ordenadores de escritorio y portátiles hasta teléfonos inteligentes e incluso servidores de red.
 
 Existen recursos y herramientas para saber si estamos siendo víctimas de cryptojacking [@GEN-guia-cryptojacking]:
 
@@ -462,7 +462,7 @@ Existen recursos y herramientas para saber si estamos siendo víctimas de crypto
 
 - Comprueba el administrador de tareas en Windows, o el Monitor de actividad en MacOS. Fíjate en los procesos que estén ocupando el mayor porcentaje de CPU. En circunstancias normales un solo proceso no debe pasar de 10%, rara vez sobrepasan el 20% al menos que se trate de software muy complejo como el de edición de vídeo, juegos, o el mismo sistema actualizando. Pero que te aparezca el navegador en números absurdos como 70-90 y hasta 100% es una alarma clara.
 
-Las vías de contagios son las mismas que la mayoría de malware tales como los virus, gusanos, troyanos, spyware y demás. Por lo que puedes verlo en dichos apartados de esta misma unidad. Además existen webs y plugin que comprueban si estas siendo víctima de este ciberdelito e incluso alguna de estas herramientas previenen y bloquean estos ataques. A continuación tienes una lista para que puedas elegir la que mejor se adapte a tus necesidades:
+Las vías de contagios son las mismas que la mayoría de malware tales como los virus, gusanos, troyanos, spyware y demás. Por lo que puedes verlo en dichos apartados de esta misma unidad. Además, existen webs y plugin que comprueban si estas siendo víctima de este ciberdelito e incluso alguna de estas herramientas previenen y bloquean estos ataques. A continuación, tienes una lista para que puedas elegir la que mejor se adapte a tus necesidades:
 
 - [CoinEater](https://github.com/fhstp/CoinEater) 
 
@@ -486,23 +486,23 @@ Instalar un plugin suele ser una acción muy sencilla, y te puede servir para fi
 
 Sin embargo, a pesar de ser programas muy útiles que la inmensa mayoría utiliza, no todos son conscientes del riesgo que conlleva el simple hecho de instalar un plugin. El problema suele venir por no tener actualizado un buen sistema de seguridad.
 
-A veces, el simple hecho de que el plugin este disponible no significa garantía ninguna. Tanto es así que aquí podemos ver uno de los que recientemente ha sido retirado de WordPress hasta en cuatro ocasiones. Un programa capaz de recopilar datos de los navegantes con el correspondiente riesgo a nivel de Reglamento General de Protección de Datos que esto conlleva, así como de publicar entradas no deseadas y prácticas de spam. De otra lado Google esta continuamente retirando plugins maliciosos de su plataforma.
+A veces, el simple hecho de que el plugin esté disponible no significa garantía ninguna. Tanto es así que aquí podemos ver uno de los que recientemente ha sido retirado de WordPress hasta en cuatro ocasiones. Un programa capaz de recopilar datos de los navegantes con el correspondiente riesgo a nivel de Reglamento General de Protección de Datos que esto conlleva, así como de publicar entradas no deseadas y prácticas de spam. De otro lado, Google está continuamente retirando plugins maliciosos de su plataforma.
 
 El contagio de estos plugins maliciosos normalmente es a través de las Webs Store de las diferentes plataformas. Por lo que los puntos más importantes a tener en cuenta a la hora de protegernos son:
 
 - Infórmate del desarrollo del plugin así como posibles variaciones.
 
-- No descarges plugins sospechosos.
+- No descargues plugins sospechosos.
 
 - Utiliza preferiblemente aquellos plugins de referencia, con fama y garantía reconocidas.
 
 ## SIM Swaping
 
-El SIM swapping, es la técnica que usan últimamente los ladrones digitales que se basa en duplicar la tarjeta SIM del móvil de sus víctimas. Así, pueden acceder a toda su información personal y, sobre todo, pueden usarlas en la verificación a través de un SMS por medio del móvil que suelen pedir los bancos cuando se opera a través de Internet y algunas otras plataformas online.
+El SIM Swapping, es la técnica que usan últimamente los ladrones digitales que se basa en duplicar la tarjeta SIM del móvil de sus víctimas. Así, pueden acceder a toda su información personal y, sobre todo, pueden usarlas en la verificación a través de un SMS por medio del móvil que suelen pedir los bancos cuando se opera a través de Internet y algunas otras plataformas online.
 
 Por ello, aunque la mayoría de las apps de los bancos son muy seguras, con protocolos complejos para las claves de acceso, cifrado de las comunicaciones y teclados virtuales, los timadores digitales son capaces de saltarse la seguridad por medio de una técnica llamada [ingeniería social](https://es.wikipedia.org/wiki/Ingeniería_social_(seguridad_informática)), que consiste en el engaño a través de técnicas de persuasión y manipulación psicológica. Sin embargo, en lugar de timar directamente a las víctimas, el SIM swapping se consigue por medio de un engaño a los dependientes de las tiendas de telefonía.
 
-Por lo tanto, una vez que el ciberdelicuente se hace con tus credenciales del tipo que sea, tales como contraseñas bancarias o de perfiles sociales, como Facebook, Instagram, etc o cualquier otra credencial privada, no va a tener problemas para obtener el SMS de verificación.
+Por lo tanto, una vez que el ciberdelicuente se hace con tus credenciales del tipo que sea, tales como contraseñas bancarias o de perfiles sociales, como Facebook, Instagram, etc. o cualquier otra credencial privada, no va a tener problemas para obtener el SMS de verificación.
 
 Cabe destacar que cuando se es víctima de este asalto digital, al obtener la duplicación de la SIM por parte del atacante, tu tarjeta queda sin uso, por lo tanto pierdes la cobertura de llamadas y la conexión de internet [@PANDA-sim].
 
@@ -556,19 +556,19 @@ Dentro de la ciberextorsión se encuentra lo que se conoce como sextorsión. Est
 
 ## Baiting 
 
-Para llevar a cabo el baiting los ciberdelincuente suelen utilizar dispositivos de almacenamiento extraíbles, normalmente memorias USB o incluso CDs y DVDs infectados con un software malicioso para posteriormente dejarlos en un lugar en el cual sea fácil de encontrar por la víctima como por ejemplo, baños públicos, ascensores, aceras, etc. Cuando la víctima encuentre dicho dispositivo y lo introduzca en su ordenador, el software malicioso se ejecutará de manera inadvertida y posibilitará que el hacker pueda acceder a los datos del usuario o usuaria [@baiting].
+Para llevar a cabo el baiting los ciberdelincuentes suelen utilizar dispositivos de almacenamiento extraíbles, normalmente memorias USB o incluso CDs y DVDs infectados con un software malicioso para posteriormente dejarlos en un lugar en el cual sea fácil de encontrar por la víctima como por ejemplo, baños públicos, ascensores, aceras, etc. Cuando la víctima encuentre dicho dispositivo y lo introduzca en su ordenador, el software malicioso se ejecutará de manera inadvertida y posibilitará que el hacker pueda acceder a los datos del usuario o usuaria [@baiting].
 
 La vía de contagio como te habrás podido dar cuenta queda implícita.
 
 ## Clickjacking
 
-El clickjacking busca usuarios desprevenidos que hagan clic en algún botón, pestaña o accedan a un enlace mientras navegan por internet, haciendoles creer que están ante algo legítimo y positivo para ellos. Suelen ser ganchos tales como, una oferta muy ventajosa o algo que provoque en la víctima la necesidad de entrar e informarse y de esta modo quedar infectado [@WIKI-clickjacking].
+El clickjacking busca usuarios desprevenidos que hagan clic en algún botón, pestaña o accedan a un enlace mientras navegan por internet, haciéndoles creer que están ante algo legítimo y positivo para ellos. Suelen ser ganchos tales como, una oferta muy ventajosa o algo que provoque en la víctima la necesidad de entrar e informarse y de esta modo quedar infectado [@WIKI-clickjacking].
 
 ## Dumpster diving o scavening
 
-Este ciberdelito se conoce como el proceso de buscar en tu basura para obtener información útil sobre ti o tu empresa que luego pueda ser utilizada en tu contra. Aunque este tipo de ataques esta más bien dirigido a empresas, debes tener cuidado con la información que desechas por el método de tirarlo a la basura. Nunca se sabe lo que los cibercacos están dispuestos a hacer [@WIKI-dumpster-diving].
+Este ciberdelito se conoce como el proceso de buscar en tu basura para obtener información útil sobre ti o tu empresa que luego pueda ser utilizada en tu contra. Aunque este tipo de ataques está más bien dirigido a empresas, debes tener cuidado con la información que desechas por el método de tirarlo a la basura. Nunca se sabe lo que los cibercacos están dispuestos a hacer [@WIKI-dumpster-diving].
 
-Cuando te deshagas del algún dispositivo físico de almacenamiento, ya sea un disco duro externo, un PC, un USB o cualquier otro dispositivo, asegúrate primero de eliminar totalmente todo el contenido. Para ello utiliza software de borrado definitivo, ya que un simple formateado no eliminará la información. El borrado solo se completa cuando se reescribe sobre la anterior información, es por esto que un formatero solo te hace constar que el espacio esta disponible, pero el contenido sigue estando ahí aunque oculto. Esto quiere decir que con software avanzado y específico los ciberdelincuentes podrían recuperar todo el contenido [@XATAKA-borrado-almacenamiento].
+Cuando te deshagas del algún dispositivo físico de almacenamiento, ya sea un disco duro externo, un PC, un USB o cualquier otro dispositivo, asegúrate primero de eliminar totalmente todo el contenido. Para ello utiliza software de borrado definitivo, ya que un simple formateado no eliminará la información. El borrado solo se completa cuando se reescribe sobre la anterior información, es por esto que un formateo solo te hace constar que el espacio está disponible, pero el contenido sigue estando ahí, aunque oculto. Esto quiere decir que con software avanzado y específico los ciberdelincuentes podrían recuperar todo el contenido [@XATAKA-borrado-almacenamiento].
 
 Algunas herramientas de borrado definitivo son:
 
@@ -594,19 +594,19 @@ Es por ello que es muy recomendable evitar las páginas que puedan ser vistas co
 
 ## Juice jacking
 
-Practicamente todo el mundo en algún momento se ha quedado sin carga en algunos de sus dispositivos, pero gracias a que existen multitud de cargadores de USB públicos, esto ya no es un problema. Pero detrás de los beneficios que esta práctica nos aporta, se esconde una amenaza que va proliferando cada vez más llamada juice jacking. El juice jacking consiste en alterar con fines maliciosos la fuente de carga de los USBs por parte de los diberdelincuentes y que a través de esta técnica pueden aprovecharse tanto para el robo datos como para la inyección de archivos [@ESET-juice-jacking].
+Prácticamente todo el mundo en algún momento se ha quedado sin carga en algunos de sus dispositivos, pero gracias a que existen multitud de cargadores de USB públicos, esto ya no es un problema. Pero detrás de los beneficios que esta práctica nos aporta, se esconde una amenaza que va proliferando cada vez más llamada juice jacking. El juice jacking consiste en alterar con fines maliciosos la fuente de carga de los USBs por parte de los diberdelincuentes y que a través de esta técnica pueden aprovecharse tanto para el robo datos como para la inyección de archivos [@ESET-juice-jacking].
 
 La vía de contagio de esta ciberamenaza queda evidente en lo anteriormente expuesto, por lo que intenta evitar en la medida de lo posible usar cargadores públicos.
 
 ## Sustracción o perdida de tu dispositivo
 
-Otra contingencia con la que te puedes encontrar es el robo o perdida de tu dispositivo. Si te encontrases ante esta posibilidad, a continuación tienes esta lista de todo lo que debes hacer para minimizar males mayores.
+Otra contingencia con la que te puedes encontrar es el robo o perdida de tu dispositivo. Si te encontrases ante esta posibilidad, a continuación, tienes esta lista de todo lo que debes hacer para minimizar males mayores.
 
 Qué hacer en caso de que hayas extraviado o te hayan robado tu dispositivo móvil:
 
 - Pide a tu operadora que bloquee el IMEI de tu teléfono.
 
-- Búscalo con el localizador para [android](https://myaccount.google.com/intro/find-your-phone?hl=es-ES) o para [apple](https://www.apple.com/es/icloud/find-my/).
+- Búscalo con el localizador para [Android](https://myaccount.google.com/intro/find-your-phone?hl=es-ES) o para [Apple](https://www.apple.com/es/icloud/find-my/).
 
 - Anula la SIM y pide duplicado de la misma.
 
@@ -622,4 +622,4 @@ Qué hacer en caso de que hayas extraviado o te hayan robado tu dispositivo móv
 
 - Comprueba tu cuenta bancaria y ponte en contacto con tu banco.
 
-Además de contar con los localizadores nativos de android y apple, en el siguiente enlace encontrarás otras apps para que puedas elegir la app que más te guste para [localizar tu dispositivo móvil](https://www.osi.es/es/herramientas-gratuitas?herramienta_selec%5B0%5D=122).
+Además de contar con los localizadores nativos de Android y Apple, en el siguiente enlace encontrarás otras apps para que puedas elegir la app que más te guste para [localizar tu dispositivo móvil](https://www.osi.es/es/herramientas-gratuitas?herramienta_selec%5B0%5D=122).

@@ -8,7 +8,7 @@ Más adelante verás de qué situaciones y amenazas te estás protegiendo si sig
 
 ## Seguridad en las cuentas
 
-Prácticamente todo el mundo en menor o mayor medida dispone de cuentas de usuarios en todas sus aplicaciones o servicios en la red. De entre las más conocidas están la cuenta de [Google](https://myaccount.google.com/security) y la de [Microsoft](https://account.microsoft.com/security). En estos dos enlaces podrás ajustar la privacidad necesaria para poder hacer uso de ellas con más garantías. Además recuerda que el resto de plataformas deben ofrecerte este servicio para que puedas configurar tu seguridad y dentro de lo posible estar más tranquilo.
+Prácticamente todo el mundo en menor o mayor medida dispone de cuentas de usuarios en todas sus aplicaciones o servicios en la red. De entre las más conocidas están la cuenta de [Google](https://myaccount.google.com/security) y la de [Microsoft](https://account.microsoft.com/security). En estos dos enlaces podrás ajustar la seguridad necesaria para poder hacer uso de ellas con más garantías. Además, recuerda que el resto de plataformas deben ofrecerte este servicio para que puedas configurar tu seguridad y dentro de lo posible estar más tranquilo.
 
 ## Contraseñas
 
@@ -30,7 +30,7 @@ Estas deben ser lo más seguras posibles y para ello debes crearlas bajo las sig
 
 Una modalidad de crear contraseñas robustas y fáciles de recordar es la siguiente [@OSI-contraseñas]:
 
-1. Elige una extensión de más de 8 caracteres. Ejemplo : Mi cuenta segura
+1. Elige una extensión de más de 8 caracteres. Ejemplo: Mi cuenta segura
 
 2. Pon la primera mayúscula y elimina los espacios en blanco. Ejemplo: MicuentaSegura 
 
@@ -58,9 +58,9 @@ A su vez también han de ser fáciles de recordar, pero debes de huir de patrone
 
 - Usar datos personales como la fecha de nacimiento, nombre mascota, etc.
 
-En el siguiente enlace encontrás una lista de las [contraseñas más comunes](https://nordpass.com/most-common-passwords-list/) que jamás deberías utilizar. Echale un vistazo por si alguna de esas se parece a la tuya.
+En el siguiente enlace encontrarás una lista de las [contraseñas más comunes](https://nordpass.com/most-common-passwords-list/) que jamás deberías utilizar. Échale un vistazo por si alguna de esas se parece a la tuya.
 
-Algunas reglas y ejemplos para que las contraseñas sean fáciles de recordar los encontrás en estos enlaces:
+Algunas reglas y ejemplos para que las contraseñas sean fáciles de recordar los encontrarás en estos enlaces:
 
 - [Trucos para crear contraseñas seguras](https://www.pandasecurity.com/es/mediacenter/seguridad/10-trucos-para-crear-contrasenas-seguras/)
 
@@ -161,13 +161,13 @@ Uno de los peligros a los que más expuesto estás, es en el uso que haces de lo
 
 Es por ello que debes tener la precaución de no hacer transacciones de ningún tipo, ni enviar datos sensibles. Es decir, usarla solo en caso de no te quede otra opción o en caso de tener que hacer cualquier búsqueda de carácter trivial.
 
-Es de suponer que si estas en casa con Wi-Fi propia, estas recomendaciones no son tan necesarias. Pero si que sería muy recomendable por tu parte, que tuvieses muy en cuenta las recomendaciones que tienes a tu disposición en el apartado de Router en este manual. Además es conveniente que si no has establecido las capas de seguridad que se recomiendan en ese apartado, hagas una revisión de tu conexión Wi-Fi, por si tienes algún intruso y de ser así poder eliminarlo. Para ello tienes a tu disposición en el [blog de la Oficina de Seguridad de Internauta](https://www.osi.es/es/actualidad/blog) un recurso llamado [descubre y elimina a los intrusos de tu red wifi](https://www.osi.es/es/actualidad/blog/2019/09/25/descubre-y-elimina-los-intrusos-de-tu-red-wifi).
+Es de suponer que si estas en casa con Wi-Fi propia, estas recomendaciones no son tan necesarias. Pero sí, que sería muy recomendable por tu parte, que tuvieses muy en cuenta las recomendaciones que tienes a tu disposición en el apartado de Router en este manual. Además, es conveniente que si no has establecido las capas de seguridad que se recomiendan en ese apartado, hagas una revisión de tu conexión Wi-Fi, por si tienes algún intruso y de ser así poder eliminarlo. Para ello tienes a tu disposición en el [blog de la Oficina de Seguridad de Internauta](https://www.osi.es/es/actualidad/blog) un recurso llamado [descubre y elimina a los intrusos de tu red wifi](https://www.osi.es/es/actualidad/blog/2019/09/25/descubre-y-elimina-los-intrusos-de-tu-red-wifi).
 
 Lo más recomendable es que siempre que puedas navegues con cable en lugar de Wi-Fi.
 
 ## Plugins o extensiones
 
-En informática, un complemento o plug-in es una aplicación (o programa informático) que se relaciona con otra para agregarle una función nueva y generalmente muy específica. Esta aplicación adicional es ejecutada por la aplicación principal e interactúan por medio de la interfaz de programación de aplicaciones. Complemento y plug-in se diferencian en que los complementos son desarrollados por empresas reconocidas y tienen certificado de seguridad y los plug-in pueden ser desarrollados por cualquiera [@IONOS-plugin].
+En informática, un complemento o plugin es una aplicación (o programa informático) que se relaciona con otra para agregarle una función nueva y generalmente muy específica. Esta aplicación adicional es ejecutada por la aplicación principal e interactúan por medio de la interfaz de programación de aplicaciones. Complemento y plug-in se diferencian en que los complementos son desarrollados por empresas reconocidas y tienen certificado de seguridad y los plug-in pueden ser desarrollados por cualquiera [@IONOS-plugin].
 
 Existen una infinidad de plug-in de diferente naturaleza y para multitud de propósitos. En esta ocasión nos vamos a centrar en los usados por los navegadores, un ejemplo de estos es el archiconocido [adBlock](https://getadblock.com/), cuya función es la eliminar esos molestos anuncios de algunos portales webs.
 
@@ -179,17 +179,17 @@ Cada navegador dispone de repositorio de plug-ins o extensiones, que pueden ser 
 knitr::include_graphics("images/plugin-navegador.png")
 ```
 
-Si quieres ampliar tu conocimiento y saber más de plugins y extensiones pasate por el [blog de la Oficina de Seguridad de Internauta](https://www.osi.es/es/actualidad/blog) y lee esta entrada sobre [extensiones: Superpoderes para los navegadores](https://www.osi.es/es/actualidad/blog/2019/11/20/extensiones-superpoderes-para-los-navegadores).
+Si quieres ampliar tu conocimiento y saber más de plugins y extensiones pásate por el [blog de la Oficina de Seguridad de Internauta](https://www.osi.es/es/actualidad/blog) y lee esta entrada sobre [extensiones: Superpoderes para los navegadores](https://www.osi.es/es/actualidad/blog/2019/11/20/extensiones-superpoderes-para-los-navegadores).
 
 ## Descargas
 
 Debes de tener muy en cuenta que las aplicaciones o programas deben ser descargadas desde sus sitios oficiales, y no desde otros. Es importante tener siempre presente que, incluso en ocasiones ni si quiera los antivirus reconocen algunas aplicaciones o programas que pudieran contener alguna vulnerabilidad, algún virus o gusano que afecte tu ordenador.
 
-Existen también multitud de webs que en apariencia, ofrecen programas muy mediáticos o de mucha popularidad y que pueden haber sido previamente infectados con algún tipo de código malicioso mediante la modificación o alteración del mismo. Por ello, lo más aconsejable es que descarges las aplicaciones desde las webs oficiales [@software-alterado].
+Existen también multitud de webs que en apariencia, ofrecen programas muy mediáticos o de mucha popularidad y que pueden haber sido previamente infectados con algún tipo de código malicioso mediante la modificación o alteración del mismo. Por ello, lo más aconsejable es que descargues las aplicaciones desde las webs oficiales [@software-alterado].
 
-Dentro de todos los tipos de archivos que pueden contener malware, uno de los más comunes es el .EXE. Incluso a la hora de descargar archivos de este tipo nuestro antivirus puede saltar aunque no se trate de una amenaza e incluso cuando quieras mandar un EXE por e-mail tampoco está permitido, por cuestiones de seguridad. Es todo un clásico, ya que se trata de un archivo ejecutable que podría instalar software malicioso en nuestro sistema. Hay que tener mucho ojo siempre que gestiones un archivo de este tipo [@RZ-exe].
+Dentro de todos los tipos de archivos que pueden contener malware, uno de los más comunes es el .EXE. Incluso a la hora de descargar archivos de este tipo nuestro antivirus puede saltar, aunque no se trate de una amenaza e incluso cuando quieras mandar un EXE por e-mail tampoco está permitido, por cuestiones de seguridad. Es todo un clásico, ya que se trata de un archivo ejecutable que podría instalar software malicioso en nuestro sistema. Hay que tener mucho ojo siempre que gestiones un archivo de este tipo [@RZ-exe].
 
-Es una buena práctica huir de portales de terceros, ya con los instaladores muchso de ellos descargan malware y molestas toolbars.
+Es una buena práctica huir de portales de terceros, ya que con los instaladores muchos de ellos descargan malware y molestas toolbars.
 
 ## Cierre de sesiones
 
@@ -203,7 +203,7 @@ Por la razón antes expuesta, es importante que no dejes ninguna sesión abierta
 
 La mayoría de cuentas a día de hoy están configuradas para soportar lo que se conoce como SFA (Single Factor Authetication) o Factor de autenticación Simple. Se trata del acceso a cuentas o servicios con el solo uso del usuario y una contraseña, algo que todo el mundo viene haciendo desde hace tiempo. Esto se ha vuelto en gran medida un gran riesgo, ya que si un tercero consigue hacerse con tu contraseña no tendrá ninguna dificultad para tomar el control.
 
-Es por este motivo que cada vez más servicios están implementando lo que se conoce como 2SV (Two Step Verification) o Verificación en Dos Pasos. Este sistema funciona de la siguiente manera, justo después de introducir tu contraseña, se te envía una notificación de forma segura al dispositivo en el que hayas iniciado sesión, de manera que solo tienes que aprobar la notificación para realizar el inicio sesión. Algunos servicios como la [verificación en dos pasos de google](https://support.google.com/accounts/answer/185839?co=GENIE.Platform%3DDesktop&hl=es) viene de manera nativa y tan solo tienes que activarla.
+Es por este motivo que cada vez más servicios están implementando lo que se conoce como 2SV (Two Step Verification) o Verificación en Dos Pasos. Este sistema funciona de la siguiente manera, justo después de introducir tu contraseña, se te envía una notificación de forma segura al dispositivo en el que hayas iniciado sesión, de manera que solo tienes que aprobar la notificación para realizar el inicio sesión. Algunos servicios como la [verificación en dos pasos de Google](https://support.google.com/accounts/answer/185839?co=GENIE.Platform%3DDesktop&hl=es) viene de manera nativa y tan solo tienes que activarla.
 
 Como puedes ver, los dos pasos son:
 
@@ -228,33 +228,21 @@ Son tres los tipos de factores de autenticación:
 - Algo que tienes: Factor de posesión (tarjeta, smartphone, token hardware como las Security keys).
 - Algo que eres: Factor biométrico (huellas dactilares, escaneos de retina, reconocimiento facial, reconocimiento de voz o el comportamiento de un usuario).
 
+Uno de los ejemplos de autenticación en dos factores más común es la acción que realizas cuando vas a sacar dinero de un cajero. Por un lado, metes la tarjeta (algo que tienes) y luego pones el PIN (algo que sabes). Esto es lo que se conoce como la autenticación en dos pasos o 2FA (segundo factor de autenticación) y que a veces tiende a confundirse con la verificación en dos pasos 2SV (Two Step Verification) que puedes verla en esta misma unidad.
+
+Otro ejemplo son los inicios de sesión en los que se necesita un código adicional que es gestionado a través de correo electrónico, SMS o llamadas telefónicas, como es el caso de algunas entidades bancarias. Y  en otros supuestos, aunque la plataforma disponga de dicho servicio necesitarás una aplicación externa como [Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=es-419) o [Microsoft authenticator](https://www.microsoft.com/es-es/account/authenticator) entre otras y que se trata de una App de autenticación en dos pasos, que te genera el código adicional, que ha de ser utilizado inmediatamente ya que éste expira con el tiemplo.
+
+También puedes hacer uso de autenticación de factores múltiples con lo que se conoce como Security Key o llave de seguridad. Se trata de un dispositivo hardware generalmente con conexión USB y necesitarás usar como segundo factor de autenticación una vez hayas introducido tu usuario y contraseña. En la publicación [las mejores llaves de seguridad usb](https://es.digitaltrends.com/computadoras/las-mejores-llaves-de-seguridad-usb/) encontrarás algunos de los más utilizados y recuerda siempre comprar en las plataformas oficiales o de confianza.
+
 ```{r, echo=FALSE, out.width='50%', fig.align='center', fig.cap='Autenticación de factores múltiples.'}
 knitr::include_graphics("images/autenticación-factor-múltiple.jpg")
 ```
 
-Un de los ejemplo de autenticación en dos factores más común es la acción que realizas cuando vas a sacar dinero de un cajero. Por un lado metes la tarjeta (algo que tienes) y luego pones el PIN (algo que sabes). Esto es lo que se conoce como la autenticación en dos pasos o 2FA (segundo factor de autenticación) y que a veces tiende a confundirse con la verificación en dos pasos 2SV (Two Step Verification) que puedes verla en esta misma unidad.
-
-Otro ejemplo son los inicios de sesión en los que se necesita un código adicional que es gestionado a través de correo electrónico, SMS o llamadas telefónicas, como es el caso de algunas entidades bancarias. Y  en otros supuestos, aunque la plataforma disponga de dicho servicio necesitarás una aplicación externa como [Google Autenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=es-419) o [Microsoft autenticator](https://www.microsoft.com/es-es/account/authenticator) entre otras y que se trata de una App de autenticación en dos pasos, que te genera el código adicional, que ha de ser utilizado inmediatamente ya que éste expira con el tiemplo.
-
-También puedes hacer uso de autenticación de factores múltiples con lo que se conoce como Security Key o llave de seguridad. Se trata de un dispositivo hardware generalmente con conexión USB y necesitarás usar como segundo factor de autenticación una vez hayas introducido tu usuario y contraseña. En la publicación [las mejores llaves de seguridad usb](https://es.digitaltrends.com/computadoras/las-mejores-llaves-de-seguridad-usb/) encontrarás algunos de los más utilizados y recuerda siempre comprar en las plaformas oficiales o de confianza.
-
-En la mayoría de los casos solo se combinan dos de estos tres factores, aunque existe la posibilidad de implementar los tres si se viene necesario. Más información en [Banco Santander stories](https://www.santander.com/es/stories/pon-una-capa-extra-de-seguridad-online-con-la-autenticacion-multifactor) y [Autenticación en dos factores vs autenticación en dos pasos](https://protegermipc.net/2016/03/18/autenticacion-en-dos-factores-vs-autenticacion-en-dos-pasos/)
-
-## Cifrado o encriptación de datos
-
-Tener datos o información simplemente organizados en carpetas en tus dispositivos sin más no es una práctica muy recomendable  y más si se trata de datos sensibles. Para evitar que alguien que se haga con tu dispositivo pueda acceder impunemente a cualquier información es necesario disponer de una buena capa de seguridad. Es aquí donde entra en juego la herramienta de encriptado [Cryptomator](https://cryptomator.org/).
-
-Cryptomator es un software libre y por lo tanto gratuito, con el que puedes encriptar tanto archivos como carpeta que quieras mantener a buen recaudo. Además es compatible con Windows, macOS y Linux y también disponen de una app para android y iphone.
-
-Con Cryptomator puedes crear diferentes bóvedas o cámaras cifradas. Cada bóveda está protegida por una contraseña y puede contener tantos archivos y carpetas como desees. En estas bóvedas estará tu información encriptada de manera que no podrá ser visible a menos que poseas la contraseña que los desencripta. Con esta aplicación podrás estar tranquilo ya que nadie podrá acceder a tu información aun habiéndose hecho con tu dispositivo. 
-
-Otra interesante utilidad sería encriptar tus datos antes de subirlo a cualquier plataforma de almacenamiento en la nube con lo que te garantizas que no puedan ser leídos.
-
-En la plataforma de [Redes zone](https://www.redeszone.net/tutoriales/seguridad/cryptomator-encriptar-archivos-carpetas/) encontrarás más detalles de esta estupenda herramienta así como una guía para su instalación.
+En la mayoría de los casos solo se combinan dos de estos tres factores, aunque existe la posibilidad de implementar los tres si se viene necesario. Más información en [Banco Santander stories](https://www.santander.com/es/stories/pon-una-capa-extra-de-seguridad-online-con-la-autenticacion-multifactor) y [Autenticación en dos factores vs autenticación en dos pasos](https://protegermipc.net/2016/03/18/autenticacion-en-dos-factores-vs-autenticacion-en-dos-pasos/).
 
 ## AntiBotnet
 
-Un Botnet es el nombre genérico para denominar a cualquier grupo de PCs infectados y controlados por un ciberdelincuente de forma remota. Generalmente se trata de un hacker o un grupo de ellos los que crean el botnet a través de un malware que infecta a una gran cantidad de equipos. Este grupo de equipos o ordenadores son los que forman parte del botnet, o también llamados “bots” o “zombies”. No existe un número mínimo de equipos para crear un botnet. Los botnets pequeños pueden incluir cientos de PCs infectados, mientras que los mayores utilizan millones de equipos [@INCI-botnet].
+Un Botnet es el nombre genérico para denominar a cualquier grupo de PCs infectados y controlados por un ciberdelincuente de forma remota. Generalmente se trata de un hacker o un grupo de ellos los que crean el botnet a través de un malware que infecta a una gran cantidad de equipos. Este grupo de equipos u ordenadores son los que forman parte del botnet, o también llamados “bots” o “zombies”. No existe un número mínimo de equipos para crear un botnet. Los botnets pequeños pueden incluir cientos de PCs infectados, mientras que los mayores utilizan millones de equipos [@INCI-botnet].
 
 Para saber si estás siendo víctima de este tipo de ataque, existen [servicios antibotnet](https://www.osi.es/es/servicio-antibotnet) que identifican si desde tu conexión a internet se  ha detectado algún incidente de seguridad relacionado u otras amenazas. 
 
@@ -262,7 +250,7 @@ Para saber si estás siendo víctima de este tipo de ataque, existen [servicios 
 
 El Bluetooth y NFC (Near field communication) o comunicación de campo cercano, son otro punto vulnerable en tu seguridad en la red. Pero antes veamos concretamente que son estos dos servicios.
 
-- Bluetooth: Viene incorporado en multitud de dispositivos y permite conectarnos con otro dispositivo para compartir archivos o emparejar determinados dispositivos, como auriculares inalámbricos, etc [@IONOS-bluetooh].
+- Bluetooth: Viene incorporado en multitud de dispositivos y permite conectarnos con otro dispositivo para compartir archivos o emparejar determinados dispositivos, como auriculares inalámbricos, etc. [@IONOS-bluetooh].
 
 - NFC: Se trata de una tecnología inalámbrica de corto alcance que permite conectar dos dispositivos entre sí para intercambiar información o realizar pagos [@IONOS-nfc].
 

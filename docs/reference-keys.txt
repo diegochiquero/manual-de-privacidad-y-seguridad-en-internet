@@ -30,6 +30,7 @@ cookies
 permisos-cámara-micrófono-y-localización.
 la-nube
 correo-electrónico-y-apps-de-mensajería
+cifrado-o-encriptado-de-datos
 he-decidido-vender-o-donar-mi-dispositivo
 gestión-de-la-seguridad-en-equipos-físicos
 gestionar-la-seguridad-en-los-equipos
@@ -51,7 +52,6 @@ descargas
 cierre-de-sesiones
 sv-two-step-verification-o-verificación-en-dos-pasos
 mfa-multi-factor-authentication-o-autenticación-de-factores-múltiples
-cifrado-o-encriptación-de-datos
 antibotnet
 bluetooth-y-nfc
 amenazas
@@ -70,7 +70,7 @@ vishing
 smishing
 spam-o-correo-malicioso
 toolbars
-usurpacion-o-robo-de-identidad
+usurpación-o-robo-de-identidad
 spoofing-o-suplantación-de-identidad
 ciberestafas-en-compras-online-y-otros-engaños
 warshipping
@@ -117,6 +117,6 @@ ayuda-y-soporte-desde-instituciones
 instituto-nacional-de-ciberseguridad
 oficina-de-seguridad-del-internauta
 agencia-española-de-protección-de-datos
-internet-segura-para-ñiños
+internet-segura-para-niños
 pantallas-amigas
 foro-info-spyware

@@ -20,11 +20,11 @@ De esta manera, tu vida queda totalmente expuesta y aunque el propósito de ello
 
 Este exceso de información que se puede facilitar en internet, sumado al comportamiento malicioso de otros usuarios, supone un grave riesgo que se corre cada día al señalar tu ubicación, comentar información personal o privada, colgar una imagen o video comprometedores, etc.
 
-Esto no supone un delito en cuestión, pero puede dar lugar al chantaje, ciberacoso o robo de información personal a través de algún tipo de técnica. Además de exponerte al riesgo de un posible robo y/o suplantación de identidad [@AEPD-oversharing].
+Esto no supone un delito en cuestión, pero puede dar lugar al chantaje, ciberacoso o robo de información personal a través de algún tipo de técnica. Además, de exponerte al riesgo de un posible robo y/o suplantación de identidad [@AEPD-oversharing].
 
 ## Privacidad en tus cuentas
 
-Prácticamente todo el mundo en menor o mayor medida dispone de cuentas de usuarios en todas sus aplicaciones o servicios en la red. Una de las más conocidas es la cuenta de [Google](https://myaccount.google.com/data-and-personalization), así como también la de [Microsoft](https://account.microsoft.com/account/privacy) entre otras. En ambos enlaces podrás ajustar la privacidad con la que más cómodo te sientas. Además recuerda que no solo estos dos servicios disponen de estos ajustes, sino que también el resto de plataformas deben brindarte la posibilidad de que realices tu propia configuración.
+Prácticamente todo el mundo en menor o mayor medida dispone de cuentas de usuarios en todas sus aplicaciones o servicios en la red. Una de las más conocidas es la cuenta de [Google](https://myaccount.google.com/data-and-personalization), así como también la de [Microsoft](https://account.microsoft.com/account/privacy) entre otras. En ambos enlaces podrás ajustar la privacidad con la que más cómodo te sientas. Además, recuerda que no solo estos dos servicios disponen de estos ajustes, sino que también el resto de plataformas deben brindarte la posibilidad de que realices tu propia configuración.
 
 En lo que respecta a las redes sociales como, [Facebook](https://es-la.facebook.com/help/325807937506242), [Twitter](https://help.twitter.com/es/safety-and-security#ads-and-data-privacy) o [Instagram](https://es-es.facebook.com/help/instagram/196883487377501/?helpref=hc_fnav&bc[0]=Ayuda%20de%20Instagram&bc[1]=Administrar%20tu%20cuenta), entre otras muchas más, no debes olvidar que también disponen opciones de privacidad y que en éste escenario está en juego tus datos más personales. Luego el mejor consejo es establecer una configuración privada en lugar de pública, ya que estas redes sociales no tienen por defecto, los niveles más elevados en cuanto a la protección y a la seguridad.
 
@@ -60,7 +60,7 @@ Su principal particularidad es que se trata de una conexión segura y cifrada. E
 
 Las VPN suelen ser aplicaciones o extensiones de terceros, aunque el navegador [OPERA](https://www.opera.com/es) lo trae por defecto. Lo único que tendrás que hacer es activarla desde sus opciones, y se creará una conexión cifrada entre tu dispositivo y un servidor VPN para esconder tu ubicación real.
 
-No obstante no todas las VPN son igual de eficaces y en ocasiones algunas de ellas pueden no estar funcionando todo lo bien que cabría de esperar y durante tu sesión de navegación podrían verse expuestos algunos de tus datos. Por suerte, existen herramientas como [What leaks?](https://whatleaks.com/) que te permite analizar la eficacia de tu VPN a la hora de proteger tu privacidad. 
+No obstante, no todas las VPN son igual de eficaces y en ocasiones algunas de ellas pueden no estar funcionando todo lo bien que cabría de esperar y durante tu sesión de navegación podrían verse expuestos algunos de tus datos. Por suerte, existen herramientas como [What leaks?](https://whatleaks.com/) que te permite analizar la eficacia de tu VPN a la hora de proteger tu privacidad. 
 
 ## Cookies
 
@@ -70,7 +70,7 @@ Su propósito principal es identificar al usuario almacenando su historial de ac
 
 Existe la opción de navegar sin cookies gracias a las sesiones privadas que tienen los distintos navegadores, como has podido ver en el apartado anterior. De esta forma no se almacenará ningún tipo de información en tu ordenador cuando navegues en una web y del mismo modo tampoco recordará nada después al volver a navegar de nuevo.
 
-Es importante que con frecuencia elimines las cookies, ahora que sabes que manejan información privada y además ocupan espacio en tu dispositivo. Existen dos formas manuales de hacerlo. La primera de ellas es desde el menú de opciones del propio navegador y la otra es con un software específico para tal cometido, como por ejemplo [Ccleaner](https://www.ccleaner.com/es-es). Pero si quieres automatizar esta tarea, practicamente todos los navegadores disponen de una configuración para que una vez  cierres el navegador se realice una limpieza de manera automática. La siguiente imagen te muestra la opción que debes buscar en el navegador Google Chrome, para ello ve al Menu del navegador, entra en Configuracíón, luego Privacidad y seguridad, a continuación Cookies y finalmente Borrar las cookies y los datos de sitios al salir de Chrome, pero debes tener en cuenta que las ubicaciones pueden variar con las actualizaciones. Si usas otro navegador puede ser que varíe la ruta de acceso, pero a grandes rasgos suelen ser muy parecidas y también se acceden a ellas a través del menú de opciones.
+Es importante que con frecuencia elimines las cookies, ahora que sabes que manejan información privada y además ocupan espacio en tu dispositivo. Existen dos formas manuales de hacerlo. La primera de ellas es desde el menú de opciones del propio navegador y la otra es con un software específico para tal cometido, como por ejemplo [Ccleaner](https://www.ccleaner.com/es-es). Pero si quieres automatizar esta tarea, prácticamente todos los navegadores disponen de una configuración para que una vez  cierres el navegador se realice una limpieza de manera automática. La siguiente imagen te muestra la opción que debes buscar en el navegador Google Chrome, para ello ve al Menu del navegador, entra en Configuracíón, luego Privacidad y seguridad, a continuación, Cookies y finalmente Borrar las cookies y los datos de sitios al salir de Chrome, pero debes tener en cuenta que las ubicaciones pueden variar con las actualizaciones. Si usas otro navegador puede ser que varíe la ruta de acceso, pero a grandes rasgos suelen ser muy parecidas y también se acceden a ellas a través del menú de opciones.
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Eliminar cookies automáticamente al cerrar Google Chrome.'}
 knitr::include_graphics('images/borrado-cookies-cierre-navegador.png')
@@ -78,17 +78,17 @@ knitr::include_graphics('images/borrado-cookies-cierre-navegador.png')
 
 Por otro lado si quieres deshacerte de la incómoda notificación de cookies de las web, puedes instalar en el navegador el plugin [I don’t care about cookies](https://www.i-dont-care-about-cookies.eu/) o este otro [Ninja cookie](https://ninja-cookie.com/), elige el que más te guste.
 
-Si quieres más información detallada sobre las cookies visita este enlace [por qué borrar las cookies](https://www.osi.es/es/actualidad/blog/2019/09/11/por-que-borrar-las-cookies-del-navegador) y este otro [tipos de cookies, cofiguración y consejos](https://www.osi.es/es/actualidad/blog/2018/07/18/entre-cookies-y-privacidad) de la Oficina de Seguridad del Internauta donde las analizan con más detalle. 
+Si quieres más información detallada sobre las cookies visita este enlace [por qué borrar las cookies](https://www.osi.es/es/actualidad/blog/2019/09/11/por-que-borrar-las-cookies-del-navegador) y este otro [tipos de cookies, configuración y consejos](https://www.osi.es/es/actualidad/blog/2018/07/18/entre-cookies-y-privacidad) de la Oficina de Seguridad del Internauta donde las analizan con más detalle. 
 
 ## Permisos cámara, micrófono y localización.
 
-Una práctica muy saludable en el uso de la cámara o webCam e incluso el micrófono, es tenerla tapada cuando no la estés usando y si no fijate en la foto que se muestra a continuación  que le tomaron a Mark Zuckerberg.
+Una práctica muy saludable en el uso de la cámara o webCam e incluso el micrófono, es tenerla tapada cuando no la estés usando y si no fíjate en la foto que se muestra a continuación  que le tomaron a Mark Zuckerberg.
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='WebCam y micrófono del ordenador tapados.'}
 knitr::include_graphics('images/webca-mark-zuckerberg.png')
 ```
 
-Para tener el control total sobre las funcionalidades de cámara, micrófono y ubicación, debes establecer los permisos en la opción de Preguntar, lo verás más claramente en la imagen que se muestra más abajo. Para establecer estos parámetros existen dos maneras de hacerlo, uno de ellas es a través de la opciones que te da el menú de configuración del propio navegador, y para ello debes ir a  Menú navegador, buscar Configuracíón, después Privacidad y seguridad, a continuación Configuración de sitios web y finalmente Permisos. Como ya se indicó en el caso de borrado de cookies automático, debes tener en cuenta que las ubicaciones pueden variar con las actualizaciones que reciba el navegador.
+Para tener el control total sobre las funcionalidades de cámara, micrófono y ubicación, debes establecer los permisos en la opción de Preguntar, lo verás más claramente en la imagen que se muestra más abajo. Para establecer estos parámetros existen dos maneras de hacerlo, uno de ellas es a través de las opciones que te da el menú de configuración del propio navegador, y para ello debes ir a  Menú navegador, buscar Configuracíón, después Privacidad y seguridad, a continuación Configuración de sitios web y finalmente Permisos. Como ya se indicó en el caso de borrado de cookies automático, debes tener en cuenta que las ubicaciones pueden variar con las actualizaciones que reciba el navegador.
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Ajustes permisos cámara, micrófono y ubicación desde el menú de opciones del navegador.'}
 knitr::include_graphics('images/ajuste-permisos.png')
@@ -129,9 +129,9 @@ A la hora de compartir tus datos alojados en la nube debes tener en cuenta que s
 
 ## Correo electrónico y apps de mensajería
 
-El correo electrónico es uno de los servicios web que más se suele utilizar. Por ello debes saber que muchos de lo gestores de emails que son utilizados a diario, no aplican estrictas políticas de privacidad, por lo que tus correos podrías ser leídos y rastreados no solo por terceros con intenciones poco saludables sino también por éstos mismos servicios de correo.
+El correo electrónico es uno de los servicios web que más se suele utilizar. Por ello, debes saber que muchos de los gestores de emails que son utilizados a diario, no aplican estrictas políticas de privacidad, por lo que tus correos podrías ser leídos y rastreados no solo por terceros con intenciones poco saludables sino también por éstos mismos servicios de correo.
 
-Esto no tiene por que ser un inconveniente si no envías información sensible, pero si no es el caso quizá preferirías usar un gestor de correos que sí te garantice una privacidad completa en tus envíos. De ser este tu caso puedes usar  [Protonmail](https://protonmail.com/), [Tutanota](https://tutanota.com/es/) o [Fastmail](https://www.fastmail.com) que si tienen en cuenta este aspecto, aunque no son los únicos. En el siguiente enlace tienes una lista de otras [alternativas de emails privadas](https://blogthinkbig.com/alternativas-gratuitas-gmail-outlook-privacidad).
+Esto no tiene por qué ser un inconveniente si no envías información sensible, pero si no es el caso quizá preferirías usar un gestor de correos que sí te garantice una privacidad completa en tus envíos. De ser este tu caso puedes usar  [Protonmail](https://protonmail.com/), [Tutanota](https://tutanota.com/es/) o [Fastmail](https://www.fastmail.com) que sí tienen en cuenta este aspecto, aunque no son los únicos. En el siguiente enlace tienes una lista de otras [alternativas de emails privadas](https://blogthinkbig.com/alternativas-gratuitas-gmail-outlook-privacidad).
 
 Si por el contrario prefieres ser tu quien gestiones esa capa de privacidad adicional, puedes optar por hacer uso de otras herramientas de encriptado que podrás ver en este artículo de [cómo encriptar y proteger tu correo electrónico](https://www.osi.es/es/actualidad/blog/2019/07/31/como-encriptar-y-proteger-tu-correo-electronico).
 
@@ -139,9 +139,21 @@ Si además quieres saber si tu cuenta de correo o tu número de teléfono han si
 
 Con respecto a las aplicaciones de mensajería instantánea debes tener en cuenta que sucede lo mismo que con los correos electrónicos. A pesar que la mayoría de ellas, incluida la más popular de todas (whatsApp) disponen de capas de privacidad que la hacen confiable, a veces no podemos estar totalmente seguros de no estar sometidos a un seguimiento por parte de éstas. Es por ello, que las aplicaciones como [telegram](https://telegram.org/) y [signal](https://signal.org/es/) nacen con el propósito de no inmiscuirse en el uso que haces de la aplicación.
 
+## Cifrado o encriptado de datos
+
+Tener datos o información simplemente organizados en carpetas en tus dispositivos sin más no es una práctica muy recomendable  y más si se trata de datos sensibles. Para evitar que alguien que se haga con tu dispositivo pueda acceder impunemente a cualquier información es necesario disponer de una buena capa de seguridad. Es aquí donde entra en juego la herramienta de encriptado [Cryptomator](https://cryptomator.org/).
+
+Cryptomator es un software libre y por lo tanto gratuito, con el que puedes encriptar tanto archivos como carpeta que quieras mantener a buen recaudo. Además es compatible con Windows, macOS y Linux y también disponen de una app para Android y Iphone.
+
+Con Cryptomator puedes crear diferentes bóvedas o cámaras cifradas. Cada bóveda está protegida por una contraseña y puede contener tantos archivos y carpetas como desees. En estas bóvedas estará tu información encriptada de manera que no podrá ser visible a menos que poseas la contraseña que los desencripta. Con esta aplicación podrás estar tranquilo ya que nadie podrá acceder a tu información aun habiéndose hecho con tu dispositivo. 
+
+Otra interesante utilidad sería encriptar tus datos antes de subirlo a cualquier plataforma de almacenamiento en la nube con lo que te garantizas que no puedan ser leídos.
+
+En la plataforma de [Redes zone](https://www.redeszone.net/tutoriales/seguridad/cryptomator-encriptar-archivos-carpetas/) encontrarás más detalles de esta estupenda herramienta, así como una guía para su instalación.
+
 ## He decidido vender o donar mi dispositivo
 
-Si estás pensando en vender o quizá donar cualquiera de tus dispisitivos, ya sea un disco duro externo, el ordenador o portátil, un USB o cualquier otro dispositivo que contenga almacenamiento, asegurate primero de eliminar totalmente todo el contenido. Para ello utiliza software de borrado definitivo, ya que un simple formateado no borrará la información. El borrado solo se completa cuando se reescribe sobre la anterior información, es por esto que un formateo solo te hace constar que el espacio esta disponible, pero el contenido, aunque oculto, sigue estando ahí. Esto quiere decir que con software avanzado y específico los ciberdelicuentes podrían recuperar todo el contenido [@XATAKA-borrado-almacenamiento].
+Si estás pensando en vender o quizá donar cualquiera de tus dispositivos, ya sea un disco duro externo, el ordenador o portátil, un USB o cualquier otro dispositivo que contenga almacenamiento, asegúrate primero de eliminar totalmente todo el contenido. Para ello utiliza software de borrado definitivo, ya que un simple formateado no borrará la información. El borrado solo se completa cuando se reescribe sobre la anterior información, es por esto que un formateo solo te hace constar que el espacio está disponible, pero el contenido, aunque oculto, sigue estando ahí. Esto quiere decir que con software avanzado y específico los ciberdelicuentes podrían recuperar todo el contenido [@XATAKA-borrado-almacenamiento].
 
 Si quieres más recomendaciones sobre como actuar en este supuesto, te recomiendo que leas la siguiente entrada [¿Sabías que 2 de cada 5 dispositivos vendidos contienen información personal?](https://www.osi.es/es/actualidad/blog/2019/10/09/sabias-que-2-de-cada-5-dispositivos-vendidos-contienen-informacion).
 

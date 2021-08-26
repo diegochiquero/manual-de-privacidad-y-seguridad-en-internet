@@ -2,7 +2,7 @@
 
 ## El contenido digital
 
-Cada vez más el contenido digital es mayor, a su vez va creciendo de manera exponencial y además esta disponible en multitud de formatos, como textos, imágenes, audio, vídeos. Llega a todos los públicos por diferentes canales y aún tratándose del mismo contenido, la manera en que este es mapeado o modelado,  también es otra variante más de como la información llega al receptor final. Un ejemplo de como mapear o modelar una misma información en un mismo formato sería el uso de la representación visual o también conocido como Visual thinking y una infografía, ambos dos están representados en formato imagen.
+Cada vez más el contenido digital es mayor, a su vez va creciendo de manera exponencial y además está disponible en multitud de formatos, como textos, imágenes, audio, vídeos. Llega a todos los públicos por diferentes canales y an tratándose del mismo contenido, la manera en que este es mapeado o modelado,  también es otra variante más de como la información llega al receptor final. Un ejemplo de como mapear o modelar una misma información en un mismo formato sería el uso de la representación visual o también conocido como Visual Thinking y una infografía, ambos dos están representados en formato imagen.
 
 La lectura que debes hacer en este punto, es que no toda la información vale y no todo el contenido es de calidad, por ello, tener claro los siguientes puntos pueden ser de mucha ayuda.
 
@@ -10,7 +10,7 @@ La lectura que debes hacer en este punto, es que no toda la información vale y 
 
 Según el diccionario de la Real Academia Española, la palabra contrastar en una de sus acepciones consiste en comprobar la exactitud o autenticidad de algo. Hoy en día la información en más rápida de encontrar y abundante en lo que se conoce como infoxicación. La [infoxicación](https://es.godaddy.com/blog/infoxicacion-causas-consecuencias/) no es más que la sobrecarga de información a la que las personas se ven sometidas en su día a día, por lo que es importante saberla escoger, y saber que en muchos casos se trata de información irrelevante que algunas personas comparten simplemente por falta de conocimiento o criterio y en el peor de los casos para confundir.
 
-Al contrastar información debes hacer un análisis de todas aquellas fuentes que encuentras, ya que los resultados de búsquedas en los navegadores es muy abundante y la información a veces es efímera y puede llegar a no estar totalmente actualizada, con lo que eso conlleva.
+Al contrastar información debes hacer un análisis de todas aquellas fuentes que encuentras, ya que el resultado de una búsqueda en los navegadores es muy abundante y la información a veces es efímera y puede llegar a no estar totalmente actualizada, con lo que eso conlleva.
 
 No debes conformarte con dar por buena la primera versión de una información en Internet, empobrece tu experiencia como usuario y te perjudica  como lector. Por ello debes tener presente el compromiso ético, por mucho que las prisas sean las que mandes en algunas ocasiones, siempre debes cuidar tu ética al trabajar y contrastar muy bien toda información y fuente [@contrastar-informacion].
 
@@ -24,7 +24,7 @@ De otro lado el deepfake es una técnica de inteligencia artificial que permite 
 
 Amplia la información sobre deepfake en este artículo [¿Qué es y en qué consiste Deepfake?](https://computerhoy.com/reportajes/tecnologia/consiste-deepfake-446355) de la revista digital Computer Hoy.
 	
-A continuación verás algunos consejos para poder hacer una buena criba de la información que te encuentes:
+A continuación, verás algunos consejos para poder hacer una buena criba de la información que te encuentres:
 
 - Busca la fuente y contrasta la información.
 
@@ -32,7 +32,7 @@ A continuación verás algunos consejos para poder hacer una buena criba de la i
 
 - Mira más allá del simple titular.
 
-- Comprueba que el texto esta bien redactado.
+- Comprueba que el texto está bien redactado.
 
 - Aplica el sentido común.
 
@@ -48,7 +48,7 @@ Cuando creas que te encuentras ante un posible bulo o fake news, ten en cuentas 
 
 - Verifica la información.
 
-En esta lista tienes plataformas que te ayudarán a identificar si estas ante una bulo o fake news:
+En esta lista tienes plataformas que te ayudarán a identificar si estas ante un bulo o fake news:
 
 - [Google Fact Check Explorer](https://toolbox.google.com/factcheck/explorer)
 
@@ -58,8 +58,8 @@ En esta lista tienes plataformas que te ayudarán a identificar si estas ante un
 
 ## Deep web
 
-El tema de la Deep Web es quizá un tema polémico y estigmatizado, pero al tratarse de una pieza más en este inmenso puzzle que es internet, es de recibo conocer al menos de que trata esto de la Web Profunda (Deep Web).
+El tema de la Deep Web es quizá un tema polémico y estigmatizado, pero al tratarse de una pieza más en este inmenso puzle que es internet, es de recibo conocer al menos de que trata esto de la Web Profunda (Deep Web).
 	
-Existe una serie de contenido que por diversos motivos no está indexado en los buscadores convencionales como Google, Bing o Yahoo, entre otros y no siempre por temas de legalidad, moralidad o por no ser contenido lícito. Por ejemplo si estas en china y quieres acceder a Google no te va a quedar otro remedio que hacer uso de este servicio, ya que como sabrás China no permite el uso de Google, entre otros muchos servicios de internet. Es por esto y otras razones por lo que existe la Deep Web [@OSI-deep-web].
+Existe una serie de contenido que por diversos motivos no está indexado en los buscadores convencionales como Google, Bing o Yahoo, entre otros y no siempre por temas de legalidad, moralidad o por no ser contenido lícito. Por ejemplo, si estas en china y quieres acceder a Google no te va a quedar otro remedio que hacer uso de este servicio, ya que como sabrás China no permite el uso de Google, entre otros muchos servicios de internet. Es por esto y otras razones por lo que existe la Deep Web [@OSI-deep-web].
 
-De otro lado, esta el controvertido tema de las ilegalidades y otros asuntos turbios en lo que se conoce como la Dark Web y de los que no se va a tratar en este manual. Pero si quieres indagar por tu cuenta visita el siguiente enlace [Una semana en la Deep Web y esto es lo que me encontrado](https://www.xataka.com/analisis/una-semana-en-la-deep-web-esto-es-lo-que-me-he-encontrado).
+De otro lado, está el controvertido tema de las ilegalidades y otros asuntos turbios en lo que se conoce como la Dark Web y de los que no se va a tratar en este manual. Pero si quieres indagar por tu cuenta visita el siguiente enlace [Una semana en la Deep Web y esto es lo que me encontrado](https://www.xataka.com/analisis/una-semana-en-la-deep-web-esto-es-lo-que-me-he-encontrado).

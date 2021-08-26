@@ -2,7 +2,7 @@
 
 ## Ayuda y soporte desde instituciones
 
-En internet existen multitud de plataformas y webs que te brindan la oportunidad de formarte y estar informado sobre ciberdelitos, ciberamenazas, privacidad y seguridad en internet y otro montón de conocimientos más. Además si sabes como abordar la plataforma verás que muchas de ellas son de autoridad reconocida. Aun así no deja de ser importante saber que desde nuestras instituciones existen proyectos específicos y gestionados por verdaderos expertos en la materia. Y es en esta unidad donde vas a ver con que entidades y plataformas puedes contar.
+En internet existen multitud de plataformas y webs que te brindan la oportunidad de formarte y estar informado sobre ciberdelitos, ciberamenazas, privacidad y seguridad en internet y otro montón de conocimientos más. Además, si sabes como abordar la plataforma verás que muchas de ellas son de autoridad reconocida. Aun así, no deja de ser importante saber que desde nuestras instituciones existen proyectos específicos y gestionados por verdaderos expertos en la materia. Y es en esta unidad donde vas a ver con que entidades y plataformas puedes contar.
 
 ## Instituto nacional de ciberseguridad
 
@@ -48,7 +48,7 @@ El Incibe tiene a disposición del ciudadano varios canales de comunicación:
 
 ## Oficina de seguridad del internauta
 
-La Oficina de Seguridad del Internauta [OSI](https://www.osi.es/) es una plataforma que proporciona información y soporte necesarios para evitar y resolver los problemas de seguridad a los que pueda enfrentarse el cuidadano en el uso de Internet.
+La Oficina de Seguridad del Internauta [OSI](https://www.osi.es/) es una plataforma que proporciona información y soporte necesarios para evitar y resolver los problemas de seguridad a los que pueda enfrentarse el ciudadano en el uso de Internet.
 
 El objetivo principal de esta entidad es reforzar la confianza en el ámbito digital a través de la formación en materia de ciberseguridad. Desde la Oficina de Seguridad del Internauta conjuntamente con el INCIBE trabajan para:
 
@@ -86,7 +86,7 @@ Entre los recursos que encontrarás en la plataforma están los siguientes:
 
 - Guías y herramientas.
 
-## Internet segura para ñiños
+## Internet segura para niños
 
 Internet Segura for Kids [IS4K](https://www.is4k.es/)  es el Centro de Seguridad en Internet para menores de edad en España y tiene por objetivo la promoción del uso seguro y responsable de Internet y las nuevas tecnologías entre los niños y adolescentes. Las principales tareas que tiene encomendadas son:
 
@@ -102,7 +102,7 @@ Algunos de los medios que ponen a disposición de las familias son:
 
 - El conocimiento de las mayores ciberamenazas a la que están expuestos los menores. Algunos ejemplos son: [sexting](https://www.is4k.es/necesitas-saber/sexting), [grooming](https://www.is4k.es/necesitas-saber/grooming), [ciberacoso escolar](https://www.is4k.es/necesitas-saber/ciberacoso-escolar), etc.
 
-- Un apartado de [utilidad](https://www.is4k.es/de-utilidad) donde encontrar, herramientas, material didáctico, catálogos, juegos, tests, etc.
+- Un apartado de [utilidad](https://www.is4k.es/de-utilidad) donde encontrar, herramientas, material didáctico, catálogos, juegos, test, etc.
 
 - Una sección de [programas](https://www.is4k.es/programas) con jornadas y eventos.
 
@@ -140,9 +140,9 @@ En este foro encontrarás toda la información por categorías:
 
 - Eliminar Malwares: Ayuda para eliminar virus, troyanos, spyware, adware, ransomware y otros malwares.
 
-- Ayuda General: Esta categoría brinda ayuda general con el funcionamiento de los equipos (windows, mac, linux, android, iOS), programas (antivirus, firewalls, optimizadores) y componentes (hardware).
+- Ayuda General: Esta categoría brinda ayuda general con el funcionamiento de los equipos (Windows, Mac, Linux, Android, iOS), programas (antivirus, firewalls, optimizadores) y componentes (hardware).
 
 - Sistemas Operativos: Todo lo relacionado a los sistemas operativos: Windows 10 - Windows 8 - Windows 7 - Windows XP, Mac OSX, Linux, Android…
 
-- Guías, manuales, tutoriales y más: Categoría en la que encontrarás guías de eliminación de malware para troyanos, adware, ransomware y otros tipos de códigos maliciosos de Windows. También encontrara manuales de anti-virus, trucos, y otras recomendaciones de seguridad informática.
+- Guías, manuales, tutoriales y más: Categoría en la que encontrarás guías de eliminación de malware para troyanos, adware, ransomware y otros tipos de códigos maliciosos de Windows. También encontrara manuales de antivirus, trucos, y otras recomendaciones de seguridad informática.
 

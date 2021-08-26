@@ -10,41 +10,41 @@ Por lo tanto, en este nuevo escenario hacia la web 3.0 en la que ha aumentado la
 
 ## Metadatos
 
-Los metadatos pueden ser descritos de varias formas posibles, pero de forma resumida son un conjunto de datos que proporciona información de un recurso. Datos como pueden ser un archivo de imagen o un documento de texto, siendo algunos de éstos metadatos la fecha de creación, la de última modificación o la resolución en el caso de una imagen [@WIKI-meta].
+Los metadatos pueden ser descritos de varias formas posibles, pero de forma resumida son un conjunto de datos que proporciona información de un recurso. Datos como pueden ser un archivo de imagen o un documento de texto, siendo algunos de estos metadatos la fecha de creación, la de última modificación o la resolución en el caso de una imagen [@WIKI-meta].
 
 La función principal de los metadatos es la de ampliar con información adicional la contenida en el recurso del que forman parte con el fin de mejorar la calidad y efectividad de las búsquedas realizadas, no solo a la hora de realizar una búsqueda de un archivo perdido en nuestro sistema operativo, sino que esto afecta incluso al posicionamiento web.
 
-En ciertas ocasiones éstos datos pueden provocar problemas, algunos de ellos de seguridad y privacidad como puede ocurrir por ejemplo por alguno de los dos motivos siguientes:
+En ciertas ocasiones estos datos pueden provocar problemas, algunos de ellos de seguridad y privacidad como puede ocurrir por ejemplo por alguno de los dos motivos siguientes:
 
 - Suele ocurrir que algunas cámaras fotográficas incluyan las coordenadas geográficas desde las que se realiza la fotografía entre los metadatos en los archivos de imágenes, pudiéndose localizar la posición en la que la imagen fue tomada. Esto es lo que se conoce como [Geoetiquetado](https://es.wikipedia.org/wiki/Geoetiquetado).
 
 - Puede determinarse la versión del software con la que fue guardado un archivo, por lo que si trabajas en una empresa y no tienes la licencia de dicho programa, los metadatos pueden generarte problemas.
 
-- La longitud de los mensajes, el autor, la localización, las fechas, la hora, etc. indentifican patrones de comportamientos, hábitos, relaciones y detalles personales. Todos estos datos son denominados el petróleo del siglo XXI [@OSI-petroleo-S-XXI].
+- La longitud de los mensajes, el autor, la localización, las fechas, la hora, etc. identifican patrones de comportamientos, hábitos, relaciones y detalles personales. Todos estos datos son denominados el petróleo del siglo XXI [@OSI-petroleo-S-XXI].
 
-Para que puedas hacer una valoración de por que a todos los datos personales se les denominan el pretróleo del siglo XXI, visita la siguiente infografía de [cuál es el valor de tus datos en la red](https://www.osi.es/sites/default/files/images/concienciacion/c15-pdf-infografia-ciberdelincuentes_reyes.pdf).
+Para que puedas hacer una valoración de por que a todos los datos personales se les denominan el petróleo del siglo XXI, visita la siguiente infografía de [cuál es el valor de tus datos en la red](https://www.osi.es/sites/default/files/images/concienciacion/c15-pdf-infografia-ciberdelincuentes_reyes.pdf).
 
 ## Huella digital o reputación online
 
 Eres lo que publicas, lo que compartes, con quién te relacionas e incluso lo que visitas desde tus dispositivos y todo este rastro es lo que compone la huella digital. 
 
-En otras palabras la huella digital o reputación online es la fama o prestigio que una persona o una empresa tiene en el mundo digital. Realmente la reputación digital no difiere mucho de la reputación tradicional, ya que en cierto modo ambas están conectadas, por lo que deben ser coherente la una con la otra.
+En otras palabras, la huella digital o reputación online es la fama o prestigio que una persona o una empresa tiene en el mundo digital. Realmente la reputación digital no difiere mucho de la reputación tradicional, ya que en cierto modo ambas están conectadas, por lo que deben ser coherente la una con la otra.
 
 Cabe destacar que la variante digital ha tomado gran importancia, ya que cuando una persona o compañía quiere saber de ti, uno de los mecanismos que va a utilizar es buscarte en internet, y es, en este punto donde radica la importancia de contar con una buena reputación online [@huella-digital].
 
-En este sentido es importante en un primer momento, conocer si tu huella digital goza de una buena salud y para ello lo más recomendable es que hagas un ejercicio de búsqueda, para ver si los resultados que obtienes son buenos. Puedes usar algunas de la siguientes herramientas para este propósito:
+En este sentido es importante en un primer momento, conocer si tu huella digital goza de una buena salud y para ello lo más recomendable es que hagas un ejercicio de búsqueda, para ver si los resultados que obtienes son buenos. Puedes usar algunas de las siguientes herramientas para este propósito:
 
-- Buscar directamente en google o otros buscadores. Puedes apoyarte en las [búsquedas avanzadas de google](https://support.google.com/websearch/answer/2466433?hl=es). Esto es lo que se conoce como Egosurfing.
+- Buscar directamente en Google o otros buscadores. Puedes apoyarte en las [búsquedas avanzadas de Google](https://support.google.com/websearch/answer/2466433?hl=es). Esto es lo que se conoce como Egosurfing.
 
 - También tienes plataformas que te ayudan a descubrir dónde están tus datos personales y poder gestionar tu huella digital. En los siguientes enlaces puedes encontrar dos de ellas [Say mine](https://saymine.com/) y [Jumbo privacy](https://www.jumboprivacy.com/).
 
-- Crear alertas de [Google alert](https://www.google.es/alerts). Este rcurso también te servira para estar al día de lo que se publica sobre ti.
+- Crear alertas de [Google alert](https://www.google.es/alerts). Este recurso también te servira para estar al día de lo que se publica sobre ti.
 
-- [Hootsuite](https://www.hootsuite.com/). Esta herramienta te buscará entre las principales redes sociales, como Facebook, twitter, etc. es usada en su mayoría en el mundo corporativo.
+- [Hootsuite](https://www.hootsuite.com/). Esta herramienta te buscará entre las principales redes sociales, como Facebook, Twitter, etc. es usada en su mayoría en el mundo corporativo.
 
 Si los resultados obtenidos no son de tu agrado, algunas plataformas te permiten solicita la eliminación de dicho contenido o simplemente puedes gestionar tú, esa información desde la propia plataforma. En el caso de Google puedes hacerlo a través de [Mi Actividad](https://myactivity.google.com/myactivity).
 
-Crear una buena huella digital requiere de tiempo y debes ser cuidadoso con la manera en que interactuas en la red. Existen decálogos que te guían para crear una excelente reputación online, así como videos tutoriales y herramientas para llevarlo a cabo. Nos obstante aquí tienes las mejores recomendaciones para cuando quieras compartir, comentar, valorar o opinar en cualquiera de los medios sociales como Facebook, Instagram o cualquier otra, hacer una reseña en google o participar en algún foro [@decalogo-digital].
+Crear una buena huella digital requiere de tiempo y debes ser cuidadoso con la manera en que interactúas en la red. Existen decálogos que te guían para crear una excelente reputación online, así como videos tutoriales y herramientas para llevarlo a cabo. Nos obstante aquí tienes las mejores recomendaciones para cuando quieras compartir, comentar, valorar o opinar en cualquiera de los medios sociales como Facebook, Instagram o cualquier otra, hacer una reseña en Google o participar en algún foro [@decalogo-digital].
 
 - Presencia y actualización sistemática.
 
@@ -76,15 +76,15 @@ Ya en 2008 existían métricas que aseguran que la cantidad de información que 
 
 Partiendo de estos preceptos, la sombra digital es la información que queda de nosotros en los diferentes sistemas ya sean públicos o privados. Estos datos nos identifican y saben de nuestros gustos y preferencias. En la mayoría de los casos sin que nosotros mismos seamos conscientes de ello.
 
-En este punto es cuando te estas preguntando como se crea la sombra digital. Pues bien, la sombra digital se va creando con el uso que haces de tus dispositivos, de la cámara en lugares públicos o privados, con el uso de la domótica como en el caso de las bombillas inteligentes y de otras múltiples maneras cuando interactuas con la tecnología. Los fabricantes introducen cookies y software especifico para este fin dentro de los sistemas operativos, para saber cuándo los usas, el tiempo que empleas, si usas hardware externo del tipo que sea e incluso para hacer un mapa de tu casa mientras usas tu aspiradora inteligente. Como verás la sombra digital se va construyendo por si sola.
+En este punto es cuando te estas preguntando como se crea la sombra digital. Pues bien, la sombra digital se va creando con el uso que haces de tus dispositivos, de la cámara en lugares públicos o privados, con el uso de la domótica como en el caso de las bombillas inteligentes y de otras múltiples maneras cuando interactúas con la tecnología. Los fabricantes introducen cookies y software específico para este fin dentro de los sistemas operativos, para saber cuándo los usas, el tiempo que empleas, si usas hardware externo del tipo que sea e incluso para hacer un mapa de tu casa mientras usas tu aspiradora inteligente. Como verás la sombra digital se va construyendo por si sola.
 
-Este concepto podría considerarse como una vulnerabilidad más de tu privacidad, pero también puede ser de mucha utilidad, como por ejemplo, cuando Google maps analiza tu movilidad para gestionar mejor tu trayecto, mostarte cuánto vas a tardar, que ruta puedes tomar y todo en tiempo real, algo que no sería posible sin la gestión de la sombra digital [@XATAKA-sombra-digital].
+Este concepto podría considerarse como una vulnerabilidad más de tu privacidad, pero también puede ser de mucha utilidad, como por ejemplo, cuando Google maps analiza tu movilidad para gestionar mejor tu trayecto, mostrarte cuánto vas a tardar, que ruta puedes tomar y todo en tiempo real, algo que no sería posible sin la gestión de la sombra digital [@XATAKA-sombra-digital].
 
 ## Eliminar el historial de busquedas
 
 Cualquier navegador, salvo que usemos una navegación privada, almacena un registro de las páginas que hemos visitado, una información que podemos borrar si queremos o conservar en el caso de querer localizar más tarde alguna página que no recordemos. Es muy útil en este segundo caso, pero puede llegar a ser embarazoso si no queremos que nadie pueda ver las webs que hemos visitado.
 
-Cada navegador ofrece la posibilidad de borrar toda esta información y para ello puedes acceder desde los menús del propio navegador. Cada navegador tiene una forma diferente de realizar este borrado, aunque normalmente suele estar en la opción/pestaña herramientas. No obstante el siguiente enlace te llevará a la web del antivirus [AVG](https://www.avg.com/es/signal/how-to-clear-your-browsing-and-search-history), desde donde te enlazará a los diferentes tutoriales de cómo borrar el historial de navegación y de búsquedas de los navegadores más populares, como Google Chrome, Firefox o Microsoft Edge entre otros.
+Cada navegador ofrece la posibilidad de borrar toda esta información y para ello puedes acceder desde los menús del propio navegador. Cada navegador tiene una forma diferente de realizar este borrado, aunque normalmente suele estar en la opción/pestaña herramientas. No obstante, el siguiente enlace te llevará a la web del antivirus [AVG](https://www.avg.com/es/signal/how-to-clear-your-browsing-and-search-history), desde donde te enlazará a los diferentes tutoriales de cómo borrar el historial de navegación y de búsquedas de los navegadores más populares, como Google Chrome, Firefox o Microsoft Edge entre otros.
 
 ## Derecho al olvido
 
@@ -102,6 +102,6 @@ Los siguientes enlaces te llevarán a los formularios de las plataformas detalla
 
 -[Solicitud de derecho al olvido de Facebook](https://www.facebook.com/help/217091804975136) 
 
-Como podrás imaginar estas son las plataformas más relevantes, no obstante todas debe de tener esta opción. Si la plataforma a la que quieres solicitar tu derecho al olvido no esta entre éstas, solicítalo por el canal de comunicación que éstas tengan establecido.
+Como podrás imaginar estas son las plataformas más relevantes, no obstante, todas las demás deben de tener esta opción. Si la plataforma a la que quieres solicitar tu derecho al olvido no está entre éstas, solicítalo por el canal de comunicación que tengan establecido.
 
 Esto es parte de lo que se conoce como derecho al olvido. Si quieres más información visita el enlace [¿Sabes cómo ejercer el derecho al olvido?](https://www.osi.es/es/actualidad/blog/2018/09/19/sabes-como-ejercer-el-derecho-al-olvido).
