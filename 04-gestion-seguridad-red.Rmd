@@ -90,9 +90,11 @@ Otras recomendaciones que debes tener siempre presente son:
     
 Para acabar con este apartado puedes comprobar la seguridad y robustez de tu contraseña, con los siguientes recursos online: 
 
-- [How Secure Is My Password](https://www.security.org/how-secure-is-my-password/)
+- [How Secure Is My Password](https://howsecureismypassword.net/)
 
 - [Password Check](https://password.kaspersky.com/) 
+
+- [Test contraseñas](https://www.ontek.net/test-contrasenas/)
 
 Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google  llamado [Password Checkout](https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/) o estos otros llamados [Haveibeenpwned Passwords](https://haveibeenpwned.com/Passwords) y [¿Ha sido mi contraseña robada?](https://www.avast.com/hackcheck) para averiguar si alguna de tus contraseñas ha sido comprometida.
 
