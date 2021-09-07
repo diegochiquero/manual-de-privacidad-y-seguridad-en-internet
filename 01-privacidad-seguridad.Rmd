@@ -34,15 +34,7 @@ El Reglamento General de Protección de Datos (RGPD) es el reglamento europeo re
 
 En el pasado, el uso de datos era obtenido por omisión, en estos momentos para estar seguros de cumplir con el RGPD se ha de obtener el consentimiento inequívoco o expreso por parte del usuario.
 
-Paralela a la RGPD europea existe una a nivel de España llamada Ley orgánica de protección de datos y garantía de los derechos digitales, recogida en el BOE [Boletín Oficial del Estado](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16673) y cuyo objeto es también garantizar y proteger las libertades públicas y los derechos fundamentales de las personas físicas y en especial, su honor e integridad personal y familiar.
-
-Entre los aspectos más significativos del RGPD cabe destacar los siguientes:
-
-- Derecho a la portabilidad de los datos: Te da el derecho de solicitar al responsable de tus datos el traspaso de éstos a otra entidad o responsable. Un ejemplo claro es la conocida portabilidad en el mundo de la telefonía que hacen que tus datos puedas ser cedidos de una compañía a otra.
-
-- Derecho a la supresión: Es una versión mejorada de la solicitud de cancelación o eliminación de tus datos.
-
-- Derecho al olvido: Te da derecho a solicitar al responsable de tus datos la supresión o eliminación de éstos, pero con un enfoque más estrecho con el ámbito digital. Desde el servicio ofrecido por [AEPD](https://www.aepd.es/es/areas-de-actuacion/internet-y-redes-sociales/derecho-al-olvido) puedes acceder a los enlaces donde solicitar el derecho al olvido en [Google](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&visit_id=637490694757326412-3626204680&hl=es&rd=1), [Bing](https://www.bing.com/webmaster/tools/eu-privacy-request), [Yahoo](https://es.ayuda.yahoo.com/kb/Solicitud-para-bloquear-resultados-de-b%C3%BAsqueda-en-Yahoo-Search-Recursos-para-Residentes-Europeos-sln28252.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYWVwZC5lcy8&guce_referrer_sig=AQAAAIRquvv_VPnIiAOniwOvZi_iVodzBg6yn2C0sGApxESxJWBR6RMqeNq89qO01lmI0UdIKSr3ivLxST8cTDrgIMQRF9FIda60jZQ16f8q85f-eqLvvviA02B_fephtV40QIGV7aQ8Uw0M7f_poDUONOrmeKQzbahKvnuKZCoBDBFQ), aunque desde estos últimos enlaces ya puedes acceder directamente.
+Paralela a la RGPD europea existe una a nivel de España llamada Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD), recogida en el BOE [Boletín Oficial del Estado](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16673) y cuyo objeto es también garantizar y proteger las libertades públicas y los derechos fundamentales de las personas físicas y en especial, su honor e integridad personal y familiar.
 
 ## Aviso legal, política de privacidad y política de cookies
 
@@ -64,7 +56,7 @@ Si una web va a realizar transacciones comerciales de la naturaleza que sea, va 
   
 ## Derechos ARCO
 
-Los derechos ARCO  (Acceso, Rectificación, Cancelación y Oposición), están regulados por la Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales, que has podido ver en un apartado anterior. 
+Los derechos ARCO  (Acceso, Rectificación, Cancelación y Oposición), están regulados por la Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD).
 
 - Derecho al acceso: Te da derecho a conocer el uso que la entidad o responsable de tus datos está haciendo de ellos.
 
@@ -76,3 +68,12 @@ Los derechos ARCO  (Acceso, Rectificación, Cancelación y Oposición), están r
 
 Para poder ejercer estos derechos solo basta con solicitarlo a la parte responsable de tus datos, aportando fotocopia del DNI o documento equivalente, la petición que se solicita, la dirección a efectos de notificaciones y los documentos que acreditan la petición que se formula [@arco].
 
+## Derechos POL
+
+Los derechos POL (Portabilidad, Olvido o supresión y limitación del tratamiento), están regulados por el Reglamento General de Protección de Datos (RGPD) [@pol].
+
+- Derecho a la portabilidad de los datos: Te da el derecho de solicitar al responsable de tus datos el traspaso de éstos a otra entidad o responsable. Un ejemplo claro es la conocida portabilidad en el mundo de la telefonía que hacen que tus datos puedas ser cedidos de una compañía a otra.
+
+- Derecho al olvido o supresión: Te da derecho a solicitar al responsable de tus datos la supresión o eliminación de éstos, pero con un enfoque más estrecho con el ámbito digital. Desde el servicio ofrecido por [AEPD](https://www.aepd.es/es/areas-de-actuacion/internet-y-redes-sociales/derecho-al-olvido) puedes acceder a los enlaces donde solicitar el derecho al olvido en [Google](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&visit_id=637490694757326412-3626204680&hl=es&rd=1), [Bing](https://www.bing.com/webmaster/tools/eu-privacy-request), [Yahoo](https://es.ayuda.yahoo.com/kb/Solicitud-para-bloquear-resultados-de-b%C3%BAsqueda-en-Yahoo-Search-Recursos-para-Residentes-Europeos-sln28252.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYWVwZC5lcy8&guce_referrer_sig=AQAAAIRquvv_VPnIiAOniwOvZi_iVodzBg6yn2C0sGApxESxJWBR6RMqeNq89qO01lmI0UdIKSr3ivLxST8cTDrgIMQRF9FIda60jZQ16f8q85f-eqLvvviA02B_fephtV40QIGV7aQ8Uw0M7f_poDUONOrmeKQzbahKvnuKZCoBDBFQ), aunque desde estos últimos enlaces ya puedes acceder directamente.
+
+- Limitación del tratamiento: Permite que cualquier persona tenga derecho a exigir a la entidad responsable la limitación del tratamiento de sus datos personales.
