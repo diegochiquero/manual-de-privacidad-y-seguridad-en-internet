@@ -19,6 +19,7 @@ seguridad
 rgpd-reglamento-general-de-protección-de-datos
 aviso-legal-política-de-privacidad-y-política-de-cookies
 derechos-arco
+derechos-pol
 gestión-de-la-privacidad
 gestionar-la-privacidad
 datos-personales-sensibles
@@ -120,4 +121,3 @@ agencia-española-de-protección-de-datos
 internet-segura-para-niños
 pantallas-amigas
 foro-info-spyware
-derechos-pol
