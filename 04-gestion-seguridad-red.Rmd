@@ -32,7 +32,7 @@ Una modalidad de crear contraseñas robustas y fáciles de recordar es la siguie
 
 1. Elige una extensión de más de 8 caracteres. Ejemplo: Mi cuenta segura
 
-2. Pon la primera mayúscula y elimina los espacios en blanco. Ejemplo: MicuentaSegura 
+2. Pon la primera mayúscula y elimina los espacios en blanco. Ejemplo: MiCuentaSegura 
 
 3. Cambia las letras por números. Ejemplo: M1Cu3nt4S3gur4
 
