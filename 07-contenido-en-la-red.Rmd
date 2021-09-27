@@ -22,7 +22,7 @@ Se diseñan y emiten con la intención deliberada de engañar, inducir a error, 
 
 De otro lado el deepfake es una técnica de inteligencia artificial que permite editar vídeos falsos de personas que aparentemente son reales, dando como resultado final un vídeo muy realista, aunque ficticio [@WIKI-deepfake]. 
 
-Amplia la información sobre deepfake en este artículo [¿Qué es y en qué consiste Deepfake?](https://computerhoy.com/reportajes/tecnologia/consiste-deepfake-446355) de la revista digital Computer Hoy.
+Amplia la información sobre deepfake en este artículo [¿Qué es y en qué consiste Deepfake?](https://computerhoy.com/reportajes/tecnologia/consiste-deepfake-446355) de la revista digital Computer Hoy. En este otro artículo llamado [así es posible saber si un vídeo es un deepfake con sólo un abrir y cerrar de ojos](https://www.xataka.com/inteligencia-artificial/posible-saber-video-deepfake-solo-abrir-cerrar-ojos-literalmente-quizas-eso-no-sea-suficiente) tienes un video que no deberías dejar de ver, donde por medio de la inteligencia artificial ponen la cara del actor Steve Buscemi al cuerpo de Jennifer Lawrence en una intervención de una gala.
 	
 A continuación, verás algunos consejos para poder hacer una buena criba de la información que te encuentres:
 
