@@ -386,19 +386,23 @@ Otra actividad relacionada con la usurpación de identidad es el Brushing. Este 
 
 Llegados hasta aquí, recordarte que todas las precauciones que se detallan en este manual en el apartado de Compras y transacciones de la unidad de Gestión de la seguridad en la red, son altamente recomendables en este punto. Además de ser fuertemente aconsejable seguir todas esas indicaciones, también se trata de tener en cuenta el conjunto de requisitos que veras a continuación, ya que cada uno de ellos por independiente te va a garantizar una capa más de seguridad y te irán indicando si puede o no puede ser una estafa.
 
-Requisitos a comprobar:
+Decálogo de requisitos a comprobar a la hora de comprar en una tienda online:
 
 - Formato seguro de URL: Https con su correspondiente candado. Aunque como has podido ver en el apartado de Protocolo https, los ciberdelincuentes también tienen acceso a este protocolo, por lo que no es seguro al 100%.
+
+- El diseño de la tienda: Aunque muchas de las tiendas fraudulentas están muy bien confeccionadas, si tienes la más mínima sospecha no corras riesgos. Además, fíjate si tienes imágenes de mala calidad, mal enfocadas, textos incongruentes o faltas de ortografía.
+
+- El precio que suele ser muy por debajo o simplemente con un descuento muy suculento.
+
+- Opiniones de usuarios: Por supuesto no buscarla dentro la propia web, ya que serán del todo falsas.
+
+- Tipos de pagos permitidos: A pesar de contar en principio con un amplio abanico de opciones de pago, Paypal, transferencia bancaria, contra reembolso, pero curiosamente solo funciona el pago con tarjeta.
+
+- Conocer la empresa detrás de esa web, su información legal, ubicación, política de envío y de devolución, etc.
 
 - Certificado de seguridad: Certifica que no ha sido vulnerada ni hackeada.
 
 - Sello de confianza y autenticidad: Verifican que se trata de una web legítima y confiable.
-
-- Conocer la empresa detrás de esa web, su ubicación, política de envío y de devolución, etc.
-
-- El precio que suele ser muy por debajo o simplemente con un descuento muy suculento.
-
-- Sorteos ganados bajo cualquier pretexto: Eres el visitante número 1.000 por ello te has ganado un premio.
 
 Además, puedes visitar la siguiente entrada donde aprenderás [cómo detectar fraudes y análisis de una web falsa](https://www.osi.es/es/actualidad/blog/2018/08/08/detectando-fraudes-analisis-de-una-web-de-venta-falsa).
 
@@ -419,6 +423,8 @@ Algunos ejemplos de estafas son:
 - Propuesta de compra del producto que tienes en venta: Solicitando que hagas el pago del envío por adelantado.
 
 - Pedir que hagas el pago o contactar contigo fuera de la plataforma de venta.
+
+- Sorteos ganados bajo cualquier pretexto: Eres el visitante número 1.000 por ello te has ganado un premio.
 
 - Otras muchas y nuevas que van ingeniando.
 
