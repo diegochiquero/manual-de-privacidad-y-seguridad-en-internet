@@ -88,7 +88,7 @@ Cada navegador ofrece la posibilidad de borrar toda esta información y para ell
 
 ## Derecho al olvido
 
-El Reglamento General de Protección de Datos recoge una norma que permite a los usuarios poder ejercer su derecho al olvido. Esto quiere decir que todas las personas tienen el derecho de solicitar a los buscadores que eliminen todos los enlaces de datos personales que aparecen en sus resultados de búsqueda al introducir un nombre o cualquier otro dato personal. Dicho de otro modo, el derecho al olvido es aquel que tienen todos los ciudadanos a impedir la difusión de información personal a través de Internet.
+El Reglamento General de Protección de Datos recoge una norma que permite a los usuarios poder ejercer su derecho al olvido. Esto quiere decir que todas las personas tienen el derecho de solicitar a los buscadores, webs o plataformas que eliminen todos sus datos personales que aparecen en los resultados de búsqueda al introducir un nombre o cualquier otro dato personal. Dicho de otro modo, el derecho al olvido es aquel que tienen todos los ciudadanos a impedir la difusión de información personal a través de Internet.
 
 Cabe aclarar que la eliminación de un enlace de un buscador no implica la desaparición de toda la información de carácter personal publicada en Internet. Este borrado sólo afecta a los motores de búsqueda que enlazan a dicho contenido [@OSI-derecho-al-olvido].
 
@@ -103,5 +103,7 @@ Los siguientes enlaces te llevarán a los formularios de las plataformas detalla
 -[Solicitud de derecho al olvido de Facebook](https://www.facebook.com/help/217091804975136) 
 
 Como podrás imaginar estas son las plataformas más relevantes, no obstante, todas las demás deben de tener esta opción. Si la plataforma a la que quieres solicitar tu derecho al olvido no está entre éstas, solicítalo por el canal de comunicación que tengan establecido.
+
+Este derecho se puede gestionar al amparo de la [agencia española de protección de datos](https://www.aepd.es/es/areas-de-actuacion/internet-y-redes-sociales/derecho-al-olvido) y en caso de fallar esta primera vía administrativa siempre nos quedaría la vía judicial.
 
 Esto es parte de lo que se conoce como derecho al olvido. Si quieres más información visita el enlace [¿Sabes cómo ejercer el derecho al olvido?](https://www.osi.es/es/actualidad/blog/2018/09/19/sabes-como-ejercer-el-derecho-al-olvido).
