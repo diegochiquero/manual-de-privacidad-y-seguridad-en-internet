@@ -80,6 +80,10 @@ Por otro lado si quieres deshacerte de la incómoda notificación de cookies de 
 
 Si quieres más información detallada sobre las cookies visita este enlace [por qué borrar las cookies](https://www.osi.es/es/actualidad/blog/2019/09/11/por-que-borrar-las-cookies-del-navegador) y este otro [tipos de cookies, configuración y consejos](https://www.osi.es/es/actualidad/blog/2018/07/18/entre-cookies-y-privacidad) de la Oficina de Seguridad del Internauta donde las analizan con más detalle. 
 
+Al hilo de las cookies debes saber que estas no son la única manera que existe de tracear nuestra actividad en internet y que hay técnicas más sofisiticadas. Estas técnicas son conocidas como Fingerprinting y hacen un rastreo de tu huella digital. Por lo tanto, el fingersprinting es una técnica que permite obtener información de una persona o empresa a través de los sistemas informáticos.
+
+Si quieres profundizar más en este tema te recomiendo que visites el siguiente enlace [¿Qué es el fingerprinting?](https://protecciondatos-lopd.com/empresas/fingerprinting-que-es/).
+
 ## Permisos cámara, micrófono y localización.
 
 Una práctica muy saludable en el uso de la cámara o webCam e incluso el micrófono, es tenerla tapada cuando no la estés usando y si no fíjate en la foto que se muestra a continuación  que le tomaron a Mark Zuckerberg.
