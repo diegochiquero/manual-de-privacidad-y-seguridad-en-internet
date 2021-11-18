@@ -266,7 +266,7 @@ En relación a la protección contra el phishing existen diferentes herramientas
 
 - Antivirus:  Algunos antivirus traen implementado estándares contra el phishing como el [ESET anti-phising](https://support.eset.com/es/kb6380-activar-anti-phishing-en-productos-para-android-de-eset#enable).
 
-- Plugins: Extensiones para el navegador como lo es [ZoneAlarm Web Secure Free](https://www.zonealarm.com/es/anti-phishing/).
+- Plugins: Extensiones para el navegador como lo son [ZoneAlarm Web Secure Free](https://www.zonealarm.com/es/software/web-secure-free) y [Metacertprotocol](https://metacertprotocol.com/cryptonite).
 
 - Código anti-phishing: Existen plataformas webs que ofrecen este servicio. Consiste en un código o palabra clave que tú facilitas la primera vez a la web y que esta incluye en sus futuros email, verificando así la legitimidad del mismo. Un ejemplo de ello lo encontrarás en la plataforma de intercambio de criptomonedas [Binance código anti-phishing](https://academy.binance.com/es/articles/anti-phishing-code).
 
