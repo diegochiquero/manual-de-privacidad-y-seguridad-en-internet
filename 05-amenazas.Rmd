@@ -484,6 +484,8 @@ Las vías de contagios son las mismas que la mayoría de malware tales como los 
 
 Señalar que [Microsoft Defender](https://www.microsoft.com/es-es/windows/comprehensive-security), que como ya sabréis es el antivirus que Windows trae por defecto ya incluye [protección contra el cryptojacking](https://www.microsoft.com/security/blog/2021/04/26/defending-against-cryptojacking-with-microsoft-defender-for-endpoint-and-intel-tdt/), aunque de momento solo está presente en la versión empresarial, es de suponer que con el paso del tiempo lo terminen incluyendo en las versiones de Windows Home.
 
+Por otro lado, ya son algunos navegadores los que implementan herramientas nativas para paliar el cryptocjacking como es el caso del navegador [Firefox](https://www.mozilla.org/es-ES/firefox/browsers/). Puedes obtener más información en este enlace [Firefox añadirá protección contra el minado de criptomonedas y el fingerprinting](https://www.genbeta.com/navegadores/firefox-anadira-proteccion-minado-criptomonedas-fingerprinting).
+
 ## Plugins maliciosos
 
 En primer lugar, es importante tener claro qué es un plugin. Así pues, se trata de un software o aplicación que actúa como complemento para ampliar las funcionalidades del programa principal al que complementa. Dicho esto, algunos ciberdelicuentes usan esta funcionalidad para sus actividades delictivas, como espiar o recopilar datos sensibles e incluso el robo de criptomonedas. [@IONOS-plugin].
