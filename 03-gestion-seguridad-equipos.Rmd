@@ -31,6 +31,16 @@ Además, puedes gestionar las [opciones de inicio de sesión en Windows](https:/
 knitr::include_graphics("images/cuenta-usuario-windows-10.png")
 ```
 
+Existen tres tipos de cuentas distintas, cada tipo proporciona al usuario un nivel diferente de control sobre el equipo y son:
+
+- Cuentas limitada o estándar: son aquellas que se deben utilizar para el trabajo diario con el equipo.
+
+- Cuentas de administrador: proporcionan el máximo control sobre el equipo, por ejemplo para instalar un programa nuevo, y sólo se deberían usar cuando sea necesario.
+
+- Cuentas de    invitado: se usan principalmente por personas que necesitan usar temporalmente el equipo y no disponen de otra cuenta.
+ 
+La utilización de cuentas limitadas diariamente, proporciona una mayor seguridad, puesto que impide la ejecución de diverso software malicioso (virus, gusanos, programas espía y troyanos) en algunos casos, como podría ser mientras navega por Internet o se conecta al equipo una memoria USB con ficheros infectados.
+
 ## Router
 
 Un router es un dispositivo que proporciona conectividad a nivel de red. Su función principal consiste en enviar o encaminar paquetes de datos de una red a otra, es decir, interconectar subredes, entendiendo por subred un conjunto de máquinas IP que se pueden comunicar. Además de ser el dispositivo que nos proporciona un punto de acceso Wi-Fi
