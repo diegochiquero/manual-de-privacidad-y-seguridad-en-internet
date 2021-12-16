@@ -48,6 +48,14 @@ Una manera de saber que conocimientos tienes sobre privacidad y seguridad en int
 
 - [¿Puedes detectar cuándo te están engañando?](https://phishingquiz.withgoogle.com/?hl=es): Prueba anti-phishing de Google. 
 
-- [Prueba de detección de ingeniería social](https://www.osi.es/es/campanas/ingenieria-social/prueba-deteccion-ingenieria-social#collapsesuscripcion_index): Test de la Oficina de Seguridad del Internauta.
-
 - [Diagnóstico de competencias digitales](https://www.digcomp.andaluciaesdigital.es/): Autodiagnóstico para conocer el nivel de  competencias digitales.
+
+## Canales de avisos y alertas
+
+Una buena manera de estar al tanto, es poder estar al día en sentido literal, de gran parte de lo que esta aconteciendo en lo referente a ciberdelitos, para ello a continuación, tienes dos recursos para que nada o poco de la actualidad ciber criminal no llegue a tu conocimiento.
+
+- [Canal de avisos de seguridad de la Oficina de seguridad del internauta](https://www.osi.es/es/actualidad/avisos).
+
+- [Blog HispaSec una al día](https://unaaldia.hispasec.com/).
+
+Ambas dos disponen de newsletter a las que suscribirte para que las noticias lleguen a ti y no necesitas visitar las plataformas para estar al tanto. Además también están presentes en la mayoría de redes sociales.

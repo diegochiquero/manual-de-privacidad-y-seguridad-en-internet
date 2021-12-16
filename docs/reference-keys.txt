@@ -113,6 +113,7 @@ aprendizaje-y-reciclado-continuo
 formación-como-medida-preventiva
 desarrolla-tu-ciberinteligencia
 pon-a-prueba-tus-conocimientos
+canales-de-avisos-y-alertas
 entidades-y-plataformas-de-ayuda
 ayuda-y-soporte-desde-instituciones
 instituto-nacional-de-ciberseguridad
