@@ -146,3 +146,12 @@ En este foro encontrarás toda la información por categorías:
 
 - Guías, manuales, tutoriales y más: Categoría en la que encontrarás guías de eliminación de malware para troyanos, adware, ransomware y otros tipos de códigos maliciosos de Windows. También encontrara manuales de antivirus, trucos, y otras recomendaciones de seguridad informática.
 
+## Fuerzas y cuerpos de seguridad del estado
+
+En otras líneas de actuación con el propósito de velar por la ciudadanía en general, existen departamentos específicos contra los delitos informáticos de las fuerzas y cuerpos de seguridad del estado, como lo son:
+
+- [Brigada central de Investigación Tecnológica de la Policía Nacional (BCIT)](https://www.policia.es/_es/tupolicia_conocenos_estructura_dao_cgpoliciajudicial_bcit.php).
+
+- [Grupo de Delitos Telemáticos de la Guardia Civil (GDT)](https://www.gdt.guardiacivil.es/webgdt/home_alerta.php).
+
+Y en esta última, es donde debes interponer una denuncia en caso de ser víctima de algunos de los ciberdelitos que has podido ver en las unidades anteriores, accediendo desdes este enlace [denuncia electrónica](https://www.guardiacivil.es/es/servicios/denuncias/denuncia_electronica/index.html).
