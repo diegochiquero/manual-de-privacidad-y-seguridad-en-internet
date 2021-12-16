@@ -72,7 +72,7 @@ smishing
 spam-o-correo-malicioso
 toolbars
 usurpación-o-robo-de-identidad
-spoofing-o-suplantación-de-identidad
+suplantación-de-identidad-o-spoofing
 ciberestafas-en-compras-online-y-otros-engaños
 warshipping
 vulnerabilidades
