@@ -104,6 +104,15 @@ Para acabar con este apartado puedes comprobar la seguridad y robustez de tu con
 
 Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google  llamado [Password Checkout](https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/) o estos otros llamados [Haveibeenpwned Passwords](https://haveibeenpwned.com/Passwords) y [¿Ha sido mi contraseña robada?](https://www.avast.com/hackcheck) para averiguar si alguna de tus contraseñas ha sido comprometida.
 
+Y por último, si tuviésemos que simplificar parte de lo anterior en tres puntos a tener siempre presente en la creación de contraseñas sería de la siguiente manera:
+
+- Deben ser secretas: por lo que no deben compartirse absolutamente con nadie.
+
+- Deben ser robustas: longitud mínima de ocho caracteres, que combine mayúsculas, minúsculas, números y símbolos.
+
+- Deben ser únicas: se deben utilizar contraseñas distintas en diversos sitios, por ejemplo la contraseña de usuario debería ser distinta de la del correo electrónico.
+
+
 ## Protocolo https
 
 El Protocolo seguro de transferencia de hipertexto (en inglés: Hypertext Transfer Protocol Secure o HTTPS), es un protocolo de aplicación basado en el protocolo HTTP, destinado a la transferencia segura de datos de Hipertexto, es decir, es la versión segura de HTTP [@WIKI-https].
