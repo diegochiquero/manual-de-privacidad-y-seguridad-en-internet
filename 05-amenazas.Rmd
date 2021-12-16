@@ -152,6 +152,8 @@ En este punto cabe destacar que la firma de antivirus AVG pone a disposición de
 
 Además, en el caso del sistema operativo de Windows 10 en su última versión dispone de una protección de forma nativa contra ransomware, aunque esto no te garantiza estar inmunizado.
 
+Algunos de los ransomware más mediáticos son [CryptoLocker](https://es.wikipedia.org/wiki/CryptoLocker), [CryptoWall](https://es.wikipedia.org/wiki/Ransomware#CryptoWall) y [WannCry](https://es.wikipedia.org/wiki/WannaCry), pero no son los únicos, además de estar siempre en constante evolución y lo que es peor aún, éstos últimos irán dejando paso a otros mucho más nuevos y peligrosos.
+
 ## Spyware o software espía
 
 El spyware es otro tipo de malware que se mantiene oculto mientras recopila información en secreto, que después transmite a una entidad externa, sin el conocimiento o el consentimiento del propietario del dispositivo [@AVAST-spyware].
