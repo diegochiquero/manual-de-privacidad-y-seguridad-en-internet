@@ -70,6 +70,8 @@ Además de llevar a cabo todas estas líneas de actuación, a través de este po
 
 - [Campañas de concienciación](https://www.osi.es/es/campanas). 
 
+- Guía para saber [qué hacer si eres víctima de un fraude](https://www.osi.es/es/que-hacer-si-eres-victima-de-un-fraude).
+
 Y esto no es todo, en esta plataforma encontrarás multitud de recursos y herramientas para gestionar o solventar cualquier incidencia en matería de privacidad y seguridad en internet.
 
 ## Agencia española de protección de datos
