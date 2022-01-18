@@ -88,6 +88,8 @@ En este punto es cuando te estas preguntando como se crea la sombra digital. Pue
 
 Este concepto podría considerarse como una vulnerabilidad más de tu privacidad, pero también puede ser de mucha utilidad, como por ejemplo, cuando Google maps analiza tu movilidad para gestionar mejor tu trayecto, mostrarte cuánto vas a tardar, que ruta puedes tomar y todo en tiempo real, algo que no sería posible sin la gestión de la sombra digital [@XATAKA-sombra-digital].
 
+Si quieres ser más consciente de todo lo que Google recopila del uso que haces de sus servicios, lee la siguiente entrada donde podrás ver toda la traza de tu actividad digital [He mirado todos los datos que Google tiene sobre mí, y confirmo que es el Gran Hermano definitivo](https://www.xataka.com/privacidad/he-mirado-todos-datos-que-google-tiene-mi-confirmo-que-gran-hermano-definitivo-2). Además tienes el servicio de [takeout.google.com](https://takeout.google.com) desde podrás descargar todo lo que la Compañía de Mountain View tiene de ti.
+
 ## Eliminar el historial de busquedas
 
 Cualquier navegador, salvo que usemos una navegación privada, almacena un registro de las páginas que hemos visitado, una información que podemos borrar si queremos o conservar en el caso de querer localizar más tarde alguna página que no recordemos. Es muy útil en este segundo caso, pero puede llegar a ser embarazoso si no queremos que nadie pueda ver las webs que hemos visitado.
