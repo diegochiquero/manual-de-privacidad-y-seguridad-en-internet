@@ -159,6 +159,8 @@ Aparte de todo lo visto en el manual existen muchas otras herramientas para ayud
     - [Instagram](https://about.instagram.com/es-la/community/safety).
     
     - [Tiktok](https://www.tiktok.com/safety?lang=es).
+    
+- Testigos online: Los [testigos online](https://www.osi.es/es/actualidad/blog/2022/01/26/testigos-online-y-obtencion-de-pruebas-te-explicamos-su-utilidad) te permiten certificar evidencias digitales en una fecha y hora determinada, o lo que es lo mismo, el contenido de una web concreta en un momento determinado, o el envío de un correo electrónico a una persona específica. 
 
 
 ## Eventos internacionales 
