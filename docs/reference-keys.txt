@@ -65,7 +65,7 @@ spyware-o-software-espía
 adware
 malvertising
 scareware-o-rogueware
-malware-qr
+quishing
 phishing
 vishing
 smishing
