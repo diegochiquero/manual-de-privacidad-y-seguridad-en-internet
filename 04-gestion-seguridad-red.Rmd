@@ -91,7 +91,9 @@ Otras recomendaciones que debes tener siempre presente son:
     - [Google passwords](https://passwords.google.com/)
     - [NordPass](https://nordpass.com/homepage/)
     - [Dropbox passwords](https://www.dropbox.com/es_ES/features/security/passwords)
-    
+
+Si quieres una lista más exhaustiva de estas plataformas gestoras de contraseñas, visita el siguiente enlace de la Oficina de Seguridad del Internauta de [gestores de contraseñas](https://www.osi.es/es/herramientas-gratuitas/categoria/privacidad-y-seguridad-de-datos/cifrado-de-datos-y-gestion-de-contrasenas).
+
 Para acabar con este apartado puedes comprobar la seguridad y robustez de tu contraseña, con los siguientes recursos online: 
 
 - [How Secure Is My Password](https://howsecureismypassword.net/)
