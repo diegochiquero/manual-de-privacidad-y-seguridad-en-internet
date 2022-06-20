@@ -12,13 +12,15 @@ Pon lo tanto, piensa que formarte para protegerte y sentirte seguro en el uso de
 
 En todo el grueso de esta manual tienes a tu disposición multitud de plataformas, recursos y herramientas con las que poder aprender y seguir instruyéndote en todo lo concerniente a privacidad y seguridad en internet, por lo tanto, te animo a ir ampliando tus conocimientos cuando quieras y a tu propio ritmo. Porque ya sabes lo que dicen "más vale prevenir que curar". 
 
-No obstante, si estás pensando dedicarte a esto de la ciberseguridad dentro del ámbito profesional, a continuación tienes un lista de formaciones más específicas y regladas.
+No obstante, si estás pensando dedicarte a esto de la ciberseguridad dentro del ámbito profesional, a continuación tienes un lista de formaciones más específicas y/o regladas.
  
 - [Ciberseguridad en el Teletrabajo](https://learndigital.withgoogle.com/activate/course/cybersecurity-remote-work).
  
 - [Seguridad en internet](https://www.cualifica2.es/cursos/Curso-Seguridad-En-Internet).
 
 - [Catálogos de formación en ciberseguridad](https://www.incibe.es/catalogos-formacion-ciberseguridad).
+
+- [Retos descargables](https://www.incibe.es/academiahacker/retosdescargables).
 
 ## Desarrolla tu ciberinteligencia
 
