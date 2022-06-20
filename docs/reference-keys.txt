@@ -119,6 +119,7 @@ ayuda-y-soporte-desde-instituciones
 instituto-nacional-de-ciberseguridad
 oficina-de-seguridad-del-internauta
 agencia-española-de-protección-de-datos
+observaciber
 internet-segura-para-niños
 pantallas-amigas
 foro-info-spyware
