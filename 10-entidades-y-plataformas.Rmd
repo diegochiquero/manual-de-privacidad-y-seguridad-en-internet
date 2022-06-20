@@ -88,6 +88,18 @@ Entre los recursos que encontrarás en la plataforma están los siguientes:
 
 - Guías y herramientas.
 
+## ObservaCIBER
+
+Plataforma especializada en aportar información sobre ciberseguridad a la ciudadanía y a empresas, con el propósito de aumentar la cultura de la ciberseguridad. Siendo los principales objetivos del [ObservaCIBER](https://observaciber.es/):
+
+- Unir en un espacio común, con una identidad compartida, todos los estudios de ciberseguridad desarrollados por los organismos que participen en este proyecto.
+
+- Impulsar la cultura de la ciberseguridad y su divulgación entre la ciudadanía, las empresas, y demás actores involucrados.
+
+- Compartir conocimiento para facilitar un proceso de transformación digital más seguro y más fuerte.
+
+Aportando estudios, informes, infografías, métricas y más, sobre la ciberseguridad en nuestro ecosistema. Gestionada por el [INCIBE](https://www.incibe.es/) (Instituto Nacional de Ciberseguridad) y el [ONTSI](https://www.ontsi.es/es) (Observatorio Nacional de Tecnología y Sociedad). Ambos dos pertenecientes al Ministerio de Asuntos Económicos y Transformación Digital.
+
 ## Internet segura para niños
 
 Internet Segura for Kids [IS4K](https://www.is4k.es/)  es el Centro de Seguridad en Internet para menores de edad en España y tiene por objetivo la promoción del uso seguro y responsable de Internet y las nuevas tecnologías entre los niños y adolescentes. Las principales tareas que tiene encomendadas son:
