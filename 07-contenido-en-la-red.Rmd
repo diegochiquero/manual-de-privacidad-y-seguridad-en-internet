@@ -84,6 +84,10 @@ En esta lista tienes plataformas que te ayudarán a identificar si estas ante un
 
 En la plataforma Maldita, una de las actividades que realizan son la de desenmascarar estos bulos desgranando y dándote claves para que vayas aprendiendo a detectarlos.
 
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Deepfake.'}
+knitr::include_graphics("images/deepfake.jpg")
+```
+
 ## Deep web
 
 El tema de la Deep Web es quizá un tema polémico y estigmatizado, pero al tratarse de una pieza más en este inmenso puzle que es internet, es de recibo conocer al menos de que trata esto de la Web Profunda (Deep Web).
