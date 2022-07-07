@@ -146,7 +146,7 @@ Aparte de todo lo visto en el manual existen muchas otras herramientas para ayud
 
 - Protección dispositivo móvil: [Conan Mobile](https://www.osi.es/es/conan-mobile) te permite conocer el estado de seguridad de tu dispositivo, mostrándote soluciones a posibles riesgos a los que estés expuesto y proporcionándote algunos consejos que te ayudarán a mejorar su seguridad.
 
-- Verificadores de URLs acortadas: Comprobar la seguridad de una URL acortada antes de hacer click en ella es otra buena práctica para no acabar en una web de dudosa procedencia. A continuación, tienes estos dos verificadores [Unshorten](https://unshorten.it/) y [Checkshorturl](https://checkshorturl.com/). 
+- Verificadores de URLs acortadas: Comprobar la seguridad de una URL acortada antes de hacer click en ella es otra buena práctica para no acabar en una web de dudosa procedencia. A continuación, tienes estos dos verificadores [Unshorten](https://unshorten.it/), [Checkshorturl](https://checkshorturl.com/) y [VirusTotal](https://www.virustotal.com/gui/home/url) . 
 
 - Plugin o extensión antimalware: [MyWot](https://www.mywot.com/) te mantendrá a salvo de estafas, malware, phishing y robo de identidad mientras navegas.
 
