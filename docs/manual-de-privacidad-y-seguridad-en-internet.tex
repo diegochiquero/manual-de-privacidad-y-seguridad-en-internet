@@ -1367,6 +1367,10 @@ El término Phishing es utilizado para referirse a uno de los métodos más util
 
 El estafador, conocido como phisher, se vale de técnicas de \href{https://es.wikipedia.org/wiki/Ingeniería_social_(seguridad_informática)}{ingeniería social}, haciéndose pasar por una persona o empresa de confianza en lo que se conoce como suplantación de identidad o spoofing (término que verás más adelante en esta misma unidad) a través de una aparente comunicación oficial, por lo general un correo electrónico, redes sociales, SMS, etc., a raíz de un malware o incluso utilizando también llamadas telefónicas.
 
+También existe una modalidad de phishing más específica llamada Spear phishing.Los ataques de Spear phishing (literalmente ``pesca con arpón''), al igual que los de phishing en general, son estafas en las que se intenta engañar al destinatario para que revele al atacante información confidencial, tales como credenciales de sus cuentas. También se pueden utilizar vínculos y archivos adjuntos para que el destinatario descargue de forma involuntaria malware que puede darle al atacante acceso al ordenador del usuario y a otra información delicada. El spear phishing se diferencia del phishing más genérico en que es de naturaleza dirigida a un objetivo determinado.
+
+Por lo general, los mensajes de spear phishing se personalizan según la información pública que el atacante haya encontrado acerca del destinatario. Eso puede incluir desde temas relacionados con el campo de especialización, la función en la organización, los intereses, la información residencial pública y también fiscal del destinatario, así como toda información que los atacantes recopilen en las redes sociales. Esos detalles específicos logran que el mensaje parezca ser más legítimo y aumentan la probabilidad de que el destinatario haga clic en algún vínculo o que descargue los archivos adjuntos.\citep{PROOFPOINT-spear-phishing}
+
 Los medios de phishing más usados por lo ciberdelincuentes:
 
 \begin{itemize}
@@ -1406,6 +1410,15 @@ Para poder detectar si estas siendo víctima de uno de estos fraudes debes estar
 }
 
 \caption{Phishing banco Santander.}\label{fig:unnamed-chunk-16}
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/spear-phishing-ejemplo} 
+
+}
+
+\caption{Spear phishing Facebook.}\label{fig:unnamed-chunk-17}
 \end{figure}
 
 En relación a la protección contra el phishing existen diferentes herramientas y servicios que puedes implementar en tu uso diario de las tecnologías. Algunos de estos son:
@@ -1474,7 +1487,27 @@ El modus operandi sigue siendo muy similar a otros ataques donde el ciberdelincu
 
 El mayor riesgo de este tipo de ciberataque es el desconocimiento de los usuarios, ya que no esperan ser engañados a través de un mensaje de texto \citep{INCI-smishing}.
 
+Si quieres más información visita el siguiente enlace \href{https://www.incibe.es/protege-tu-empresa/avisos-seguridad/campanas-smishing-suplantando-multiples-entidades-bancarias}{Campañas de smishing suplantando a múltiples entidades bancarias}.
+
 Como se ha destacado en líneas anteriores la vía de entrada de esta amenaza a través de SMS.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.35\linewidth]{images/bbva-smishing} 
+
+}
+
+\caption{BBVA smishing.}\label{fig:unnamed-chunk-18}
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.35\linewidth]{images/reemplazo-app-mensajería} 
+
+}
+
+\caption{Reemplazo app de mensajería.}\label{fig:unnamed-chunk-19}
+\end{figure}
 
 \hypertarget{spam-o-correo-malicioso}{%
 \section{Spam o correo malicioso}\label{spam-o-correo-malicioso}}
@@ -1511,7 +1544,7 @@ Pero puede ocurrir que, a través de una instalación de software, normalmente g
 
 }
 
-\caption{Toolbar.}\label{fig:unnamed-chunk-17}
+\caption{Toolbar.}\label{fig:unnamed-chunk-20}
 \end{figure}
 
 Normalmente, se instalan como un añadido al instalar aplicaciones gratuitas en el ordenador. Si no tienes cuidado durante el proceso de instalación y pulsamos siempre ``Siguiente-Siguiente-Siguiente'' las toolbars acaban en tu navegador. Para evitarlo no debes instalar una aplicación dando a ``Siguiente-Siguiente-Siguiente'' sin leer lo que nos están indicando. Para evitar este supuesto, recuerda que lo mejor es descargar programas solo de las webs oficiales.

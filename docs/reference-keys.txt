@@ -12,6 +12,9 @@ fig:unnamed-chunk-14
 fig:unnamed-chunk-15
 fig:unnamed-chunk-16
 fig:unnamed-chunk-17
+fig:unnamed-chunk-18
+fig:unnamed-chunk-19
+fig:unnamed-chunk-20
 privacidad-y-seguridad-en-internet
 introducción
 privacidad
