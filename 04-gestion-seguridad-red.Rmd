@@ -182,6 +182,8 @@ Uno de los peligros a los que más expuesto estás, es en el uso que haces de lo
 
 Es por ello que debes tener la precaución de no hacer transacciones de ningún tipo, ni enviar datos sensibles. Es decir, usarla solo en caso de no te quede otra opción o en caso de tener que hacer cualquier búsqueda de carácter trivial.
 
+Aun así, si usas una Wi-Fi pública estás expuesto entre otros ataques al conocido como Man-in-the-middle (Ataque de Intermediario en español), o el Packet sniffing. Si quieres más información al respecto visita el siguiente enlace [Tipos de pirateo que puedes sufrir en un Wifi  público](https://as.com/meristation/2020/02/04/betech/1580856719_548183.html)
+
 Es de suponer que si estas en casa con Wi-Fi propia, estas recomendaciones no son tan necesarias. Pero sí, que sería muy recomendable por tu parte, que tuvieses muy en cuenta las recomendaciones que tienes a tu disposición en el apartado de Router en este manual. Además, es conveniente que si no has establecido las capas de seguridad que se recomiendan en ese apartado, hagas una revisión de tu conexión Wi-Fi, por si tienes algún intruso y de ser así poder eliminarlo. Para ello tienes a tu disposición en el [blog de la Oficina de Seguridad de Internauta](https://www.osi.es/es/actualidad/blog) un recurso llamado [descubre y elimina a los intrusos de tu red wifi](https://www.osi.es/es/actualidad/blog/2019/09/25/descubre-y-elimina-los-intrusos-de-tu-red-wifi).
 
 Lo más recomendable es que siempre que puedas navegues con cable en lugar de Wi-Fi.
