@@ -120,7 +120,8 @@
 <li class="chapter" data-level="4.10" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#sv-two-step-verification-o-verificación-en-dos-pasos"><i class="fa fa-check"></i><b>4.10</b> 2SV (Two Step Verification) o Verificación en Dos Pasos</a></li>
 <li class="chapter" data-level="4.11" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#mfa-multi-factor-authentication-o-autenticación-de-factores-múltiples"><i class="fa fa-check"></i><b>4.11</b> MFA (Multi-Factor Authentication) o Autenticación de Factores Múltiples</a></li>
 <li class="chapter" data-level="4.12" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#antibotnet"><i class="fa fa-check"></i><b>4.12</b> AntiBotnet</a></li>
-<li class="chapter" data-level="4.13" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#bluetooth-y-nfc"><i class="fa fa-check"></i><b>4.13</b> Bluetooth y NFC</a></li>
+<li class="chapter" data-level="4.13" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#bluetooth"><i class="fa fa-check"></i><b>4.13</b> Bluetooth</a></li>
+<li class="chapter" data-level="4.14" data-path="gestión-de-la-seguridad-en-la-red.html"><a href="gestión-de-la-seguridad-en-la-red.html#nfc-near-field-communication"><i class="fa fa-check"></i><b>4.14</b> NFC (Near field communication)</a></li>
 </ul></li>
 <li class="chapter" data-level="5" data-path="amenazas.html"><a href="amenazas.html"><i class="fa fa-check"></i><b>5</b> Amenazas</a>
 <ul>
@@ -412,9 +413,9 @@ Figure 4.4: Verificación en dos pasos.
 <p>La autenticación de factor múltiple es una forma eficaz de aumentar la protección de las cuentas de usuario contra las amenazas más comunes, como los ataques de phishing, apropiación de cuentas, etc. Y se trata un método de control de acceso informático, en el que a un usuario, se le concede acceso al sistema solo después de que presente dos o más pruebas o factores diferentes de que es quien dice ser. Estas pruebas pueden ser diversas, como una contraseña, clave secundaria rotativa, un certificado digital instalado en el equipo, un token físico, etc. entre otros y son éstos lo que se conocen como factores de autenticación <span class="citation">(<a href="referencias.html#ref-WIKI-multiple-factor" role="doc-biblioref">Wikipedia 2018</a>)</span>.</p>
 <p>Son tres los tipos de factores de autenticación:</p>
 <ul>
-<li>Algo que sabes: Factor de conocimiento (contraseña, respuesta a una pregunta, un PIN).</li>
-<li>Algo que tienes: Factor de posesión (tarjeta, smartphone, token hardware como las Security keys).</li>
-<li>Algo que eres: Factor biométrico (huellas dactilares, escaneos de retina, reconocimiento facial, reconocimiento de voz o el comportamiento de un usuario).</li>
+<li><p>Algo que sabes: Factor de conocimiento (contraseña, respuesta a una pregunta, un PIN).</p></li>
+<li><p>Algo que tienes: Factor de posesión (tarjeta, smartphone, token hardware como las Security keys).</p></li>
+<li><p>Algo que eres: Factor biométrico (huellas dactilares, escaneos de retina, reconocimiento facial, reconocimiento de voz o el comportamiento de un usuario).</p></li>
 </ul>
 <p>Uno de los ejemplos de autenticación en dos factores más común es la acción que realizas cuando vas a sacar dinero de un cajero. Por un lado, metes la tarjeta (algo que tienes) y luego pones el PIN (algo que sabes). Esto es lo que se conoce como la autenticación en dos pasos o 2FA (segundo factor de autenticación) y que a veces tiende a confundirse con la verificación en dos pasos 2SV (Two Step Verification) que puedes verla en esta misma unidad.</p>
 <p>Otro ejemplo son los inicios de sesión en los que se necesita un código adicional que es gestionado a través de correo electrónico, SMS o llamadas telefónicas, como es el caso de algunas entidades bancarias, esto es lo que se conoce como OTP por sus siglas en inglés “One-Time Password” y en castellano “contraseña de uso único”. Y en otros supuestos, aunque la plataforma disponga de dicho servicio necesitarás una aplicación externa como <a href="https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&amp;hl=es-419">Google Authenticator</a> o <a href="https://www.microsoft.com/es-es/account/authenticator">Microsoft authenticator</a> entre otras y que se trata de una App de autenticación en dos pasos, que te genera el código adicional, que ha de ser utilizado inmediatamente ya que éste expira con el tiemplo.</p>
@@ -432,14 +433,28 @@ Figure 4.5: Autenticación de factores múltiples.
 <p>Un Botnet es el nombre genérico para denominar a cualquier grupo de PCs infectados y controlados por un ciberdelincuente de forma remota. Generalmente se trata de un hacker o un grupo de ellos los que crean el botnet a través de un malware que infecta a una gran cantidad de equipos. Este grupo de equipos u ordenadores son los que forman parte del botnet, o también llamados “bots” o “zombies”. No existe un número mínimo de equipos para crear un botnet. Los botnets pequeños pueden incluir cientos de PCs infectados, mientras que los mayores utilizan millones de equipos <span class="citation">(<a href="referencias.html#ref-INCI-botnet" role="doc-biblioref">INCIBE 2021a</a>)</span>.</p>
 <p>Para saber si estás siendo víctima de este tipo de ataque, existen <a href="https://www.osi.es/es/servicio-antibotnet">servicios antibotnet</a> que identifican si desde tu conexión a internet se ha detectado algún incidente de seguridad relacionado u otras amenazas.</p>
 </div>
-<div id="bluetooth-y-nfc" class="section level2" number="4.13">
-<h2><span class="header-section-number">4.13</span> Bluetooth y NFC</h2>
-<p>El Bluetooth y NFC (Near field communication) o comunicación de campo cercano, son otro punto vulnerable en tu seguridad en la red. Pero antes veamos concretamente que son estos dos servicios.</p>
+<div id="bluetooth" class="section level2" number="4.13">
+<h2><span class="header-section-number">4.13</span> Bluetooth</h2>
+<p>El Bluetooth es otro punto vulnerable en tu seguridad en la red. El Bluetooth, viene incorporado en multitud de dispositivos y permite conectarnos con otro dispositivo para compartir archivos o emparejar determinados dispositivos, como auriculares inalámbricos, etc. <span class="citation">(<a href="referencias.html#ref-IONOS-bluetooh" role="doc-biblioref">IONOS by 1and1 2020a</a>)</span>.</p>
+<p>Y sus principales amenazas son:</p>
 <ul>
-<li><p>Bluetooth: Viene incorporado en multitud de dispositivos y permite conectarnos con otro dispositivo para compartir archivos o emparejar determinados dispositivos, como auriculares inalámbricos, etc. <span class="citation">(<a href="referencias.html#ref-IONOS-bluetooh" role="doc-biblioref">IONOS by 1and1 2020a</a>)</span>.</p></li>
-<li><p>NFC: Se trata de una tecnología inalámbrica de corto alcance que permite conectar dos dispositivos entre sí para intercambiar información o realizar pagos <span class="citation">(<a href="referencias.html#ref-IONOS-nfc" role="doc-biblioref">IONOS by 1and1 2019</a>)</span>.</p></li>
+<li><p>Bluejacking: envían spam a la víctima mediante notas, contactos, imágenes, etc. Puede resultar peligroso y convertirse en una denegación de servicio dirigida a un objetivo o espacio (por ejemplo, un bar).</p></li>
+<li><p>Bluesnarfing: se beneficia de las vulnerabilidades más comunes para obtener datos confidenciales del dispositivo atacado.</p></li>
+<li><p>Bluebugging: aprovecha bugs (fallos de programación) para ejecutar comandos en el terminal y controlarlo.</p></li>
 </ul>
-<p>El riesgo que corres cuando tienes estos servicios activados es que el dispositivo de un tercero acabe sincronizándose con el tuyo, con el consiguiente riesgo que eso conlleva. Para evitarlo, una vez hayas terminado, mantenlos desactivados.</p>
+<p>El riesgo que corres cuando tienes este servicio activado es que el dispositivo de un tercero acabe sincronizándose con el tuyo, con los riesgo expuestos. Para evitarlo, una vez hayas terminado, mantenlo desactivado.</p>
+<p>Si quieres más información visita el siguiente enlace <a href="https://computerhoy.com/noticias/tecnologia/diferencias-principales-ataques-bluetooth-bluesnarfing-bluejacking-bluebugging-1087867">Diferencias entre los principales ataques por bluetooth: Bluesnarfing, Bluejacking y Bluebugging</a>.</p>
+</div>
+<div id="nfc-near-field-communication" class="section level2" number="4.14">
+<h2><span class="header-section-number">4.14</span> NFC (Near field communication)</h2>
+<p>El NFC, es una tecnología inalámbrica de corto alcance que permite conectar dos dispositivos entre sí para intercambiar información o realizar pagos <span class="citation">(<a href="referencias.html#ref-IONOS-nfc" role="doc-biblioref">IONOS by 1and1 2019</a>)</span>.</p>
+<p>Sus principales amenazas son:</p>
+<ul>
+<li><p>Ejecución de programas maliciosos: ejecuta código en terminales Android simplemente acercando una etiqueta NFC al dispositivo.</p></li>
+<li><p>Pagos sin autorización: realiza compras por proximidad sin consentimiento (limitadas a un máximo de 20€).</p></li>
+<li><p>Transmisión de datos sin cifrar: lee datos como el nombre, apellidos, el número de la tarjeta y, en algunos casos, las transacciones realizadas.</p></li>
+</ul>
+<p>El riesgo al que te expones si tienes este servicio activado es que el dispositivo de un tercero acabe sincronizándose con el tuyo, con los riesgo expuestos. Para evitarlo, una vez hayas terminado de usarlo, desactivado.</p>
 
 </div>
 </div>

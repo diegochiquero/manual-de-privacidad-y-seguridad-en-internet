@@ -57,7 +57,8 @@ cierre-de-sesiones
 sv-two-step-verification-o-verificación-en-dos-pasos
 mfa-multi-factor-authentication-o-autenticación-de-factores-múltiples
 antibotnet
-bluetooth-y-nfc
+bluetooth
+nfc-near-field-communication
 amenazas
 principales-amenazas
 virus

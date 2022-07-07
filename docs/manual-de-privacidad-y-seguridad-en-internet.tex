@@ -1040,7 +1040,6 @@ La autenticación de factor múltiple es una forma eficaz de aumentar la protecc
 Son tres los tipos de factores de autenticación:
 
 \begin{itemize}
-\tightlist
 \item
   Algo que sabes: Factor de conocimiento (contraseña, respuesta a una pregunta, un PIN).
 \item
@@ -1073,19 +1072,43 @@ Un Botnet es el nombre genérico para denominar a cualquier grupo de PCs infecta
 
 Para saber si estás siendo víctima de este tipo de ataque, existen \href{https://www.osi.es/es/servicio-antibotnet}{servicios antibotnet} que identifican si desde tu conexión a internet se ha detectado algún incidente de seguridad relacionado u otras amenazas.
 
-\hypertarget{bluetooth-y-nfc}{%
-\section{Bluetooth y NFC}\label{bluetooth-y-nfc}}
+\hypertarget{bluetooth}{%
+\section{Bluetooth}\label{bluetooth}}
 
-El Bluetooth y NFC (Near field communication) o comunicación de campo cercano, son otro punto vulnerable en tu seguridad en la red. Pero antes veamos concretamente que son estos dos servicios.
+El Bluetooth es otro punto vulnerable en tu seguridad en la red. El Bluetooth, viene incorporado en multitud de dispositivos y permite conectarnos con otro dispositivo para compartir archivos o emparejar determinados dispositivos, como auriculares inalámbricos, etc. \citep{IONOS-bluetooh}.
+
+Y sus principales amenazas son:
 
 \begin{itemize}
 \item
-  Bluetooth: Viene incorporado en multitud de dispositivos y permite conectarnos con otro dispositivo para compartir archivos o emparejar determinados dispositivos, como auriculares inalámbricos, etc. \citep{IONOS-bluetooh}.
+  Bluejacking: envían spam a la víctima mediante notas, contactos, imágenes, etc. Puede resultar peligroso y convertirse en una denegación de servicio dirigida a un objetivo o espacio (por ejemplo, un bar).
 \item
-  NFC: Se trata de una tecnología inalámbrica de corto alcance que permite conectar dos dispositivos entre sí para intercambiar información o realizar pagos \citep{IONOS-nfc}.
+  Bluesnarfing: se beneficia de las vulnerabilidades más comunes para obtener datos confidenciales del dispositivo atacado.
+\item
+  Bluebugging: aprovecha bugs (fallos de programación) para ejecutar comandos en el terminal y controlarlo.
 \end{itemize}
 
-El riesgo que corres cuando tienes estos servicios activados es que el dispositivo de un tercero acabe sincronizándose con el tuyo, con el consiguiente riesgo que eso conlleva. Para evitarlo, una vez hayas terminado, mantenlos desactivados.
+El riesgo que corres cuando tienes este servicio activado es que el dispositivo de un tercero acabe sincronizándose con el tuyo, con los riesgo expuestos. Para evitarlo, una vez hayas terminado, mantenlo desactivado.
+
+Si quieres más información visita el siguiente enlace \href{https://computerhoy.com/noticias/tecnologia/diferencias-principales-ataques-bluetooth-bluesnarfing-bluejacking-bluebugging-1087867}{Diferencias entre los principales ataques por bluetooth: Bluesnarfing, Bluejacking y Bluebugging}.
+
+\hypertarget{nfc-near-field-communication}{%
+\section{NFC (Near field communication)}\label{nfc-near-field-communication}}
+
+El NFC, es una tecnología inalámbrica de corto alcance que permite conectar dos dispositivos entre sí para intercambiar información o realizar pagos \citep{IONOS-nfc}.
+
+Sus principales amenazas son:
+
+\begin{itemize}
+\item
+  Ejecución de programas maliciosos: ejecuta código en terminales Android simplemente acercando una etiqueta NFC al dispositivo.
+\item
+  Pagos sin autorización: realiza compras por proximidad sin consentimiento (limitadas a un máximo de 20€).
+\item
+  Transmisión de datos sin cifrar: lee datos como el nombre, apellidos, el número de la tarjeta y, en algunos casos, las transacciones realizadas.
+\end{itemize}
+
+El riesgo al que te expones si tienes este servicio activado es que el dispositivo de un tercero acabe sincronizándose con el tuyo, con los riesgo expuestos. Para evitarlo, una vez hayas terminado de usarlo, desactivado.
 
 \hypertarget{amenazas}{%
 \chapter{Amenazas}\label{amenazas}}
