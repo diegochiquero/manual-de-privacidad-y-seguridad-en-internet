@@ -458,7 +458,9 @@ Los fallos de vulnerabilidad les corresponde corregirlos a las terceras partes i
 
 Un ejemplo de vulnerabilidad muy conocido fuero el [Meltdown](https://es.wikipedia.org/wiki/Meltdown_(vulnerabilidad)) y [Spectre](https://es.wikipedia.org/wiki/Spectre_(vulnerabilidad)), relacionadas con los procesadores informáticos, que existen desde mediados de los noventa, pero que han sido descubiertas ahora.
 
-Las vulnerabilidades son también una puerta de entrada para lo que se conocen como ataques de click cero. Un pirateo de clic cero explota los fallos de tu dispositivo y utiliza una deficiencia en la verificación de datos para acceder a tu sistema. Y no necesita la intervención de la propia víctima. Amplía la información en el artículo del centro de recursos de los servicios de antivirus Kaspersky [¿Qué es el malware de clic cero y cómo funcionan los ataques de clic cero?](https://www.kaspersky.es/resource-center/definitions/what-is-zero-click-malware).
+Las vulnerabilidades son también una puerta de entrada para lo que se conocen como ataques de click cero. Un pirateo de clic cero explota los fallos de tu dispositivo y utiliza una deficiencia en la verificación de datos para acceder a tu sistema. Y no necesita la intervención de la propia víctima. También pueden ser explotadas por lo que se conoce como "exploit". Un exploit es un programa informático, una parte de un software o una secuencia de comandos que se aprovecha de un error o vulnerabilidad para provocar un comportamiento no intencionado o imprevisto en un software, hardware o en cualquier dispositivo electrónico.
+    
+Amplía la información en el artículo del centro de recursos de los servicios de antivirus Kaspersky [¿Qué es el malware de clic cero y cómo funcionan los ataques de clic cero?](https://www.kaspersky.es/resource-center/definitions/what-is-zero-click-malware).
 
 ## Cryptojacking
 
