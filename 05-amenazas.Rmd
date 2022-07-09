@@ -467,7 +467,7 @@ Por último, pero no por ello menos importante, si en algún momento te encontra
 
 ## Warshipping
 
-El warshiping es un tipo de ataque que los ciberdelicuentes llevan a cabo mediante el envío de paquetería, y en cuyo interior se encuentra un dispositivo electrónico, pudiendo ser de diferente naturaleza. Estos pueden contener cámara, micrófono o simplemente ser un dispositivo, que al ser conectado instale un software fraudulento de manera que permita a los ciberdelicuentes remotamente vulnerar la privacidad y la seguridad de la víctima. Aun que suele estar destinados a empresas que continuamente reciben paquetería, usuarios de compras online también pueden ser blanco de este ciberdelito [@INCI-warshipping].
+El warshipping es un tipo de ataque que los ciberdelicuentes llevan a cabo mediante el envío de paquetería, y en cuyo interior se encuentra un dispositivo electrónico, pudiendo ser de diferente naturaleza. Estos pueden contener cámara, micrófono o simplemente ser un dispositivo, que al ser conectado instale un software fraudulento de manera que permita a los ciberdelicuentes remotamente vulnerar la privacidad y la seguridad de la víctima. Aun que suele estar destinados a empresas que continuamente reciben paquetería, usuarios de compras online también pueden ser blanco de este ciberdelito [@INCI-warshipping].
 
 ## Vulnerabilidades
 
