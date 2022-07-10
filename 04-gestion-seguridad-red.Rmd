@@ -4,6 +4,13 @@
 
 Como ya viste en la unidad de privacidad y seguridad, la seguridad en internet son todas aquellas precauciones que deben ser tomadas para proteger todos los dispositivos informáticos, así como la red de internet que pueden ser afectados por delincuentes cibernéticos.
 
+Pero, ¿Qué es la red?. La red son un conjunto de servidores conectados entre sí y que son capaces, mediante un protocolo previamente establecido, de compartir datos y recursos. Por lo que, Internet, sería la interconexión de un conjunto de Redes entre sí a nivel mundial. No es una única Red, sino múltiples Redes conectadas entre sí, «hablándose» en todas ellas con el mismo «idioma» (protocolo).
+
+Estas redes pueden ser:
+
+- Públicas (accesibles a todo el mundo).
+- Privadas (solo a los usuarios autorizados).
+
 Más adelante verás de qué situaciones y amenazas te estás protegiendo si sigues todas estas recomendaciones.
 
 ## Seguridad en las cuentas
