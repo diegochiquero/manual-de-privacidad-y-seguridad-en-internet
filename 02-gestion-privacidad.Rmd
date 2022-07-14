@@ -181,6 +181,8 @@ Esto no tiene por qué ser un inconveniente si no envías información sensible,
 
 Si por el contrario prefieres ser tu quien gestiones esa capa de privacidad adicional, puedes optar por hacer uso de otras herramientas de encriptado que podrás ver en este artículo de [cómo encriptar y proteger tu correo electrónico](https://www.osi.es/es/actualidad/blog/2019/07/31/como-encriptar-y-proteger-tu-correo-electronico).
 
+Otra alternativa de envío de correos cifrados, es el uso de la opción de correos confidenciales de Gmail. De esta manera el receptor necesitará un código para desbloquear el contenido del email que, recibirá a través de SMS en su smartphone. Más información en el siguiente enlace [Enviar y abrir correos confidenciales](https://support.google.com/mail/answer/7674059?hl=es&co=GENIE.Platform%3DDesktop).
+
 Si además quieres saber si tu cuenta de correo o tu número de teléfono han sido comprometidos, puedes saberlo a través de la siguiente plataforma [haveibeenpwned](https://haveibeenpwned.com/).
 
 Con respecto a las aplicaciones de mensajería instantánea debes tener en cuenta que sucede lo mismo que con los correos electrónicos. A pesar que la mayoría de ellas, incluida la más popular de todas (whatsApp) disponen de capas de privacidad que la hacen confiable, a veces no podemos estar totalmente seguros de no estar sometidos a un seguimiento por parte de éstas. Es por ello, que las aplicaciones como [telegram](https://telegram.org/) y [signal](https://signal.org/es/) nacen con el propósito de no inmiscuirse en el uso que haces de la aplicación.
