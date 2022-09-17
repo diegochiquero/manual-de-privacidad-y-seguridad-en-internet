@@ -52,6 +52,8 @@ Una manera de saber que conocimientos tienes sobre privacidad y seguridad en int
 
 - [Diagnóstico de competencias digitales](https://www.digcomp.andaluciaesdigital.es/): Autodiagnóstico para conocer el nivel de  competencias digitales.
 
+- [¿Sabes escapar de los fakes?](https://www.proyectoescapefake.org/haz-el-test/): Un sencillo test de autoevaluación para saber cómo de inmune eres a los bulos.
+
 ## Canales de avisos y alertas
 
 Una buena manera de estar al tanto, es poder estar al día en sentido literal, de gran parte de lo que esta aconteciendo en lo referente a ciberdelitos, para ello a continuación, tienes dos recursos para que nada o poco de la actualidad ciber criminal no llegue a tu conocimiento.
