@@ -150,7 +150,7 @@ Para comprar por Internet debes tomar cuantas más precauciones mejor para evita
 
 - Busca valoraciones y opiniones: Para ello dispones de las reseñas de Google maps, así como también de plataformas como [Trust Pilot](https://es.trustpilot.com/), [Local guides connect](https://www.localguidesconnect.com/) o [TripAdvisor](https://www.tripadvisor.es/).
 
-- Utiliza plataformas que valoran la reputación online de un portal, como [Scamadviser](https://www.scamadviser.com/) y [Fakeinet](https://fakeinet.com/) que dispone de un listado de posibles tiendas falsas.
+- Utiliza plataformas que valoran la reputación online de un portal, como [Scamadviser](https://www.scamadviser.com/), [Fakeinet](https://fakeinet.com/) o [Desenmascarame](https://desenmascara.me/) que dispone de un listado de posibles tiendas falsas.
 
 - Usa solo plataformas con protocolo HTTPS: Visto en el apartado anterior. Y recuerda que tener el candado no garantiza que la web sea legítima. Ya que los certificados de cifrado seguro los emiten terceros y los ciberestafadores pueden hacerse igualmente con uno.
 
