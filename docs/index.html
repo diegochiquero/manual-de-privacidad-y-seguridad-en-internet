@@ -6,12 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Manual de privacidad y seguridad en internet</title>
   <meta name="description" content="Manual de lectura recomendado para conecer los ciberdelitos a los que nos exponemos y cómo evitarlos." />
-  <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.31 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Manual de privacidad y seguridad en internet" />
   <meta property="og:type" content="book" />
-  
-  <meta property="og:image" content="images/cover.png" />
+  <meta property="og:image" content="/images/cover.png" />
   <meta property="og:description" content="Manual de lectura recomendado para conecer los ciberdelitos a los que nos exponemos y cómo evitarlos." />
   <meta name="github-repo" content="diegochiquero/manual-de-privacidad-y-seguridad-en-internet" />
 
@@ -19,7 +18,7 @@
   <meta name="twitter:title" content="Manual de privacidad y seguridad en internet" />
   
   <meta name="twitter:description" content="Manual de lectura recomendado para conecer los ciberdelitos a los que nos exponemos y cómo evitarlos." />
-  <meta name="twitter:image" content="images/cover.png" />
+  <meta name="twitter:image" content="/images/cover.png" />
 
 <meta name="author" content="Diego Chiquero Mena" />
 
@@ -32,8 +31,8 @@
   
 
 <link rel="next" href="autor.html"/>
-<script src="libs/header-attrs-2.6/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -49,9 +48,34 @@
 
 
 
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 
 
 
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
 
 <link rel="stylesheet" href="css/style.css" type="text/css" />
 </head>
@@ -228,10 +252,10 @@
 <div id="header">
 <h1 class="title">Manual de privacidad y seguridad en internet</h1>
 <p class="author"><em>Diego Chiquero Mena</em></p>
-<p class="date"><em>30 octubre 2022</em></p>
+<p class="date"><em>22 diciembre 2022</em></p>
 </div>
-<div id="prólogo" class="section level1 unnumbered">
-<h1>Prólogo</h1>
+<div id="prólogo" class="section level1 unnumbered hasAnchor">
+<h1>Prólogo<a href="index.html#prólogo" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <p style="text-align: center;">
 <img src="images/cover.png" alt="The R Markdown book cover" />
@@ -243,11 +267,20 @@
 <p>Y por último, pero no por ello menos importante, se abordarán otros conceptos relacionados con los ciberdelitos, la huella digital, la importancia de ser selectivos con la información online y otros aspectos más.</p>
 <p>Para concluir, también encontrarás a lo largo del manual multitud de enlaces que te llevarán a más información ampliada sobre las temáticas, así como una extensa lista de recursos y herramientas para que puedas llevar tu privacidad y seguridad en internet al siguiente nivel.</p>
 <p>Si quieres contribuir y ayudar a nutrir de más contenido de valor este manual, por favor, no lo dudes y ponte en contacto conmigo, estaré encantado que colaboremos. Encontrarás mis datos de contacto en el siguiente apartado <em>sobre el autor</em>.</p>
-<p>Este manual está disponible en el repositorio Github: <a href="https://github.com/diegochiquero/manual-de-privacidad-y-seguridad-en-internet">diegochiquero/manual-de-privacidad-y-seguridad-en-internet</a>. Y ha sido escrito en <a href="http://rmarkdown.rstudio.com">R-Markdown</a> empleando el paquete <a href="https://bookdown.org/"><code>bookdown</code></a> cuya guia encontrarás en <span class="citation">(<a href="referencias.html#ref-R-bookdown" role="doc-biblioref">Xie 2021</a>)</span>.</p>
-<p>Imagen portada <span class="citation">(<a href="referencias.html#ref-freepik" role="doc-biblioref">Katemangostar - Freepik 2021</a>)</span></p>
+<p>Este manual está disponible en el repositorio Github: <a href="https://github.com/diegochiquero/manual-de-privacidad-y-seguridad-en-internet">diegochiquero/manual-de-privacidad-y-seguridad-en-internet</a>. Y ha sido escrito en <a href="http://rmarkdown.rstudio.com">R-Markdown</a> empleando el paquete <a href="https://bookdown.org/"><code>bookdown</code></a> cuya guia encontrarás en <span class="citation">(<a href="#ref-R-bookdown" role="doc-biblioref">Xie 2021</a>)</span>.</p>
+<p>Imagen portada <span class="citation">(<a href="#ref-freepik" role="doc-biblioref">Katemangostar - Freepik 2021</a>)</span></p>
 <p>Esta obra está bajo la <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>.</p>
 <p><img src="images/by-nc-sa-88x31.png" style="display: block; margin: auto auto auto 0;" /></p>
 
+</div>
+<h3>Referencias<a href="referencias.html#referencias" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-freepik" class="csl-entry">
+Katemangostar - Freepik. 2021. <span>«Imagen portada»</span>. <em>Freepik</em>. <a href="https://www.freepik.es/katemangostar">https://www.freepik.es/katemangostar</a>.
+</div>
+<div id="ref-R-bookdown" class="csl-entry">
+Xie, Yihui. 2021. <em>Bookdown: Authoring Books and Technical Documents with R Markdown</em>. 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC. <a href="https://bookdown.org/yihui/bookdown/">https://bookdown.org/yihui/bookdown/</a>.
+</div>
 </div>
             </section>
 
@@ -259,7 +292,6 @@
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -278,6 +310,7 @@ gitbook.start({
 "weibo": false,
 "instapaper": false,
 "vk": false,
+"whatsapp": false,
 "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
@@ -298,6 +331,10 @@ gitbook.start({
 "text": null
 },
 "download": ["manual-de-privacidad-y-seguridad-en-internet.pdf", "manual-de-privacidad-y-seguridad-en-internet.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "none"
 }

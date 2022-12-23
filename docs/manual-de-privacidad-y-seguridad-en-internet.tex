@@ -1,16 +1,15 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
-\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
 %
 \documentclass[
-  spanish,
   a4paper,
   openany]{book}
 \usepackage{amsmath,amssymb}
 \usepackage[]{bookman}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -36,20 +35,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={Manual de privacidad y seguridad en internet},
-  pdfauthor={Diego Chiquero Mena},
-  pdflang={es},
-  pdfkeywords={seguridad,privacidad, ciberdelitos, ciberdelincuentes,internet},
-  colorlinks=true,
-  linkcolor=blue,
-  filecolor=Maroon,
-  citecolor=Blue,
-  urlcolor=Blue,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage[top=1in,bottom=1in,right=1in,left=1in]{geometry}
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
@@ -78,31 +63,44 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{spanish}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
 \usepackage{graphicx}
 \usepackage{fancyhdr}
 \pagestyle{plain}
 \renewcommand{\headrulewidth}{0.2pt}
 \usepackage{floatpag}
 \floatpagestyle{empty}
-\ifxetex
-  % Load polyglossia as late as possible: uses bidi with RTL langages (e.g. Hebrew, Arabic)
-  \usepackage{polyglossia}
-  \setmainlanguage[]{spanish}
-\else
-  \usepackage[main=spanish]{babel}
-% get rid of language-specific shorthands (see #6817):
-\let\LanguageShortHands\languageshorthands
-\def\languageshorthands#1{}
-\fi
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Manual de privacidad y seguridad en internet},
+  pdfauthor={Diego Chiquero Mena},
+  pdflang={es},
+  pdfkeywords={seguridad,privacidad, ciberdelitos, ciberdelincuentes,internet},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
 
 \title{Manual de privacidad y seguridad en internet}
 \author{Diego Chiquero Mena}
-\date{30 octubre 2022}
+\date{22 diciembre 2022}
 
 \begin{document}
 \maketitle
@@ -960,7 +958,7 @@ Identificar si el protocolo https está activado en el navegador es muy sencillo
 Si haces click en el candado, éste te mostrará que se trata de una conexión segura, así como el \href{https://www.softrending.com/blog/hosting/tipos-diferencias-certificado-seguridad-ssl}{tipo de certificado de seguridad}, cookies y la configuración del sitio web.
 
 IMPORTANTE: Tener el candado no garantiza que la web sea legítima. Ya que los certificados de cifrado seguro los emiten terceros y los ciberestafadores pueden hacerse igualmente con uno. Sobre todo si se trata del certificado de dominio, que el único requisito es que la persona figure como contacto de administrador de dominio en el registro WHOIS de un nombre de dominio. Se trata del nivel más bajo de autenticación utilizado para validar certificados SSL. Si quieres más información sobre este primer nivel de certificado y los dos siguientes que ofrecen mayores garantías de legitimidad, visita el siguiente enlace
-\href{https://www.websecurity.digicert.com/es/es/security-topics/dangers-of-domain-validated-ssl}{Peligros de los certificados SSL/TLS validados por el dominio} o este otro \href{https://www.softrending.com/blog/tipos-diferencias-certificado-seguridad-ssl}{Diferencias y tipos de certificados de seguridad SSL}.
+\href{https://www.globalsign.com/es/centro-de-informacion-ssl/tipos-de-certificados-ssl}{¿Cuáles son los tipos de certificados SSL?} o este otro \href{https://www.softrending.com/blog/tipos-diferencias-certificado-seguridad-ssl}{Diferencias y tipos de certificados de seguridad SSL}.
 
 \hypertarget{compras-y-transacciones}{%
 \section{Compras y transacciones}\label{compras-y-transacciones}}

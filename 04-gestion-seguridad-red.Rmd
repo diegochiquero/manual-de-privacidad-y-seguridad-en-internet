@@ -141,7 +141,7 @@ knitr::include_graphics("images/protocolo-https-http.jpg")
 Si haces click en el candado, éste te mostrará que se trata de una conexión segura, así como el [tipo de certificado de seguridad](https://www.softrending.com/blog/hosting/tipos-diferencias-certificado-seguridad-ssl), cookies y la configuración del sitio web.
 
 IMPORTANTE: Tener el candado no garantiza que la web sea legítima. Ya que los certificados de cifrado seguro los emiten terceros y los ciberestafadores pueden hacerse igualmente con uno. Sobre todo si se trata del certificado de dominio, que el único requisito es que la persona figure como contacto de administrador de dominio en el registro WHOIS de un nombre de dominio. Se trata del nivel más bajo de autenticación utilizado para validar certificados SSL. Si quieres más información sobre este primer nivel de certificado y los dos siguientes que ofrecen mayores garantías de legitimidad, visita el siguiente enlace
-[Peligros de los certificados SSL/TLS validados por el dominio](https://www.websecurity.digicert.com/es/es/security-topics/dangers-of-domain-validated-ssl) o este otro [Diferencias y tipos de certificados de seguridad SSL](https://www.softrending.com/blog/tipos-diferencias-certificado-seguridad-ssl).
+[¿Cuáles son los tipos de certificados SSL?](https://www.globalsign.com/es/centro-de-informacion-ssl/tipos-de-certificados-ssl) o este otro [Diferencias y tipos de certificados de seguridad SSL](https://www.softrending.com/blog/tipos-diferencias-certificado-seguridad-ssl).
 
 ## Compras y transacciones
 
