@@ -113,7 +113,7 @@ Para acabar con este apartado puedes comprobar la seguridad y robustez de tu con
 
 Por otro lado si eres de las personas que te gusta tener todo bajo control puedes usar este servicio de Google  llamado [Password Checkout](https://www.blog.google/technology/safety-security/google-password-checkup-cross-account-protection/) o estos otros llamados [Haveibeenpwned Passwords](https://haveibeenpwned.com/Passwords) y [¿Ha sido mi contraseña robada?](https://www.avast.com/hackcheck) para averiguar si alguna de tus contraseñas ha sido comprometida.
 
-Si quieres, también puedes usar un generador de contraseñas fuertes como el que te ofrece [F-secure](https://www.f-secure.com/en/home/free-tools/password-generator).
+Si quieres, también puedes usar un generador de contraseñas fuertes como el que te ofrece [F-secure](https://www.f-secure.com/en/home/free-tools/password-generator) o [Pinetools](https://pinetools.com/es/generador-contrasenas).
 
 Y por último, si tuviésemos que simplificar parte de lo anterior en tres puntos a tener siempre presente en la creación de contraseñas sería de la siguiente manera:
 
