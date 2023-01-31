@@ -130,11 +130,11 @@ Aparte de todo lo visto en el manual existen muchas otras herramientas para ayud
     
     - Modificar el alias o identidad del email: [Simple login](https://simplelogin.io/) es un servicio con el que puedes crear tus alias o identidades para ocultar tu email personal, evitar spam y mantener tu privacidad.
     
-- Escaneo de URLs maliciosas: [UrlScan](https://urlscan.io/). Esta plataforma detecta las direcciones webs fraudulentas.
+- Escaneo de URLs maliciosas: [UrlScan](https://urlscan.io/), [Norton Safe Web](https://safeweb.norton.com/) o [Urlvoid](https://www.urlvoid.com/). Estas plataformas detectan las direcciones webs fraudulentas.
 
 - Comprobar y mejorar tu privacidad y seguridad en internet: [Lista de verificación de seguridad](https://securitycheckli.st/). Esta web esta en inglés, pero abarca un amplio espectro de herramientas y recursos diseñados para mejorar tu privacidad, seguridad y protección online y siempre dispones del traductor en línea de Google.
 
-- Eliminar cuentas en Redes Sociales: [Deseat](https://www.deseat.me/) es una plataforma con la que podrás tener instantáneamente una lista de todas tus cuentas y eliminar las que no estés usando o las que te apetezcan. 
+- Eliminar cuentas en Redes Sociales: [Justdeleteme](https://backgroundchecks.org/justdeleteme/) es una plataforma donde te facilitan los enlaces para eliminar tus cuentas de los servicios webs que ya no desees seguir usando. 
  
 - Números de teléfono de usar y tirar: [Hushed](https://hushed.com) es un servicio premium pero de coste muy económico. Solo es cuestión de ver si te compensa. 
 
@@ -146,7 +146,7 @@ Aparte de todo lo visto en el manual existen muchas otras herramientas para ayud
 
 - Protección dispositivo móvil: [Conan Mobile](https://www.osi.es/es/conan-mobile) te permite conocer el estado de seguridad de tu dispositivo, mostrándote soluciones a posibles riesgos a los que estés expuesto y proporcionándote algunos consejos que te ayudarán a mejorar su seguridad.
 
-- Verificadores de URLs acortadas: Comprobar la seguridad de una URL acortada antes de hacer click en ella es otra buena práctica para no acabar en una web de dudosa procedencia. A continuación, tienes estos dos verificadores [Unshorten](https://unshorten.it/), [Checkshorturl](https://checkshorturl.com/) y [VirusTotal](https://www.virustotal.com/gui/home/url) . 
+- Verificadores de URLs acortadas: Comprobar la seguridad de una URL acortada antes de hacer click en ella es otra buena práctica para no acabar en una web de dudosa procedencia. A continuación, tienes estos verificadores [Unshorten](https://unshorten.it/), [Checkshorturl](https://checkshorturl.com/) y [VirusTotal](https://www.virustotal.com/gui/home/url) o [Urlex](https://urlex.org/). 
 
 - Plugin o extensión antimalware: [MyWot](https://www.mywot.com/) te mantendrá a salvo de estafas, malware, phishing y robo de identidad mientras navegas.
 
