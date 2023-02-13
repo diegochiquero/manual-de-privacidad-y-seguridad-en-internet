@@ -87,6 +87,7 @@ sim-swaping
 shoulder-surfing-o-visual-hackins
 ciberacoso
 ciberextorsión
+doxing
 baiting
 clickjacking
 dumpster-diving-o-scavening
