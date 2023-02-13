@@ -148,11 +148,11 @@ Las diferentes vías de entrada de ransomware a tu equipo son:
 
 - Visitar una web maliciosa o pulsar sobre alguna dirección acortada que se publican en redes sociales u otros medidos y que en realidad no sabes a qué páginas web te puede llevar.
 
-En este punto cabe destacar que la firma de antivirus AVG pone a disposición del usuario una suite de herramientas gratuitas para [deshacer el cifrado del ransomware](https://www.avg.com/es-es/ransomware-decryption-tools), aunque quizá esto no siempre funcione.
+En este punto cabe destacar que la firma de antivirus AVG pone a disposición del usuario una suite de herramientas gratuitas para [deshacer el cifrado del ransomware](https://www.avg.com/es-es/ransomware-decryption-tools) y la oficina de seguridad del internauta también pone a disposición otros recursos para combatir el ransomware en el siguiente artículo [¡No pagues ningún rescate si un ransomware ha cifrado tu información!](https://www.osi.es/es/actualidad/blog/2022/11/17/no-pagues-ningun-rescate-si-un-ransomware-ha-cifrado-tu-informacion).
 
 Además, en el caso del sistema operativo de Windows 10 en su última versión dispone de una protección de forma nativa contra ransomware, aunque esto no te garantiza estar inmunizado.
 
-Algunos de los ransomware más mediáticos son [CryptoLocker](https://es.wikipedia.org/wiki/CryptoLocker), [CryptoWall](https://es.wikipedia.org/wiki/Ransomware#CryptoWall) y [WannCry](https://es.wikipedia.org/wiki/WannaCry), pero no son los únicos, además de estar siempre en constante evolución y lo que es peor aún, éstos últimos irán dejando paso a otros mucho más nuevos y peligrosos.
+Algunos de los ransomware más mediáticos son [CryptoLocker](https://es.wikipedia.org/wiki/CryptoLocker), [CryptoWall](https://es.wikipedia.org/wiki/Ransomware#CryptoWall) y [WannaCry](https://es.wikipedia.org/wiki/WannaCry), pero no son los únicos, además de estar siempre en constante evolución y lo que es peor aún, éstos últimos irán dejando paso a otros mucho más nuevos y peligrosos.
 
 ## Spyware o software espía
 
@@ -590,6 +590,12 @@ La ciberextorsión es una forma de chantaje que sufre la víctima a través de l
 La plataforma de antivirus Panda Security pone a tu disposición una [Guía de ciberextorsión](https://www.pandasecurity.com/es/mediacenter/src/uploads/2016/02/Guia_Ciberextorsion-es.pdf) para que puedas documentarte con más amplitud.
 
 Dentro de la ciberextorsión se encuentra lo que se conoce como sextorsión. Este ciberdelito es también una forma de extorsión en el plano digital, pero en este caso con contenido sexual. En la sextorsión la víctima es amenazada con la supuesta publicación y difusión de contenido sexual. 
+
+## Doxing
+
+El término “doxing” es la abreviación de “exponer dox”, siendo “dox” un término coloquial para referirse a los documentos. Por lo general, el doxing es una acción maliciosa que un hacker realiza contra personas con las que está en desacuerdo o que considera desagradables.
+
+El doxing (a veces escrito como doxxing) consiste en revelar información identificadora de una persona en línea, como su nombre real, dirección particular, lugar de trabajo, teléfono, datos financieros y otra información personal. Luego, esta información se divulga al público sin el permiso de la víctima [@KASPER-doxing].
 
 ## Baiting 
 
