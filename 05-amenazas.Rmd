@@ -124,6 +124,8 @@ Los métodos más comunes de infección de un troyano suelen ser:
 
 - Descarga de contenidos mediante redes de compartición P2P u otras fuentes poco fiables.
 
+Algunos de los troyanos con más incidencias son el [Dropper](https://www.welivesecurity.com/la-es/2021/12/29/que-es-dropper-cual-es-funcion-esta-amenaza/) o los que usan [archivos PDF](https://blogs.protegerse.com/2023/04/20/cuidado-con-las-falsas-facturas-varias-familias-de-troyanos-usan-archivos-pdf-para-propagarse/) para propagarse, pero recuerda que no son los únicos y que siempre están en constante evolución.
+
 Existen herramientas que analizan y limpian los troyanos que se esconden en tu dispositivo y a su vez previene futuros ataques troyanos. Una de estas herramientas es el [Trojan remover](https://www.avast.com/c-trojan-remover-tool).
 
 ## Ransomware o programa rescate
