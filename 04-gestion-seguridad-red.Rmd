@@ -277,7 +277,7 @@ En la mayoría de los casos solo se combinan dos de estos tres factores, aunque 
 
 Un Botnet es el nombre genérico para denominar a cualquier grupo de PCs infectados y controlados por un ciberdelincuente de forma remota. Generalmente se trata de un hacker o un grupo de ellos los que crean el botnet a través de un malware que infecta a una gran cantidad de equipos. Este grupo de equipos u ordenadores son los que forman parte del botnet, o también llamados “bots” o “zombies”. No existe un número mínimo de equipos para crear un botnet. Los botnets pequeños pueden incluir cientos de PCs infectados, mientras que los mayores utilizan millones de equipos [@INCI-botnet].
 
-Para saber si estás siendo víctima de este tipo de ataque, existen [servicios antibotnet](https://www.incibe.es/ciudadania/herramientas/servicio-antibotnet/) que identifican si desde tu conexión a internet se  ha detectado algún incidente de seguridad relacionado u otras amenazas. Además en el siguiente enlace obtendrás una suite de rastreo y eliminación de Botnet [Servicio Antibotnet: Cleaners](https://www.incibe.es/ciudadania/servicio-antibotnet/cleaners).
+Para saber si estás siendo víctima de este tipo de ataque, existen [servicios antibotnet](https://www.incibe.es/ciudadania/herramientas/servicio-antibotnet/) que identifican si desde tu conexión a internet se  ha detectado algún incidente de seguridad relacionado u otras amenazas. Además en el siguiente enlace podrás obtener una suite de rastreo y eliminación de Botnet [Servicio Antibotnet: Cleaners](https://www.incibe.es/ciudadania/servicio-antibotnet/cleaners).
 
 ## Bluetooth
 
