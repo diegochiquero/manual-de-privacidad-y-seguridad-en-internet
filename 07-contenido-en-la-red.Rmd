@@ -80,7 +80,11 @@ En esta lista tienes plataformas que te ayudarán a identificar si estas ante un
 
 - [Maldita](https://maldita.es/malditobulo/1)
 
-- [VerificaRTVE](https://www.rtve.es/noticias/verificartve/)
+- [Verifica RTVE](https://www.rtve.es/noticias/verificartve/)
+
+- [Learn to check](https://learntocheck.org/)
+
+- [Salud sin bulos](https://saludsinbulos.com/)
 
 En la plataforma Maldita, una de las actividades que realizan son la de desenmascarar estos bulos desgranando y dándote claves para que vayas aprendiendo a detectarlos.
 
