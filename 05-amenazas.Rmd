@@ -601,6 +601,8 @@ Dentro de la ciberextorsión se encuentra lo que se conoce como sextorsión. Est
 
 La sextorsión, o extorsión sexual, consiste en la amenaza de revelar información íntima sobre una víctima a no ser que esta pague al extorsionista. En esta era digital conectada, dicha información podría incluir mensajes de texto sexuales (en inglés conocidos como sexts), fotos íntimas e, incluso, vídeos. Los delincuentes suelen pedir dinero, pero a veces buscan material más comprometedor (envía más o divulgaremos tus secretos)[@KASPER-sextorsión].
 
+Si quieres leer un correo real de sextorsión echa un vistazo al siguiente enlace [Ciberdelincuentes están creando falsas imágenes y videos sexuales mediante IA para sextorsión](https://www.welivesecurity.com/la-es/2023/06/09/ciberdelincuentes-falsas-imagenes-videos-sexuales-mediante-inteligencia-artificial-sextorsion/) se trata de una publicación del antivirus ESET.
+
 ## Doxing
 
 El término “doxing” es la abreviación de “exponer dox”, siendo “dox” un término coloquial para referirse a los documentos. Por lo general, el doxing es una acción maliciosa que un hacker realiza contra personas con las que está en desacuerdo o que considera desagradables.
