@@ -661,6 +661,8 @@ Es por ello que es muy recomendable evitar las páginas que puedan ser vistas co
 
 Prácticamente todo el mundo en algún momento se ha quedado sin carga en algunos de sus dispositivos, pero gracias a que existen multitud de cargadores de USB públicos, esto ya no es un problema. Pero detrás de los beneficios que esta práctica nos aporta, se esconde una amenaza que va proliferando cada vez más llamada juice jacking. El juice jacking consiste en alterar con fines maliciosos la fuente de carga de los USBs por parte de los diberdelincuentes y que a través de esta técnica pueden aprovecharse tanto para el robo datos como para la inyección de archivos [@ESET-juice-jacking].
 
+En la siguiente entrada del Incibe te cuentan cómo un puerto de carga público puede ser un vector de contagio de malware [¡SOS, batería baja! Cuidado con dónde cargas tu dispositivo](https://www.incibe.es/empresas/blog/sos-bateria-baja-cuidado-con-donde-cargas-tu-dispositivo).
+
 La vía de contagio de esta ciberamenaza queda evidente en lo anteriormente expuesto, por lo que intenta evitar en la medida de lo posible usar cargadores públicos.
 
 ## Sustracción o perdida de tu dispositivo
