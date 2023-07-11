@@ -467,6 +467,8 @@ Algunos ejemplos de estafas son:
 
 - Un familiar o amigo que se encuentra en algún apuro y solicita ayuda.
 
+- Solicitud de dinero por Bizum enmascarada como pago de un producto que estás vendiendo. Al finalizar la operación se está haciendo un pago en lugar de un cobro. Léelo aquí [Estafa Bizum](https://bizum.es/blog/estafa-bizum/).
+
 - Otras muchas y nuevas que van ingeniando.
 
 Las vías de entrada de las ciberestafas suelen llegar por medio:
