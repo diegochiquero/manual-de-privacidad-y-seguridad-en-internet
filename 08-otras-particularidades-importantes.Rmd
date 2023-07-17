@@ -124,7 +124,7 @@ Aparte de todo lo visto en el manual existen muchas otras herramientas para ayud
 
 - Correo electrónico (email): 
 
-    - Emails temporales: Si solo necesitas registrarte en una web para un recurso puntual, como por ejemplo descargarte un eBook, puedes utilizar [Temporay email](https://temp-mail.org/es/) y no es el único servicio de este tipo, en el siguiente enlace tienes una lista más amplia de [servicios de correos temporales](https://www.genbeta.com/correo/7-servicios-de-email-temporales-para-evitar-spam-y-otros-problemas). Y si usas el navegador Firefox, podrás tener este mismo servicio integrado en el propio navegador con solo la instalación del plugin [Relay firefox](https://relay.firefox.com). 
+    - Emails temporales: Si solo necesitas registrarte en una web para un recurso puntual, como por ejemplo descargarte un eBook, puedes utilizar [Temporay email](https://temp-mail.org/es/) o [TempMailo](https://tempmailo.com/) y no son los únicos servicios de este tipo, en el siguiente enlace tienes una lista más amplia de [servicios de correos temporales](https://www.genbeta.com/correo/7-servicios-de-email-temporales-para-evitar-spam-y-otros-problemas). Y si usas el navegador Firefox, podrás tener este mismo servicio integrado en el propio navegador con solo la instalación del plugin [Relay firefox](https://relay.firefox.com). 
     
     - Emails anónimos: Con [Secure email](https://www.secure-email.org/index.php) puedes enviar correos electrónicos y SMS anónimos, falsificar el número del remitente de SMS y muchos más.
     
