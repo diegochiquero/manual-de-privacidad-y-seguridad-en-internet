@@ -409,6 +409,8 @@ La suplantación de identidad no solo se lleva a cabo después de haberte robado
 
 A tener en cuenta también el hecho, que el uso de una acreditación física que no pertenece a su legítimo dueño, también está considerado una estafa. Un claro ejemplo es el uso que hace un tercero de una tarjeta de identificación robada, para obtener el acceso a un determinado departamento físico de una compañía o empresa. Esto es lo que se conoce como [Masquerating o suplantación de identidad física](https://moodle2019-20.ua.es/moodle/pluginfile.php/113537/mod_resource/content/8/tema/4masquerading_mascarada.html#:~:text=Consiste%20en%20suplantar%20la%20identidad,le%20pertenecen%20o%20en%20persona.).
 
+Existe otra suplantación de identidad llamada email spoofing y que resulta de recibir un correo electrónico al parecer enviado por una dirección de correo conocida, ya sea de un familiar, amigo, conocido, compañero de trabajo, etc. Tienes toda la información en el siguiente enlace del Incibe [Email spoofing: cuando el correo parece haber sido enviado por mí o alguien conocido](https://www.incibe.es/ciudadania/blog/email-spoofing-cuando-el-correo-parece-haber-sido-enviado-por-mi-o-alguien-conocido).
+
 Otra actividad relacionada con la usurpación de identidad es el Brushing. Este delito es el que realizan algunos vendedores de Internet, que envían paquetes con objetos muy pequeños a diferentes usuarios para hacerse pasar por ellos y después poder valorar sus propios productos. Aunque en cierto modo esto no te pone en un serio riesgo, conviene conocerlo por si te sucede saber que se trata de una suplantación de la identidad y que es aconsejable interponer una denuncia [@brushing].
 
 ## Ciberestafas en compras online y otros engaños
