@@ -300,6 +300,8 @@ Otra técnica muy parecida al Phishing e igualmente peligrosa es el Pharming y q
 También existe otra amenaza silimiar estas, conocida como Typosquatting, URL hijacking o fake URL. Está basada en los errores tipográficos cometidos por usuarios de internet cuando introducen la dirección de un sitio web en un navegador. Cuando esto sucede la dirección puede llevarlos a un sitio alternativo propiedad de un cybersquatter [@WIKI-typosquatting].
 
 - Ejemplo: https://wikiepdia.org 
+
+Una técnica más reciente de phishing es el "Browser-in-the-browser" en la cual un ciberdelincuente o phisher simula una página de un servicio online para así introducir en esta una ventana emergente de inicio de sesión única, haciendo que el usuario crea que es una ventana de inicio de sesión legítima, como las que ya estamos acostumbrados a ver en muchas webs legítimas, e introduzca así sus credenciales. Más información en el siguiente enlace [Browser-in-the-Browser: una nueva técnica de phishing casi indetectable](https://www.incibe.es/ciudadania/blog/browser-browser-una-nueva-tecnica-de-phishing-casi-indetectable).
     
 ## Vishing
 
