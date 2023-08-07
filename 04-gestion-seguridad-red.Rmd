@@ -311,6 +311,9 @@ Sus principales amenazas son:
 
 - Transmisión de datos sin cifrar: lee datos como el nombre, apellidos, el número de la tarjeta y, en algunos casos, las transacciones realizadas.
 
-El riesgo al que te expones si tienes este servicio activado es que el dispositivo de un tercero acabe sincronizándose con el tuyo, con los riesgos expuestos. Para evitarlo, una vez hayas terminado de usarlo, desactívalo.
+- Copia de datos bancarios: con el empleo  de Lectores con comunicación inalámbrica NFC.
+
+El riesgo al que te expones si tienes este servicio activado es que el dispositivo de un tercero acabe sincronizándose con el tuyo, con los riesgos expuestos. Para evitarlo, una vez hayas terminado de usarlo, desactívalo. Otra opción es llevar un protector antirobo de tarjetas.
+
 
 
