@@ -122,7 +122,7 @@ Una práctica muy recomendable a la hora de hacer copias de seguridad es seguir 
 
 - Mantener la información en 2 tipos de almacenamiento distintos, por ejemplo, en un disco duro y en la nube.
 
-- Mantener 1 copia de seguridad fuera de nuestra casa.
+- Mantener 1 copia de seguridad en un lugar diferente a los demás.
 
 Las copias de seguridad no son solo exclusivas de los PCs o portátiles, sino que también debes contemplarlas en tus dispositivos móviles. Android pone a tu disposición el recurso de cómo [crear copias de seguridad o restaurar datos de un dispositivo Android](https://support.google.com/android/answer/2819582?hl=es&visit_id=637514255756661953-3969236140&rd=1) y Apple el de [cómo hacer una copia de seguridad del iPhone, iPad y iPod touch](https://support.apple.com/es-es/HT203977).
 
