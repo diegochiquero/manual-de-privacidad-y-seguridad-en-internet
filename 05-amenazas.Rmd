@@ -667,6 +667,22 @@ Prácticamente todo el mundo en algún momento se ha quedado sin carga en alguno
 
 En la siguiente entrada del Incibe te cuentan cómo un puerto de carga público puede ser un vector de contagio de malware [¡SOS, batería baja! Cuidado con dónde cargas tu dispositivo](https://www.incibe.es/empresas/blog/sos-bateria-baja-cuidado-con-donde-cargas-tu-dispositivo).
 
+Para evitar ser víctima de este ciberataque puedes:
+
+- Llevar batería portátil. 
+
+- Existe un dispositivo llamado juice jack defender actúa como escudo bloqueando la transmisión de datos.
+
+Además los cargadores públicos pueden estar en mal estado con voltajes no adecuados por el mal uso de los usuarios y provocar avería de forma física el dispositivo. 
+ 
+De verte en la necesidad de hacer uso de ellos:
+
+- No hagas uso del dispositivo mientras realiza la carga.
+
+- Mantén la pantalla bloqueada para minimizar la transmisión de datos.
+
+- No aceptar peticiones de conexión con el dispositivo.
+
 La vía de contagio de esta ciberamenaza queda evidente en lo anteriormente expuesto, por lo que intenta evitar en la medida de lo posible usar cargadores públicos.
 
 ## Sustracción o perdida de tu dispositivo
