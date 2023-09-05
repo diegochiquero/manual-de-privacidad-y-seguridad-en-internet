@@ -112,7 +112,7 @@ Cuál es tu compromiso como padre, madre o tutor:
 
 - Disponer de antivirus.
 
-- Conocer el código PEGI (Pan European Game Information) que regula los juegos, donde se estipulan si son de carácter individual o colectivo, de estrategias, deportivos, shooting, aventura, la edad adecuada de consumo, etc.
+- Conocer el código [PEGI](https://pegi.info/es) (Pan European Game Information) que regula los juegos, donde se estipulan si son de carácter individual o colectivo, de estrategias, deportivos, shooting, aventura, la edad adecuada de consumo, etc.
 
 Para ampliar la información dispones de dos exhaustivas guías de la Junta de Andalucia [Guía de formación TIC para padres y madres de menores de 3 a 11 años](https://www.andaluciaesdigital.es/documents/20182/28716/Educar+para+Proteger+-+Guía+resumida+de+formación+TIC+para+padres+y+madres+de+niños+de+3+a+11+años.pdf) y [Guía de formación TIC para adolescentes](https://www.juntadeandalucia.es/educacion/portalaverroes/documents/10306/1673096/Educar_para_proteger_Guia_Adolescentes.pdf).
 
