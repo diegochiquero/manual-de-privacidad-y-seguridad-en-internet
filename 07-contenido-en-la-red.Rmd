@@ -92,6 +92,9 @@ En la plataforma Maldita, una de las actividades que realizan son la de desenmas
 knitr::include_graphics("images/deepfake.jpg")
 ```
 
+Una ciberestafa basada en la deepfake es la de la suplantación de un personaje público con el fin de ir creando un ambiente de confianza para finalmente pedir dinero. Si quieres más detalles sobre este fraude online lee el siguiente artículo del Incibe [Intento de fraude amoroso utilizando técnicas de deepfake para suplantar a un personaje público
+](https://www.incibe.es/linea-de-ayuda-en-ciberseguridad/casos-reales/intento-de-fraude-amoroso-utilizando-tecnicas-de-deepfake-para-suplantar-un-personaje-publico).
+
 ## Deep web
 
 El tema de la Deep Web es quizá un tema polémico y estigmatizado, pero al tratarse de una pieza más en este inmenso puzle que es internet, es de recibo conocer al menos de que trata esto de la Web Profunda (Deep Web).
