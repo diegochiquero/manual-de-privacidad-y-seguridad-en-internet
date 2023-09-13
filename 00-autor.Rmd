@@ -1,7 +1,7 @@
 # Sobre el autor {#autor .unnumbered}
 
 ```{r echo=FALSE, out.width='25%', fig.align='left'}
-knitr::include_graphics('images/diego-chiquero-2020-profile.jpg')
+knitr::include_graphics('images/diego-chiquero-2023-profile.png')
 ```
 
 Hola, mi nombre en Diego.
