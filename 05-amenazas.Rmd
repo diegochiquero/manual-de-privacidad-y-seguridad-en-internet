@@ -425,6 +425,8 @@ Otra actividad relacionada con la usurpación de identidad es el Brushing. Este 
 
 Llegados hasta aquí, recordarte que todas las precauciones que se detallan en este manual en el apartado de Compras y transacciones de la unidad de Gestión de la seguridad en la red, son altamente recomendables en este punto. Además de ser fuertemente aconsejable seguir todas esas indicaciones, también se trata de tener en cuenta el conjunto de requisitos que veras a continuación, ya que cada uno de ellos por independiente te va a garantizar una capa más de seguridad y te irán indicando si puede o no puede ser una estafa.
 
+Según una publicación de Newtral (plataforma web de periodismo digital) [las estafas por internet representan más del 80% de los ciberdelitos](https://www.newtral.es/estafas-internet-ciberdelitos/20210806/). Más concretamente la fuente es arrojada por el Sistema Estadístico de Criminalidad (SEC), gestionado desde el Ministerio del Interior, y que declara que el total de ciberdelitos denunciados en 2019 un 88% corresponden a fraudes online. Léela pinchando en el enlace.
+
 Decálogo de requisitos a comprobar a la hora de comprar en una tienda online:
 
 - Formato seguro de URL: Https con su correspondiente candado. Aunque como has podido ver en el apartado de Protocolo https, los ciberdelincuentes también tienen acceso a este protocolo, por lo que no es seguro al 100%.
