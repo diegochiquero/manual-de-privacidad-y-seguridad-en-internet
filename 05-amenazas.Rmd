@@ -407,7 +407,7 @@ En caso de ser víctima de esta amenaza debes tener en cuenta lo siguiente:
 
 En la [Oficina de seguridad del internauta](https://www.osi.es/es) tienes una publicación que se llama [¡Me han secuestrado mi cuenta!](https://www.osi.es/es/actualidad/historias-reales/2021/03/05/me-han-secuestrado-mi-cuenta) de una historia real donde puedes ver cómo gestionar este tipo de ataques.
 
-Esta estafa que se detalla a continuación quizá no sea una usurpación o robo de identidad en sí misma, pero sí que deberíamos tenerla presente y se trata del potencial riesgo que conlleva contestar una llamada con un simple "sí", que los ciberdelicuentes pueden grabar y utilizar posteriormente con diferentes fines, como por ejemplo, para autorizar transacciones financieras o firmar contratos en tu nombre sin tu consentimiento o como prueba de que has aceptado comprar productos o servicios costosos sin que tú lo sepas y otra más que puedes ver el siguiente enlace [El Peligro Oculto del «¿Sí?» al Teléfono](https://cybersecuritynews.es/el-peligro-oculto-del-si-al-telefono/)
+Esta estafa que se detalla a continuación quizá no sea una usurpación o robo de identidad en sí misma, pero sí que deberíamos tenerla presente y se trata del potencial riesgo que conlleva contestar una llamada con un simple "sí", que los ciberdelicuentes pueden grabar y utilizar posteriormente con diferentes fines, como por ejemplo, para autorizar transacciones financieras o firmar contratos en tu nombre sin tu consentimiento o como prueba de que has aceptado comprar productos o servicios costosos sin que tú lo sepas. Para más detalles puedes ver el siguiente enlace [Cómo evitar ser víctima del fraude del sí y la suscripción a servicios premium](https://www.incibe.es/linea-de-ayuda-en-ciberseguridad/casos-reales/como-evitar-ser-victima-del-fraude-del-si-y-la-suscripcion-servicios-premium)
 
 ## Suplantación de identidad o Spoofing  
 
@@ -638,6 +638,8 @@ El doxing (a veces escrito como doxxing) consiste en revelar información identi
 Para llevar a cabo el baiting los ciberdelincuentes suelen utilizar dispositivos de almacenamiento extraíbles, normalmente memorias USB o incluso CDs y DVDs infectados con un software malicioso para posteriormente dejarlos en un lugar en el cual sea fácil de encontrar por la víctima como por ejemplo, baños públicos, ascensores, aceras, etc. Cuando la víctima encuentre dicho dispositivo y lo introduzca en su ordenador, el software malicioso se ejecutará de manera inadvertida y posibilitará que el hacker pueda acceder a los datos del usuario o usuaria [@baiting].
 
 La vía de contagio como te habrás podido dar cuenta queda implícita.
+
+Si quieres saber cómo minimizar el riesgo por contagio a través de USBs lee el siguiente artículo [Cómo conectar con seguridad un pendrive que puede tener virus](https://www.redeszone.net/tutoriales/seguridad/que-hacer-pendrive-virus/).
 
 ## Clickjacking
 
