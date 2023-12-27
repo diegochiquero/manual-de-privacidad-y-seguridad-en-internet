@@ -169,3 +169,5 @@ En otras líneas de actuación con el propósito de velar por la ciudadanía en 
 - [Grupo de Delitos Telemáticos de la Guardia Civil (GDT)](https://www.gdt.guardiacivil.es/webgdt/home_alerta.php).
 
 Y en esta última, es donde debes interponer una denuncia en caso de ser víctima de algunos de los ciberdelitos que has podido ver en las unidades anteriores, accediendo desdes este enlace [denuncia electrónica](https://www.guardiacivil.es/es/servicios/denuncias/denuncia_electronica/index.html).
+
+Además, es importante que puedas adjuntar la denuncia con pruebas, para ello, toma capturas de pantallas o cualquier prueba que pudiese ser relevante. Ten en cuenta, que si se trata de una prueba que pueda ser borrada por la persona que ha realizado el delito, necesitarás un testigo online o garante. Se trata de una entidad que certifica que ese delito fue cometido aun cuando ya no esté disponible en la red. En el siguiente enlace tienes una es estas entidades [eGarante - testigo online](https://www.egarante.com/)
