@@ -115,7 +115,7 @@ Por otro lado si eres de las personas que te gusta tener todo bajo control puede
 
 Si quieres, también puedes usar un generador de contraseñas fuertes como el que te ofrece [F-secure](https://www.f-secure.com/en/home/free-tools/password-generator) o [Pinetools](https://pinetools.com/es/generador-contrasenas).
 
-Y por último, si tuviésemos que simplificar parte de lo anterior en tres puntos a tener siempre presente en la creación de contraseñas sería de la siguiente manera:
+A modo de conclución, si tuviésemos que simplificar parte de lo anterior en tres puntos a tener siempre presente en la creación de contraseñas sería de la siguiente manera:
 
 - Deben ser secretas: por lo que no deben compartirse absolutamente con nadie.
 
@@ -123,6 +123,7 @@ Y por último, si tuviésemos que simplificar parte de lo anterior en tres punto
 
 - Deben ser únicas: se deben utilizar contraseñas distintas en diversos sitios, por ejemplo la contraseña de usuario debería ser distinta de la del correo electrónico.
 
+Y por último, si quieres conocer los 5 métodos más usados por los ciberdelincuentes para el robo de contraseñas échale un ojo la al siguiente enlace [Cómo hacen los hackers para robar la contraseña: los 5 métodos más usados](https://www.lavanguardia.com/andro4all/tecnologia/como-hacen-los-hackers-para-robar-la-contrasena-los-5-metodos-mas-usados)
 
 ## Protocolo https
 
