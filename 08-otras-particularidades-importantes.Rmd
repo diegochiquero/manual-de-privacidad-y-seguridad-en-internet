@@ -167,7 +167,7 @@ Aparte de todo lo visto en el manual existen muchas otras herramientas para ayud
 
 ## Eventos internacionales 
 
-Durante el año, países e instituciones como la Comisión europea promueven iniciativas entorno al ecosistema tecnológico. Son organizadas a nivel internacional y donde pueden llegar a participar hasta más de 100 países. En la siguiente lista se muestran las de más repercusión mediática::
+Durante el año, países e instituciones como la Comisión europea promueven iniciativas entorno al ecosistema tecnológico. Son organizadas a nivel internacional y donde pueden llegar a participar hasta más de 100 países. En la siguiente lista se muestran las de más repercusión mediática:
 
 - [Día de Internet](https://es.wikipedia.org/wiki/Día_de_Internet) (17 de mayo).
 
