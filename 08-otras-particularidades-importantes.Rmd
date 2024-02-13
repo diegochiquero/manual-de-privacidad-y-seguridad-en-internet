@@ -165,6 +165,20 @@ Aparte de todo lo visto en el manual existen muchas otras herramientas para ayud
 - Testigos online: Los [testigos online](https://www.osi.es/es/actualidad/blog/2022/01/26/testigos-online-y-obtencion-de-pruebas-te-explicamos-su-utilidad) te permiten certificar evidencias digitales en una fecha y hora determinada, o lo que es lo mismo, el contenido de una web concreta en un momento determinado, o el envío de un correo electrónico a una persona específica. 
 
 
+## Ataques en tiempo real 
+
+En los siguientes enlaces tienes diferentes servicios en los que puedes ver en tiempo real los ataques a nivel global:
+
+- [Threatmap checkpoint](https://threatmap.checkpoint.com/)
+
+- [Cybermap kaspersky](https://cybermap.kaspersky.com/es)
+
+- [Threatmap bitdefender](https://threatmap.bitdefender.com/)
+
+- [Live threat map](https://livethreatmap.radware.com/)
+
+- [Threatmap fortiguard](https://threatmap.fortiguard.com/)
+
 ## Eventos internacionales 
 
 Durante el año, países e instituciones como la Comisión europea promueven iniciativas entorno al ecosistema tecnológico. Son organizadas a nivel internacional y donde pueden llegar a participar hasta más de 100 países. En la siguiente lista se muestran las de más repercusión mediática:
