@@ -60,6 +60,8 @@ Para establecer una capa más de seguridad puedes realizar un [filtrado MAC](htt
 
 Es igualmente importante que cambies la clave que el router trae por defecto. Este enlace te llevará a un [generador de claves Wi-Fi](https://bandaancha.eu/generador-claves-wifi) donde podrás crear de forma automática una clave Wi-Fi segura y robusta. 
 
+De igual modo cambia la contraseña de acceso al router, para que solo tú puedas acceder a su configuración.
+
 También es una buena práctica cambiar el nombre que la Wi-Fi trae por defecto, esto despistará a aquellos que puedan tener una lista de claves de acceso de las diferentes operadoras que existen en el mercado.
 
 Otro aspecto a tener en cuenta es deshabilitar la opción [WPS](https://es.wikipedia.org/wiki/Wi-Fi_Protected_Setup) (Wifi Protected Setup) en el router. Esta función te permite conectar el ordenador o dispositivo a la Wi-Fi del router sin tener que escribir la contraseña cuando eliges tu red Wi-Fi desde el dispositivo. Se trata de un botón físico que traen algunos router y que al pulsarlo conecta el dispositivo de forma automática. Esta funcionalidad es muy práctica, pero conlleva el riesgo de que cuando pulsas este botón estás abriendo la Wi-Fi, lo que significa que inhabilitas todas las medidas de seguridad que tengas configuradas para la conexión. Si decides deshabilitarla puedes hacerlo desde la configuración de tu router y normalmente vas a encontrarlo en los apartados Wireless o Network de la interfaz web [@XATAKA-wps]. 
