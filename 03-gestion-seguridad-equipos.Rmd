@@ -68,7 +68,7 @@ Otro aspecto a tener en cuenta es deshabilitar la opción [WPS](https://es.wikip
 
 Para realizar cualquiera de las configuraciones propuestas en este apartado va a necesitar acceder a la interfaz de tu router y para ello, necesitarás saber la dirección IP de acceso. Esta te será facilitada por tu operador. 
 
-Si quieres una buena guía para conocer a fondo los entresijos del router pasate por [tu router tu castillo](https://www.osi.es/sites/default/files/docs/guia_router/osi-guia-tu-router-tu-castillo.pdf).
+Visita el siguiente enlace para conocer las [principales configuraciones del router](https://www.incibe.es/ciudadania/formacion/infografias/principales-configuraciones-del-router).
 
 ## Actualizaciones
 
