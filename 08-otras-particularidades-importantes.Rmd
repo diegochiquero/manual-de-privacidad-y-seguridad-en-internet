@@ -152,7 +152,7 @@ Aparte de todo lo visto en el manual existen muchas otras herramientas para ayud
 
 - Comprobar y mejorar tu privacidad y seguridad en internet: [Lista de verificación de seguridad](https://securitycheckli.st/). Esta web esta en inglés, pero abarca un amplio espectro de herramientas y recursos diseñados para mejorar tu privacidad, seguridad y protección online y siempre dispones del traductor en línea de Google.
 
-- Eliminar cuentas en Redes Sociales: [Justdeleteme](https://backgroundchecks.org/justdeleteme/) es una plataforma donde te facilitan los enlaces para eliminar tus cuentas de los servicios webs que ya no desees seguir usando. 
+- Eliminar cuentas en Redes Sociales: [Justdeleteme](https://justdeleteme.xyz/) es una plataforma donde te facilitan los enlaces para eliminar tus cuentas de los servicios webs que ya no desees seguir usando. 
  
 - Números de teléfono de usar y tirar: [Hushed](https://hushed.com) es un servicio premium pero de coste muy económico. Solo es cuestión de ver si te compensa. 
 
