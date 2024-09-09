@@ -77,6 +77,8 @@ Algunas reglas y ejemplos para que las contraseñas sean fáciles de recordar lo
 
 - [Consejos para crear contraseñas seguras](https://www.genbeta.com/seguridad/especial-contrasenas-seguras-consejos-para-mejorar-la-seguridad-de-tus-contrasenas)
 
+- [Cómo crear contraseñas con reglas mnemotécnicas](https://www.youtube.com/watch?v=dRSiu13_AUk)
+
 Otras recomendaciones que debes tener siempre presente son:
  
 - No las compartas con nadie.
