@@ -489,6 +489,8 @@ Algunos ejemplos de estafas son:
 
 - Solicitud de dinero por Bizum enmascarada como pago de un producto que estás vendiendo. Al finalizar la operación se está haciendo un pago en lugar de un cobro. Léelo aquí [Estafa Bizum](https://bizum.es/blog/estafa-bizum/).
 
+- Pago pendiente de tasas de matrícula de la universidad. Léelo aquí [Estafa matrícula](https://www.incibe.es/ciudadania/avisos/si-eres-universitario-no-caigas-en-este-engano-sobre-el-pago-de-tu-matricula)
+
 - Otras muchas y nuevas que van ingeniando.
 
 Las vías de entrada de las ciberestafas suelen llegar por medio:
