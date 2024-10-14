@@ -156,7 +156,7 @@ Para comprar por Internet debes tomar cuantas más precauciones mejor para evita
 
 - Busca valoraciones y opiniones: Para ello dispones de las reseñas de Google maps, así como también de plataformas como [Trust Pilot](https://es.trustpilot.com/), [Gowork](https://es.gowork.com/), [Esopiniones](https://esopiniones.com/), [Local guides connect](https://www.localguidesconnect.com/) o [TripAdvisor](https://www.tripadvisor.es/).
 
--  Utiliza plataformas que identifican webs fraudulentas como [Fakeinet](https://fakeinet.com/) o  [Desenmascarame](https://desenmascara.me/) que disponen de un listado de posibles tiendas falsas. 
+-  Utiliza plataformas que identifican webs fraudulentas como [Fakeinet](https://fakeinet.com/),  [Desenmascarame](https://desenmascara.me/) o [Dnstwist](https://dnstwist.it/) que disponen de un listado de posibles tiendas falsas. 
 
 - Usa plataformas que verifican si la web ha sido hackeada, como [Scamadviser](https://www.scamadviser.com/) o [Urlscan](https://urlscan.io/).
 
