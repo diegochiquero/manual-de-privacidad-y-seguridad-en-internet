@@ -467,7 +467,7 @@ Algunos ejemplos de estafas son:
 
 - Falsas ofertas de alquiler de pisos: Que te hacen pagar la fianza y luego desaparecen [@INCI-falsos-alquileres].
 
-- Novias o novios de orígenes exóticos: Embaucan para posteriormente pedir dinero [@INCI-novias-exoticas].
+- Novias o novios de orígenes exóticos: Embaucan para posteriormente pedir dinero [@INCI-novias-exoticas] o el también conocido [Catfishing: la estafa del amor](https://www.incibe.es/ciudadania/blog/catfishing-la-estafa-del-amor).
 
 - Falsos correos de sextorsión: Simulan que tienen fotos o vídeos comprometidos, cuando no es así [@INCI-correos-sextorsion].
 
@@ -573,7 +573,7 @@ El contagio de estos plugins maliciosos normalmente es a través de las Webs Sto
 
 - Utiliza preferiblemente aquellos plugins de referencia, con fama y garantía reconocidas.
 
-## SIM Swaping
+## SIM Swapping
 
 El SIM Swapping, es la técnica que usan últimamente los ladrones digitales que se basa en duplicar la tarjeta SIM del móvil de sus víctimas. Así, pueden acceder a toda su información personal y, sobre todo, pueden usarlas en la verificación a través de un SMS por medio del móvil que suelen pedir los bancos cuando se opera a través de Internet y algunas otras plataformas online.
 

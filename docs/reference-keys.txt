@@ -83,7 +83,7 @@ warshipping
 vulnerabilidades
 cryptojacking
 plugins-maliciosos
-sim-swaping
+sim-swapping
 shoulder-surfing-o-visual-hackins
 ciberacoso
 ciberextorsión
