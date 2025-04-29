@@ -631,6 +631,10 @@ La plataforma de antivirus Panda Security pone a tu disposición una [Guía de c
 
 Dentro de la ciberextorsión se encuentra lo que se conoce como sextorsión. Este ciberdelito es también una forma de extorsión en el plano digital, pero en este caso con contenido sexual. En la sextorsión la víctima es amenazada con la supuesta publicación y difusión de contenido sexual. 
 
+## Ciberchantaje
+
+El ciberchantaje es una forma de extorsión que se realiza a través de medios digitales. Consiste en que una persona (el chantajista) amenaza a otra con divulgar información sensible, comprometedora o falsa —o con causar algún tipo de daño digital— si no se cumplen sus exigencias, que suelen ser económicas, aunque también pueden ser de otro tipo (como obtener imágenes íntimas, acceso a cuentas, etc.).
+
 ## Sextorsión
 
 La sextorsión, o extorsión sexual, consiste en la amenaza de revelar información íntima sobre una víctima a no ser que esta pague al extorsionista. En esta era digital conectada, dicha información podría incluir mensajes de texto sexuales (en inglés conocidos como sexts), fotos íntimas e, incluso, vídeos. Los delincuentes suelen pedir dinero, pero a veces buscan material más comprometedor (envía más o divulgaremos tus secretos)[@KASPER-sextorsión].

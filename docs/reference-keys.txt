@@ -39,7 +39,7 @@ cifrado-o-encriptado-de-datos
 he-decidido-vender-o-donar-mi-dispositivo
 gestión-de-la-seguridad-en-equipos-físicos
 gestionar-la-seguridad-en-los-equipos
-cuenta-de-usuario-en-equipos-locales-y-dispositivos-móviles
+cuentas-de-usuario-en-equipos-locales-y-dispositivos-móviles
 router
 actualizaciones
 antivirus-antimalware-antispyware-y-firewall
@@ -87,6 +87,7 @@ sim-swapping
 shoulder-surfing-o-visual-hackins
 ciberacoso
 ciberextorsión
+ciberchantaje
 sextorsión
 doxing
 baiting
