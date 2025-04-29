@@ -6,7 +6,7 @@ Para poder tener la tranquilidad de que tus equipos tales, como el ordenador, la
 
 A lo largo de esta unidad veras que debes hacer y las precauciones que debes tomar para que tus equipos e información estén seguros y a salvo de ciberataques.
 
-## Equipo local y dispositivos móviles
+## Cuenta de usuario en equipos locales y dispositivos móviles
 
 Una cuenta de usuario es el conjunto de información perteneciente a un usuario concreto. De esta forma indica al sistema operativo los archivos y carpetas a los que dicho usuario tiene acceso, así como la posibilidad de realizar cambios y configuraciones personales [@OSI-cuentas].
 

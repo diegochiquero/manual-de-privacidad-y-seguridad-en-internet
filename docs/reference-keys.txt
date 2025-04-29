@@ -39,7 +39,7 @@ cifrado-o-encriptado-de-datos
 he-decidido-vender-o-donar-mi-dispositivo
 gestión-de-la-seguridad-en-equipos-físicos
 gestionar-la-seguridad-en-los-equipos
-equipo-local-y-dispositivos-móviles
+cuenta-de-usuario-en-equipos-locales-y-dispositivos-móviles
 router
 actualizaciones
 antivirus-antimalware-antispyware-y-firewall
