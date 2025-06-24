@@ -105,7 +105,7 @@ Si quieres una lista más exhaustiva de estas plataformas gestoras de contraseñ
 
 Para acabar con este apartado puedes comprobar la seguridad y robustez de tu contraseña, con los siguientes recursos online: 
 
-- [How Secure Is My Password](https://howsecureismypassword.net/)
+- [How Secure Is My Password](https://www.security.org/how-secure-is-my-password/)
 
 - [Password Check](https://password.kaspersky.com/) 
 
