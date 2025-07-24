@@ -138,6 +138,8 @@ La web "x" SOLO utiliza las siguientes COOKIES: Cookies de tipo comportamental p
 
 - Estrictamente necesarias: Las Cookies estrictamente necesarias le permiten navegar por la página web y usar sus funciones esenciales.
 
+Relacionado con las cookies también exite el ciberataque conocido como el secuestro de cookies que puedes leer en este artículo [¿Qué es el secuestro de cookies de sesión y cómo puede afectarte?](https://www.incibe.es/ciudadania/blog/que-es-el-secuestro-de-cookies-de-sesion-y-como-puede-afectarte)
+
 ## Permisos cámara, micrófono y localización.
 
 Una práctica muy saludable en el uso de la cámara o webCam e incluso el micrófono, es tenerla tapada cuando no la estés usando y si no fíjate en la foto que se muestra a continuación  que le tomaron a Mark Zuckerberg.

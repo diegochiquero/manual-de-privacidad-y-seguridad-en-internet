@@ -459,7 +459,7 @@ Las estafas online no solo te las vas a encontrar en la compra de productos o se
 
 Algunos ejemplos de estafas son:
 
-- Timo Nigeriano: Lotería, viuda, enfermo terminal, herencias, etc [@WIKI-timo-nigeriano].
+- Timo Nigeriano: Lotería, viuda, enfermo terminal, [herencias](https://www.incibe.es/ciudadania/blog/sabias-que-el-95-de-las-incidencias-en-ciberseguridad-se-deben-errores), etc [@WIKI-timo-nigeriano].
 
 - Falsas ofertas de empleo: Ofertas de empleo bajo pago previo en concepto de gastos de gestión o materiales de estudio. O llamadas a teléfonos de tarificación especial que comienzan por un 803 u 806 [@INCI-falsas-ofertas-empleo].
 
